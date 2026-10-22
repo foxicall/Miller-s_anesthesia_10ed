@@ -1,0 +1,794 @@
+{
+  "updated_at": "2026-10-22T04:36:40.605226+00:00",
+  "model": "gemini-2.5-flash",
+  "generated": 0,
+  "expected": 87,
+  "review_status": "automated_source_checks_only",
+  "build_status": "blocked_missing_gemini_key",
+  "word_count_definition": "摘要內中文字數 + 英文單字及數值詞數；不計原文、標題及頁碼引用。",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title": "現代麻醉學實務與範疇",
+      "status": "blocked_missing_gemini_key",
+      "word_count": 0,
+      "chinese_characters": 0,
+      "source_sha256": "fb46b251a76c2944f401f0e0b21b6fae998e2331a05dedba9cf2c6b30046f7cc",
+      "source_has_replacement_characters": false
+    },
+    {
+      "chapter": 2,
+      "title": "麻醉與全球健康平等",
+      "status": "blocked_missing_gemini_key",
+      "word_count": 0,
+      "chinese_characters": 0,
+      "source_sha256": "dee95d1245687f4095401ceedca7eb381e5ea089011a9148a132910b27d761ec",
+      "source_has_replacement_characters": false
+    },
+    {
+      "chapter": 3,
+      "title": "圍手術期醫學",
+      "status": "blocked_missing_gemini_key",
+      "word_count": 0,
+      "chinese_characters": 0,
+      "source_sha256": "deb6088e97d628d68e068f61a3b612d51aa51dce067c506101c1a8ab067e1673",
+      "source_has_replacement_characters": false
+    },
+    {
+      "chapter": 4,
+      "title": "圍手術期醫學資訊學",
+      "status": "blocked_missing_gemini_key",
+      "word_count": 0,
+      "chinese_characters": 0,
+      "source_sha256": "1307a48a67d82fe13bdcbe847d6b7fa2c12cc58374269ef1e55b75324f53956d",
+      "source_has_replacement_characters": false
+    },
+    {
+      "chapter": 5,
+      "title": "麻醉品質改善與病人安全",
+      "status": "blocked_missing_gemini_key",
+      "word_count": 0,
+      "chinese_characters": 0,
+      "source_sha256": "2468b24681fdd0a048739d413fdc51ff5b57db91be0cacda8731953db4aa9180",
+      "source_has_replacement_characters": false
+    },
+    {
+      "chapter": 6,
+      "title": "麻醉中的人類行為與模擬訓練",
+      "status": "blocked_missing_gemini_key",
+      "word_count": 0,
+      "chinese_characters": 0,
+      "source_sha256": "7d57ab5b94421abd919ce9175bc79feaf9ebd17e0536214d2566ca63c0c04215",
+      "source_has_replacement_characters": false
+    },
+    {
+      "chapter": 7,
+      "title": "麻醉照護的倫理議題",
+      "status": "blocked_missing_gemini_key",
+      "word_count": 0,
+      "chinese_characters": 0,
+      "source_sha256": "6662d7effb74d8006a9f80df367a8f93fa0f37f1d54f596d45d27a5a83996334",
+      "source_has_replacement_characters": false
+    },
+    {
+      "chapter": 8,
+      "title": "意識、記憶與麻醉",
+      "status": "blocked_missing_gemini_key",
+      "word_count": 0,
+      "chinese_characters": 0,
+      "source_sha256": "e4df5dde6b79e5e377234e6876915de5272e538e8414569f2c654e3fe1dc48b8",
+      "source_has_replacement_characters": false
+    },
+    {
+      "chapter": 9,
+      "title": "睡眠醫學",
+      "status": "blocked_missing_gemini_key",
+      "word_count": 0,
+      "chinese_characters": 0,
+      "source_sha256": "c76eb2e047f8cbfb12fcaad6605b973a0c1b1f6885c513f54f347ddaf31dd7fd",
+      "source_has_replacement_characters": false
+    },
+    {
+      "chapter": 10,
+      "title": "腦部生理與麻醉藥物的影響",
+      "status": "blocked_missing_gemini_key",
+      "word_count": 0,
+      "chinese_characters": 0,
+      "source_sha256": "23c5b135d832eac2d0e5325c418ff009ca56fb444f8f7803f9de2875662cb740",
+      "source_has_replacement_characters": false
+    },
+    {
+      "chapter": 11,
+      "title": "神經肌肉生理與藥理學",
+      "status": "blocked_missing_gemini_key",
+      "word_count": 0,
+      "chinese_characters": 0,
+      "source_sha256": "34aff95f29f0a57f0267ef9a4a147e20deec93a2dfa001703d0c248fec60a152",
+      "source_has_replacement_characters": true
+    },
+    {
+      "chapter": 12,
+      "title": "呼吸生理與病理生理",
+      "status": "blocked_missing_gemini_key",
+      "word_count": 0,
+      "chinese_characters": 0,
+      "source_sha256": "085e9e81d6fc7e1f37e417e2a16558a0929a8b1b57f66389bfeb442f0280934f",
+      "source_has_replacement_characters": true
+    },
+    {
+      "chapter": 13,
+      "title": "心臟生理學",
+      "status": "blocked_missing_gemini_key",
+      "word_count": 0,
+      "chinese_characters": 0,
+      "source_sha256": "7b22979e92b66e642798153b04ae33dbb93e76bb7b1374d106b4e4a47f665e16",
+      "source_has_replacement_characters": true
+    },
+    {
+      "chapter": 14,
+      "title": "腸胃道與肝臟生理、病理生理及麻醉考量",
+      "status": "blocked_missing_gemini_key",
+      "word_count": 0,
+      "chinese_characters": 0,
+      "source_sha256": "3fe7c0ca69047f3a51e7dc948fa80d295faa89c092646ecf4f9dc8a22f662780",
+      "source_has_replacement_characters": false
+    },
+    {
+      "chapter": 15,
+      "title": "腎臟解剖、生理、藥理與功能評估",
+      "status": "blocked_missing_gemini_key",
+      "word_count": 0,
+      "chinese_characters": 0,
+      "source_sha256": "9c22a0c3313e283b3a0b5b5a000e488ccec7ebc9f48144b83549f24a5cd34198",
+      "source_has_replacement_characters": true
+    },
+    {
+      "chapter": 16,
+      "title": "藥理學基本原理",
+      "status": "blocked_missing_gemini_key",
+      "word_count": 0,
+      "chinese_characters": 0,
+      "source_sha256": "5e25d4c7f0a5f19f857175bf7d20ca81695ad2e1a9a0612f876c7bf3e81a141d",
+      "source_has_replacement_characters": true
+    },
+    {
+      "chapter": 17,
+      "title": "吸入性麻醉藥的作用機轉",
+      "status": "blocked_missing_gemini_key",
+      "word_count": 0,
+      "chinese_characters": 0,
+      "source_sha256": "a8da07b425a4f40872cbc78127a1242027aeb9c036408a92182f3d09559fbde6",
+      "source_has_replacement_characters": true
+    },
+    {
+      "chapter": 18,
+      "title": "吸入性麻醉藥的攝取、分布、代謝與毒性",
+      "status": "blocked_missing_gemini_key",
+      "word_count": 0,
+      "chinese_characters": 0,
+      "source_sha256": "4382d2ebe48a91f6db4b15fe1ab5c715dd86c0c148641271eec6510f6ba027d0",
+      "source_has_replacement_characters": false
+    },
+    {
+      "chapter": 19,
+      "title": "吸入性麻醉藥的肺臟藥理學",
+      "status": "blocked_missing_gemini_key",
+      "word_count": 0,
+      "chinese_characters": 0,
+      "source_sha256": "f3a93de3eee14d817c7d62bb046a49015e79a98909419fdce292d7250ae332fd",
+      "source_has_replacement_characters": false
+    },
+    {
+      "chapter": 20,
+      "title": "吸入性麻醉藥輸送系統",
+      "status": "blocked_missing_gemini_key",
+      "word_count": 0,
+      "chinese_characters": 0,
+      "source_sha256": "2f0d321ffe5e526a391f563eefd44b89bd172ef54946ac1a18c60403c887bcc5",
+      "source_has_replacement_characters": false
+    },
+    {
+      "chapter": 21,
+      "title": "靜脈麻醉藥",
+      "status": "blocked_missing_gemini_key",
+      "word_count": 0,
+      "chinese_characters": 0,
+      "source_sha256": "14811b2405239b3e570759fd7ee8bfa8ad6f9ee8ad8697024d146fe5bb22ce33",
+      "source_has_replacement_characters": false
+    },
+    {
+      "chapter": 22,
+      "title": "鴉片類藥物",
+      "status": "blocked_missing_gemini_key",
+      "word_count": 0,
+      "chinese_characters": 0,
+      "source_sha256": "c5ff8c12a25406dd4d30c50afae8ee965eefcadc189af44f63cc6d5c9e82ed10",
+      "source_has_replacement_characters": false
+    },
+    {
+      "chapter": 23,
+      "title": "靜脈藥物輸注系統",
+      "status": "blocked_missing_gemini_key",
+      "word_count": 0,
+      "chinese_characters": 0,
+      "source_sha256": "03533b14ffaeb0be0b1ea559f1a19d22b3bee409164a8b395e071001877fd32b",
+      "source_has_replacement_characters": true
+    },
+    {
+      "chapter": 24,
+      "title": "神經肌肉阻斷劑與拮抗劑藥理學",
+      "status": "blocked_missing_gemini_key",
+      "word_count": 0,
+      "chinese_characters": 0,
+      "source_sha256": "badca2383c6e8367e179723e1612a7473b4784be89df0c7358dd887e7830c7a7",
+      "source_has_replacement_characters": true
+    },
+    {
+      "chapter": 25,
+      "title": "局部麻醉藥",
+      "status": "blocked_missing_gemini_key",
+      "word_count": 0,
+      "chinese_characters": 0,
+      "source_sha256": "11fb749668e1250e86281b4c630faaef7f4aab7dc6d6d37682ea468148e05d7b",
+      "source_has_replacement_characters": true
+    },
+    {
+      "chapter": 26,
+      "title": "麻醉照護對免疫功能的影響",
+      "status": "blocked_missing_gemini_key",
+      "word_count": 0,
+      "chinese_characters": 0,
+      "source_sha256": "9568670a7b6439c507b911365d1dee9372b7598c6fc5e34c5c5a4e7d179f3a4b",
+      "source_has_replacement_characters": false
+    },
+    {
+      "chapter": 27,
+      "title": "麻醉風險",
+      "status": "blocked_missing_gemini_key",
+      "word_count": 0,
+      "chinese_characters": 0,
+      "source_sha256": "43abc7f1502949c65b3d159bd52970776fbc9450388853746cc554d2261c3056",
+      "source_has_replacement_characters": false
+    },
+    {
+      "chapter": 28,
+      "title": "術前評估",
+      "status": "blocked_missing_gemini_key",
+      "word_count": 0,
+      "chinese_characters": 0,
+      "source_sha256": "bc45cdd925966211c492f713806fddf405a9f9bd1e2f1f5c4ec3b4f3daee01d3",
+      "source_has_replacement_characters": false
+    },
+    {
+      "chapter": 29,
+      "title": "共存疾病的麻醉考量",
+      "status": "blocked_missing_gemini_key",
+      "word_count": 0,
+      "chinese_characters": 0,
+      "source_sha256": "5e9c1f1e6ff46165d204bf989d1a5ef1835789a6f8a397cc9d2ed787ee134c52",
+      "source_has_replacement_characters": false
+    },
+    {
+      "chapter": 30,
+      "title": "病人擺位與相關風險",
+      "status": "blocked_missing_gemini_key",
+      "word_count": 0,
+      "chinese_characters": 0,
+      "source_sha256": "2e2c87af751bfa7cea437d8219a15c49d289e58454d2749f8103b75761317c1e",
+      "source_has_replacement_characters": false
+    },
+    {
+      "chapter": 31,
+      "title": "神經肌肉疾病與其他遺傳性疾病",
+      "status": "blocked_missing_gemini_key",
+      "word_count": 0,
+      "chinese_characters": 0,
+      "source_sha256": "81e3dd1669dda92da5c8be5c66cf019f91050efb7269e85a08e1e40198772a72",
+      "source_has_replacement_characters": true
+    },
+    {
+      "chapter": 32,
+      "title": "心血管監測",
+      "status": "blocked_missing_gemini_key",
+      "word_count": 0,
+      "chinese_characters": 0,
+      "source_sha256": "13c4378e997538c07b80057188ac1f8a5418f60b84e93b712b97394fc52c0ff2",
+      "source_has_replacement_characters": false
+    },
+    {
+      "chapter": 33,
+      "title": "圍手術期心臟超音波與即時照護超音波",
+      "status": "blocked_missing_gemini_key",
+      "word_count": 0,
+      "chinese_characters": 0,
+      "source_sha256": "43bcc050876f3e1d15c9e26a9be511b0c6073078cc1ba5547bfa712d7c46442c",
+      "source_has_replacement_characters": false
+    },
+    {
+      "chapter": 34,
+      "title": "心律調節器與植入式心臟去顫器",
+      "status": "blocked_missing_gemini_key",
+      "word_count": 0,
+      "chinese_characters": 0,
+      "source_sha256": "ebeff1c2e26336b1e661cb027ff839e21ce222907b3fe38ac5556504cebaaf4f",
+      "source_has_replacement_characters": true
+    },
+    {
+      "chapter": 35,
+      "title": "神經生理監測",
+      "status": "blocked_missing_gemini_key",
+      "word_count": 0,
+      "chinese_characters": 0,
+      "source_sha256": "5f8f3e67e8467ba1a119790ca705bced6717f5b75594571397d071326a611ddb",
+      "source_has_replacement_characters": true
+    },
+    {
+      "chapter": 36,
+      "title": "麻醉與手術期間的腦功能監測",
+      "status": "blocked_missing_gemini_key",
+      "word_count": 0,
+      "chinese_characters": 0,
+      "source_sha256": "43829591b83f35a3179efe9860229d36eb3a69fa9f5c54bb63554884b657e7a8",
+      "source_has_replacement_characters": false
+    },
+    {
+      "chapter": 37,
+      "title": "呼吸監測",
+      "status": "blocked_missing_gemini_key",
+      "word_count": 0,
+      "chinese_characters": 0,
+      "source_sha256": "d0ffa6f03e4338235506c2ade153fb6393912ca8ec7a41cd863946d3cdaef1ac",
+      "source_has_replacement_characters": true
+    },
+    {
+      "chapter": 38,
+      "title": "圍手術期腎缺血與腎毒性損傷",
+      "status": "blocked_missing_gemini_key",
+      "word_count": 0,
+      "chinese_characters": 0,
+      "source_sha256": "6d5de2e5c724e5bd996090a5e16549a8feccd147151c0708da150cee7eb5a304",
+      "source_has_replacement_characters": false
+    },
+    {
+      "chapter": 39,
+      "title": "神經肌肉監測",
+      "status": "blocked_missing_gemini_key",
+      "word_count": 0,
+      "chinese_characters": 0,
+      "source_sha256": "97f1f9b039ce0f11f6bd7a56b4a97386bc5d7251cc45dbfdf44107da136a0dbe",
+      "source_has_replacement_characters": true
+    },
+    {
+      "chapter": 40,
+      "title": "成人氣道管理",
+      "status": "blocked_missing_gemini_key",
+      "word_count": 0,
+      "chinese_characters": 0,
+      "source_sha256": "31f68d90d7ad072fa6f2a1a0dd0e9939d446f6aa246ef97e6bdf71aca38cac78",
+      "source_has_replacement_characters": false
+    },
+    {
+      "chapter": 41,
+      "title": "脊髓、硬膜外與薦椎麻醉",
+      "status": "blocked_missing_gemini_key",
+      "word_count": 0,
+      "chinese_characters": 0,
+      "source_sha256": "d239092856a976b66b4ffc39a80c0e1fefeea4b1ec317afa2a4a35d7f2e42e7b",
+      "source_has_replacement_characters": false
+    },
+    {
+      "chapter": 42,
+      "title": "周邊神經阻斷與超音波導引區域麻醉",
+      "status": "blocked_missing_gemini_key",
+      "word_count": 0,
+      "chinese_characters": 0,
+      "source_sha256": "1476d632267dbeca092fc3c143e44f9d85ad9f7735e4af5d564852f43fe230be",
+      "source_has_replacement_characters": false
+    },
+    {
+      "chapter": 43,
+      "title": "圍手術期輸液與電解質治療",
+      "status": "blocked_missing_gemini_key",
+      "word_count": 0,
+      "chinese_characters": 0,
+      "source_sha256": "a8f36b83261575bd54eaa42fd8379a8fc02334c2f55b53286e81db79a9e540e8",
+      "source_has_replacement_characters": false
+    },
+    {
+      "chapter": 44,
+      "title": "圍手術期酸鹼平衡",
+      "status": "blocked_missing_gemini_key",
+      "word_count": 0,
+      "chinese_characters": 0,
+      "source_sha256": "4621fb0fa6da8fe4b2d13d75d011b127b8b8a7d9ebe3eced504453dd20a82921",
+      "source_has_replacement_characters": true
+    },
+    {
+      "chapter": 45,
+      "title": "病人血液管理：輸血治療",
+      "status": "blocked_missing_gemini_key",
+      "word_count": 0,
+      "chinese_characters": 0,
+      "source_sha256": "785b5b155e2be8f031983ae9d1e983d8b4f9bab7373fcaa406044aba762d91e6",
+      "source_has_replacement_characters": true
+    },
+    {
+      "chapter": 46,
+      "title": "病人血液管理：凝血",
+      "status": "blocked_missing_gemini_key",
+      "word_count": 0,
+      "chinese_characters": 0,
+      "source_sha256": "33f53905095ac12f8c8d82906491eaef9f45fd50919ab4477b08f87b5269ee17",
+      "source_has_replacement_characters": true
+    },
+    {
+      "chapter": 47,
+      "title": "慢性疼痛病人的處置",
+      "status": "blocked_missing_gemini_key",
+      "word_count": 0,
+      "chinese_characters": 0,
+      "source_sha256": "3d5a95d793daa54f5cec8c1ed1b5dd79cdd59de2fa9cbea7b014a309b96608ad",
+      "source_has_replacement_characters": false
+    },
+    {
+      "chapter": 48,
+      "title": "緩和醫療",
+      "status": "blocked_missing_gemini_key",
+      "word_count": 0,
+      "chinese_characters": 0,
+      "source_sha256": "e0e9466bfc69a3c51fb45620b35a23cfaa69e3995a552298324f457a9f02a4c4",
+      "source_has_replacement_characters": false
+    },
+    {
+      "chapter": 49,
+      "title": "胸腔手術麻醉",
+      "status": "blocked_missing_gemini_key",
+      "word_count": 0,
+      "chinese_characters": 0,
+      "source_sha256": "2c9dbb91308603913b5c3abe186b25664eb3fd0621d165a957d78f98556f202b",
+      "source_has_replacement_characters": false
+    },
+    {
+      "chapter": 50,
+      "title": "心臟手術麻醉",
+      "status": "blocked_missing_gemini_key",
+      "word_count": 0,
+      "chinese_characters": 0,
+      "source_sha256": "08564585da2522318881277b47c7ed8d40be06b060d7c84348b2090a1a46cfde",
+      "source_has_replacement_characters": false
+    },
+    {
+      "chapter": 51,
+      "title": "心律不整治療的麻醉",
+      "status": "blocked_missing_gemini_key",
+      "word_count": 0,
+      "chinese_characters": 0,
+      "source_sha256": "c9bcc6617b3e7eed343782708f856c23f158aa519858e8317e1cc84198128b9f",
+      "source_has_replacement_characters": false
+    },
+    {
+      "chapter": 52,
+      "title": "血管手術麻醉",
+      "status": "blocked_missing_gemini_key",
+      "word_count": 0,
+      "chinese_characters": 0,
+      "source_sha256": "e041f841cd7365029540e2af157221d5f182da8a386b9789ee1630ff77958f37",
+      "source_has_replacement_characters": false
+    },
+    {
+      "chapter": 53,
+      "title": "神經外科與神經介入治療麻醉",
+      "status": "blocked_missing_gemini_key",
+      "word_count": 0,
+      "chinese_characters": 0,
+      "source_sha256": "f539d0c672e1b28cf3bf6aa638c9279c23e229552f21e1a63f1fa0e367c18a93",
+      "source_has_replacement_characters": false
+    },
+    {
+      "chapter": 54,
+      "title": "減重手術麻醉",
+      "status": "blocked_missing_gemini_key",
+      "word_count": 0,
+      "chinese_characters": 0,
+      "source_sha256": "c2b23e546ca9c472178454bc375f962fe3efbb7cc869c7e20f35b6266ba0d874",
+      "source_has_replacement_characters": false
+    },
+    {
+      "chapter": 55,
+      "title": "腎臟與泌尿生殖系統手術麻醉",
+      "status": "blocked_missing_gemini_key",
+      "word_count": 0,
+      "chinese_characters": 0,
+      "source_sha256": "82c81a3714acd84da32f35aad0ae2029bdb51dd2a6442bc43fcf3e9c2120b615",
+      "source_has_replacement_characters": true
+    },
+    {
+      "chapter": 56,
+      "title": "腹腔器官移植麻醉",
+      "status": "blocked_missing_gemini_key",
+      "word_count": 0,
+      "chinese_characters": 0,
+      "source_sha256": "f002aed0662453c2d129bbd46da43ff65911967353f7407884ddf540f7095350",
+      "source_has_replacement_characters": false
+    },
+    {
+      "chapter": 57,
+      "title": "器官摘取手術麻醉",
+      "status": "blocked_missing_gemini_key",
+      "word_count": 0,
+      "chinese_characters": 0,
+      "source_sha256": "d5d9b1cbbde9d473877e89559cfe938a5bbe0feca389441659421e611093cebd",
+      "source_has_replacement_characters": false
+    },
+    {
+      "chapter": 58,
+      "title": "產科麻醉",
+      "status": "blocked_missing_gemini_key",
+      "word_count": 0,
+      "chinese_characters": 0,
+      "source_sha256": "257087c495d2be79ffd9e71de1f450a2001c287ea8c1c840a7ac9e3825c4cbe7",
+      "source_has_replacement_characters": false
+    },
+    {
+      "chapter": 59,
+      "title": "胎兒手術與其他胎兒治療的麻醉",
+      "status": "blocked_missing_gemini_key",
+      "word_count": 0,
+      "chinese_characters": 0,
+      "source_sha256": "efbc746c42ff3d879adba4d7f6a051ece40a434ab35d51ca382f36c23576e9e4",
+      "source_has_replacement_characters": false
+    },
+    {
+      "chapter": 60,
+      "title": "骨科手術麻醉",
+      "status": "blocked_missing_gemini_key",
+      "word_count": 0,
+      "chinese_characters": 0,
+      "source_sha256": "8190703a8ddcd48f778bb543afc580634b1f5bb0df37865bbfdbfdb73783bffc",
+      "source_has_replacement_characters": false
+    },
+    {
+      "chapter": 61,
+      "title": "高齡麻醉",
+      "status": "blocked_missing_gemini_key",
+      "word_count": 0,
+      "chinese_characters": 0,
+      "source_sha256": "252fd0d415b4528a362f8b06d448b03f4360c287a11e0ecba3a4f9b69dc7ec7c",
+      "source_has_replacement_characters": false
+    },
+    {
+      "chapter": 62,
+      "title": "創傷麻醉",
+      "status": "blocked_missing_gemini_key",
+      "word_count": 0,
+      "chinese_characters": 0,
+      "source_sha256": "a6c7bcd88e9940f2ee7e0fbcb5acf4bcb2900612c220de3728a72cc17443418b",
+      "source_has_replacement_characters": true
+    },
+    {
+      "chapter": 63,
+      "title": "內科急症與創傷的到院前照護",
+      "status": "blocked_missing_gemini_key",
+      "word_count": 0,
+      "chinese_characters": 0,
+      "source_sha256": "b861204b7cc6af44800d206d50c0ec4b27a41df73a2c05defaa57e75e9ffc6b0",
+      "source_has_replacement_characters": false
+    },
+    {
+      "chapter": 64,
+      "title": "生物、天然與人為災害中的麻醉醫師角色",
+      "status": "blocked_missing_gemini_key",
+      "word_count": 0,
+      "chinese_characters": 0,
+      "source_sha256": "9146772154dddf43d3ed6f6f458796eeb5de02ca7d08bc9983457c9dfa382aa6",
+      "source_has_replacement_characters": false
+    },
+    {
+      "chapter": 65,
+      "title": "眼科手術麻醉",
+      "status": "blocked_missing_gemini_key",
+      "word_count": 0,
+      "chinese_characters": 0,
+      "source_sha256": "b5ac8b35576b32c14e3ab45a7a87f79f02310f7fc3434f5033f7238e4372bf65",
+      "source_has_replacement_characters": false
+    },
+    {
+      "chapter": 66,
+      "title": "耳鼻喉科與頭頸部手術麻醉",
+      "status": "blocked_missing_gemini_key",
+      "word_count": 0,
+      "chinese_characters": 0,
+      "source_sha256": "341314a2a4a2a60a2cb58483f36630eecffd864d67bbfbe3baeecaa6d74438f7",
+      "source_has_replacement_characters": false
+    },
+    {
+      "chapter": 67,
+      "title": "機器人手術麻醉",
+      "status": "blocked_missing_gemini_key",
+      "word_count": 0,
+      "chinese_characters": 0,
+      "source_sha256": "1f5d1dbd4ae7f0db3cbe4585e25c63ee0d5b3ab3655115ce657ea7006f996853",
+      "source_has_replacement_characters": false
+    },
+    {
+      "chapter": 68,
+      "title": "門診手術麻醉",
+      "status": "blocked_missing_gemini_key",
+      "word_count": 0,
+      "chinese_characters": 0,
+      "source_sha256": "23182b30cd9ccb39fb12874347443a7040290b95d9981a353f841d88f450f7c4",
+      "source_has_replacement_characters": false
+    },
+    {
+      "chapter": 69,
+      "title": "手術室外麻醉",
+      "status": "blocked_missing_gemini_key",
+      "word_count": 0,
+      "chinese_characters": 0,
+      "source_sha256": "c914666e29a1958d4e15c8a4c7350460e726325cac44bf68b3bf17f35f788b57",
+      "source_has_replacement_characters": false
+    },
+    {
+      "chapter": 70,
+      "title": "極端環境照護：高海拔與太空生理",
+      "status": "blocked_missing_gemini_key",
+      "word_count": 0,
+      "chinese_characters": 0,
+      "source_sha256": "8d60f79c5e21ff4e218f0ed822949d0e0107bbc2c409ec2ef2edaab6b04144bb",
+      "source_has_replacement_characters": false
+    },
+    {
+      "chapter": 71,
+      "title": "極端環境照護：高壓、浸水、溺水與體溫異常",
+      "status": "blocked_missing_gemini_key",
+      "word_count": 0,
+      "chinese_characters": 0,
+      "source_sha256": "b783404ca6ba8e77b270747158fc5568765a70ce5d4f265a67dec25a2194b502",
+      "source_has_replacement_characters": true
+    },
+    {
+      "chapter": 72,
+      "title": "小兒麻醉",
+      "status": "blocked_missing_gemini_key",
+      "word_count": 0,
+      "chinese_characters": 0,
+      "source_sha256": "93d8a58caa6cf58f5f5949af3463430a0c6a198d1edae12c7720f30a875ce476",
+      "source_has_replacement_characters": false
+    },
+    {
+      "chapter": 73,
+      "title": "小兒心臟手術麻醉",
+      "status": "blocked_missing_gemini_key",
+      "word_count": 0,
+      "chinese_characters": 0,
+      "source_sha256": "4cf85b216e04dfcf34b6bbea8369cc913d5a99547eb945a28384a3c6a6a5af74",
+      "source_has_replacement_characters": true
+    },
+    {
+      "chapter": 74,
+      "title": "小兒區域麻醉",
+      "status": "blocked_missing_gemini_key",
+      "word_count": 0,
+      "chinese_characters": 0,
+      "source_sha256": "1177859f8add4956f72c63fefa62d6ac4bfe9c0ed2adf7c99aa6e24653f4d013",
+      "source_has_replacement_characters": false
+    },
+    {
+      "chapter": 75,
+      "title": "小兒與新生兒重症照護",
+      "status": "blocked_missing_gemini_key",
+      "word_count": 0,
+      "chinese_characters": 0,
+      "source_sha256": "785751a552e40bb2d6157a94169504942645703fc93cf1a8939a7c6b8f72e2a9",
+      "source_has_replacement_characters": false
+    },
+    {
+      "chapter": 76,
+      "title": "麻醉後恢復室",
+      "status": "blocked_missing_gemini_key",
+      "word_count": 0,
+      "chinese_characters": 0,
+      "source_sha256": "f0afa864cf3be0774d13fb8ef67041c2b5c7d846a41c49d060b5b0a65a7e35a8",
+      "source_has_replacement_characters": false
+    },
+    {
+      "chapter": 77,
+      "title": "急性術後疼痛",
+      "status": "blocked_missing_gemini_key",
+      "word_count": 0,
+      "chinese_characters": 0,
+      "source_sha256": "842e0786ad795a3148455dd30cedcf1ba46636f0030a0cb22d37ca64d209367e",
+      "source_has_replacement_characters": false
+    },
+    {
+      "chapter": 78,
+      "title": "圍手術期神經認知障礙",
+      "status": "blocked_missing_gemini_key",
+      "word_count": 0,
+      "chinese_characters": 0,
+      "source_sha256": "a202bd4c3397d410ed18f4cd9b7a3af41448a58eeb177a7d63d79f715092b2b2",
+      "source_has_replacement_characters": false
+    },
+    {
+      "chapter": 79,
+      "title": "重症麻醉醫學",
+      "status": "blocked_missing_gemini_key",
+      "word_count": 0,
+      "chinese_characters": 0,
+      "source_sha256": "27782fbad084a83ad0240f540c5788b5c36ddfdae04e355b4ded6ac93057d988",
+      "source_has_replacement_characters": false
+    },
+    {
+      "chapter": 80,
+      "title": "神經重症照護",
+      "status": "blocked_missing_gemini_key",
+      "word_count": 0,
+      "chinese_characters": 0,
+      "source_sha256": "63d05de7b77727a1685079f4d160655de537a2273c9aea8cb61a5e6fd99886c3",
+      "source_has_replacement_characters": true
+    },
+    {
+      "chapter": 81,
+      "title": "體外膜氧合與心臟輔助裝置",
+      "status": "blocked_missing_gemini_key",
+      "word_count": 0,
+      "chinese_characters": 0,
+      "source_sha256": "8150f6c422f8b977802c4326888fb1dddf3d64e89bba277802a60097dd1c6b78",
+      "source_has_replacement_characters": false
+    },
+    {
+      "chapter": 82,
+      "title": "心肺復甦與高級心臟救命術",
+      "status": "blocked_missing_gemini_key",
+      "word_count": 0,
+      "chinese_characters": 0,
+      "source_sha256": "c188ba2fede3c123bdcfa6a2b0bf3fe349e4b5e0c2fe1c65f7f8054de918bf46",
+      "source_has_replacement_characters": false
+    },
+    {
+      "chapter": 83,
+      "title": "燒傷處置",
+      "status": "blocked_missing_gemini_key",
+      "word_count": 0,
+      "chinese_characters": 0,
+      "source_sha256": "aa84b494206ae97bccd26d9767da60118ad074fe49360c80f83b4e8aff548198",
+      "source_has_replacement_characters": false
+    },
+    {
+      "chapter": 84,
+      "title": "職業安全、感染管制與物質使用障礙",
+      "status": "blocked_missing_gemini_key",
+      "word_count": 0,
+      "chinese_characters": 0,
+      "source_sha256": "318cce1305733366ed2e3250bbae69b60501df355679cf58cd07fd0a5fa9297d",
+      "source_has_replacement_characters": false
+    },
+    {
+      "chapter": 85,
+      "title": "醫療緊急應變整備",
+      "status": "blocked_missing_gemini_key",
+      "word_count": 0,
+      "chinese_characters": 0,
+      "source_sha256": "fda2f46cd6c1ad7d34c29a1878cba5ac5b3242c269c24e88d9f420e1317a0883",
+      "source_has_replacement_characters": false
+    },
+    {
+      "chapter": 86,
+      "title": "臨床研究",
+      "status": "blocked_missing_gemini_key",
+      "word_count": 0,
+      "chinese_characters": 0,
+      "source_sha256": "a4b51d5314e33216d8467df7a878a397a03061ef8fe87075768d32f2a9ac5bcd",
+      "source_has_replacement_characters": false
+    },
+    {
+      "chapter": 87,
+      "title": "醫學文獻判讀",
+      "status": "blocked_missing_gemini_key",
+      "word_count": 0,
+      "chinese_characters": 0,
+      "source_sha256": "deba69edf91aff298712cd2078a26fe8b64bed05930c6675875ca53f4c0e7422",
+      "source_has_replacement_characters": false
+    }
+  ]
+}

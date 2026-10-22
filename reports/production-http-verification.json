@@ -1,0 +1,58 @@
+{
+  "url": "https://miller-anesthesia-10e-handbook.brainysky.chatgpt.site",
+  "https_checks": "passed",
+  "manifest": "passed",
+  "offline_chapter_coverage": 87,
+  "checks": [
+    {
+      "path": "/",
+      "status": 200,
+      "content_type": "text/html",
+      "bytes": 33504
+    },
+    {
+      "path": "/install.html",
+      "status": 200,
+      "content_type": "text/html",
+      "bytes": 27071
+    },
+    {
+      "path": "/manifest.webmanifest",
+      "status": 200,
+      "content_type": "application/manifest+json",
+      "bytes": 593
+    },
+    {
+      "path": "/chapters/ch-87.html",
+      "status": 200,
+      "content_type": "text/html",
+      "bytes": 172637
+    },
+    {
+      "path": "/sw.js",
+      "status": 200,
+      "content_type": "text/javascript",
+      "bytes": 354895
+    },
+    {
+      "path": "/icons/pwa-192x192.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 3893
+    },
+    {
+      "path": "/icons/pwa-512x512.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 13866
+    },
+    {
+      "path": "/icons/maskable-512x512.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 13866
+    }
+  ],
+  "authentication": "Existing owner-scoped QA header; no access policy changed.",
+  "physical_device_installation": "not_tested"
+}
