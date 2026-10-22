@@ -1,0 +1,35 @@
+{
+  "verified_at": "2026-10-22T03:27:15.950186+00:00",
+  "status": "passed",
+  "translated_chapters": 87,
+  "clinical_sections": 9,
+  "original_markdown_unchanged": true,
+  "npm_install": "passed",
+  "typecheck": "passed",
+  "unit_tests": "passed",
+  "production_build": "passed",
+  "build_notes": [
+    "Vite reports chunks over 500 kB; the full-text search index and chapter modules load on demand."
+  ],
+  "precache_coverage": "All emitted static files, including all 87 chapters and local images, verified by scripts/verify-build.ts.",
+  "output_bytes": 523229898,
+  "browser_tests": {
+    "desktop_chromium": "passed",
+    "mobile_pixel_7_chromium": "passed",
+    "checks": [
+      "Traditional Chinese and English offline search",
+      "Unvisited chapter 87 offline navigation and reload",
+      "Chapter 21 original PDF image offline",
+      "Traditional Chinese chapter titles and 404 page",
+      "English original title retained",
+      "Dark mode",
+      "Mobile chapter outline and back-to-top",
+      "Bilingual directory filtering",
+      "No horizontal page overflow",
+      "No JavaScript errors"
+    ]
+  },
+  "physical_ios_android_installation": "not_tested; HTTPS installation instructions in README.md and docs/guide.md",
+  "preview_command": "npm run preview -- --host 0.0.0.0 --port 3000",
+  "preview_http_status": 200
+}

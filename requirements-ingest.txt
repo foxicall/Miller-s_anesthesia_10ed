@@ -1,0 +1,8 @@
+google-api-python-client==2.201.0
+google-auth==2.62.0
+google-auth-httplib2==0.4.4
+PySocks==1.7.1
+PyMuPDF==2.0
+pymupdf4llm==2.0
+tqdm==4.70.1
+PyYAML==6.0.3
