@@ -1,0 +1,830 @@
+---
+title: Perioperative Neurocognitive Disorders
+chapter: 78
+book: Miller's Anesthesia, 10th Edition
+source_file: 78. Perioperative Neurocognitive Disorders.pdf
+---
+
+# Perioperative Neurocognitive Disorders
+
+<!-- PDF page 1 -->
+
+
+MILES BERGER, BEVERLEY A. ORSER, and LISBETH EVERED
+
+|**KEY POINTS**|ᑏConcerns about postoperative cognitive function have been voiced by older patients,<br>their families, and their caregivers for more than a century and, more recently, have been<br>documented with objective testing.|
+|---|---|
+||ᑏPerioperative neurocognitive disorders (PNDs) are the most common perioperative<br>complications in older adults, and the strongest risk factors for PNDs are advanced age and<br>preexisting cognitive impairment, which is usually undiagnosed.<br>ᑏThe new nomenclature for PNDs requires the presence of subjective cognitive complaints in<br>addition to objective neuropsychological testing and assessment of daily function.<br>ᑏThe new PND nomenclature aligns with the diagnosis of cognitive disorders in the Diagnostic<br>and Statistical Manual of Mental Disorders (DSM-5) and thus has broader clinical relevance.<br>ᑏObjective testing can take many forms and can be variously analyzed to establish whether<br>cognitive decline has occurred.|
+||ᑏFurther evidence is required to determine if targeting light anesthesia using<br>electroencephalography may reduce/prevent postoperative delirium and subsequent long-<br>term decline.|
+||ᑏMany mechanisms for PND have been proposed and tested in preclinical models.<br>Neuroinflammation induced by surgery and disease in the setting of a vulnerable brain is the<br>mechanistic hypothesis that has the most support at this time.<br>ᑏBlood and EEG biomarkers may offer a unique method to identify those at risk and may prove<br>to be useful targets for prevention of delirium and other PNDs.|
+
+
+## Introduction
+
+The association between anesthesia and surgery and cognitive changes in older adults has been recognized for more than a century.<sup>1</sup> However, anecdotal reports of cognitive changes did not become a major research focus until the International Study of Post- Operative Cognitive Dysfunction was published in the late 1990s.<sup>2</sup> Subsequently, in 2001, Newman and colleagues reported that early cognitive dysfunction after cardiac surgery was associated with increased risk of cognitive decline 5 years later.<sup>3</sup> Since then, there has been intense interest and investigation in all aspects of both postoperative delirium (POD, which is characterized by fluctuating levels of inattention and consciousness) and longer- term cognitive decline following anesthesia and surgery. This chapter reviews the topic of perioperative neurocognitive disorders (PNDs) for both clinicians and researchers. First, we discuss the new nomenclature for PNDs that was published in 2018.<sup>4</sup> This new classification system uses both subjective and objective metrics of cognitive decline, as well as metrics for activities
+
+of daily living (ADLs), and thus accords with other neuropsychiatric diagnoses included in the fifth edition of the _Diagnostic and Statistical Manual of Mental Disorders_ (DSM5).<sup>5</sup> Second, we summarize the pre- and intraoperative risk factors associated with various PNDs.<sup>6</sup> Third, we review and discuss potential mechanisms underlying postoperative neurocognitive disorders (postoperative NCDs), including those related to anesthesia, surgery, patient comorbidities, and other aspects of perioperative care. Fourth, we discuss methods to prevent and to treat these disorders.
+
+## Clinical Overview
+
+In 1998 the International Study of Post- Operative Cognitive Dysfunction (ISPOCD) group coined the term postoperative cognitive dysfunction (POCD), which reflected an objectively measured decline in cognitive function that typically persisted beyond the period expected for normal recovery from the physiologic and pharmacologic effects of anesthesia and surgery.<sup>2</sup> Previously, cognitive impairment
+
+
+
+::: details 原始表格與符號（PDF 第 1 頁）
+
+![第 78 章，原始 PDF 第 1 頁](assets/chapter-78/source-page-0001.png)
+
+:::
+
+<!-- PDF page 2 -->
+
+identified at baseline in patients presenting for anesthesia and surgery was referred to as preexisting cognitive impairment (PreCI).<sup>7</sup>
+
+During the hospital admission the most common complication experienced by older individuals following anesthesia and surgery is postoperative delirium (POD).<sup>8</sup> POD can present as hypoactive, hyperactive (agitated), or mixed. POD refers to a form of acute cognitive disruption characterized by inattention, a fluctuating course, and cognitive disturbance and is distressing for the patients themselves, as well as family, caregivers, and staff. POD is strongly associated with increased risk of mortality, morbidity, and dementia and has significant long- term detrimental psychosocial and mood outcomes.<sup>9</sup> At present, the only effective treatment is prevention.
+
+During the first 30 days postoperatively it is difficult to interpret the relative significance of any observed cognitive or functional decline to long- term recovery, since this may simply be part of normal physiologic and pharmacologic recovery, pain, and ongoing medications.<sup>4</sup> In view of this, the consensus recommendations suggest this be identified as delayed neurocognitive recovery (dNCR).
+
+Cognitive and functional decline has been observed from 1 day to 7.5 years after anesthesia and surgery, although it is unclear to what extent, if any, anesthesia/surgery play a causal role in longer term cognitive decline (ie such as 7.5 years after surgery).<sup>10</sup> As discussed below, consensus recommendations suggest a temporal association between cognitive disorders and anesthesia and surgery from day 1 to 12 months postoperatively.
+
+## Nomenclature and Assessment of Perioperative Neurocognitive Disorders
+
+In 2018, the International Nomenclature Consensus Working Group proposed new nomenclature to standardize the identification and classification of perioperative cognitive changes falling under the umbrella of PND.<sup>4</sup> This new nomenclature encompasses the overlapping and heterogeneous definitions of previously used terms, specifically preexisting cognitive impairment (pre-CI), and postoperative cognitive dysfunction (POCD). In particular, the previously used term POCD reflected an objectively measured decline in cognitive function that persisted beyond the period expected for normal recovery from the physiologic and pharmacologic effects of anesthesia and surgery in older individuals.<sup>3</sup>
+
+By restructuring the criteria for PND by incorporating the DSM- 5 definitions of neurocognitive disorders (NCDs), the working group sought to align perioperative cognitive changes with NCD in the general population, to standardize assessments and identification of PND, and to promote communication across medical and surgical specialties. These fundamental changes were also necessary to further research and improve clinical care in this area. Specifically, the DSM- 5 criteria for NCD include (1) a decline in cognition, defined as a decline in at least one cognitive domain, together with a subjective deficit or cognitive complaint (expressed by the patient, a family member, or observed by
+
+a clinician); and (2) an assessment of daily functional ability, based on an evaluation of the patient’s instrumental ADLs. Additionally, the diagnosis of NCD requires that the observed cognitive changes cannot be better explained by a medical condition (e.g., Alzheimer disease, cerebral vascular disease) or a psychiatric disorder.
+
+The term POD refers to a form of acute cognitive disruption characterized by inattention, a fluctuating course, disorganized thinking, and changes in the level of consciousness. POD is diagnosed according to the criteria for delirium presented in the DSM- 5.<sup>5</sup> Delirium occurring in the community or in hospital inpatients is diagnosed according to the same definitions and criteria. Previously, POCD and preexisting cognitive impairment were confined to the field of perioperative medicine research, where they have been historically defined by objective criteria without consideration for subjective cognitive complaints or functional deficits. In contrast, cognitive impairment and decline are typically diagnosed in the general medical community according to either DSM- 5 criteria or the definitions of the National Institute on Aging–Alzheimer’s Association (NIA- AA), which require both a subjective cognitive complaint and an assessment of ADLs or instrumental ADLs. The NIA- AA terms _mild cognitive impairment_<sup>11</sup> and _dementia_<sup>12</sup> are far more familiar to most clinicians than the corresponding DSM- 5 terms ( _mild_ and _major NCD_ , respectively), but the definitions and criteria map closely onto each other.
+
+### DELIRIUM
+
+POD is classified as a specific category consistent with DSM- 5 terminology when the patient is in the immediate postoperative period and other specific causes for symptoms have been excluded. The reported incidence of POD in elderly patients is highly dependent on how frequently assessments are performed and the diagnostic tool used for the assessment. A widely used and validated tool for detecting postoperative delirium is the Confusion Assessment Method (CAM).<sup>13,14</sup> The term _postoperative_ refers to a specific and known temporal association with anesthesia and surgery. POD is defined as delirium when it meets DSM- 5 diagnostic criteria and occurs in hospital up to one week postprocedure or until discharge. To date, most studies have investigated delirium as simply having occurred or not (a binary outcome). However, in the future, consideration should also be given to delirium severity<sup>15</sup> and psychosocial outcomes.<sup>9</sup>
+
+Delirium severity has been linked to pathophysiologic processes associated with neurodegenerative disease,<sup>15</sup> while one or more episodes of delirium following cardiac surgery have recently been shown to be associated with long- term depression, trauma, and other poor psychosocial outcomes.<sup>9</sup>
+
+### POSTOPERATIVE NEUROCOGNITIVE DISORDERS (NCDs)
+
+Postoperative NCD has replaced the previously used term and definition of POCD.<sup>3,10,16</sup> Notably, POCD did not require a subjective complaint or evidence of functional impairment, whereas the DSM- 5 definition of NCD requires both. Thus, the main differences between POCD and
+
+<!-- PDF page 3 -->
+
+postoperative NCD are the requirement for a subjective cognitive complaint and evidence of impairment in ADLs (for major postoperative NCD).
+
+### SUBJECTIVE COGNITIVE CONCERN
+
+A subjective cognitive complaint can be reported by the individual, a family member, a caregiver, or a clinician. It is unlikely that a patient or an informant would be able to accurately assess subtle cognitive decline in the early postoperative period. Therefore, although assessment for NCD after discharge but before full recovery may be technically possible, the clinical relevance of its attribution remains unclear. Therefore, the term _delayed neurocognitive recovery_ (dNCR) is recommended for cognitive issues occurring up to 30 days after the procedure, when most patients will have recovered from surgery and hospitalization. The diagnostic criteria for NCD should be applied, but if cognition is impaired, the problem would be referred to as dNCR, to highlight the possible transience of the impairment. It is possible that high- functioning individuals may report cognitive concerns without objective evidence of decline. This might still be considered dNCR in the context of clinical relevance for a specific individual.<sup>4</sup>
+
+### ACTIVITIES OF DAILY LIVING ASSESSMENT
+
+Assessment of daily function is an essential element of classifying patients as having postoperative mild or major NCD. This assessment is performed using a tool appropriate for measuring ADLs, which refer to everyday personal care activities that are fundamental to caring for oneself and maintaining independence. To detect more subtle declines in function, the instrumental ADLs (IADLs) are used; these include activities like shopping, driving, and managing finances. In cases of mild NCD (i.e., mild cognitive impairment), the ADLs and instrumental ADLs are maintained, whereas for major NCD (dementia), a decline in daily function (i.e., in ADLs or IADLs) is an essential criterion for attribution of the disorder.
+
+### OBJECTIVE TESTING
+
+According to the DSM- 5<sup>5</sup> and the recommended PND terms, postoperative mild NCD requires a decline in the results of cognitive testing, relative to controls or norms, of one to two standard deviations, and postoperative major NCD requires a decline of two or more standard deviations on at least one cognitive domain (complex attention, executive function, learning and memory, language, perceptual–motor, or social cognition)<sup>5</sup> using an appropriate neuropsychological assessment battery. Neither the DSM- 5 nor the NIA- AA criteria for objective testing specify the individual neuropsychological tests to be used or the number of tests required in a battery. Importantly, this diagnostic criterion refers to psychometric assessments that allow objective assessment of specific cognitive domains, not to the use of screening tools such as the Mini- Mental State Examination (MMSE) or the Montreal Cognitive Assessment (MoCA). Although useful for preoperative risk assessment, these brief screening tools do not have the sensitivity to assess subtle cognitive change or changes in specific cognitive domains.
+
+Beyond 30 days after surgery, the term postoperative mild NCD (equivalent to postoperative mild cognitive impairment) or postoperative major NCD (equivalent to postoperative dementia) is used instead of dNCR. The “postoperative” specifier should be used when the disorder is initially diagnosed within the first 12 months after the procedure and for as long as the NCD criteria are met. If the disorder is first noticed or diagnosed more than 12 months after surgery, the specifier “postoperative” should not be used. POD, dNCR, and postoperative NCD all fall under the umbrella term perioperative neurocognitive disorders, although delirium is also defined separately in the DSM- 5.
+
+## Measurement and Diagnosis of Perioperative Neurocognitive Disorders
+
+Historically, a diagnosis of POCD relied only on an objective assessment of cognitive decline using a battery of neuropsychological tests covering several cognitive domains. In many studies, very conservative cut points were applied (e.g., 1.96 standard deviations below controls on 2 or more tests out of a battery of 8–10 tests). These research applications contrast with the objective criteria required for postoperative mild NCD or postoperative major NCD, as described above.
+
+### ASSUMPTIONS UNDERLYING ASSESSMENT OF PERIOPERATIVE NEUROCOGNITIVE DISORDER
+
+Prospective studies investigating PND have typically assessed baseline cognition at a single time point only, often within days of the procedure. This approach is based on three important but not necessarily valid assumptions. First, it assumes normal preoperative cognitive function despite many studies identifying a high incidence of preoperative cognitive impairment among older adults.<sup>7,17,18</sup> Second, it assumes stable baseline cognition. Third, it assumes that results are reproducible, even without an intervention. Yet even if patients can be assumed to have stable cognition, it is unlikely that two consecutive assessments would yield the same results, due to a variety of intrinsic and extrinsic factors.
+
+### OUTCOME CRITERIA FOR COGNITIVE DECLINE
+
+Reference to an appropriate control group or use of normative data should be used to define objective changes on neuropsychological testing following surgery, which has the advantage of controlling for cognitive changes over a similar time period, largely to account for practice and time effects.<sup>19</sup> One method for comparing the extent of cognitive change in surgical patients to that observed in controls is the reliable change index (RCI)<sup>20</sup> which uses either a control group or normative data, and as such it satisfies the DSM- 5 criteria for NCD.
+
+### Sensitivity
+
+The number of tests used in a neuropsychological test battery directly affects the sensitivity of the measure. For
+
+<!-- PDF page 4 -->
+
+assessment of the cognitive component of NCD, the DSM- 5 requires decline in at least one cognitive domain (complex attention, executive function, learning and memory, language, perceptual–motor, or social cognition), but it does not recommend specific neuropsychological tests or a specific number of tests. Sensitivity can be improved by considering small declines across several tests or a single, large decline in the reliable change index or other measures that aggregate scores on individual tests into overall cognitive domain scores.<sup>20</sup>
+
+While seemingly esoteric, the various methods of analysis can markedly affect the diagnosis of POCD, as highlighted by Keizer _et al_ .,<sup>21</sup> who reported POCD incidences of 10.5%, 31%, and 7.7% using the same test results with different methods of analysis (incidence defined on the basis of 1 standard deviation decline, 20% decline, and RCI, respectively).
+
+Clearly, standardization will be required to interpret results across many studies.
+
+More recently, computerized cognitive assessment batteries have been developed that avoid practice effects and offer easier, more rapid, and standardized administration. Computer- based approaches also have the potential to overcome cultural and language difficulties. To date, however, computerized test batteries have received limited attention in POCD/PND research, mainly due to a lack of relevant validation studies.
+
+### Group Change versus Individual Change
+
+Studies investigating PND have variously investigated either individual change or group change.<sup>22,23</sup> Individual change usually refers to a dichotomous outcome of “decline” versus “no decline.” In contrast, group analysis considers differences between groups on a continuous scale, such as the difference in a continuous cognitive measure between groups of control and treated patients in a randomized controlled trial. Clinical trials typically use statistics to compare an _a priori_ primary outcome between two groups of patients to test whether any observed difference is due to chance. Unfortunately, the group approach misses important information from the individuals within each group. Those with the greatest cognitive decline may represent a small proportion of the group, but arguably are the most critical to consider. Some individuals may even demonstrate cognitive improvement, through the correction of underlying pathology, relief of pain, and improved function (e.g., improved mobility, improved ADLs and IADLs). Statistics that simply average the results of individuals across the group will miss these important individual changes, which may reflect important, identifiable, and perhaps modifiable factors.
+
+### ISSUES ASSOCIATED WITH REPEAT TESTING
+
+Serial neuropsychological testing is important to reliably assess the cognitive trajectory of an individual over time; however, repeat testing may introduce several sources of error, such as reduced reliability, floor or ceiling effects, and practice effects. It is unclear whether practice effects can be eliminated, as these can be observed as far out as 2.5 years from the procedure. Individual factors (e.g., age, sex, culture, language, education, comorbidities, baseline cognitive function) and perioperative factors (e.g.,
+
+anxiety, medications, pain) may also modulate the effects of repeated testing. Other strategies to improve reliability include parallel test versions and the use of control groups. The main concern with control groups is the need to select a well- matched group. It is generally desirable to match comorbid conditions to more accurately evaluate the effect of the surgery itself. However, the extent to which this is achievable is unclear, since in the absence of randomization there remains the possibility of unmeasured differences and confounders between groups.
+
+## Risk Factors and Perioperative Management
+
+### PRE- AND INTRAOPERATIVE RISK FACTORS FOR PERIOPERATIVE NEUROCOGNITIVE DISORDERS
+
+A large body of work has examined pre- and intraoperative risk factors for PNDs. In general, preoperative impairment of cognitive function, older age, and lower education/IQ have been found to predict increased risk for both PNDs and POCD<sup>23</sup> (reviewed in references 6 and 24). Whether preoperative impairment of cognitive function also contributes to the risk of dNCR after surgery is unclear from the existing literature.<sup>25</sup>
+
+One overarching theory is that PNDs arise from a mixture of predisposing and precipitating factors.<sup>26,27</sup> Predisposing factors consist mainly of preoperative characteristics, such as advanced age and preexisting cognitive impairment. Precipitating factors include a wide variety of intra- and perioperative risk factors, such as longer- duration surgery, greater intraoperative blood loss, and postoperative pain and sleep deprivation. In general, the literature is mixed as to the risks and benefits of specific drugs. Although some studies have shown protective effects of certain drugs, including propofol, ketamine, and dexmedetomidine, other studies have shown no beneficial effect of these drugs.<sup>28–33</sup> Similarly, there is extensive but conflicting literature on whether using electroencephalography (EEG) guidance to reduce anesthetic dosage (or simply lowering anesthetic dose independent of EEG monitoring) results in lower rates of PND, particularly POD<sup>34</sup> (see below, under General Anesthetic Drugs).
+
+At least three reasons may account for the conflicting literature regarding pharmacologic and management strategies to reduce PNDs. First, it is difficult to design studies to compare equipotent doses of intravenous and inhaled anesthetics (e.g., propofol vs. isoflurane). These drugs produce their clinical effects by interacting with different molecular targets<sup>35</sup> and thus, they differentially modulate brain activity and network connectivity.<sup>36</sup> While evidence is available to both support and refute a cognitive benefit of total intravenous anesthesia over inhalational anesthesia, such differences in outcome may partly reflect differences in dosage regimens between clinical trials, rather than differences in the intrinsic cognitive- sparing properties of propofol versus the inhaled anesthetics. Second, a general issue with perioperative clinical trials that are designed to reduce major complications such as PND is the likelihood that the trial involved three distinct groups of participants: those who will never experience the complication, regardless of
+
+<!-- PDF page 5 -->
+
+whether they receive the intervention or not; those who will always experience the complication, regardless of whether they receive the intervention or not; and those whose risk of the complication may be altered by the intervention. The third group is the only one where the intervention has any chance of reducing the complication rate. However, researchers usually cannot determine the group to which individual patients belong, and thus, at the start of a clinical trial cannot identify the patients who will benefit most (i.e., those in the third group). If the proportion of patients in the third group varies among different clinical trials, the power to detect and compare reductions in PNDs or other outcomes across the studies will be seriously compromised. Finally, it is possible that neither the choice of anesthetic drugs nor the use of EEG- guided anesthetic titration has any effect on the rate of PNDs, and the positive results reported in some studies are simply the result of type I statistical errors. This possibility is plausible, given that, at least in the case of POD, much of the risk may be due to preoperative (and thus predisposing) patient factors, including impairment of baseline cognition, rather than intraoperative management choices.<sup>37</sup> Nonetheless, large clinical trials are currently underway that may help to resolve some of this controversy<sup>38</sup> and determine whether anesthetic drug choice (and dosage) will alter PND rates in specific subgroups of patients.
+
+Other risk factors identified more recently for PNDs include frailty, which is associated with numerous poor outcomes, including longer hospital stays, increased mortality,<sup>39</sup> and an increased risk of postoperative NCD at 3 and 12 months after noncardiac surgery.<sup>40</sup>
+
+### PERIOPERATIVE MANAGEMENT (SEE PRACTICE RECOMMENDATIONS, BOX 78.1)
+
+There are currently no known interventions that treat or prevent PNDs. A perioperative management scheme to mitigate PND suggests paying attention to those preoperative and intraoperative risk factors that are modifiable.<sup>6</sup> Preoperative identification of high- risk patients should incorporate patient factors, surgical factors, and pharmacologic factors in advance of surgery so that modifiable risk factors can be optimized and at- risk individuals may choose to undergo baseline neurocognitive assessments, with management centered on optimizing medical comorbidities to preserve cognitive function. Intraoperatively, cerebral oximetry and EEG are key biomarkers for identifying oxidative stress and neuronal dysfunction and can be used to tailor anesthetic regimens to preserve and optimize neural function.<sup>8,41,42</sup>
+
+Nonopioid, multimodal pain control should be utilized as much as possible. Pharmacologic assessment is helpful in identifying polypharmacy, which may independently contribute to neurocognitive decline, particularly POD.<sup>43,44</sup> Baseline cognitive screening should be routine in order to identify high- risk patients, who should then undergo full baseline neurocognitive assessment to track PND over multiple neurocognitive domains and initiate early intervention.
+
+The anesthesiologist should discuss the likelihood of developing PND with the patient and family members if possible. Additionally, family members can be active helpers implementing the Hospital Elder Life Program (HELP)
+
+### Box 78.1 Recommendations to Promote Postoperative Brain Health134
+
+1.  Avoid centrally acting anticholinergics, benzodiazepines, meperidine, and other Beers list drugs, as well as antipsychotics which have been shown not to reduce delirium risk nor do they reduce the duration or severity of delirium.
+
+2.  Avoid relative hypotension, with respect to each patient’s individual blood pressure range.
+
+3.  Maintain normothermia 4.  Monitor age- adjusted end- tidal MAC fraction. 5.  Consider the use of EEG- based intraoperative brain monitoring, both to assess delirium risk and to titrate anesthetic dosage.
+
+6.  All patients 65 years or more should be informed of the risks of PND including confusion, inattention, and memory problems that may occur after having an operation.
+
+7.  Baseline cognition should be objectively evaluated with a brief screening tool during preoperative evaluation in all patients 65 years or more and in any patient with risk factors for preexisting cognitive impairment.
+
+8.  Older surgical patients should be screened for delirium once preoperatively and then postoperatively on a regular basis using a standard screening tool.
+
+9.  Use multicomponent nonpharmacologic intervention programs such as the HELP program and ABCDEF bundle to help prevent delirium while patients are hospitalized.
+
+10.  Optimize pain control with multimodal nonopioid agents following surgery.
+
+_EEG_ , electroencephalography; _MAC_ , minimum alveolar concentration; _PND_ , perioperative neurocognitive disorder.
+
+strategies known to reduce the incidence of delirium by up to 40%.<sup>45</sup> There is some evidence that prehabilitation and rehabilitation may reduce the incidence of PND, particularly POD, although evidence is scant. Cognitive training has been shown to have a positive effect on PND<sup>46</sup> and multicomponent pre- and postoperative studies are underway.<sup>8</sup> Depending on the patient’s medical history, it may be necessary to involve other medical team members, including geriatricians, neurologists, and physical therapists to optimize a patient’s preoperative medical health and functional status.
+
+EEG provides a real-time measurement of functional neuronal population activity. Though EEG features of NCD is a rapidly expanding area of research, for now, hypothesisdriven clinical data advocate for (1) limiting intraoperative burst suppression and (2) promoting frontal alpha EEG power. See below for further discussion on the use of EEG for POD prevention.<sup>6</sup>
+
+## Mechanisms of Perioperative Neurocognitive Disorders
+
+### PRECLINICAL STUDIES OF PERIOPERATIVE NEUROCOGNITIVE DISORDERS
+
+The field of PNDs has advanced considerably over the past few decades in terms of identifying risk factors and developing specific diagnostic criteria. The next frontier is the development of effective prevention and treatment strategies by targeting specific causal mechanisms. However, clinical
+
+<!-- PDF page 6 -->
+
+![](assets/chapter-78/78._Perioperative_Neurocognitive_Disorders.pdf-0006-01.png)
+
+
+600<br>400<br>200<br>0<br>1990 1995 2000 2005 2010 2015 2020<br>Year<br>Number of publications<br>
+
+**Fig. 78.1 Timeline of preclinical research for perioperative neurocognitive disorders (PNDs).** Growing interest in the field of PNDs is reflected by the exponential increase in the number of PubMed publications from 1990 to 2021. Only 22 studies were published before 1990 over a span of almost four decades. Results were based on a PubMed search of the keywords “postoperative delirium,” “postoperative neurocognitive disorder,” “neurocognitive disorder,” “perioperative neurocognitive disorder,” or “postoperative cognitive disorder.”
+
+trials often measure associated risks and outcomes without testing causal mechanisms. As such, preclinical studies of laboratory animals and human studies with mechanistic phenotyping are needed to determine the underlying mechanisms. The great interest in identifying the mechanisms underlying PNDs is evidenced by an exponential increase in the number of articles indexed in PubMed since the 1990s (Fig. 78.1).<sup>47</sup> A PubMed search for studies using the search term “perioperative neurocognitive disorder” and related terms yielded more than 3700 articles.<sup>47</sup> Collectively, this body of work has shown that, although still unclear, the causes of PND are likely complex and multifactorial (Fig. 78.2).<sup>24,48</sup>
+
+### PRECLINICAL STUDY DESIGNS
+
+Preclinical studies of PNDs typically involve treating laboratory animals (most often rodents) with one or more general anesthetic drugs, with or without a surgical intervention. A wide variety of rodent models have been studied, including those that mimic aging, genetic variants, metabolic syndrome, or neurodegenerative disorders in humans. Commonly used preclinical surgery models include laparotomy, intramedullary fixation of fractured tibia, partial hepatectomy, splenectomy, and ligation of the cecum. Cognition in laboratory animals is often probed in the early recovery period by means of learning- and memory- related behavioral assays. For example, frequently studied cognitive end points are spatial memory (assessed with the Morris water maze or the Barnes maze) and recognition memory (assessed with the novel object recognition task). Such behavioral studies are often coupled with _in vitro_ biochemical assays and electrophysiologic recordings.
+
+It is important to interpret the results of preclinical studies while considering the limitations of the experimental models. Any inconsistencies between clinical and preclinical studies may depend on differences in both the species and the experimental design. For example, delirium is
+
+characterized by alterations in attention, confusion, and disorganized thinking in humans, but these core features are difficult to model and measure experimentally in laboratory animals. Thus, other cognitive domains, such as learning and memory, are typically assessed. As an example, impaired spatial working memory has been frequently reported after exposure to general anesthesia in laboratory animals,<sup>47</sup> yet spatial working memory is rarely studied in patients after surgery. Thus, subtle memory deficits that are identified in preclinical studies may remain undetected in patients. Also, the timescales of preclinical PND studies typically range from days to weeks, whereas PNDs in patients occur from a few days to one year after surgery.
+
+Finally, PNDs in patients likely arise from a combination of factors, including patient characteristics, inflammation, and exposure to certain drugs, rather than single factors alone, yet combinations of multiple factors are rarely studied systematically in laboratory animal PND models. Overall, caution is needed when translating the results of studies of surrogate end points in laboratory animals to outcomes in patients.<sup>47</sup>
+
+Despite the limitations, preclinical studies have provided mechanistic insights into factors that likely contribute to PNDs. The results of these studies suggest that multiple receptors and cell- signaling pathways are involved. Thus, it is unlikely that PNDs can be prevented or treated by a single mitigation strategy. However, the adoption of multimodal approaches may be effective in reducing the incidence and severity of PNDs,<sup>48–50</sup> as is the case for the modern treatment of pain.
+
+From these animal model studies, key factors that have emerged as contributing to PNDs include inflammation, advanced age, and preexisting neurocognitive impairment, which collectively contribute to what is loosely referred to as “brain fragility.” The most current and popular model of PND proposes that systemic inflammation and neuroinflammation play dominant roles. A possible causal contribution of general anesthetic drugs to PNDs remains less clear, but it remains important to determine whether anesthetic drugs are involved since anesthesiologists can control which drugs, at what doses, are administered to patients. Other factors contributing to PNDs are not unique to surgical patients; rather, they are associated with various neurologic disorders, including traumatic brain injury, sepsis, long COVID- 19, and neurodegenerative diseases. A partial list of causal factors that have been implicated in PNDs is provided here and discussed in the subsections below:
+
+- Systemic inflammation and neuroinflammation
+
+- Disruption of the blood–brain barrier (BBB)
+
+- Modulation of microglia and astrocytes
+
+- General anesthetic drugs
+
+- Altered inhibitory and excitatory neurotransmission
+
+- Neurodegenerative disease-related pathology
+
+### Systemic Inflammation and Neuroinflammation
+
+General anesthetic drugs and surgical trauma both modulate immune system activity.<sup>51,52</sup> Conversely, the brain’s response to anesthesia and surgical trauma is modified by the baseline activation state of the immune system. For example, anesthesia and peripheral surgery (i.e., surgery
+
+<!-- PDF page 7 -->
+
+![](assets/chapter-78/78._Perioperative_Neurocognitive_Disorders.pdf-0007-01.png)
+
+
+**Fig. 78.2 Pathophysiologic mechanisms that may play a role in postoperative cognitive dysfunction (POCD) and/or delirium.** Starting from the top, in clockwise order, the pullout boxes represent cellular/molecular and synaptic mechanisms (such as Alzheimer disease–related pathology), cerebral oximetry monitoring, anesthetic dosage, resolution of inflammation, vascular mechanisms (such as emboli), and blood–brain barrier dysfunction, which may be involved in POCD and delirium. Additional physiologic variables that may be involved in POCD and delirium are listed in the text. _APP_ , amyloid precursor protein; _BBB_ , blood–brain barrier; _IL_ , interleukin; _RBC_ , red blood cell; _TNF_ , tumor necrosis factor. (From Berger M, Terrando N, Smith SK, et al. Neurocognitive function after cardiac surgery: from phenotypes to mechanisms. _Anesthesiology_ . 2018;129(4):829–851.)
+
+not involving the central nervous system [CNS]) cause an influx of peripheral blood mononuclear cells into the brain in animal models. At the same time, inflammation fundamentally alters the response of brain neurons to anesthetic drugs by increasing the number of anesthetic- sensitive receptors.<sup>53</sup> The role of inflammation and neuroinflammation in PNDs is briefly summarized below and has been extensively reviewed by Subramaniyan and Terrando,<sup>54</sup> Safavynia _et al._ ,<sup>6</sup> and others.<sup>6,24,53,55</sup>
+
+Surgical trauma, oxidative stress, ischemia, and other forms of sterile tissue injury stimulate cells to release damage- associated molecular patterns (DAMPs). The resulting circulating DAMPs include molecules such as
+
+high mobility group box 1 (HMGB1) protein<sup>56</sup> and S100 calcium- binding protein β (S100β). In addition, exogenous pathogens, including bacteria and viruses, foreign nucleic acids, and RNAs act as signaling molecules; these are referred to as pathogen- associated molecular patterns (PAMPs). A widely studied PAMP is lipopolysaccharide (LPS), a component of the Gram- negative bacterial cell wall. The PAMPs and DAMPs bind to pattern recognition receptors such as Toll- like receptors that are expressed by innate immune cells such as macrophages, mast cells, and bone marrow–derived monocytes. The DAMPs and PAMPs also bind to receptors present on nonimmune cells, including epithelial cells and fibroblasts.
+
+<!-- PDF page 8 -->
+
+The activation of Toll- like receptors stimulates second messenger signaling cascades that activate transcription factors, including nuclear factor kappa B and posttranslational modifications. These changes then trigger the production and release of proinflammatory cytokines, including interleukin- 1β (IL- 1β), interleukin- 6 (IL- 6), and tumor necrosis factor- α (TNF- α), as well as the activation of oxidative stress pathways. Numerous studies have demonstrated that increases in IL- 1β, IL- 6, TNF- α and other cytokine levels can be detected in human cerebrospinal fluid (CSF) after surgery, which suggests that neuroinflammation may also play a role in PNDs in humans.<sup>56–62</sup> Furthermore, the time course of changes in plasma and within the brain in animal models often mimics that of changes that occur in human plasma and CSF after surgery.<sup>63</sup>
+
+Surgery- induced activation of the immune system leads to an increase in monocytes within the mouse brain and human CNS (as measured in the CSF after surgery)<sup>57</sup> ; however, it is unclear whether this increase results from an influx of monocytes from outside into the CNS or the mobilization of cells within CNS reservoirs, including those in the cerebrospinal brain–vascular interphase or the CSF itself. Current studies may shed light on what percent of older patients experience an increase in CSF monocyte levels and to what extent this is associated with PNDs.<sup>64</sup>
+
+Although both preclinical and clinical studies have shown postoperative increases in the level of inflammatory cytokines in the CSF, relatively few studies have shown a clear association between increased postoperative CSF cytokine levels and PNDs.<sup>57,59</sup> It also remains unclear the extent to which these postoperative increases in CSF inflammatory cytokines result from the passive flux of cytokines across a disrupted BBB,<sup>65</sup> versus increased cytokine production within the CNS by microglia or other cell types. More studies are needed to determine the extent to which neuroinflammation plays a causal role in PNDs; however, a substantial body of evidence from outside perioperative medicine has shown that central neuroinflammation plays a causative role in multiple other disorders that involve cognitive dysfunction.<sup>66–68</sup>
+
+Impaired resolution of inflammatory responses has also been theorized to contribute to PNDs. Molecules leading to the resolution of inflammation in laboratory animals (such as lipid resolvins, protectins, and maresins) have also been detected in human CSF. Changes in levels of some of these factors after surgery (as well as proinflammatory lipid mediators such as prostaglandins) have been detected in older surgical patients.<sup>69</sup> Further, exogenous treatment with antiinflammatory lipids related to resolvins, such as maresin- 1, ameliorate postoperative memory deficits in mouse models.<sup>70</sup> Even so, it remains unclear whether a hypoactive resolution response and lower levels of pro- resolving lipid mediators in the human CNS contribute to PNDs. Results from preclinical animal models raise the possibility that exogenous supplementation of specific pro- resolving mediators may reduce neuroinflammation and improve cognition after surgery in older adults<sup>70,71</sup> by promoting synthesis of pro- resolving lipid mediators from omega- 3 fatty acids or enhancing cholinergic signaling, since vagal nerve stimulation reduces cognitive deficits following injection of lipopolysaccharide in rodent models.<sup>72</sup> Additional studies of modulating the inflammatory response to surgery to reduce
+
+human PND rates are underway.<sup>73</sup> Interestingly, nonselective immune suppression with drugs such as dexamethasone or statins have not proven beneficial in humans,<sup>74</sup> although many researchers hope that fine- tuning exaggerated or unresolved inflammatory responses will be beneficial for preventing PNDs (reviewed in reference 55).
+
+### Disruption of the Blood–Brain Barrier
+
+The BBB is a highly organized biological system that forms a physical barrier between the brain and the circulatory system. It is composed of endothelial cells connected by tight junctions, and it is ensheathed by pericytes and foot processes of astrocytes. Collectively, the tight junctions, astrocytes, and pericytes regulate the permeability of endothelial cells and the BBB. In animal models, an increase in proinflammatory factors in the peripheral circulation leads to increases in the permeability of the BBB, which allows inflammatory factors, including monocytes and cytokines, to access the brain parenchyma. Similarly, in humans, BBB dysfunction following surgery has been assessed in pilot studies using gadolinium- enhanced magnetic resonance imaging.<sup>75</sup> BBB function can also be studied in humans by measuring the CSF to plasma ratio of albumin levels (referred to as Qalbumin). Normally, there is much less albumin in the CSF than in the plasma, so an increase in Qalbumin indicates BBB dysfunction. Qalbumin increases after major aortic and cardiac surgery. The release of brain-derived factors such as YKL- 40, S100β, and plasminogen activator inhibitor 1 into the plasma may also indicate increased permeability of the BBB.<sup>65</sup>
+
+Immune cells from the periphery, including bone marrow–derived monocytes, can gain access to the brain via a leaky BBB, where they can release factors that further disrupt the integrity of the BBB. Further, macrophages and other leukocytes located in the circumventricular organs and perivascular structures express Toll- like receptors that trigger cytokine release, which can then enter the brain. The interplay between peripheral and central inflammation in PNDs is an area of intense research, and a great deal more about this topic is likely to be learned in the near fut ure.<sup>65,76,77</sup>
+
+### Modulation of Microglia and Astrocytes
+
+Glia, which are also referred to as gliocytes, glial cells, and neuroglia, form most of brain and spinal cord parenchyma. These non- neuronal cells include microglia, astrocytes, oligodendrocytes, and ependymal cells. In the peripheral nervous system, glia subtypes include Schwann cells and satellite cells. The glia serve multiple functions in the CNS, such as supplying nutrients, oxygen, trophic factors, and neurotransmitters to the neurons. They contribute to the structure of the parenchyma, insulate neurons from one another, and help to maintain the BBB in response to injury by destroying pathogens and damaged cells.
+
+Microglia are resident phagocytes of the brain, where they account for 10%–15% of all cells. Microglia serve a range of functions, including supporting blood vessel and BBB integrity, neurogenesis, tissue repair, and synaptic remodeling. They also play key roles in surveillance of the surrounding area, and their cellular morphology (and that of their processes) can change dramatically in response to extracellular stimuli or threats. In response to activating factors, microglia can release soluble factors such as
+
+<!-- PDF page 9 -->
+
+cytokines, and they play important roles in phagocytosis of synapses in both normal development and disease states. Interestingly, studies have shown that microglial activation is necessary for the development of cognitive dysfunction following surgery in normal and obese mice.<sup>48,78</sup> The most recent nomenclature refers to microglia as residing in either a homeostatic baseline state or a surveillance state of their local environment. Microglia respond to both local cues and peripheral signals, including those from the gastrointestinal tract via the gut–brain axis. Several studies have suggested that activation of microglia is necessary and sufficient to cause PND in animal models.<sup>48,79</sup> Changes in microglial function lead to the robust production of inflammatory cytokines, including IL- 1β. For example, Kv1.3 potassium channels that are expressed in microglia have been proposed as drug targets. However, the responses of rodent and human microglia may differ.<sup>78</sup> Early human studies using positron emission tomography (PET) imaging with the peripheral benzodiazepine receptor ligand [<sup>11</sup> C] PBR28 (which is thought to preferentially bind to activated microglia) suggests that microglia exhibit a suppressed, rather than reactive, phenotype after surgery.<sup>80</sup> Furthermore, no correlation has been found between microglial activation (as measured by [<sup>11</sup> C]PBR28 PET) and delirium in older surgical patients.<sup>80</sup> Overall, the utility of targeting microglia for preventing or treating human PNDs remains uncertain.
+
+Astrocytes are the most abundant cells in the brain, contribute to the formation and maintenance of memory,<sup>81</sup> and may also play a role in PND. Astrocytes form direct contact with neurons, where they regulate the homeostatic environment, synaptic structure, neurotransmission, and the function of neuronal networks. Astrocytes release soluble factors known as glio- transmitters, including γ- aminobutyric acid (GABA) and glutamate, as well as paracrine factors, such as the neurotrophin brain- derived neurotrophic factor (BDNF).<sup>82</sup>
+
+Cross- talk between microglia, astrocytes, and neurons may contribute to both the onset and resolution of PNDs. For example, microglial activation in the hippocampus generates activated, potentially neurotoxic astrocytes, which mediate etomidate- induced cognitive deficits in animal models.<sup>83</sup> Furthermore, astrocytes release GABA, which reduces neuronal excitability.<sup>84</sup> Conversely, dexmedetomidine, which has been shown to reduce the incidence and duration of delirium in the intensive care unit (relative to benzodiazepine- based sedation),<sup>85,86</sup> stimulates astrocytes to release neurotrophic factors (such as BDNF) that support normal neuronal function. The role of astrocytes in PNDs is an area of emerging interest (reviewed in reference 87).
+
+### General Anesthetic Drugs
+
+Although the contribution of general anesthetic drugs to cognitive outcomes in human patients remains controversial, animal studies have more consistently shown that memory deficits can persist after drug exposure. A scoping review recently summarized articles that addressed the question of whether general anesthetic drugs cause cognitive deficits in adult animals that persist after the drugs have been eliminated from the brain.<sup>47</sup> The review assessed articles indexed in the MEDLINE database from 1953 to 2021. Overall, 106 preclinical studies met the study
+
+inclusion criteria, which included a single exposure to a general anesthetic drug (other than ketamine or nitrous oxide) and one or more assessments of cognitive behaviors at least 24 hours later. All of the included studies involved rodents, and 77% reported postanesthetic deficits in at least one cognitive domain. Deficits were detected in young adult and aged animals, but were more frequently reported in studies of older animals. Cognitive deficits were also more frequently reported in studies that involved longer anesthetic treatment durations, shorter postanesthetic recovery intervals, and administration of inhaled versus intravenous anesthetic drugs.
+
+Several reasons might account for differences in cognitive outcomes after general anesthesia in humans and laboratory animals. For example, the timing of cognitive testing after anesthetic drug treatment often differs between preclinical and clinical studies. Also, certain cognitive domains such as hippocampal- dependent spatial memory might be particularly vulnerable to persistent anesthetic drug effects in animals, but may be less frequently assessed in human PND studies. Notably, cognitive deficits in one specific domain are often not generalizable to other domains.
+
+The scoping review summarized above found that the quality of many preclinical studies of PND was lacking. Many studies included in the scoping review failed to use blinding, did not use randomization in assignment of animals to treatment groups, failed to report mortality, almost exclusively studied male animals, and rarely studied aged animals. Further, many PND animal model studies have not reported physiologic variables during anesthesia and surgery. This raises the question of whether effects seen in these PND animal model studies may be due to significant physiologic derangements, such as hypotension or hypothermia, rather than more general aspects of anesthesia and surgery that occur in humans. This is an important caveat to these studies, since avoiding blood pressure values below the individualized lower limit of cerebral autoregulation has been demonstrated to significantly reduce postoperative delirium rates in humans.<sup>88</sup> Overall, to improve the overall quality of future animal PND model studies, recommendations for preclinical studies of postanesthesia outcomes have been proposed.<sup>48</sup>
+
+In future preclinical studies, the effects of anesthetic drugs should be studied in a more realistic context, including assessment of the influence of cofactors such as inflammation and surgery. Several studies have shown that anesthetic drugs and surgery cause cognitive impairment in laboratory animals, but only when combined with neuroinflammation.<sup>89</sup> For example, an intravenous anesthetic drug caused prolonged cognitive deficits, but only in mice that had been pretreated with the proinflammatory agent lipopolysaccharide.<sup>89</sup> In contrast to the results summarized above, the contribution of different classes of drugs (inhalational vs. injected) to human PNDs has remained controversial. Several studies have examined whether propofol, compared with inhaled anesthetics, is associated with lower rates of delirium or improved postoperative cognitive trajectories, but these have produced mixed results.<sup>29,90–94b</sup>
+
+One approach that has been used in clinical studies to assess the effects of anesthetic drugs on PNDs is to compare cognitive outcomes after regional and general anesthesia. Large prospective randomized trials, including the REGAIN
+
+<!-- PDF page 10 -->
+
+trial, showed no difference between general anesthesia and regional anesthesia with intravenous sedation in the incidence of delirium among older patients undergoing hip fracture repair.<sup>95</sup> However, the intravenous anesthetic dosage in the non–general anesthetic arm of the REGAIN trial was not reported, and many centers typically provide “sedative” doses of propofol suitable for general anesthesia (i.e., up to and above 100 mcg/kg/min) to orthopedic surgery patients receiving regional anesthesia. Thus, although the REGAIN trial clearly shows no benefit of spinal anesthesia over general anesthesia when the spinal anesthesia is administered with intravenous sedation (i.e., the common current practice), it did not answer the question of whether avoiding CNS- active anesthetic drugs altogether would reduce the incidence of delirium or improve other outcomes. This latter question was addressed by the RAGA trial in China, in which patients undergoing hip fracture repair were randomly assigned to receive spinal anesthesia without sedation or general anesthesia.<sup>96</sup> The study found no difference in rates of POD between the two groups. However, delirium rates in the RAGA trial were less than half those seen in REGAIN and many other North American, Australian, and European studies, raising questions about the generalizability of the RAGA trial outside of China. Nonetheless, overall, the RAGA and REGAIN trials together suggest that anesthetic drugs are unlikely to be major causal factors in the development of PND.
+
+Aside from RAGA and REGAIN, other studies have addressed the general question of whether anesthetic drugs contribute to PND risk by examining whether EEG- guided anesthetic drug delivery reduces PND rates by allowing anesthesiologists to administer lower doses of anesthetic. These studies have yielded similarly mixed results. Two randomized controlled trials showed that titrating anesthetics to a bispectral EEG index (BIS) value of 40–60 resulted in significantly lower delirium rates.<sup>97,98</sup> In contrast, in the ENGAGES trial, patients were randomly assigned to BIS target or standard care, and the incidence of delirium did not differ between the two groups, although the difference in anesthetic dosage between the two groups was only ∼0.1 MAC (minimum alveolar concentration) and unlikely to represent a clinically significant difference.<sup>99</sup> More recently, the BALANCED anesthesia delirium substudy found a significant reduction in the incidence of delirium after major noncardiac surgery in patients randomized to a BIS target of 50 (light anesthesia) compared with a BIS target of 35 (deep anesthesia).<sup>100</sup> In the BALANCED delirium substudy, the difference in anesthetic dose between groups was considerably greater than that seen in ENGAGES and represented a statistically and clinically significant difference. The BALANCED study results suggested that a greater depth of anesthesia associated with higher doses of anesthetic drug(s) influenced postoperative cognitive outcomes. However, all of the studies addressing this question have had limitations, and the contribution of anesthetic agent dosage to PNDs remains uncertain at this time.
+
+### Altered Inhibitory and Excitatory Neurotransmission
+
+One potential mechanism underlying PNDs is a disruption of the delicate balance between excitatory and inhibitory neurotransmission, the so- called E/I balance, which is required for normal cognition. The major excitatory
+
+neurotransmitter is glutamate, whereas GABA mediates most inhibitory neurotransmission in the brain. General anesthesia and surgical trauma may disrupt the E/I balance and thereby disrupt synaptic plasticity and impair learning and memory processes. Numerous studies have shown that anesthesia and surgery alter neuronal excitability and neurotransmitter release; more specifically, they increase inhibitory neurotransmission and disrupt long- term potentiation of excitatory synaptic transmission, which is thought to be a cellular correlate to memory.<sup>84,101–104</sup>
+
+Excess activity of GABA receptors, of which GABA type A (GABAA) is the most prevalent type in the brain, may contribute to PNDs. Preclinical studies have shown that anesthetic drugs, surgery, and the administration of a proinflammatory factor, lipopolysaccharide, impair synaptic plasticity, possibly by increasing GABA- ergic inhibition.<sup>84,103–105</sup> As an example, many anesthetic drugs and inflammation trigger sustained hyperactivity of α5 subunit–containing GABAA (α5- GABAA) receptors, which regulate memory processes.<sup>103,106</sup> Drugs that preferentially reduce α5- GABAA receptor function (so- called negative allosteric modulators or NAMs) prevent memory deficits after general anesthesia and surgery in animal models.<sup>84,104,107,108</sup> NAMs that preferentially inhibit α5- GABAA receptor–mediated function are being developed by large and small pharmaceutical companies as cognitive enhancing or “smart” drugs. These include L- 655,708, α5IA, Ro15- 4513, MRK- 016, RO4938581, and RY- 80.<sup>109–111</sup> Drugs that inhibit α5- GABAA receptors are attractive, as they do not have convulsant or proconvulsant properties, they have good oral bioavailability, and they easily cross the BBB.<sup>110</sup> Pharmacologically inhibiting α5- GABAA receptor–mediated tonic current enhances long- term potentiation, reverses anesthesiaand scopolamine- induced impairment of spatial working memory, and enhances performance on an object recognition memory assay.<sup>111</sup> In studies involving human volunteers, these drugs have also been effective in the treatment of memory deficits after ethanol and depression, although NAMs were not effective in the treatment of cognitive deficits associated with Down syndrome.<sup>112–116</sup>
+
+Future studies are also needed to determine whether α5- GABAA receptor activity increases in humans after surgery and whether NAMs mitigate postoperative cognitive deficits. Selective PET radioligands that preferentially target α5- GABAA receptors are available, such as [<sup>11</sup> C]Ro15- 4513 and [<sup>3</sup> H]L- 655,708 and the less selective PET ligand [<sup>11</sup> C] flumazenil.<sup>115,117</sup> One particular NAM, [<sup>11</sup> C]Ro15- 4513, shows _in vivo_ regional specificity and target engagement in humans.<sup>113</sup> Studies to determine whether α5- GABAA receptor expression increases after anesthesia and surgery in patients, and whether negative allosteric modulators mitigate postoperative cognitive deficits will be of great interest. In support of the α5- GABAA receptor hypothesis of PND, cotreatment with the α2 adrenergic receptor agonist dexmedetomidine prevents overactivity of α5- GABAA receptors and also prevents cognitive deficits in animal models.<sup>118,119</sup>
+
+Exposure to anesthetic drugs and surgery is also associated with a reduction in excitatory glutamate receptor function. In particular, the _N_ - methyl- d- aspartate (NMDA) glutamate receptor subtype has been implicated in a variety of mood and cognitive disorders, including those
+
+<!-- PDF page 11 -->
+
+associated with aging.<sup>120–123</sup> Anti- inflammatory interventions reduced NMDA receptor hypofunction and rescued deficits in spatial memory in animal models. Neuroinflammation triggered sustained downregulation of NR2A and NR2B subunits in the hippocampus and selective spatial memory deficits in older rats,<sup>124</sup> and anti- inflammatory treatment reversed altered dendritic spine structural plasticity and ameliorated learning deficits. Thus, drugs that increase glutamate receptor expression and function may have utility in the treatment of PNDs.
+
+### Production of Neurotoxic Molecules Associated with Neurodegenerative Disorders
+
+Increases in plasma neurofilament light chain and tau, two molecules associated with neuronal injury and neurodegenerative disorders, have been identified in human plasma following anesthesia/surgery.<sup>125</sup> However, it remains unclear to what extent these plasma biomarker changes reflect _de novo_ CNS injury versus either BBB dysfunction and increased efflux of these proteins from the CNS into the plasma, or peripheral production of these proteins, although a close correlation between plasma and CSF levels has been demonstrated.<sup>126a</sup> Other human studies have shown inconsistent results. Two studies have demonstrated postoperative increases in CSF tau levels following neurosurgery and/or ENT surgery that involved crossing the dura<sup>62,126b</sup> and some (but not all)<sup>58,61</sup> studies have found increases in CSF and/or blood- based neurodegenerative disease biomarkers after major vascular<sup>127</sup> and cardiac surgery.<sup>128,129</sup> In contrast, a recent study in over 100 patients found no correlation between postoperative changes in cognition and postoperative changes in CSF Alzheimer disease–related biomarkers (including amyloid beta 1- 42, tau, and p- tau- 181p) at either 1 day after or 6 weeks after surgery.<sup>130</sup> However, some studies have only examined CSF biomarkers one day after surgery, which may have been too early to observe any significant increases in biomarkers or associations of such increases with PNDs, since the peak rise in plasma neurofilament light (NFL) does not occur until 48 hours or later.<sup>125,131</sup> Neuroimaging studies with PET ligands have not definitively shown a relationship between CNS amyloid pathologic changes and PNDs or an effect of surgery on brain amyloid deposition.<sup>132,133</sup>
+
+in context for the individual after consideration of all relevant factors for that patient.
+
+## Future Directions
+
+Overall, mechanistic insights gained from both animal and human studies may help identify biomarkers for stratifying patients according to their individual/personalized PND risk, and which may serve as diagnostic and/or prognostic markers. Future research priorities of preclinical studies include developing standardized animal models to study cognitive deficits, such as delirium, after anesthesia and surgery. Studies that directly investigate the effect of different concentrations of intravenous and inhaled anesthetics, administered at equipotent concentrations and for similar durations, are also needed. Importantly, such studies should follow rigorous best practice guidelines designed to ensure that their findings will be relevant to the care of older surgical patients.<sup>48</sup> Research is also needed to determine the role of neuroinflammation, and to identify pharmacologic strategies to prevent and treat PNDs. Robust evidence is needed to support novel interventions to reduce or prevent PNDs.
+
+Finally, insights gained from the study of PNDs may inform investigations of other forms of cognitive impairment, such as traumatic and neurodegenerative brain injury, which share some similar contributing factors (such as neuroinflammation). Such insights may identify novel opportunities to treat and/or prevent both PNDs and other disorders.
+
+### Complete references available online at expertconsult.com.
+
+### References
+
+1.  Savage GH. _BMJ_ . 1887;3:1199.
+
+2.  Moller JT, et al. _Lancet_ . 1998;351(9106):857.
+
+3.  Newman MF, et al. _N Engl J Med_ . 2001;344(6):395.
+
+4.  Evered L, et al. _Br J Anaesth_ . 2018;121(5):1005.
+
+5.  American Psychiatric Association. _Diagnostic and Statistical Manual of Mental Disorders_ . 5th ed. American Psychiatric Association; 2013.
+
+6.  Safavynia SA, et al. _Front Aging Neurosci_ . 2022;14:949148.
+
+7.  Silbert B, et al. _Anesthesiology_ . 2015;122(6):1224.
+
+8.  Atkins KJ, et al. _J Alzheimers Dis_ . 2021;83(4):1637.
+
+## What Should We Tell Patients about PNDs?
+
+Much of this chapter has focused on research advances in defining and understanding PNDs, yet patients are often more concerned about how anesthesia and surgery will affect them individually than about the underlying biological mechanisms or precise clinical definitions of these disorders. It remains unclear to what extent long- term cognitive deficits that do occur following anesthesia and surgery reflect a detrimental effect of perioperative care on neurocognitive function, versus the natural development of cognitive decline in patients with latent preclinical Alzheimer disease pathology or other underlying risk factors for longterm cognitive decline. Overall, while guidelines have discussed informing older adults about the cognitive risks of anesthesia and surgery,<sup>42</sup> it is important to put these risks
+
+9.  Cohen CL, et al. _Anesth Analg_ . 2023;136(6):1174.
+
+10.  Evered LA, et al. _Anesthesiology_ . 2016;125(1):62. 11.  Albert MS, et al. _Alzheimer Dementia_ . 2011;7(3):270. 12.  McKhann GM, et al. _Alzheimer Dementia_ . 2011;7(3):263. 13.  Inouye SK, et al. _Ann Intern Med_ . 1990;113(12):941. 14.  Marcantonio ER, et al. _Ann Intern Med_ . 2014;161(8):554. 15.  Taylor J, et al. _Br J Anaesth_ . 2022;129(2):219. 16.  Inouye SK, et al. _Alzheimer Dementia_ . 2016;12(7):766. 17.  Evered L, et al. _Int Psychogeriatr_ . 2016;28(7):1053. 18.  Scott DA, et al. _J Am Heart Assoc_ . 2018;7(6):e008004. 19.  Evered L, et al. _Br J Anaesth_ . 2018;121(5):1005. 20.  Rasmussen LS, et al. _Acta Anaesthesiol Scand_ . 2001;45(3):275. 21.  Keizer AM, et al. _Acta Anaesthesiol Scand_ . 2005;49(9):1232. 22.  Mathew JP, et al. _Stroke_ . 2013;44(12):3407. 23.  Evered LA, Silbert BS. _Anesth Analg_ . 2018;127(2):496. 24.  Berger M, et al. _Anesthesiology_ . 2018;129(4):829. 25.  Zhang J, et al. _Front Aging Neurosci_ . 2022;14:995781. 26.  Inouye SK. _Dement Geriatr Cogn Disord_ . 1999;10(5):393. 27.  Ormseth CH, et al. _JAMA Netw Open_ . 2023;6(1):e2249950. 28.  Mei X, et al. _J Alzheimers Dis_ . 2020;76(4):1627.
+
+29.  Miller D, et al. _Cochrane Database Syst Rev_ . 2018;8(8):CD012317.
+
+<!-- PDF page 12 -->
+
+30.  Avidan MS, et al. _Lancet_ . 2017;390(10091):267.
+
+31.  Hovaguimian F, et al. _Acta Anaesthesiol Scand_ . 2018;62(9):1182.
+
+32.  Su X, et al. _Lancet_ . 2016;388(10054):1893.
+
+33.  Deiner S, et al. _JAMA Surg_ . 2017;152(8):e171505.
+
+34.  Sumner M, et al. _Br J Anaesth_ . 2023;130(2):e243.
+
+35.  Franks NP. _Nat Rev Neurosci_ . 2008;9(5):370.
+
+36.  Purdon PL, et al. _Anesthesiology_ . 2015;123(4):937.
+
+37.  Jones RN, et al. _J Geriatr Psychiatry Neurol_ . 2016;29(6):320.
+
+38.  Avidan M. THRIVE Feasibility Trial. https://www.clinicaltrials.go v/ct2/show/NCT05346588?term=Michael+Avidan&draw=3&r ank=4.
+
+39.  Hewitt J, et al. _Am J Surg_ . 2015;209(2):254.
+
+40.  Evered LA, et al. _Anesth Analg_ . 2020;131(5):1582.
+
+41.  O’Gara BP, et al. _Anesthesiology_ . 2021;135(6):1132.
+
+42.  Peden CJ, et al. _Br J Anaesth_ . 2021;126(2):423.
+
+43.  Zietlow KE, et al. _Am J Med_ . 2022;135(1):39.
+
+44.  Duprey MS, et al. _Anesth Analg_ . 2022;134(6):1154.
+
+45.  Hshieh TT, et al. _Am J Geriatr Psychiatry_ . 2018;26(10):1015.
+
+46.  Humeidan ML, et al. _JAMA Surg_ . 2021;156(2):148.
+
+47.  Guo LY, et al. _Br J Anaesth_ . 2023;130(2):e351.
+
+48.  Eckenhoff RG, et al. _Anesthesiology_ . 2020;132(1):55.
+
+49.  Inouye SK, et al. _J Am Geriatr Soc_ . 2000;48(12):1697.
+
+50.  Ely EW. _Crit Care Med_ . 2017;45(2):321.
+
+51.  Stollings LM, et al. _Anesthesiology_ . 2016;125(2):399.
+
+52.  Ackerman RS, et al. _Anesth Analg_ . 2021;133(3):676.
+
+53.  Avramescu S, et al. _Anesthesiology_ . 2016;124(2):417.
+
+54.  Subramaniyan S, Terrando N. _Anesth Analg_ . 2019;128(4):781.
+
+55.  Yang T, et al. _Nat Immunol_ . 2020;21(11):1319.
+
+56.  Vacas S, et al. _Anesthesiology_ . 2014;120(5):1160.
+
+57.  Taylor J, et al. _Br J Anaesth_ . 2022;129(2):219.
+
+58.  Danielson M, et al. _J Neuroinflammation_ . 2018;15(1):283.
+
+59.  Danielson M, et al. _Ann Neurol_ . 2020;87(3):370.
+
+60.  Fertleman M, et al. _Sci Rep_ . 2022;12(1):2221.
+
+61.  Reinsfelt B, et al. _Ann Thorac Surg_ . 2012;94(2):549.
+
+62.  Tang JX, et al. _Anesthesiology_ . 2011;115(4):727.
+
+63.  Buvanendran A, et al. _Anesthesiology_ . 2006;104(3):403.
+
+64.  Berger M, et al. _J Am Geriatr Soc_ . 2019;67(4):794.
+
+65.  David- Bercholz J, et al. _Brain Behav Immun Health_ . 2022;26:100555.
+
+66.  Williams ME, et al. _J Neuroimmunol_ . 2021;358:577649.
+
+67.  Bauer ME, Teixeira AL. _Neuroimmunomodulation_ . 2021;28(3):99.
+
+68.  Alnefeesi Y, et al. _Front Psychiatry_ . 2020;11:621773.
+
+69.  Terrando N, et al. _Sci Rep_ . 2021;11(1):3047.
+
+70.  Yang T, et al. _Br J Anaesth_ . 2019;122(3):350.
+
+71.  Yang T, et al. _Br J Anaesth_ . 2023;130(2):e370.
+
+72.  Huffman WJ, et al. _Brain Stimul_ . 2019;12(1):19.
+
+73.  VanDusen KW, et al. _J Alzheimers Dis_ . 2020;75(4):1319.
+
+74.  Royse CF, et al. _Anesthesiology_ . 2017;126(2):223.
+
+75.  Merino JG, et al. _AJNR Am J Neuroradiol_ . 2013;34(3):518.
+
+76.  Gate D, et al. _Nature_ . 2020;577(7790):399.
+
+77.  Berger M, et al. _Front Immunol_ . 2017;8:1528.
+
+78.  Lai IK, et al. _Br J Anaesth_ . 2020;125(3):298.
+
+79.  Wang DS, et al. _Br J Anaesth_ . 2020;125(3):229.
+
+80.  Forsberg A, et al. _Ann Neurol_ . 2017;81(4):572.
+
+81.  Bohmbach K, et al. _Essays Biochem_ . 2023;67(1):107.
+
+83.  Li D, et al. _J Neuroinflammation_ . 2020;17(1):109.
+
+84.  Zurek AA, et al. _J Clin Invest_ . 2014;124(12):5437.
+
+85.  Riker RR, et al. _JAMA_ . 2009;301(5):489.
+
+86.  Pandharipande PP, et al. _JAMA_ . 2007;298(22):2644.
+
+87.  Cao Y, et al. _Brain Sci_ . 2022;12(11):1435.
+
+88.  Brown CH, et al. _JAMA Surg_ . 2019;154(9):819.
+
+89.  Khodaei S, et al. _Anesth Analg_ . 2023;136(5):999.
+
+90.  Ding Y, et al. _J Perianesth Nurs_ . 2022;37(5):683.
+
+91.  Li Y, et al. _Anesthesiology_ . 2021;134(3):381.
+
+92.  Zhang Y, et al. _Br J Anaesth_ . 2018;121(3):595.
+
+93.  Mahajan VA, et al. _Eur J Anaesthesiol_ . 2007;24(6):505.
+
+- 94a.  Yoshimura M, et al. _J Anesth_ . 2022;36(6):698.
+
+- 94b.  Villalobos D, et al. _Br J Anaesth_ . 2023;131(2):328.
+
+95.  Neuman MD, et al. _N Engl J Med_ . 2021;385(22):2025.
+
+96.  Li T, et al. _JAMA_ . 2022;327(1):50.
+
+97.  Radtke FM, et al. _Br J Anaesth_ . 2013;110(suppl 1):i98.
+
+98.  Chan MT, et al. _J Neurosurg Anesthesiol_ . 2013;25(1):33.
+
+99.  Wildes TS, et al. _JAMA_ . 2019;321(5):473.
+
+100.  Evered LA, et al. _Br J Anaesth_ . 2021;127(5):704.
+
+101.  Zhang W, et al. _CNS Neurosci Ther_ . 2020;26(9):913.
+
+102.  Matsumoto Y, et al. _Biochem Biophys Res Commun_ . 2021;572:27.
+
+103.  Khodaei S, et al. _Br J Anaesth_ . 2023;130(1):e7.
+
+104.  Wang DS, et al. _Cell Rep_ . 2012;2(3):488.
+
+105.  Jiang J, et al. _Brain Behav Immun_ . 2022;99:53.
+
+106.  McGinnity CJ, et al. _Brain Commun_ . 2021;3(1):fcaa190.
+
+107.  Jacob TC. _Front Mol Neurosci_ . 2019;12:179.
+
+108.  Zurek AA, et al. _Anesth Analg_ . 2012;114(4):845.
+
+109.  Sieghart W, Savic MM. _Pharmacol Rev_ . 2018;70(4):836.
+
+110.  Clayton T, et al. _Int J Med Chem_ . 2015;2015:430248.
+
+111.  Etherington LA, et al. _Neuropharmacology_ . 2017;125:353.
+
+112.  Goeldner C, et al. _J Neurodev Disord_ . 2022;14(1):10.
+
+113.  Myers JF, et al. _J Cereb Blood Flow Metab_ . 2017;37(6):2137.
+
+114.  Atack JR. _Curr Top Med Chem_ . 2011;11(9):1203.
+
+115.  Hipp JF, et al. _Sci Rep_ . 2021;11(1):7700.
+
+116.  Liogier d’Ardhuy X, et al. _Front Behav Neurosci_ . 2015;9:300.
+
+117.  Quirk K, et al. _Neuropharmacology_ . 1996;35(9–10):1331.
+
+118.  Wang DS, et al. _Anesthesiology_ . 2018;129(3):477.
+
+119.  Orser BA, Wang DS. _Anesthesiology_ . 2019;130(4):618.
+
+120.  Khormali M, et al. _Brain Inj_ . 2022;36(9):1071.
+
+121.  Mangano GD, et al. _Epilepsy Behav_ . 2022;129:108604. 122.  France G, et al. _Neuropharmacology_ . 2022;202:108840. 123.  Muscat SM, Barrientos RM. _Brain Plast_ . 2021;7(1):47. 124.  Chen B, et al. _J Neuroinflammation_ . 2022;19(1):181. 125.  Evered L, et al. _JAMA Neurol_ . 2018;75(5):542.
+
+- 126a.  Hendricks R, et al. _Bioanalysis_ . 2019;11(15):1405.
+
+- 126b.  Berger M, et al. _J Alzheimers Dis_ . 2016;52(4):1299.
+
+127.  Parker M, et al. _J Gerontol A Biol Sci Med Sci_ . 2022;77(3):494. 128.  DiMeglio M, et al. _Sci Rep_ . 2019;9(1):7177.
+
+129.  Palotas A, et al. _J Alzheimers Dis_ . 2010;21(4):1153.
+
+130.  Berger M, et al. _Ann Clin Transl Neurol_ . 2022;9(2):155.
+
+131.  Casey CP, et al. _Brain_ . 2020;143(1):47.
+
+132.  Walker KA, et al. _Anesthesiology_ . 2020;132(6):1407. 133.  Klinger RY, et al. _Anesthesiology_ . 2018;128(4):728. 134.  Berger M, et al. _Anesth Analg_ . 2018;127(6):1406.
+
+82.  Haydon PG, Carmignoto G. _Physiol Rev_ . 2006;86(3):1009.
+
+<!-- PDF page 13 -->
+
+
+
+<!-- PDF page 14 -->
+
+### References
+
+1.  Savage GH. Insanity following the use of anaesthetics in operations. _BMJ_ . 1887;3:1199–1200.
+
+2.  Moller JT, Cluitmans P, Rasmussen LS, et al. Long- term postoperative cognitive dysfunction in the elderly ISPOCD1 study. ISPOCD investigators. International Study of Post- Operative Cognitive Dysfunction. _Lancet_ . 1998;351(9106):857–861.
+
+3.  Newman MF, Kirchner JL, Phillips- Bute B, et al. Longitudinal assessment of neurocognitive function after coronary-artery bypass surgery. _N Engl J Med_ . 2001;344(6):395–402.
+
+4.  Evered L, Silbert B, Knopman DS, et al. Recommendations for the nomenclature of cognitive change associated with anaesthesia and surgery- 2018. _Br J Anaesth_ . 2018;121(5):1005–1012.
+
+5.  American Psychiatric Association. _Diagnostic and Statistical Manual of Mental Disorders_ . 5th ed. Washington, DC: American Psychiatric Association; 2013.
+
+6.  Safavynia SA, Goldstein PA, Evered LA. Mitigation of perioperative neurocognitive disorders: a holistic approach. _Front Aging Neurosci_ . 2022;14:949148.
+
+7.  Silbert B, Evered L, Scott DA, et al. Preexisting cognitive impairment is associated with postoperative cognitive dysfunction after hip joint replacement surgery. _Anesthesiology_ . 2015;122(6):1224–1234.
+
+8.  Atkins KJ, Scott DA, Silbert B, et al. Preventing delirium and promoting long- term brain health: a clinical trial design for the Perioperative Cognitive Enhancement (PROTECT) Trial. _J Alzheimers Dis_ . 2021;83(4):1637–1649.
+
+9.  Cohen CL, Atkins KJ, Evered LA, et al. Examining subjective psychological experiences of postoperative delirium in older cardiac surgery patients. _Anesth Analg_ . 2023;136(6):1174–1181.
+
+10.  Evered LA, Silbert BS, Scott DA, et al. Prevalence of dementia 7.5 years after coronary artery bypass graft surgery. _Anesthesiology_ . 2016;125(1):62–71.
+
+11.  Albert MS, DeKosky ST, Dickson D, et al. The diagnosis of mild cognitive impairment due to Alzheimer’s disease: recommendations from the National Institute on Aging- Alzheimer’s Association workgroups on diagnostic guidelines for Alzheimer’s disease. _Alzheimer Dementia_ . 2011;7(3):270–279.
+
+12.  McKhann GM, Knopman DS, Chertkow H, et al. The diagnosis of dementia due to Alzheimer’s disease: recommendations from the National Institute on Aging- Alzheimer’s Association workgroups on diagnostic guidelines for Alzheimer’s disease. _Alzheimer Dementia_ . 2011;7(3):263–269.
+
+13.  Inouye SK, van Dyck CH, Alessi CA, et al. Clarifying confusion: the confusion assessment method. A new method for detection of delirium. _Ann Intern Med_ . 1990;113(12):941–948.
+
+14.  Marcantonio ER, Ngo LH, O’Connor M, et al. 3D- CAM: derivation and validation of a 3- minute diagnostic interview for CAM- defined delirium: a cross- sectional diagnostic test study. _Ann Intern Med_ . 2014;161(8):554–561.
+
+15.  Taylor J, Parker M, Casey CP, et al. Postoperative delirium and changes in the blood- brain barrier, neuroinflammation, and cerebrospinal fluid lactate: a prospective cohort study. _Br J Anaesth_ . 2022;129(2):219–230.
+
+16.  Inouye SK, Marcantonio ER, Kosar CM, et al. The short- term and long- term relationship between delirium and cognitive trajectory in older surgical patients. _Alzheimer Dementia_ . 2016;12(7):766–775.
+
+17.  Evered L, Silbert B, Scott DA. Pre- existing cognitive impairment and post- operative cognitive dysfunction: should we be talking the same language? _Int Psychogeriatr_ . 2016;28(7):1053–1055.
+
+18.  Scott DA, Evered L, Maruff P, et al. Cognitive function before and after left heart catheterization. _J Am Heart Assoc_ . 2018;7(6):e008004.
+
+19.  Evered L, Silbert BS, Knopman DS, et al.; Nomenclature Con sensus Working Group. Recommendations for the nomenclature of cognitive change associated with anaesthesia and surgery – 2018. _Br J Anaesth_ . 2018;121(5):1005–1012.
+
+20.  Rasmussen LS, Larsen K, Houx P, et al. The assessment of postoperative cognitive function. _Acta Anaesthesiol Scand_ . 2001;45(3):275– 289.
+
+21.  Keizer AM, Hijman R, Kalkman CJ, et al. The incidence of cognitive decline after (not) undergoing coronary artery bypass grafting: the impact of a controlled definition. _Acta Anaesthesiol Scand_ . 2005;49(9):1232–1235.
+
+22.  Mathew JP, White WD, Schinderle DB, et al. Intraoperative magnesium administration does not improve neurocognitive function after cardiac surgery. _Stroke_ . 2013;44(12):3407–3413.
+
+23.  Evered LA, Silbert BS. Postoperative cognitive dysfunction and noncardiac surgery. _Anesth Analg_ . 2018;127(2):496–505.
+
+24.  Berger M, Terrando N, Smith SK, et al. Neurocognitive function after cardiac surgery: from phenotypes to mechanisms. _Anesthesiology_ . 2018;129(4):829–851.
+
+25.  Zhang J, Basnet D, Du X, et al. Does cognitive frailty predict delayed neurocognitive recovery after noncardiac surgery in frail elderly individuals? Probably not. _Front Aging Neurosci_ . 2022;14:995781.
+
+26.  Inouye SK. Predisposing and precipitating factors for delirium in hospitalized older patients. _Dement Geriatr Cogn Disord_ . 1999;10(5):393–400.
+
+27.  Ormseth CH, LaHue SC, Oldham MA, et al. Predisposing and precipitating factors associated with delirium: a systematic review. _JAMA Netw Open_ . 2023;6(1):e2249950.
+
+28.  Mei X, Zheng HL, Li C, et al. The effects of propofol and sevoflurane on postoperative delirium in older patients: a randomized clinical trial study. _J Alzheimers Dis_ . 2020;76(4):1627–1636.
+
+29.  Miller D, Lewis SR, Pritchard MW, et al. Intravenous versus inhalational maintenance of anaesthesia for postoperative cognitive outcomes in elderly people undergoing non- cardiac surgery. _Cochrane Database Syst Rev_ . 2018;8(8):CD012317.
+
+30.  Avidan MS, Maybrier HR, Abdallah AB, et al. Intraoperative ketamine for prevention of postoperative delirium or pain after major surgery in older adults: an international, multicentre, double- blind, randomised clinical trial. _Lancet_ . 2017;390(10091):267–275.
+
+31.  Hovaguimian F, Tschopp C, Beck- Schimmer B, Puhan M. Intraoperative ketamine administration to prevent delirium or postoperative cognitive dysfunction: a systematic review and meta- analysis. _Acta Anaesthesiol Scand_ . 2018;62(9):1182–1193.
+
+32.  Su X, Meng ZT, Wu XH, et al. Dexmedetomidine for prevention of delirium in elderly patients after non- cardiac surgery: a randomised, double- blind, placebo- controlled trial. _Lancet_ . 2016;388(10054):1893–1902.
+
+33.  Deiner S, Luo X, Lin HM, et al. Intraoperative infusion of dexmedetomidine for prevention of postoperative delirium and cognitive dysfunction in elderly patients undergoing major elective noncardiac surgery: a randomized clinical trial. _JAMA Surg_ . 2017;152(8):e171505.
+
+34.  Sumner M, Deng C, Evered L, et al. Processed electroencephalographyguided general anaesthesia to reduce postoperative delirium: a systematic review and meta- analysis. _Br J Anaesth_ . 2023;130(2):e243–e253.
+
+35.  Franks NP. General anaesthesia: from molecular targets to neuronal pathways of sleep and arousal. _Nat Rev Neurosci_ . 2008;9(5):370– 386.
+
+36.  Purdon PL, Sampson A, Pavone KJ, Brown EN. Clinical electroencephalography for anesthesiologists: Part I: background and basic signatures. _Anesthesiology_ . 2015;123(4):937–960.
+
+37.  Jones RN, Marcantonio ER, Saczynski JS, et al. Preoperative cognitive performance dominates risk for delirium among older adults. _J Geriatr Psychiatry Neurol_ . 2016;29(6):320–327.
+
+38.  Avidan M. THRIVE Feasibility Trial. https://www.clinicaltrials.go v/ct2/show/NCT05346588?term=Michael+Avidan&draw=3&r ank=4.
+
+39.  Hewitt J, Moug SJ, Middleton M, et al. Prevalence of frailty and its association with mortality in general surgery. _Am J Surg_ . 2015;209(2):254–259.
+
+40.  Evered LA, Vitug S, Scott DA, Silbert B. Preoperative frailty predicts postoperative neurocognitive disorders after total hip joint replacement surgery. _Anesth Analg_ . 2020;131(5):1582–1588.
+
+41.  O’Gara BP, Gao L, Marcantonio ER, Subramaniam B. Sleep, pain, and cognition: modifiable targets for optimal perioperative brain health. _Anesthesiology_ . 2021;135(6):1132–1152.
+
+42.  Peden CJ, Miller TR, Deiner SG, et al. Improving perioperative brain health: an expert consensus review of key actions for the perioperative care team. _Br J Anaesth_ . 2021;126(2):423–432.
+
+43.  Zietlow KE, Wong S, Heflin MT, et al. Geriatric preoperative optimization: a review. _Am J Med_ . 2022;135(1):39–48.
+
+44.  Duprey MS, Devlin JW, Griffith JL, et al. Association between perioperative medication use and postoperative delirium and cognition in
+
+<!-- PDF page 15 -->
+
+older adults undergoing elective noncardiac surgery. _Anesth Analg_ . 2022;134(6):1154–1163.
+
+45.  Hshieh TT, Yang T, Gartaganis SL, et al. Hospital Elder Life Program: systematic review and meta- analysis of effectiveness. _Am J Geriatr Psychiatry_ . 2018;26(10):1015–1033.
+
+46.  Humeidan ML, Reyes JC, Mavarez- Martinez A, et al. Effect of cognitive prehabilitation on the incidence of postoperative delirium among older adults undergoing major noncardiac surgery: the Neurobics randomized clinical trial. _JAMA Surg_ . 2021;156(2):148–156.
+
+47.  Guo LY, Kaustov L, Brenna CTA, et al. Cognitive deficits after general anaesthesia in animal models: a scoping review. _Br J Anaesth_ . 2023;130(2):e351–e360.
+
+48.  Eckenhoff RG, Maze M, Xie Z, et al. Perioperative neurocognitive disorder: state of the preclinical science. _Anesthesiology_ . 2020;132(1):55–68.
+
+49.  Inouye SK, Bogardus Jr ST, Baker DI, et al. The Hospital Elder Life Program: a model of care to prevent cognitive and functional decline in older hospitalized patients. Hospital Elder Life Program. _J Am Geriatr Soc_ . 2000;48(12):1697–1706.
+
+50.  Ely EW. The ABCDEF bundle: science and philosophy of how ICU liberation serves patients and families. _Crit Care Med_ . 2017;45(2):321–330.
+
+51.  Stollings LM, Jia LJ, Tang P, et al. Immune modulation by volatile anesthetics. _Anesthesiology_ . 2016;125(2):399–411.
+
+52.  Ackerman RS, Luddy KA, Icard BE, et al. The effects of anesthetics and perioperative medications on immune function: a narrative review. _Anesth Analg_ . 2021;133(3):676–689.
+
+53.  Avramescu S, Wang DS, Lecker I, et al. Inflammation increases neuronal sensitivity to general anesthetics. _Anesthesiology_ . 2016;124(2):417–427.
+
+54.  Subramaniyan S, Terrando N. Neuroinflammation and perioperative neurocognitive disorders. _Anesth Analg_ . 2019;128(4):781–788.
+
+55.  Yang T, Velagapudi R, Terrando N. Neuroinflammation after surgery: from mechanisms to therapeutic targets. _Nat Immunol_ . 2020;21(11):1319–1326.
+
+56.  Vacas S, Degos V, Tracey KJ, Maze M. High- mobility group box 1 protein initiates postoperative cognitive decline by engaging bone marrow- derived macrophages. _Anesthesiology_ . 2014;120(5):1160– 1167.
+
+57.  Taylor J, Parker M, Casey CP, et al. Postoperative delirium and changes in the blood- brain barrier, neuroinflammation, and cerebrospinal fluid lactate: a prospective cohort study. _Br J Anaesth_ . 2022;129(2):219–230.
+
+58.  Danielson M, Reinsfelt B, Westerlind A, et al. Effects of methylprednisolone on blood- brain barrier and cerebral inflammation in cardiac surgery – a randomized trial. _J Neuroinflammation_ . 2018;15(1):283.
+
+59.  Danielson M, Wiklund A, Granath F, et al. Neuroinflammatory markers associate with cognitive decline after major surgery: findings of an explorative study. _Ann Neurol_ . 2020;87(3):370–382.
+
+60.  Fertleman M, Pereira C, Dani M, et al. Cytokine changes in cerebrospinal fluid and plasma after emergency orthopaedic surgery. _Sci Rep_ . 2022;12(1):2221.
+
+61.  Reinsfelt B, Ricksten SE, Zetterberg H, et al. Cerebrospinal fluid markers of brain injury, inflammation, and blood- brain barrier dysfunction in cardiac surgery. _Ann Thorac Surg_ . 2012;94(2):549–555.
+
+62.  Tang JX, Baranov D, Hammond M, et al. Human Alzheimer and inflammation biomarkers after anesthesia and surgery. _Anesthesiology_ . 2011;115(4):727–732.
+
+63.  Buvanendran A, Kroin JS, Berger RA, et al. Upregulation of prostaglandin E2 and interleukins in the central nervous system and peripheral tissue during and after surgery in humans. _Anesthesiology_ . 2006;104(3):403–410.
+
+64.  Berger M, Oyeyemi D, Olurinde MO, et al. The INTUIT Study: investigating neuroinflammation underlying postoperative cognitive dysfunction. _J Am Geriatr Soc_ . 2019;67(4):794–798.
+
+65.  David- Bercholz J, Acker L, Caceres AI, et al. Conserved YKL- 40 changes in mice and humans after postoperative delirium. _Brain Behav Immun Health_ . 2022;26:100555.
+
+66.  Williams ME, Stein DJ, Joska JA, Naude PJW. Cerebrospinal fluid immune markers and HIV- associated neurocognitive impairments: a systematic review. _J Neuroimmunol_ . 2021;358:577649.
+
+67.  Bauer ME, Teixeira AL. Neuroinflammation in mood disorders: role of regulatory immune cells. _Neuroimmunomodulation_ . 2021;28(3):99– 107.
+
+68.  Alnefeesi Y, Siegel A, Lui LMW, et al. Impact of SARS- CoV- 2 infection on cognitive function: a systematic review. _Front Psychiatry_ . 2020;11:621773.
+
+69.  Terrando N, Park JJ, Devinney M, et al. Immunomodulatory lipid mediator profiling of cerebrospinal fluid following surgery in older adults. _Sci Rep_ . 2021;11(1):3047.
+
+70.  Yang T, Xu G, Newton PT, et al. Maresin 1 attenuates neuroinflammation in a mouse model of perioperative neurocognitive disorders. _Br J Anaesth_ . 2019;122(3):350–360.
+
+71.  Yang T, Velagapudi R, Kong C, et al. Protective effects of omega- 3 fatty acids in a blood- brain barrier- on- chip model and on postoperative delirium- like behaviour in mice. _Br J Anaesth_ . 2023;130(2):e370– e380.
+
+72.  Huffman WJ, Subramaniyan S, Rodriguiz RM, et al. Modulation of neuroinflammation and memory dysfunction using percutaneous vagus nerve stimulation in mice. _Brain Stimul_ . 2019;12(1):19–29.
+
+73.  VanDusen KW, Eleswarpu S, Moretti EW, et al. The MARBLE study protocol: modulating ApoE signaling to reduce brain inflammation, DeLirium, and PostopErative cognitive dysfunction. _J Alzheimers Dis_ . 2020;75(4):1319–1328.
+
+74.  Royse CF, Saager L, Whitlock R, et al. Impact of methylprednisolone on postoperative quality of recovery and delirium in the steroids in cardiac surgery trial: a randomized, double- blind, placebo- controlled substudy. _Anesthesiology_ . 2017;126(2):223–233.
+
+75.  Merino JG, Latour LL, Tso A, et al. Blood- brain barrier disruption after cardiac surgery. _AJNR Am J Neuroradiol_ . 2013;34(3):518–523.
+
+76.  Gate D, Saligrama N, Leventhal O, et al. Clonally expanded CD8 T cells patrol the cerebrospinal fluid in Alzheimer’s disease. _Nature_ . 2020;577(7790):399–404.
+
+77.  Berger M, Ponnusamy V, Greene N, et al. The effect of propofol vs. isoflurane anesthesia on postoperative changes in cerebrospinal fluid cytokine levels: results from a randomized trial. _Front Immunol_ . 2017;8:1528.
+
+78.  Lai IK, Valdearcos M, Morioka K, et al. Blocking Kv1.3 potassium channels prevents postoperative neuroinflammation and cognitive decline without impairing wound healing in mice. _Br J Anaesth_ . 2020;125(3):298–307.
+
+79.  Wang DS, Terrando N, Orser BA. Targeting microglia to mitigate perioperative neurocognitive disorders. _Br J Anaesth_ . 2020;125(3):229– 232.
+
+80.  Forsberg A, Cervenka S, Jonsson Fagerlund M, et al. The immune response of the human brain to abdominal surgery. _Ann Neurol_ . 2017;81(4):572–582.
+
+81.  Bohmbach K, Henneberger C, Hirrlinger J. Astrocytes in memory formation and maintenance. _Essays Biochem_ . 2023;67(1):107–117.
+
+82.  Haydon PG, Carmignoto G. Astrocyte control of synaptic transmission and neurovascular coupling. _Physiol Rev_ . 2006;86(3):1009– 1031.
+
+83.  Li D, Chen M, Meng T, Fei J. Hippocampal microglial activation triggers a neurotoxic- specific astrocyte response and mediates etomidate- induced long- term synaptic inhibition. _J Neuroinflammation_ . 2020;17(1):109.
+
+84.  Zurek AA, Yu J, Wang DS, et al. Sustained increase in alpha5GABAA receptor function impairs memory after anesthesia. _J Clin Invest_ . 2014;124(12):5437–5441.
+
+85.  Riker RR, Shehabi Y, Bokesch PM, et al. Dexmedetomidine vs midazolam for sedation of critically ill patients: a randomized trial. _JAMA_ . 2009;301(5):489–499.
+
+86.  Pandharipande PP, Pun BT, Herr DL, et al. Effect of sedation with dexmedetomidine vs lorazepam on acute brain dysfunction in mechanically ventilated patients: the MENDS randomized controlled trial. _JAMA_ . 2007;298(22):2644–2653.
+
+87.  Cao Y, Lin X, Liu X, et al. The role of astrocytes in the mechanism of perioperative neurocognitive disorders. _Brain Sci_ . 2022;12(11):1435.
+
+88.  Brown CH, Neufeld KJ, Tian J, et al. Effect of targeting mean arterial pressure during cardiopulmonary bypass by monitoring cerebral autoregulation on postsurgical delirium among older patients: a nested randomized clinical trial. _JAMA Surg_ . 2019;154(9):819–826.
+
+89.  Khodaei S, Wang DS, Ariza A, et al. The impact of inflammation and general anesthesia on memory and executive function in mice. _Anesth Analg_ . 2023;136(5):999–1011.
+
+90.  Ding Y, Yu J, Cui F, Li J. Comparison of intravenous and inhalational anesthetic on postoperative cognitive outcomes in elderly patients undergoing cancer surgery: systematic review and meta- analysis. _J Perianesth Nurs_ . 2022;37(5):683–690.
+
+91.  Li Y, Chen D, Wang H, et al. Intravenous versus volatile anesthetic effects on postoperative cognition in elderly patients undergoing laparoscopic abdominal surgery. _Anesthesiology_ . 2021;134(3):381–394.
+
+<!-- PDF page 16 -->
+
+92.  Zhang Y, Shan GJ, Zhang YX, et al. Propofol compared with sevoflurane general anaesthesia is associated with decreased delayed neurocognitive recovery in older adults. _Br J Anaesth_ . 2018;121(3):595–604.
+
+93.  Mahajan VA, Ni Chonghaile M, Bokhari SA, et al. Recovery of older patients undergoing ambulatory anaesthesia with isoflurane or sevoflurane. _Eur J Anaesthesiol_ . 2007;24(6):505–510.
+
+- 94a.  Yoshimura M, Shiramoto H, Morimoto Y, Koga M. Comparison of total intravenous with inhalational anesthesia in terms of postoperative delirium and complications in older patients: a nationwide population- based study. _J Anesth_ . 2022;36(6):698–706.
+
+- 94b.  Villalobos D, Reese M, Cooter-Wright M, et al. Perioperative changes in neurocognitive and Alzheimer’s disease-related cerebrospinal fluid biomarkers in older patients randomised to isoflurane or propofol for anaesthetic maintenance. _Br J Anaesth_ . 2023;131(2):328– 337.
+
+95.  Neuman MD, Feng R, Carson JL, et al. Spinal anesthesia or general anesthesia for hip surgery in older adults. _N Engl J Med_ . 2021;385(22):2025–2035.
+
+96.  Li T, Li J, Yuan L, et al. Effect of regional vs general anesthesia on incidence of postoperative delirium in older patients undergoing hip fracture surgery: the RAGA randomized trial. _JAMA_ . 2022;327(1):50–58.
+
+97.  Radtke FM, Franck M, Lendner J, et al. Monitoring depth of anaesthesia in a randomized trial decreases the rate of postoperative delirium but not postoperative cognitive dysfunction. _Br J Anaesth_ . 2013;110(suppl 1):i98–105.
+
+98.  Chan MT, Cheng BC, Lee TM, et al. BIS- guided anesthesia decreases postoperative delirium and cognitive decline. _J Neurosurg Anesthesiol_ . 2013;25(1):33–42.
+
+99.  Wildes TS, Mickle AM, Ben Abdallah A, et al. Effect of electroencephalography- guided anesthetic administration on postoperative delirium among older adults undergoing major surgery: the ENGAGES randomized clinical trial. _JAMA_ . 2019;321(5):473– 483.
+
+100.  Evered LA, Chan MTV, Han R, et al. Anaesthetic depth and delirium after major surgery: a randomised clinical trial. _Br J Anaesth_ . 2021;127(5):704–712.
+
+101.  Zhang W, Xiong BR, Zhang LQ, et al. Disruption of the GABAergic system contributes to the development of perioperative neurocognitive disorders after anesthesia and surgery in aged mice. _CNS Neurosci Ther_ . 2020;26(9):913–924.
+
+102.  Matsumoto Y, Fujino Y, Furue H. Anesthesia and surgery induce a functional decrease in excitatory synaptic transmission in prefrontal cortex neurons, and intraoperative administration of dexmedetomidine does not elicit the synaptic dysfunction. _Biochem Biophys Res Commun_ . 2021;572:27–34.
+
+103.  Khodaei S, Wang DS, Lee Y, et al. Sevoflurane and lipopolysaccharideinduced inflammation differentially affect gamma- aminobutyric acid type A receptor- mediated tonic inhibition in the hippocampus of male mice. _Br J Anaesth_ . 2023;130(1):e7–e10.
+
+104.  Wang DS, Zurek AA, Lecker I, et al. Memory deficits induced by inflammation are regulated by alpha5- subunit- containing GABAA receptors. _Cell Rep_ . 2012;2(3):488–496.
+
+105.  Jiang J, Tang B, Wang L, et al. Systemic LPS- induced microglial activation results in increased GABAergic tone: a mechanism of protection against neuroinflammation in the medial prefrontal cortex in mice. _Brain Behav Immun_ . 2022;99:53–69.
+
+106.  McGinnity CJ, Riano Barros DA, Hinz R, et al. Alpha 5 subunitcontaining GABA(A) receptors in temporal lobe epilepsy with normal MRI. _Brain Commun_ . 2021;3(1):fcaa190.
+
+107.  Jacob TC. Neurobiology and therapeutic potential of alpha5- GABA type A receptors. _Front Mol Neurosci_ . 2019;12:179.
+
+108.  Zurek AA, Bridgwater EM, Orser BA. Inhibition of alpha5 gammaaminobutyric acid type A receptors restores recognition memory after general anesthesia. _Anesth Analg_ . 2012;114(4):845–855.
+
+109.  Sieghart W, Savic MM. International Union of Basic and Clinical Pharmacology. CVI: GABA(A) receptor subtype- and functionselective ligands: key issues in translation to humans. _Pharmacol Rev_ . 2018;70(4):836–878.
+
+110.  Clayton T, Poe MM, Rallapalli S, et al. A review of the updated pharmacophore for the alpha 5 GABA(A) benzodiazepine receptor model. _Int J Med Chem_ . 2015;2015:430248.
+
+111.  Etherington LA, Mihalik B, Palvolgyi A, et al. Selective inhibition of extra- synaptic alpha5- GABA(A) receptors by S44819, a new therapeutic agent. _Neuropharmacology_ . 2017;125:353–364.
+
+112.  Goeldner C, Kishnani PS, Skotko BG, et al. A randomized, doubleblind, placebo- controlled phase II trial to explore the effects of a GABA(A)- alpha5 NAM (basmisanil) on intellectual disability associated with Down syndrome. _J Neurodev Disord_ . 2022;14(1):10.
+
+113.  Myers JF, Comley RA, Gunn RN. Quantification of [(11)C]Ro154513 GABA(A)alpha5 specific binding and regional selectivity in humans. _J Cereb Blood Flow Metab_ . 2017;37(6):2137–2148.
+
+114.  Atack JR. GABAA receptor subtype- selective modulators. II. alpha5- selective inverse agonists for cognition enhancement. _Curr Top Med Chem_ . 2011;11(9):1203–1214.
+
+115.  Hipp JF, Knoflach F, Comley R, et al. Basmisanil, a highly selective GABA(A)- alpha5 negative allosteric modulator: preclinical pharmacology and demonstration of functional target engagement in man. _Sci Rep_ . 2021;11(1):7700.
+
+116.  Liogier d’Ardhuy X, Edgin JO, Bouis C, et al. Assessment of cognitive scales to examine memory, executive function and language in individuals with Down syndrome: implications of a 6- month observational study. _Front Behav Neurosci_ . 2015;9:300.
+
+117.  Quirk K, Blurton P, Fletcher S, et al. [3H]L- 655,708, a novel ligand selective for the benzodiazepine site of GABAA receptors which contain the alpha 5 subunit. _Neuropharmacology_ . 1996;35(9– 10):1331–1335.
+
+118.  Wang DS, Kaneshwaran K, Lei G, et al. Dexmedetomidine prevents excessive gamma- aminobutyric acid type A receptor function after anesthesia. _Anesthesiology_ . 2018;129(3):477–489.
+
+119.  Orser BA, Wang DS. GABAA receptor theory of perioperative neurocognitive disorders. _Anesthesiology_ . 2019;130(4):618–619.
+
+120.  Khormali M, Heidari S, Ahmadi S, et al. N- methyl- D- aspartate receptor antagonists in improving cognitive deficits following traumatic brain injury: a systematic review. _Brain Inj_ . 2022;36(9):1071– 1088.
+
+121.  Mangano GD, Riva A, Fontana A, et al. De novo GRIN2A variants associated with epilepsy and autism and literature review. _Epilepsy Behav_ . 2022;129:108604.
+
+122.  France G, Volianskis R, Ingram R, et al. Differential regulation of STP, LTP and LTD by structurally diverse NMDA receptor subunit- specific positive allosteric modulators. _Neuropharmacology_ . 2022;202:108840.
+
+123.  Muscat SM, Barrientos RM. The perfect cytokine storm: how peripheral immune challenges impact brain plasticity & memory function in aging. _Brain Plast_ . 2021;7(1):47–60.
+
+124.  Chen B, Qin G, Xiao J, et al. Transient neuroinflammation following surgery contributes to long- lasting cognitive decline in elderly rats via dysfunction of synaptic NMDA receptor. _J Neuroinflammation_ . 2022;19(1):181.
+
+125.  Evered L, Silbert B, Scott DA, et al. Association of changes in plasma neurofilament light and tau levels with anesthesia and surgery: results from the CAPACITY and ARCADIAN studies. _JAMA Neurol_ . 2018;75(5):542–547.
+
+- 126a.  Hendricks R, Baker D, Brumm J, et al. Establishment of neurofilament light chain Simoa assay in cerebrospinal fluid and blood. _Bioanalysis_ . 2019;11(15):1405–1418.
+
+- 126b.  Berger M, Nadler JW, Friedman A, et al. The Effect of Propofol Versus Isoflurane Anesthesia on Human Cerebrospinal Fluid Markers of Alzheimer’s Disease: Results of a Randomized Trial. _J Alzheimers Dis_ . 2016;52(4):1299–1310.
+
+127.  Parker M, White M, Casey C, et al. Cohort analysis of the association of delirium severity with cerebrospinal fluid amyloidtau- neurodegeneration pathologies. _J Gerontol A Biol Sci Med Sci_ . 2022;77(3):494–501.
+
+128.  DiMeglio M, Furey W, Hajj J, et al. Observational study of long- term persistent elevation of neurodegeneration markers after cardiac surgery. _Sci Rep_ . 2019;9(1):7177.
+
+129.  Palotas A, Reis HJ, Bogats G, et al. Coronary artery bypass surgery provokes Alzheimer’s disease- like changes in the cerebrospinal fluid. _J Alzheimers Dis_ . 2010;21(4):1153–1164.
+
+130.  Berger M, Browndyke JN, Cooter Wright M, et al. Postoperative changes in cognition and cerebrospinal fluid neurodegenerative disease biomarkers. _Ann Clin Transl Neurol_ . 2022;9(2):155– 170.
+
+<!-- PDF page 17 -->
+
+131.  Casey CP, Lindroth H, Mohanty R, et al. Postoperative delirium is associated with increased plasma neurofilament light. _Brain_ . 2020;143(1):47–54.
+
+132.  Walker KA, Gottesman RF, Coresh J, et al. Association of surgical hospitalization with brain amyloid deposition: the atherosclerosis risk in communities- positron emission tomography (ARIC- PET) study. _Anesthesiology_ . 2020;132(6):1407–1418.
+
+133.  Klinger RY, James OG, Borges- Neto S, et al. 18F- florbetapir positron emission tomography- determined cerebral beta- amyloid deposition and neurocognitive performance after cardiac surgery. _Anesthesiology_ . 2018;128(4):728–744.
+
+134.  Berger M, Schenning KJ, Brown 4th CH, et al.; Perioperative Neurotoxicity Working Group. Best Practices for Postoperative Brain Health: Recommendations From the Fifth International Perioperative Neurotoxicity Working Group. _Anesth Analg_ . 2018;127(6):1406–1413.

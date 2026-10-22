@@ -1,0 +1,2585 @@
+---
+title: Inhaled Anesthetic Delivery Systems
+chapter: 20
+book: Miller's Anesthesia, 10th Edition
+source_file: 20. Inhaled Anesthetic Delivery Systems.pdf
+---
+
+# Inhaled Anesthetic Delivery Systems
+
+<!-- PDF page 1 -->
+
+
+NANDINI C. PALANIAPPA and STEPHEN D. WESTON
+
+- **KEY POINTS** The modern anesthesia workstation has evolved into a complex device with several safety features. However, if there is any possibility that the workstation or the breathing circuit is malfunctioning, ventilating the patient using an oxygen cylinder and a manual ventilation bag is the top priority. When in doubt, ventilate and oxygenate the patient first via another method and troubleshoot later.
+
+- The most important part of the pre- anesthesia workstation checkout procedure is to verify the presence of a self- inflating resuscitation bag and that an alternative oxygen source (E- cylinder) is available.
+
+- The Diameter Index Safety System (DISS) is designed to prevent the misconnection of hospital gas supply lines to the anesthesia workstation. The Pin Index Safety System (PISS) is designed to prevent incorrect gas cylinder connections to the anesthesia workstation. Despite these safety features, no system is immune to misconnections.
+
+- In the event of hospital pipeline crossover or contamination, two actions must be taken: the backup oxygen cylinder valve must be opened, and the wall supply sources must be disconnected. If the wall source remains connected, the suspect hospital pipeline gas will continue to flow to the patient.
+
+- The oxygen flush valve provides a high flow of 100% oxygen directly to the patient’s breathing circuit, allowing the anesthesia provider to overcome circuit leaks or to rapidly increase the inspired oxygen concentration. Improper use of the oxygen flush valve can be associated with barotrauma or patient awareness.
+
+- When using nitrous oxide, there is a risk of delivering a hypoxic mixture to the patient. “Failsafe” valves and nitrous oxide/oxygen proportioning systems help minimize this risk, but they are not 100% fail- safe.
+
+- The low- pressure section (LPS) of the gas supply system includes the flow control valves, flowmeters or flow sensors, and the anesthetic vaporizers. This section of the anesthesia workstation is most vulnerable to leaks, which can cause delivery of a hypoxic gas mixture or an inadequate concentration of anesthetic agent to the patient. The workstation must be checked for leaks before delivery of any anesthetic.
+
+- The oxygen analyzer is the only protection against a hypoxic mixture within the low- pressure section of the pneumatic system.
+
+- Anesthesia workstations with a one- way check valve in the LPS require a manual negativepressure leak test. On machines without a check valve in this location, manual positive- pressure testing or automated testing is used to test the LPS for leaks.
+
+- On machines with manually controlled anesthetic vaporizers, internal vaporizer leaks can be detected only when the vaporizer is turned on. This is true even during automated machine self- tests. Machines with electronically controlled vaporizers can check the installed vaporizer during self- test.
+
+- Variable bypass vaporizers route a portion of the fresh gas flow into a vaporizing chamber to create the desired anesthetic concentration. Injection- type vaporizers utilize microprocessor control to inject small amounts of anesthetic liquid into an evaporating chamber.
+
+- Desflurane’s low boiling point and high vapor pressure make it unsuitable for a variable bypass vaporizer. A variable bypass vaporizer misfilled with desflurane could theoretically cause delivery of a hypoxic mixture and a massive overdose of inhaled desflurane.
+
+- The major advantage of the circle breathing system is the capability to rebreathe exhaled gas, including volatile anesthetic. The major disadvantage is its complex design requiring multiple valves.
+
+- Before an anesthetic agent is administered, the circle system must be checked both to rule out leaks and to verify flow.
+
+- Increasing the fresh gas flow rate into the circle breathing system causes less rebreathing of volatile anesthetic gas and more waste gas. To avoid rebreathing of carbon dioxide, a carbon dioxide absorbent is essential to the circle system’s function.
+
+<!-- PDF page 2 -->
+
+- Older absorbent formulations with larger quantities of strong base catalyst had the potential to interact with inhaled anesthetic agents to produce potentially harmful degradation products. Carbon dioxide absorbents without strong bases such as potassium hydroxide or sodium hydroxide decrease this risk, allowing for low- flow anesthesia.
+
+- The Mapleson breathing circuits are simple, lightweight breathing systems that support both spontaneous and manual ventilation. None are economical for volatile anesthetic use, as they do not readily support carbon dioxide absorbent use.
+
+- Contemporary anesthesia ventilators support a wide variety of ventilation modes similar to intensive care unit ventilators. Anesthesia ventilators differ from intensive care unit ventilators in that they must support the rebreathing of exhaled gases. Types of anesthesia ventilators include bellows, piston, volume reflector, and blower. Each design has its own benefits and limitations.
+
+- For bellows- type anesthesia ventilators, ascending bellows (bellows that ascend during the expiratory phase) are safer than descending bellows (bellows that descend during the expiratory phase) because disconnections are readily manifested by failure of ascending bellows to refill.
+
+- Piston ventilators can potentially draw room air into the breathing circuit if a leak is present. The volume reflector ventilator compensates for leaks with 100% oxygen. Both are susceptible to lower- than- expected levels of inhaled anesthetic.
+
+- Anesthesia providers should know how their machines react to changes in fresh gas flow. On older anesthesia machines, the portion of fresh gas flow that occurs during inspiration is added to the tidal volume. Therefore, increased fresh gas flow leads to increased tidal volume and increased airway pressure during positive- pressure ventilation. Newer- generation anesthesia workstations either decouple the fresh gas flow from the inspired tidal volume or compensate for the fresh gas flow in calculating the amount of gas to deliver as tidal volume.
+
+- The anesthesia gas scavenging system protects the operating room from waste anesthesia gases. Active systems, which apply vacuum suction to the scavenge system, are most common in contemporary operating rooms. Obstruction of, or inadequate vacuum to, the scavenging system transfer tubing can result in increased breathing circuit pressure or discharge of waste anesthesia gases to the operating room depending on the design.
+
+- Volatile anesthetic agents are greenhouse gases. Desflurane and nitrous oxide have higher greenhouse potential than other agents in use. Strategies for reducing the environmental footprint of inhaled anesthesia include eschewing desflurane and nitrous oxide, keeping fresh gas flows low, and considering alternatives to inhalational anesthesia.
+
+- The American Society of Anesthesiologists (ASA) _Recommendations for Pre- Anesthesia Checkout Procedures (2008)_ serves as an excellent template for the creation of machine- specific checkout procedures. However, it is not a one- size- fits- all checklist for all the commercially available anesthesia machines.
+
+Although the modern anesthesia workstation bears little resemblance to the ether- soaked rags of the mid- 1800s, it is at its heart a device for delivering inhaled anesthesia. Early inhaled anesthetics provided no certainty regarding the delivered concentration of anesthetic, relied on spontaneous breathing of room air, possessed little more than the vigilance of the anesthesia provider for safety systems, and exposed the operating room to the anesthetic vapor. The evolution of the anesthesia workstation has provided increasingly sophisticated solutions to each of these problems. Today, anesthesia workstations are designed to:
+
+- Deliver volatile anesthetic gas at precise concentrations
+
+- Individually meter oxygen and two or more other gases, and continuously enrich the inhaled gas with anesthetic vapor
+
+- Allow the patient to be ventilated manually (“bag” ventilation) with adjustable breathing circuit pressure
+
+- Ventilate the patient mechanically, with sophisticated ventilator modes comparable to the intensive care unit (ICU) ventilator
+
+- Allow rebreathing of the exhaled anesthetic gases after removing carbon dioxide
+
+- Eliminate (“scavenge”) excess gas from the patient’s breathing circuit and remove this gas from the room
+
+- Continuously measure and display the inspired oxygen concentration, as well as ventilatory parameters such as respiratory rate and tidal volume
+
+- Prevent hypoxic gas mixtures caused by operator error or gas supply failure
+
+- Provide a breathing circuit manual oxygen flush feature
+
+- Possess a backup supply of oxygen
+
+- Display gas pipeline and backup tank supply pressures
+
+- Provide an integrated platform for displaying anesthetic, hemodynamic, and respiratory parameters, and for collecting this data into an electronic medical record
+
+The sheer number of tasks and solutions for which the anesthesia workstation is designed explains its complexity. Newcomers to the specialty often find the anesthesia machine to be both mysterious and intimidating, even though they sometimes have had experience with other equipment, such as ICU ventilators. Understanding the anesthetic workstation is important because the workstation is one of the most essential pieces of equipment used by anesthesia care providers. Nevertheless, it is worth emphasizing that if there is any doubt about
+
+<!-- PDF page 3 -->
+
+the correct functioning of an anesthesia workstation, then ventilating the patient with an alternative source of oxygen such as an E- cylinder is of top priority. Troubleshooting the anesthesia machine can commence once the patient is safe.
+
+While some of the design and engineering innovations in the anesthesia workstation—or “anesthetic workstation” or “anesthesia machine,” all used interchangeably in this chapter—make the anesthesia provider’s job easier or more efficient, many of the innovations aim to enhance patient safety. Closed claims analysis of adverse anesthetic outcomes related to anesthetic gas delivery equipment shows that such claims now account for only approximately 1% of the claims in the American Society of Anesthesiologists (ASA) closed claims database.<sup>1</sup> Furthermore, the severity of the events leading to the claims has decreased compared with closed claims from earlier decades. There are now more reports of awareness under anesthesia, and fewer reports of death or permanent brain injury.<sup>1,2</sup>
+
+To prevent mishaps, anesthesia providers must be aware of the operational characteristics and design of their anesthesia workstations. Many workstations share very similar characteristics, but there are important variations between them. Similarly, the operational and pre- use checkout procedures can be quite different, thus mandating devicespecific familiarity. Unfortunately, a lack of knowledge pertaining to the anesthesia workstation and a lack of understanding and application of a proper pre- use check are common.<sup>3–6</sup> Contemporary machines have automated pre- use checkout procedures, but performance adherence is uneven.<sup>5</sup> More importantly, machines can pass automated checkouts despite the presence of unsafe conditions.<sup>7,8</sup> Safe use requires a solid generic understanding of any anesthesia workstation along with machine- specific knowledge of unique features and checkout procedures.
+
+Providing a detailed description of each gas system, subsystem component, and patient breathing circuit is not practical within the scope of a single chapter. However, because anesthesia workstations must adhere to basic standards, a generic approach to all machines is presented. Anesthesia providers must acquire a functional understanding of their own workstations and ensure that their local pre- use checkout procedures are suitable for their machines.
+
+## Standards and Guidelines for Anesthesia Workstations
+
+For the anesthesia workstation, many of the requirements for manufacturers regarding device minimum performance, design characteristics, and safety requirements are outlined in the standards of the International Organization for Standardization (ISO). The ISO is a developer of international voluntary consensus standards based on global expert opinion, including industry and academia, as well as governments, consumer organizations, and other nongovernmental organizations.<sup>9</sup> The current standards are defined within the _Particular Requirements for Basic Safety and Essential Performance of an Anesthetic Workstation_ , ISO 80601- 2- 13, of 2011.<sup>10</sup> The ISO standards also reference a large number of other components such as electrical standards, device construction and performance, and even software standards. Additional key standards for machine
+
+subsystems arise from the Compressed Gas Association and the Institute of Electrical and Electronics Engineers.
+
+The ASA publishes several guidelines pertaining to the anesthesia workstation.<sup>11</sup> The _Recommendations for PreAnesthesia Checkout_ , which was updated last in 2008, serves as a general guideline for individual departments and practitioners to design checkout procedures specific to their anesthetic delivery systems.<sup>12</sup> The ASA _Guidelines for Determining Anesthesia Machine Obsolescence_ helps assist anesthesia providers and other health care personnel, administrators, and regulatory bodies to determine when an anesthesia machine is obsolete by applying both absolute and relative criteria.<sup>13</sup> Finally, the ASA publishes _Standards for Basic Anesthetic Monitoring_ , which outlines minimal monitoring standards pertaining to oxygenation, ventilation, circulation, body temperature, and the requirements for the presence of anesthesia personnel.<sup>14</sup> Standards and recommendations pertaining to the anesthesia workstation are published by several other international anesthesiology societies.<sup>15,16</sup>
+
+## Functional Anatomy of the Anesthesia Workstation
+
+### GAS SUPPLY SYSTEM
+
+Modern anesthesia machines are often largely electronically controlled, such that the clinician’s relationship with the pneumatic system is no longer mediated by a flowmeter, but rather by a touchscreen. However, at its heart, the anesthesia machine remains a pneumatic system. It is where breathing gases are delivered from their supply sources, measured, mixed, enriched with anesthetic vapor, and delivered to the patient’s breathing circuit. The details of this gas supply system may differ between the various manufacturers’ anesthesia workstations, but their overall schematic is similar. Fig. 20.1 presents the gas supply system of a more traditional anesthesia machine, without electronic controls. Fig. 20.2 demonstrates a typical contemporary workstation with electronic controls.
+
+The gas supply system can be divided into three sections: high- pressure, intermediate- pressure, and low- pressure sections. The only high- pressure elements in the anesthesia machine are the auxiliary gas tanks (E- cylinders) on the back of the anesthesia machine. The pressure in these tanks (approximately 2000 pounds per square inch gauge [psig] for air and oxygen, 745 psig for nitrous oxide) is immediately stepped down to an intermediate pressure. The hospital’s gas pipelines are themselves of intermediate pressure (50–55 psig), so the intermediate pressure section starts from the pipelines or from the stepped- down input from the E- cylinders and extends up to the flowmeter control valves. The low- pressure section begins at the flowmeter control valves, includes the flowmeters and anesthetic vaporizer, and ends at the fresh gas outlet.
+
+### High- Pressure Section
+
+**Auxiliary E- Cylinder Inlet.** During normal operation, the high- pressure section of the anesthesia machine is not active, because the hospital’s central gas supply system
+
+<!-- PDF page 4 -->
+
+![](assets/chapter-20/20._Inhaled_Anesthetic_Delivery_Systems.pdf-0004-01.png)
+
+
+Pipeline<br>Filters pressure gauges Low-pressure section<br>Check<br>Air<br>valves<br>pipeline<br>supply Flowmeters<br>50–55 psig<br>Anesthetic<br>vaporizer<br>Flow<br>control<br>Air valves<br>O2:N2O<br>N2O<br>proportioning<br>pipeline Secondary<br>system<br>supply pressure Balance (Link-25)<br>50–55 psig regulators regulator<br>(“fail-safe”)<br>Outlet<br>check<br>valve<br>N2O<br>O2<br>pipeline<br>supply<br>50–55 psig<br>Auxiliary O2<br>flowmeter<br>Low O2 Oxygen flush<br>Tank pressure sensor valve<br>Cylindersupply O2 pressuregauges<br>O2 flush and<br>auxiliary<br>flowmeter<br>O2 high-pressure section regulator Fresh gas outlet<br>(to breathing circuit)<br>
+
+**Fig. 20.1 The GE Aespire anesthesia workstation gas supply system.** The high- pressure section extends from the gas cylinders to the high- pressure regulators ( _dashed lines_ around O2 high- pressure section only). The intermediate- pressure section extends from the high- pressure regulators to the flow control valves and includes the tubing and components originating from the pipeline inlets. The low- pressure section _(dashed lines)_ extends from the flow control valves to the breathing circuit. See text for additional details. (From Datex- Ohmeda. _S/5 Aespire Anesthesia Machine: Technical Reference Manual_ . Madison, WI: Datex- Ohmeda; 2004.)
+
+serves as the primary gas source for the machine. However, it is a requirement to have at least one attachment for an oxygen cylinder to serve as a backup oxygen source in case of failure of the hospital supply. Machines may also have E- cylinder attachment points for air or nitrous oxide, and less commonly for carbon dioxide (CO2) or helium. The cylinders are mounted to the anesthesia machine by the hanger yoke assembly, as seen in Fig. 20.3. The hanger yoke assembly orients and safely supports the cylinder, provides a gas- tight seal, and ensures unidirectional flow of gases into the machine.<sup>17,18</sup> Each yoke assembly must have a label designating which gas it is intended to accept. Each hanger yoke is also equipped with the Pin Index Safety System (PISS), which is a safeguard to reduce the risk of a medical gas error caused by interchanging cylinders. Two metal pins on the yoke assembly are arranged to project precisely into corresponding holes on the cylinder head–valve assembly of the tank. Each gas or combination of gases has a specific pin arrangement.<sup>19</sup> Although infrequent, failures of the PISS have been reported, and like all safety systems, the PISS should be considered partial protection.<sup>20,21</sup> Medical gas cylinder errors can have tragic outcomes, so it is critical
+
+to ensure that the proper gas is connected to the proper inlet by also checking the tank and yoke labels.<sup>22</sup>
+
+Once a gas cylinder is attached, gas flows first through a filter to entrap any particulate matter from the tank inflow. The maximum pressure in full E- cylinders is much higher than the normal hospital pipeline supply pressure of 50 to 55 psig. A _high- pressure regulator_ reduces the variable high pressure in the E- cylinder to a constant pressure slightly lower than the normal pipeline supply pressure, approximately 40 to 45 psig (depending on the specific anesthesia machine).<sup>18</sup> After the high- pressure regulator, cylinder gas flows through a one- way valve called the cylinder check valve, which prevents backflow of machine gas out through an empty yoke or back into an empty cylinder (see Fig. 20.1).
+
+The regulated pressure from the E- cylinder is set below the pipeline pressure as a safety feature. If both the E- cylinder and the oxygen pipeline are connected and the E- cylinder is open, the anesthesia machine will draw gas from the pipeline rather than the E- cylinder, thereby preserving the contents of the E- cylinder in case of pipeline failure. Fluctuations in the pipeline pressure below 40 to 45 psig could allow the E- cylinder to be drained, as could
+
+<!-- PDF page 5 -->
+
+![](assets/chapter-20/20._Inhaled_Anesthetic_Delivery_Systems.pdf-0005-02.png)
+
+
+Digital pipeline Anesthetic<br>Filters pressure gauges Low-pressure section vaporizer<br>Air 55 Check<br>pipeline valves Flow<br>control<br>supply<br>valves<br>50–55 psig<br>Secondary<br>2000 pressure<br>regulators<br>Air 0.0 0.0 0.0 flow sensorsDigital<br>N2O 55<br>pipeline<br>supply<br>50–55 psig<br>Analog SORC<br>cylinder<br>pressure<br>gauges 750<br>N2O O2:N2O<br>proportioning Auxiliary O2<br>O2 55 system flowmeter<br>pipeline<br>supply Oxygen flush<br>50–55 psig valve<br>2000<br>Cylinder Digital tank<br>supply O2 pressure<br>gauges Fresh gas outlet<br>(to breathing circuit)<br>O2 high-pressure section<br>
+
+**Fig. 20.2 Dräger Apollo anesthesia workstation gas supply system.** The high- pressure section extends from the gas cylinders to the high- pressure regulators ( _dashed lines_ around O2 high- pressure section only). The intermediate- pressure section extends from the high- pressure regulators to the flow control valves and includes the tubing and components originating from the pipeline inlets. The low- pressure section _(dashed lines)_ extends from the flow control valves to the breathing circuit. See text for additional details. _SORC_ , sensitive oxygen ratio con troller. (From Dräger Medical. _Instructions for Use: Apollo._ Telford, PA: Dräger Medical; 2012.)
+
+silent leaks in the high- pressure system, so E- cylinders should be closed during normal operation. One implication of this design warrants emphasis: in case of known or suspected pipeline contamination or crossover leading to delivery of a hypoxic gas mixture (as might be caused by nitrous oxide in the oxygen pipeline), backup oxygen from the E- cylinder will not flow unless the anesthesia machine is disconnected from the pipeline. Merely turning the backup tank on will not correct the situation if the pipeline pressure remains higher than the high- pressure regulator’s output.<sup>18,23</sup>
+
+As noted in Fig. 20.1, there are several pressure gauges in the system. The pressure in each of the gas pipelines and each of the auxiliary E- cylinder manifolds must be displayed on the front of the anesthesia machine. The E- cylinder pressures are accurate only when the tank is open. In the case of a two- tank manifold, the pressure of the open tank with higher pressure will be displayed. In systems with electronic pressure displays, the pipeline and tank pressures are visible only when the machine is on.
+
+Two points about the safe use of the auxiliary E- cylinder system should be noted. First, checking the E- cylinders is not part of an automatic machine checkout. The practitioner
+
+must manually open each cylinder and check the pressure gauges on the front of the machine. In the case of a twotank oxygen manifold, the tanks must be serially opened and checked. Second, it is imperative to keep the auxiliary E- cylinders closed during normal operation using pipeline gas. An open oxygen cylinder may allow the anesthesiologist to be unaware of catastrophic pipeline failure. When the oxygen cylinder is closed, the immediate result of oxygen pipeline failure is a low oxygen pressure alarm. The auxiliary E- cylinder can then be opened, providing continued flow of oxygen to the patient while troubleshooting occurs. If the oxygen tank is already open when pipeline failure occurs, there may be only a subtle indication from the anesthesia machine that the oxygen source has switched from pipeline to auxiliary tank. In this case, the low oxygen pressure alarm only occurs once the auxiliary tank has been depleted, nullifying the utility of the backup system.<sup>17</sup>
+
+### Intermediate- Pressure Section
+
+**Gas Pipeline Inlet: Central Gas Supply Source.** Three gases are typically piped into the operating room by the hospital’s central gas supply system: oxygen, air, and nitrous oxide. The main supply source of oxygen in a large hospital
+
+<!-- PDF page 6 -->
+
+![](assets/chapter-20/20._Inhaled_Anesthetic_Delivery_Systems.pdf-0006-01.png)
+
+
+Indexing<br>pins<br>Gas label<br>Yoke<br>plug<br>All positions Oxygen<br>A B C<br>Air Nitrous oxide<br>
+
+
+![](assets/chapter-20/20._Inhaled_Anesthetic_Delivery_Systems.pdf-0006-02.png)
+
+
+**Fig. 20.3 E- cylinder hanger yoke assembly.** (A) Standard E- cylinder hanger yoke assembly highlighting the gas- specific indexing pins, sealing gasket, and yoke plug. The yoke plug should be inserted when a tank is not in place. (B) Pin Index Safety System holes machined into the cylinder head– valve mechanism of the compressed gas cylinders. (C) Oxygen yoke with indexing pins. (A and B, From Yoder M. Gas supply systems. In: _Understanding Modern Anesthesia Systems._ Telford, PA: Dräger Medical; 2009.)
+
+usually is a cryogenic bulk oxygen storage system, refilled on site from a truck carrying liquid oxygen. Smaller hospitals may use liquid oxygen tanks that can be replaced rather than refilled on site, or even a bank of oxygen H- cylinders connected by a manifold. Oxygen storage systems must have backup supply and alarm systems in place.<sup>19</sup> Most hospitals use compressors to deliver cleaned, dried air to a pressurized reservoir for delivery to the pipeline system. Centrally supplied nitrous oxide arises either from a bank of H- type cylinders, or a bulk liquid storage system similar to that for oxygen.<sup>19</sup>
+
+The gas pipeline terminates in patient care areas of the hospital with one of two types of connectors: the Diameter Index Safety System (DISS) connector system, or the quick coupler system. The connectors for oxygen, air, and nitrous oxide are mutually incompatible. DISS connectors (as seen in Fig. 20.4) rely on matching diameters in the male and female connections to properly seat and thread the connection.<sup>19,24</sup> The quick couplers (Fig. 20.5) utilize pins and corresponding slots in order to ensure correct connections. Because these connectors can be plugged together or released with a simple twisting motion, they are especially appealing for equipment that needs to be moved between locations. In addition, the hoses and wall plates in both systems are color- coded for ease of identification.
+
+The final gas pipeline connection to the anesthesia workstation is always through a DISS connector (see Fig. 20.4C). Once the gas enters the machine, it encounters a filter followed by a pipeline check valve. This one- way valve prevents reverse flow of gas from the machine into the pipeline system or into the atmosphere from an open inlet. Interposed between the DISS inlet and the pipeline check valves is a sample port to measure pipeline oxygen pressure. The
+
+pipeline pressure must always be clearly visible on the front of the machine. Despite the safety systems, incorrect assembly leading to pipeline crossovers has been reported.<sup>25</sup> Vigilance, and an oxygen analyzer, are the last lines of defense for this error.
+
+**Oxygen Flush Valve.** The oxygen flush valve is probably one of the oldest safety features on the machine and remains a machine standard today.<sup>10,24,26</sup> The oxygen flush valve allows manual delivery of a high flow rate of 100% oxygen directly to the patient’s breathing circuit to overcome circuit leaks or to rapidly increase the inhaled oxygen concentration. Flow from the oxygen flush valve bypasses the anesthetic vaporizers (see Figs. 20.1 and 20.2). The intermediate- pressure segment of the gas supply system feeds the valve, which remains closed until the operator opens it. The feature is typically available even when the machine is not turned on. Flow from the oxygen flush valve enters the low- pressure circuit downstream from the vaporizers at a rate between 35 and 75 L/min, depending on the machine and operating pressure.<sup>10,24,26</sup>
+
+Several hazards have been reported with the oxygen flush valve. Oxygen flow from a valve sticking in a partially open position or overzealous oxygen flushing can dilute the inhaled anesthetic agent concentration, potentially resulting in awareness under anesthesia.<sup>27,28</sup> Oxygen flushing during the inspiratory phase of positive- pressure ventilation can produce barotrauma if the anesthesia machine does not incorporate a fresh gas decoupling feature or an appropriately adjusted inspiratory pressure controller.<sup>29</sup> With fresh gas decoupling, the fresh gas inflow from either the flowmeters or the oxygen flush valve is prevented from increasing the ventilator tidal volume delivered to the patient’s lungs
+
+<!-- PDF page 7 -->
+
+![](assets/chapter-20/20._Inhaled_Anesthetic_Delivery_Systems.pdf-0007-02.png)
+
+
+![](assets/chapter-20/20._Inhaled_Anesthetic_Delivery_Systems.pdf-0007-03.png)
+
+
+A Body Nut and stem<br>B C<br>
+
+
+![](assets/chapter-20/20._Inhaled_Anesthetic_Delivery_Systems.pdf-0007-04.png)
+
+
+**Fig. 20.4 Diameter Index Safety System.** Diameter Index Safety System (DISS) connectors are used for noninterchangeable, removable medical gas connections at pressures less than 200 psig. They are also used for suction and waste gas connections. Indexing is accomplished through differing diameters of the connection components, resulting in key- like fitting when matched connectors come together. The oxygen connector is additionally distinguished from the other gas connectors by a unique threaded fitting diameter and a unique thread count. (A) DISS connector cross section. (B) Nut and stem connectors for ( _left_ to _right_ ) vacuum, air, nitrous oxide, and oxygen. (C) DISS connections at the back of an anesthesia workstation. (A, Modified from Yoder M. Gas supply systems. In: _Understanding Modern Anesthesia Systems_ . Telford, PA: Dräger Medical; 2009.)
+
+
+![](assets/chapter-20/20._Inhaled_Anesthetic_Delivery_Systems.pdf-0007-06.png)
+
+
+**Fig. 20.5 Quick couplers.** Quick couplers, like Diameter Index Safety System connectors, are used for noninterchangeable, removable medical gas, suction, and waste gas connections. Indexing is accomplished by the configuration of pins on one plate which match to recesses on the other plate (shown). The two plates lock together, allowing an airtight connection. A twist to the housing of the male plate allows the two plates to be disengaged.
+
+(see section on fresh gas flow compensation and fresh gas decoupling).
+
+**Pneumatic Safety Systems.** One of the primary safety goals of contemporary anesthesia machines is to guard against the potential of delivering a hypoxic mixture (excessive concentration of nitrous oxide relative to oxygen). ISO standards require delivery of a nonhypoxic gas mixture to
+
+the patient, or generation of an alarm condition.<sup>10</sup> Several safety devices discussed below have been introduced to prevent generating a hypoxic mixture.
+
+**oxygen supply failure alarm sensor.** Within the oxygen circuit of the intermediate- pressure section of the machine is a sensor that provides an audible and visual warning to the clinician if the oxygen pressure drops below a manufacturer- specified minimum. The alarm is an ISO requirement<sup>10</sup> and is triggered by a loss of or significant decrease in pipeline pressure, or a nearly empty oxygen tank if the tank was the oxygen source. During normal operation this alarm signal serves as a prompt for the operator to open the oxygen E- cylinder on the machine and troubleshoot the oxygen pipeline source. Because pipeline pressure standards vary significantly throughout the world, the minimum threshold pressure for an alarm condition differs among manufacturers and models.
+
+**oxygen supply failure protection devices.** In addition to generating an alarm condition, oxygen failure influences the flow of other gases within the gas supply system. Sometimes called “fail- safe valves,” the oxygen supply failure protection devices are safeguards intended to link the flow of other gases in the gas supply system to the pressure of oxygen. They are an ISO standard.<sup>10</sup> In response to low oxygen pressure within the intermediate- pressure section of the anesthesia machine, the oxygen supply failure protection device either shuts off (binary valve) or reduces (proportional valve) the flow of other gases such as nitrous oxide or air. Unfortunately, the term _fail- safe_ as it pertains to these valves is a misnomer: if a gas other than oxygen pressurizes the oxygen circuit because of hospital pipeline contamination or crossover, the fail- safe valves will remain open. In such a case, only the inspired oxygen concentration monitor and clinical acumen would protect the patient.
+
+**Auxiliary Oxygen Flowmeter.** Although auxiliary oxygen flowmeters are not mandatory, they are commonly
+
+<!-- PDF page 8 -->
+
+encountered. During normal operation, the auxiliary flowmeter is a convenience feature that allows the use of low- flow oxygen for devices independent of the patient breathing circuit. Similar to the oxygen flush feature, oxygen flow from the flowmeter is usually accessible even when the machine is off. As long as oxygen is available from the pipeline inlet or from an attached E- cylinder, the auxiliary oxygen flowmeter can serve as a source of oxygen delivery.
+
+The operator should be aware that the source of oxygen for the auxiliary flowmeter is the same as for the other oxygen flow control valves. This is an important consideration in cases of suspected hospital oxygen pipeline contamination or crossover. If the pipeline oxygen supply line is connected to the machine and the pressure is sufficient, the gas source will be the pipeline even if the auxiliary oxygen tank valve is opened.
+
+A nitrous oxide–oxygen pipeline crossover was modeled in a simulation scenario. When nitrous oxide flow was turned off, the inspired oxygen concentration became alarmingly low, and the “patient” became hypoxemic. Many study participants tried to make inappropriate use of the auxiliary oxygen flowmeter and oxygen E- cylinders on the machine as an external source of oxygen without disconnecting the pipeline source.<sup>30</sup> The participants’ suboptimal management was attributed to a lack of knowledge of the anesthesia machine and its gas supply.
+
+**Second- Stage Pressure Regulators.** Some machines have second- stage regulators located downstream from the gas supply sources in the intermediate- pressure circuit. These regulators supply constant pressure to the flow control valves and the proportioning system regardless of potential fluctuations in hospital pipeline pressures. They are adjusted to lower pressure levels than the pipeline supply, usually between 14 and 35 psig, depending on the workstation.<sup>31–33</sup>
+
+### Low- Pressure Section
+
+The purpose of the high- and intermediate- pressure sections of the anesthesia machine is to deliver a reliable source of breathing gases at a stable and known working pressure to the low- pressure section of the gas supply system. The low- pressure section of the gas supply system begins at the flow control valves and ends at the fresh gas outlet (see Figs. 20.1 and 20.2). The breathing circuit, including the circle system, breathing bag, and ventilator, will be treated separately. Key components include the flow control valves, the flowmeters or flow sensors, the vaporizer manifold, and the anesthetic vaporizers. The low- pressure section is the most vulnerable section to leaks within the gas supply system.
+
+The combined flows, which potentially include oxygen, air, nitrous oxide, anesthetic vapor, as well as the output from the oxygen flush valve, exit the anesthesia machine at the fresh gas outlet, sometimes called the common gas outlet (CGO) (see Figs. 20.1 and 20.2). This is the flow that enters the patient’s circle breathing system (discussed in detail later). On some older machines, the CGO was visible and accessible at the exterior of the machine. On most contemporary anesthesia workstations, the CGO is now internal to the machine and no longer accessible to the operator. Many manufacturers offer an auxiliary common gas outlet (ACGO), which allows the fresh gas, which can include anesthetic vapor, to be diverted away from the circle
+
+system to a separate gas outlet that can be used with a nonrebreathing circuit (Mapleson circuits, discussed below) or a simple oxygen device. The presence of oxygen flowmeters on most anesthesia machines, the desire to keep vapor consumption low, as well as problems generated by switching machines between different configurations,<sup>34</sup> have reduced the use of the ACGO. Nonetheless, anesthesia providers should be aware of their machines’ configurations.
+
+**Flow Control Assemblies.** The flow control assembly on the anesthesia workstation allows the operator to select a _total fresh gas flow_ of known composition to enter the lowpressure section of the machine. The flow control valves separate the intermediate- pressure section from the lowpressure section. After leaving the valves, the mixture of gases travels through a common manifold and may be directed through an anesthetic vaporizer if selected. The total fresh gas flow and the anesthetic vapor then travel toward the fresh gas outlet.<sup>17</sup>
+
+**electronic flow sensors.** Anesthesia workstations are increasingly equipped with electronic flow sensors instead of flow tubes. These systems may employ conventional control knobs or an entirely electronic interface to control gas flow. Numerous types of flow sensor technologies can be applied, such as hot- wire anemometers, a differential pressure transducer method, or mass flow sensors. An example of an electronic mass flow sensor is seen in Fig. 20.6. Regardless of the mechanism of flow measurement, these systems depend on electrical power to provide a display of gas flow. When electrical power is totally interrupted, some backup mechanical means usually exists to control and display oxygen gas flow.
+
+**mechanical flowmeters.** Mechanical flow control and flow display still remain common, even on some newer workstations, either as primary or backup systems.<sup>33,35</sup>
+
+The flow control valve assembly consists of a flow control knob, a tapered needle valve, a valve seat, and a pair of valve stops (Fig. 20.7). Contemporary flow control valve assemblies have numerous safety features. The oxygen flow control knob is physically distinguishable from the other gas knobs. It is distinctively fluted, may project beyond the control knobs of the other gases, and is larger in diameter than the flow control knobs of other gases.<sup>10</sup> All knobs are colorcoded for the appropriate gas, and the chemical formula or name of the gas is permanently marked on each knob. Flow control knobs are recessed or protected with a shield or barrier to minimize inadvertent change from a preset position.
+
+
+![](assets/chapter-20/20._Inhaled_Anesthetic_Delivery_Systems.pdf-0008-13.png)
+
+
+Electronic mass flow sensor.<br>
+
+**Fig. 20.6 Electronic mass flow sensor.** Gas flows past a heated chamber of known volume. The amount of heat (electrical energy) that is required to maintain a set chamber temperature is proportional to the specific heat of the gas and its rate of flow through the chamber. Because the specific heat of the gas is relevant to the calculation, each gas must have its own mass flow sensor. Flow is accurately extrapolated from the energy required to keep the chamber at a constant temperature. (Modified from Yoder M. Gas supply systems. In: _Understanding Modern Anesthesia Systems_ . Telford, PA: Dräger Medical; 2009.)
+
+<!-- PDF page 9 -->
+
+![](assets/chapter-20/20._Inhaled_Anesthetic_Delivery_Systems.pdf-0009-02.png)
+
+
+Gas outlet<br>to manifold<br>Float stop<br>Tapered flow tube<br>Float<br>Float stop<br>Valve stops<br>Valve seat<br>Flow control knob Needle<br>(fluted)<br>Oxygen inlet<br>(16 psig)<br>
+
+**Fig. 20.7 Oxygen flowmeter assembly.** The oxygen flowmeter assembly is composed of the flow control valve assembly and the flowmeter subassembly. (From Bowie E, Huffman LM. _The Anesthesia Machine: Essentials for Understanding._ Madison, WI: Ohmeda, BOC Group; 1985.)
+
+The flow control valve regulates the amount of flow that enters the flow tube – a tapered, transparent tube known as a variable orifice flowmeter or Thorpe tube. The principles of these flow tubes are reviewed in Figs. 20.8 and 20.9.
+
+Flow measurement error can occur even when flowmeters are assembled properly. Dirt or static electricity can cause a float to stick and misrepresent actual flow. Sticking of the indicator float is more common in the low- flow ranges because the annular space is smaller. A damaged float can cause inaccurate readings because the precise relationship between the float and the flow tube is altered. Backpressure from the breathing circuit can cause a float to drop so that it reads less than the actual flow. Finally, if flowmeters are not aligned properly in the vertical position (plumb), readings can be inaccurate because tilting distorts the annular space.<sup>17,36,37</sup>
+
+The flow tube has historically been a very fragile component of the anesthesia workstation. Flow tube leaks are a potential hazard because the flowmeters are located downstream from all hypoxemia safety devices, except the breathing circuit oxygen analyzer.<sup>38</sup> Fig. 20.10 shows an example where an unused air flow tube develops a large leak. When the nitrous oxide flowmeter is in the downstream position (see Fig. 20.10A,B), a hypoxic mixture can occur because a substantial portion of the oxygen flow passes through the leak in the air flow tube, and mainly nitrous oxide is directed to the common gas outlet. Safer configurations are
+
+
+![](assets/chapter-20/20._Inhaled_Anesthetic_Delivery_Systems.pdf-0009-07.png)
+
+
+Equivalent<br>channel<br>"Head"<br>of float<br>Annular<br>space<br>
+
+**Fig. 20.8 The annular space of a variable orifice flowmeter.** The indicator float hovers freely in an equilibrium in the tapered flow tube where the upward force of the gas flow equals the downward force of gravity. The clearance between the head of the float and the flow tube is known as the annular space. It can be considered equivalent to a circular channel of the same cross- sectional area. Because the tube is tapered, the annular space is larger as the float rises in the tube. As flow is increased by the operator, the upward force on the float increases, and the float rises. As the float rises, however, the increased annular space allows the upwardly flowing gas more room, until the upward force once again equals the downward gravitational force of the float. (Redrawn from Macintosh R, Mushin WW, Epstein HG, eds. _Physics for the Anaesthetist_ . 3rd ed. Oxford: Blackwell Scientific; 1963.)
+
+
+![](assets/chapter-20/20._Inhaled_Anesthetic_Delivery_Systems.pdf-0009-09.png)
+
+
+**Fig. 20.9 Flow tube constriction.** When the float is in the lower part of the tapered flow tube ( _lower pair_ of illustrations), the clearance between the head of the float and the flow tube is narrow. The equivalent channel is tubular because its diameter is less than its length. Viscosity is dominant in determining the gas flow rate through this tubular constriction. When the float is in the upper part of the flow tube ( _upper pair_ of illustrations), the equivalent channel is orificial because its length is less than its diameter. Density is dominant in determining the gas flow rate through this orificial constriction. (Redrawn from Macintosh R, Mushin WW, Epstein HG, eds. _Physics for the Anaesthetist._ 3rd ed. Oxford: Blackwell Scientific; 1963.)
+
+shown in Fig. 20.10C,D, in which the oxygen flowmeter is in the downstream position. A hypoxic mixture is less likely because all the oxygen flow is advanced by the nitrous oxide (this principle is known as the Eger flow sequence). It has
+
+<!-- PDF page 10 -->
+
+![](assets/chapter-20/20._Inhaled_Anesthetic_Delivery_Systems.pdf-0010-01.png)
+
+
+Outlet Outlet<br>A O2 Air N2O C N2O Air O2<br>Outlet Outlet<br>Air O2 N2O Air N2O O2<br>Potentially Safer<br>B hazardous D configuration<br>
+
+**Fig. 20.10 The flowmeter sequence is a potential cause of hypoxia.** In the event of a flowmeter leak, a potentially dangerous arrangement exists when nitrous oxide is in the downstream position (A and B). A safer configuration exists when oxygen is in the downstream position (C and D). See text for details. (Modified from Eger EI II, Hylton RR, Irwin RH, et al. Anesthetic flowmeter sequence: a cause for hypoxia. _Anesthesiology._ 1963;24:396.)
+
+been an industry standard that oxygen be delivered downstream of all other gases,<sup>24</sup> although current ISO standards require only that oxygen be at either end of a bank of flowmeters.<sup>10</sup> It is important to remember that in the case of a leak in the oxygen flow tube, a hypoxic mixture may result even when oxygen is located in the downstream position.<sup>38</sup>
+
+### Proportioning Systems
+
+Anesthesia workstations are required to have a system to prevent delivery of a hypoxic gas mixture to the fresh gas outlet.<sup>10</sup> On anesthesia machines with electronically controlled gas flow, the device is programmed to prevent the user from selecting a hypoxic gas mixture for delivery to the fresh gas outlet. For mechanically controlled flowmeters, the concern is that a user could mistakenly select oxygen and nitrous oxide flows that would result in a hypoxic mixture. This is prevented either by a pneumatic–mechanical interface between the oxygen and nitrous oxide flows or by mechanically linking the oxygen and nitrous oxide flow control valves. No matter how high the operator attempts to turn up the nitrous oxide, or how low the operator tries to turn down the oxygen flow, when nitrous oxide is running, the machine will automatically adjust the ratio of these flows so that a hypoxemic gas mixture cannot be delivered. The specific devices used to accomplish this control vary among manufacturers. Two examples are briefly discussed here.
+
+The North American Dräger sensitive oxygen ratio controller (SORC) is a pneumatic–mechanical, oxygen–nitrous oxide interlock system designed to maintain a ratio of no less than 25% oxygen to 75% nitrous oxide flow into the breathing circuit by limiting the nitrous oxide flow when necessary.<sup>26</sup> The SORC, located after the flow control valves, consists of an oxygen chamber with a diaphragm, a nitrous oxide chamber with a diaphragm, and a nitrous oxide proportioning valve (Fig. 20.11). All are interconnected by a mobile horizontal shaft. As oxygen flows out of the SORC, it encounters a resistor that creates backpressure in the oxygen chamber, which causes the diaphragm to move to the right, thereby opening the nitrous oxide proportioning valve. As
+
+
+![](assets/chapter-20/20._Inhaled_Anesthetic_Delivery_Systems.pdf-0010-07.png)
+
+
+To flow<br>sensors<br>Flow<br>resistors<br>Nitrous oxide<br>proportioning<br>Interconnecting valve<br>shaft<br>Flow<br>control<br>valves<br>O2 N2O<br>30 psig from<br>secondary pressure<br>regulations<br>
+
+**Fig. 20.11 North American Dräger sensitive oxygen ratio controller (SORC) (Dräger Medical, Telford, PA).** The SORC is a pneumatic–mechanical interlock system designed to maintain a ratio of no less than 25% oxygen/75% nitrous oxide regardless of operator input. Differential oxygen and nitrous oxide flows and the resultant chamber backpressures determine the position of the nitrous oxide proportioning valve. The SORC requires a minimum oxygen flow of 200 mL/min for the nitrous oxide proportioning valve to open. (Modified from Yoder M. Gas supply systems. In: _Understanding Modern Anesthesia Systems_ . Telford, PA: Dräger Medical; 2009.)
+
+the oxygen flow is increased, so too is the backpressure and the rightward motion of the shaft. If the nitrous oxide flow is now turned on, it will also flow into the SORC, through the proportioning valve, and past its resistor to create backpressure that will press on the diaphragm in its chamber. The counterbalance between the two backpressures determines the positioning of the nitrous oxide proportioning valve. If the oxygen is turned down too low, the shaft will move to the left and thus limit the nitrous oxide flow. If the operator tries to turn up the nitrous oxide too high relative to the oxygen flow, the SORC will limit the nitrous oxide flow because of the nitrous oxide backpressure and leftward movement of the valve. If the oxygen flow is decreased to less than 200 mL/ min, the proportioning valve will close completely.<sup>39</sup>
+
+A mechanical proportioning system that remains in use today on many anesthesia machines is the GE/DatexOhmeda Link- 25 system. The system provides mechanical integration of the nitrous oxide and oxygen flow control valves to maintain a minimum oxygen concentration with a maximum nitrous oxide:oxygen flow ratio of 3:1. Independent adjustment of either valve is allowed as long as the minimum threshold is met. The Link- 25 automatically increases oxygen flow when the nitrous oxide flow is increased above the 3:1 ratio. It also will lower nitrous oxide flow if oxygen flow is decreased below that ratio. Fig. 20.12 shows the Link- 25 system. Sprockets attached to the nitrous oxide and oxygen flow control valves are physically linked by a chain. As the nitrous oxide flow control valve is turned up, the oxygen flow control valve will also turn up because of the linkage. Similarly, if oxygen flow is decreased, the chain will physically change the position of the nitrous oxide valve. The Link- 25 system uses a stop tab on each valve stem to allow for independent adjustment of
+
+<!-- PDF page 11 -->
+
+![](assets/chapter-20/20._Inhaled_Anesthetic_Delivery_Systems.pdf-0011-02.png)
+
+
+A<br>
+
+
+![](assets/chapter-20/20._Inhaled_Anesthetic_Delivery_Systems.pdf-0011-03.png)
+
+
+![](assets/chapter-20/20._Inhaled_Anesthetic_Delivery_Systems.pdf-0011-04.png)
+
+
+To vaporizers<br>Flowmeters<br>Control<br>knob Valve<br>seat<br>Air N2O O2<br>N2O<br>Flow<br>control 15 29 Needle<br>valves teeth teeth valve<br>O2<br>30 psig from secondary<br>B pressure regulators C Flow control valves<br>
+
+**Fig. 20.12 GE/Datex- Ohmeda Link- 25 nitrous oxide:oxygen proportioning system.** The system prevents the operator from selecting more than a 75% nitrous oxide–25% oxygen (3:1) mixture. (A) Link- 25 proportioning system on a GE Healthcare Aestiva anesthesia workstation with front panel removed. (B) With 29 teeth on the oxygen sprocket, and 15 teeth on the nitrous oxide sprocket, the mechanical linkage of the control valves maintains no more than a 2:1 ratio. (C) A faster taper of the nitrous oxide valve needle allows more gas flow through the valve per turn relative to flow through the oxygen valve per turn, thus resulting in the maximal 3:1 ratio. A stable and equal pressure supply to the valves is provided by secondary pressure regulators. (B and C adapted from Datex- Ohmeda. _Aestiva Anesthesia Machine: Technical Reference Manual_ . Madison, WI: Datex- Ohmeda 2006.)
+
+oxygen or nitrous oxide if the mixture is at least 25% oxygen; attempting to turn the valve controller past that point will engage the chain and effect a change in the other gas. In addition, the system is designed so that nitrous oxide cannot flow unless the oxygen flow is at least 200 mL/min.<sup>40</sup>
+
+Although both proportioning systems are designed to prevent delivery of a hypoxic gas mixture to the common gas outlet, their effect on the output may be different. If the operator turns down oxygen flow below 25% oxygen, both the Link- 25 and SORC systems will respond by decreasing the flow of nitrous oxide. If the operator subsequently increases the set oxygen flow, the nitrous oxide flow will remain at the new, lower value with the Link- 25 system, because the mechanical linkage will have physically changed the nitrous oxide control valve setting. With the SORC system, on the other hand, the nitrous oxide flow will return to the higher, previously set value when adequate oxygen flow is restored. If the operator increases nitrous oxide flow beyond the set safe range, the Link- 25 system will increase the oxygen flow by changing the setting on the oxygen control valve. The SORC system will instead prevent the increase in nitrous oxide flow from occurring. If the operator subsequently reduces the nitrous oxide flow setting, the oxygen flow will remain at the new, higher level with the Link- 25, and will remain unchanged with the SORC.
+
+The most important point to understand about the proportioning systems present on anesthesia machines with manually operated flowmeters is that they are designed to prevent delivery of a hypoxic mixture to the fresh gas outlet. The function of the circle system (discussed below) means that the oxygen concentration delivered to the patient may be very different from the concentration delivered to the fresh gas outlet. As always, the presence of a functioning oxygen analyzer in the patient’s breathing circuit is the last protection against a hypoxic gas mixture.
+
+### Vaporizer Mount And Interlock System
+
+Removable modern vaporizer mounts allow for rapid replacement or exchange of anesthetic vaporizers. This allows for ease of maintenance, fewer required vaporizer
+
+positions on the workstation, and the ability to remove the vaporizer if malignant hyperthermia is suspected.<sup>41</sup> Detachable mounting systems can lead to problems such as low- pressure system leaks or fresh gas flow obstruction as a result of connection- related failures.<sup>41–44</sup> After adding or changing a vaporizer on the anesthesia machine, the operator should make sure it is seated properly and cannot be dislodged once locked. The operator should then perform a vaporizer leak test, if required by the manufacturer.
+
+All anesthesia workstations must prevent fresh gas from flowing through more than one vaporizer at a time.<sup>10</sup> The design of vaporizer interlock devices varies significantly. Operators should be aware that these devices are not immune from failure, and anesthetic overdose can be a potential consequence.<sup>45–47</sup>
+
+**Outlet Check Valve.** Some anesthesia machines (e.g., GE/ Datex- Ohmeda Aestiva and Aespire) have a one- way check valve located between the vaporizer and the common gas outlet in the mixed- gas pipeline (see Fig. 20.1). The purpose of this valve is to prevent backflow into the vaporizer during positive- pressure ventilation, thereby minimizing the effects of intermittent fluctuations in downstream pressure on the concentration of inhaled anesthetics (see the discussion of intermittent backpressure in the section on anesthetic vaporizers). The presence or absence of this check valve historically influenced which manual leak test of the low- pressure system was indicated because it precluded positive- pressure tests to detect for leaks upstream of the valve (see the section on checking your anesthesia workstation).
+
+### ANESTHETIC VAPORIZERS
+
+In 1846, William T. G. Morton performed the first public demonstration of ether anesthesia using an ingenious, yet simple inhaler (Fig. 20.13).<sup>48–50</sup> Although the device was effective in delivering anesthetic vapor, Morton’s ether inhaler had no means of regulating output concentration nor for compensating for temperature changes caused by
+
+<!-- PDF page 12 -->
+
+![](assets/chapter-20/20._Inhaled_Anesthetic_Delivery_Systems.pdf-0012-01.png)
+
+
+**Fig. 20.13 Morton’s ether inhaler.** A replica of the inhaler used by William T. G. Morton during his public demonstration of ether anesthesia in October of 1846 at Massachusetts General Hospital in Boston. (Courtesy the Wood Library–Museum of Anesthesiology, Park Ridge, IL.)
+
+vaporization of the liquid anesthetic. These two issues were central to the subsequent development and evolution of modern anesthetic vaporizers. Modern variable bypass– type vaporizers are temperature compensated and can maintain desired outputs accurately over a wide range of input gas flow rates. With the introduction of desflurane to the clinical setting, an even more sophisticated vaporizer was introduced to handle the unique physical properties of this agent. Vaporizers blending both old technology and computer control have emerged as “cassette” vaporizer systems. Injection- type vaporizers have also been introduced. Before discussing these systems in detail, a brief review of physical/chemical principles is necessary to understand the operation, construction, and design of contemporary anesthetic vaporizers.
+
+### Physics
+
+**The Ideal Gas Law.** When sealed in a container, gas molecules collide with the walls and exert a force, expressed as pressure. This pressure is directly proportional to the number of molecules of gas present within the container (expressed in moles _(n)_ ) and to the temperature _(T)_ in degrees kelvin, and inversely proportional to the volume _(V)_ that confines the gas. (One mole of a substance is equal to 6.022 × 10<sup>23</sup> [Avogadro’s number] molecules of that substance.) The ideal gas law is:
+
+### PV  n R T
+
+where R is the universal gas constant. The ideal gas law provides an important framework for understanding the behavior of anesthetic gases within vaporizers, anesthesia delivery equipment, and the pulmonary alveolus. Key assumptions of this law are that gas molecules behave as points in space and undergo perfectly elastic collisions without attracting or repelling one another or the walls of the
+
+
+![](assets/chapter-20/20._Inhaled_Anesthetic_Delivery_Systems.pdf-0012-08.png)
+
+
+760 mm Hg O2 159.6 mm Hg O2<br>A 100% O2 (v/v%) B 21% O2 (v/v%)<br>592.8 mm Hg N2<br>78% N2 (v/v%)<br>7.6 mm Hg other<br>1% other (v/v%)<br>
+
+**Fig. 20.14 Partial pressures.** (A) Theoretical container filled with 100% oxygen at 1 atm pressure (760 mm Hg). The oxygen molecules account for the entirety of the pressure. _P_ total = _P_ oxygen = 760 mm Hg. (B) Pure oxygen is replaced with air, and now the nitrogen, oxygen, and other rare gases each contribute to the total pressure in proportion to their volume percent ( _v_ / _v_ %). The partial pressure of oxygen is 21% of 760 mm Hg, or 159.6 mm Hg. _P_ total = _P_ oxygen + _P_ nitrogen + _P_ other = 760 mm.
+
+container. These assumptions are valid for dilute anesthetic gases at normal operating conditions.
+
+**Dalton’s Law of Partial Pressures.** When a mixture of ideal gases exists in a container, each gas creates its own pressure, which is the same pressure as if the individual gas occupied the container alone. The total pressure may be calculated by simply adding together the pressures of each gas. This is known as Dalton’s law of partial pressures, where the individual pressures exerted by each of the constituent gases are referred to as _partial pressures_<sup>51,52</sup> :
+
+
+![](assets/chapter-20/20._Inhaled_Anesthetic_Delivery_Systems.pdf-0012-12.png)
+
+
+P total =  P 1 +  P 2 +  P 3 + …<br>
+
+By combining Dalton’s law with the ideal gas law, we can show that for any gas A in a mixture of gases:
+
+
+![](assets/chapter-20/20._Inhaled_Anesthetic_Delivery_Systems.pdf-0012-14.png)
+
+
+P A = ( n A/ n total)  P total = ( v / v %)  P total<br>
+
+This states that the partial pressure of gas A can be calculated by multiplying the total pressure of the mixture by the mole fraction ( _n_ A/ _n_ total), or the volume percent ( _v_ / _v_ %), of gas A. The volume percent tends to be more useful in dayto- day anesthesia practice (see below).
+
+As a first step to understanding vaporizer function, it is useful to look at an example of Dalton’s law of partial pressures. In Fig. 20.14A, pure oxygen fills a theoretical container that is open to the environment through a very small hole. The pressure in the container is therefore equal to the ambient pressure, which at sea level is 760 mm Hg, or 1 atm or 101.325 kPa, and generated entirely by the oxygen molecules. (For simplicity, further pressures will be expressed only in mm Hg.) In Fig. 20.14B, the container is filled with air, and the total pressure is generated by the additive partial pressures of oxygen, nitrogen, and trace amounts of rare gases. Since air is 21% oxygen by volume, the partial pressure of oxygen in that container is approximately 160 mm Hg.
+
+<!-- PDF page 13 -->
+
+![](assets/chapter-20/20._Inhaled_Anesthetic_Delivery_Systems.pdf-0013-02.png)
+
+
+760 mm Hg O2 522 mm Hg O2<br>A 100% O2 (v/v%) B 69% O2 (v/v%)<br>238 mm Hg isoflurane<br>31% isoflurane (v/v%)<br>
+
+**Fig. 20.15 Evaporation (vaporization) and vapor pressure.** (A) Theoretical container with 100% oxygen. _P_ total = _P_ oxygen = 760 mm Hg, as in Fig. 20.14. (B) Isoflurane is added to the container, and the temperature is maintained at 20°C (68°F). Evaporation commences, and isoflurane molecules begin to displace oxygen molecules out of the container. When the rate of vaporization is equal to the rate of condensation, the gas above the liquid is said to be “saturated” with isoflurane. The partial pressure of the isoflurane at this point is called the saturated vapor pressure (SVP), which at this temperature equals 238 mm Hg. _P_ total = _P_ oxygen + _P_ isoflurane = 760 mm Hg. Therefore the oxygen that remains in the container has a partial pressure of 522 mm Hg, or 69% (v/v%).
+
+**Evaporation and Vapor Pressure.** Volatile liquids, such as inhaled anesthetic agents, are characterized by a high propensity to enter the gas phase or _vaporize_ . When a volatile liquid is exposed to air or other gases, molecules at the liquid surface with sufficient kinetic energy escape and enter the vapor phase. This process is known as evaporation, which is purely a surface phenomenon (in contrast to boiling, which occurs throughout the liquid). If liquid volatile anesthetic is placed within a contained space, molecules will escape into the vapor phase until the rate of evaporation equals the rate of return to the liquid phase (a process known as condensation). When this equilibrium is reached, the gas above the liquid is said to be “saturated” with anesthetic (Fig. 20.15). The anesthetic molecules in the gas phase create a partial pressure known as the saturated vapor pressure, or simply vapor pressure. Liquids with a greater tendency to evaporate and generate higher vapor pressures are described as “more volatile.”
+
+Vapor pressure varies by temperature, and the vapor pressure- versus- temperature curve for a liquid is an intrinsic property of that liquid (Fig. 20.16). Saturated vapor pressure is not affected by changes in atmospheric pressure.<sup>51</sup> As illustrated in Fig. 20.17 for isoflurane, evaporation is diminished at colder temperatures because fewer molecules possess sufficient kinetic energy to escape into the vapor phase. Conversely, at warmer temperatures, evaporation is enhanced and vapor pressure increases. Although operating room (ambient) temperature can raise or lower liquid anesthetic vapor pressure, the cooling influence of evaporation (the latent heat of vaporization, see below) has a far more pronounced and dynamic effect. The impact of evaporative temperature change on vaporizer and anesthetic inhaler output has been one of the principal factors influencing design of anesthetic vaporizers.
+
+
+![](assets/chapter-20/20._Inhaled_Anesthetic_Delivery_Systems.pdf-0013-06.png)
+
+
+1600<br>Desflurane Isoflurane<br>1400 Halothane Enflurane<br>Sevoflurane Water<br>1200<br>1000<br>800<br>600<br>400<br>200<br>0<br>0 5 10 15 20 25 30 35 40 45 50 55 60 65<br>Temperature (°C)<br>Vapor pressure (mm Hg)<br>
+
+**Fig. 20.16 Vapor pressure- versus- temperature curves for desflurane, isoflurane, halothane, enflurane, sevoflurane, and water.** Note that the curve for desflurane differs dramatically from that of the other inhaled anesthetic agents. Also note that all inhaled agents are more volatile than water. _Dashed line_ indicates 1 atm (760 mm Hg) of pressure, which illustrates the boiling point at sea level. (From inhaled anesthetic package insert equations and Susay SR, Smith MA, Lockwood GG. The saturated vapor pressure of desflurane at various temperatures. _Anesth Analg._ 1996;83:864–866.)
+
+
+![](assets/chapter-20/20._Inhaled_Anesthetic_Delivery_Systems.pdf-0013-08.png)
+
+
+20°C (68°F) 10°C (50°F)<br>522 mm Hg O2 610 mm Hg O2<br>69% O2 (v/v%) 80% O2 (v/v%)<br>238 mm Hg isoflurane 150 mm Hg isoflurane<br>A 31% isoflurane (v/v%) B 20% isoflurane (v/v%)<br>P total = P oxygen + P isoflurane = 760 mm Hg<br>
+
+**Fig. 20.17 The impact of temperature on vapor pressure.** (A) Chamber containing oxygen and isoflurane at its saturated vapor pressure (SVP) at 20°C (68°F). At evaporative equilibrium, the SVP of isoflurane in the container represents 31% of the entire gas composition by volume (v/v%). (B) Decreasing the temperature to 10°C (50°F) substantially lowers the isoflurane vapor pressure to 150 mm Hg and causes isoflurane to represent only 20% of the entire gas volume (v/v%). This example assumes that some oxygen can enter the container through a tiny hole to replace the condensed isoflurane molecules.
+
+**Expressing Gas Concentrations and Minimum Alveolar Concentration.** When anesthesiologists describe inhaled and exhaled anesthetic concentrations, they typically use volume percent. Volume percent is simply the percentage of volume occupied by a gas relative to the sum of all gases present. As shown above, the volume percent is the same as the percent contribution of a gas’s partial pressure to the total pressure. One percent isoflurane is equal to 7.6 mm Hg isoflurane at sea level. The amount of oxygen
+
+<!-- PDF page 14 -->
+
+and nitrous oxide in the breathing gas is also typically described in terms of volume percent. However, CO2 content (i.e., end- tidal carbon dioxide [ETCO2]) is usually displayed as a partial pressure (mm Hg). This was probably adopted because of the relatively close correlation between ETCO2 and arterial partial pressure of carbon dioxide (PaCO2), and the latter’s common expression as a partial pressure. Fig. 20.18 illustrates the composition of the breathing gases during a sevoflurane/nitrous anesthetic, both in terms of concentration ( _v_ / _v_ %) and partial pressures.
+
+The minimum alveolar concentration (MAC) is described in terms of volume percent. MAC is the concentration of anesthetic that prevents movement due to surgical stimulus in 50% of individuals.<sup>53</sup> MAC is an age- dependent phenomenon,<sup>54</sup> and it can also be affected by other variables. MAC is a clinically useful value given that vaporizer control knobs are marked and calibrated in terms of anesthetic concentration. However, it is the anesthetic partial pressure (mm Hg) value in the brain that is responsible for anesthetic depth. The corresponding partial pressure for each MAC value is known as the minimal alveolar partial pressure (MAPP), as
+
+
+![](assets/chapter-20/20._Inhaled_Anesthetic_Delivery_Systems.pdf-0014-03.png)
+
+
+![](assets/chapter-20/20._Inhaled_Anesthetic_Delivery_Systems.pdf-0014-04.png)
+
+
+Inhalation Exhalation<br>Gas mm Hg v/v% mm Hg v/v%<br>Sevoflurane 9 1.2 8 1.1<br>Oxygen 378 50 323 42<br>N2O 373 49 347 46<br>CO2 – – 35 4.5<br>H2O – – 47* 6.2<br>Total 760 100 760 100<br>
+
+*Saturated vapor pressure of water at body temperature.
+
+**Fig. 20.18 Common units of measure for breathing circuit gases.** Values illustrated for an oxygen–nitrous oxide–sevoflurane anesthetic during maintenance phase. Anesthetic agent, oxygen, and nitrous oxide concentrations are typically expressed in volume percent (v/v%). Carbon dioxide is commonly described as a partial pressure (mm Hg).
+
+listed in Table 20.1.<sup>55</sup> When discussing anesthetic vaporizers, it is useful to think about their output in terms of partial pressure and how it relates to volume percent and MAC, especially when considering changes in ambient pressure.
+
+**Latent Heat of Vaporization.** When a liquid such as a volatile anesthetic evaporates into the gas phase, energy is required to overcome the attractive intermolecular forces between molecules in the liquid phase (a property known as cohesion). The energy needed is absorbed from the surroundings in the form of heat and is the reason why the human body is cooled by the evaporation of sweat. The amount of energy absorbed by a specific liquid during evaporation is referred to as the latent heat of vaporization. In a well- insulated container, the energy for vaporization must come from the liquid itself. In the absence of an outside heat source, the remaining liquid cools as vaporization progresses. This leads to significant reductions in vapor pressure (see Fig. 20.16) and therefore the number of volatile anesthetic molecules in the gas phase (see Fig. 20.17).<sup>41,51,56</sup> If vaporizer design does not mitigate and compensate for evaporative cooling, output will decrease.
+
+**Boiling Point.** The boiling point of a liquid is defined as the temperature at which vapor pressure equals atmospheric pressure and the liquid begins to undergo rapid vaporization.<sup>41,56</sup> From the definition above, it is important to note that the boiling point changes, depending on atmospheric pressure. Whereas evaporation is a surface phenomenon, boiling is a bulk phenomenon that occurs throughout the interior of the liquid. The boiling point of a liquid is inversely related to volatility. For example, water is not particularly volatile (see Fig. 20.16) and its boiling point of 100°C (212°F) at sea level is much higher than all the inhaled anesthetic agents. Table 20.1 lists the normal boiling point (defined as the boiling point at a pressure of 1 atm) of the common volatile anesthetic agents. While most inhaled anesthetics boil in the range of 48°C to 59°C (118°F–138°F), desflurane has a normal boiling point close to room temperature (22.8°C or 73°F).
+
+The boiling point of modern volatile anesthetics is not relevant to vaporizer design under most clinical situations. Desflurane, however, has a high saturated vapor pressure and boils at a temperature commonly encountered in clinical settings. These properties mandate a special vaporizer design to control agent delivery (see Desflurane Vaporizer, below).
+
+**Table 20.1** Physical Properties of Inhaled Volatile Anesthetic Agents
+
+|**Property**|**Halothane**|**Isoflurane**|**Sevoflurane**|**Desflurane**|
+|---|---|---|---|---|
+|SVP @ 20°C (mm Hg)|243|238|157|669|
+|SVC @ 20°C at 1 atm (_v_/_v_%)|32|31|21|88|
+|MAC at age 40 year (_v_/_v_%)|0.75|1.2|1.9|6.0|
+|MAPP (mm Hg)|5.7|9.1|14.4|45.6|
+|Boiling point @1 atm (°C)|50.2 (122.4°F)|48.5 (119.3°F)|58.6 (137.3°F)|22.8 (73°F)|
+
+
+_v_ / _v%,_ volume percent; _SVP,_ saturated vapor pressure; _SVC,_ saturated vapor concentration: the percentage of anesthetic agent relative to ambient pressure within an equilibrated (saturated) container (SVP/ambient pressure); 1 _atm,_ 1 atmosphere = ambient pressure at sea level (760 mm Hg); _MAC,_ minimum alveolar concentration: the alveolar concentration that produces immobility in response to a noxious stimulus in 50% of subjects.<sup>64</sup> The denominator is approximately sea level pressure (760 mm Hg); _MAPP,_ minimum alveolar partial pressure: the alveolar partial pressure that produces immobility in response to a noxious stimulus in 50% of subjects. Not affected by altitude. Calculated as MAC (fraction) × 760 mm Hg (i.e., for isoflurane = 0.012 × 760 mm Hg).
+
+
+
+::: details 原始表格與符號（PDF 第 14 頁）
+
+![第 20 章，原始 PDF 第 14 頁](assets/chapter-20/source-page-0014.png)
+
+:::
+
+<!-- PDF page 15 -->
+
+Isoflurane and halothane could theoretically boil at high altitudes and very high temperatures. At least one vaporizer manufacturer specifies a maximum safe operating temperature for these anesthetic agents.<sup>57</sup>
+
+### Modern Vaporizer Types
+
+Vaporizer nomenclature can be somewhat confusing. Vaporizers are first designated as _in- circuit_ or _out- of- circuit_ , which describes their relationship to the patient’s breathing circuit. Virtually all modern vaporizers are out- of- circuit, and their controlled output is introduced into the breathing circuit through a fresh gas line. In- circuit vaporizers are found mainly within the so- called draw- over anesthesia systems; while these are of great historical significance in anesthesiology, they also continue to play a role in resource- constrained environments and as an option for sedation in the ICU.<sup>58</sup> The second designation involves the specific types of vaporizers, and these currently include the variable bypass vaporizer, the dual- circuit vaporizer, the cassette vaporizer, and the injection vaporizer.
+
+**Variable Bypass Vaporizers.** The saturated vapor pressure of volatile anesthetic agents far exceeds their clinically useful concentrations, so the concentration must be diluted to a safe range (see Table 20.1). _Variable bypass_ refers to the method of diluting gas fully saturated with anesthetic agent with a separate flow of gas without anesthetic. A diagram of a variable bypass vaporizer is shown in Fig. 20.19. These are sometimes categorized as plenum- type vaporizers: a plenum is a chamber where gas flows under pressure. Basic vaporizer components include a vaporizer inlet port (fresh gas inlet), the concentration control dial, the bypass chamber, the vaporizing chamber, the vaporizer outlet port, and the filling assembly. The maximum safe level of the vaporizer corresponds to the filling port, which
+
+is positioned to minimize the chance of overfilling. A concentration control dial determines the ratio of gas that flows through the bypass chamber and the vaporizing chamber. A temperature- compensating device further adjusts that ratio. Vaporizer concentration control dials are labeled to set vaporizer output in terms of volume percent, and the vaporizers are calibrated at sea level.
+
+Fig. 20.20 illustrates volatile anesthetic equilibrium concentrations within a theoretical vaporizing chamber of a variable bypass vaporizer. As can be seen, the saturated vapor concentration of sevoflurane within the chamber (21%) far exceeds the clinical concentration. Fig. 20.20 also shows that because of the volume of anesthetic vapor added to the gas flowing through the vaporizing chamber, the liter flow of the stream exiting the vaporizing chamber is higher than the flow entering. Although this example and others in the chapter imply that the gas flowing through the vaporizing chamber becomes fully saturated with anesthetic vapor, this is not the case. There is insufficient time to reach evaporative equilibrium due to the constant inflow of fresh gas. As a result, the vaporizing chamber becomes only partially saturated with volatile anesthetic.<sup>59</sup> Conceptually, however, it is useful to assume that full saturation occurs. Fig. 20.21 illustrates a modern variable bypass vaporizer set to deliver 2% sevoflurane. Note how most of the fresh gas flows straight through the bypass chamber. The bypass flow and vaporizing chamber output combine to create the desired output concentration. The fresh gas that is diverted to the vaporizing chamber becomes saturated with anesthetic gas by flowing through the wicks and over the liquid agent. The wicks and baffles serve to increase the surface area available for vaporization and promote mixing of the carrier gas with anesthetic vapor.<sup>60,61</sup> The specific ratio of fresh gas flow divided between the bypass chamber and the vaporizing chamber is termed the _splitting ratio_ , and is
+
+
+![](assets/chapter-20/20._Inhaled_Anesthetic_Delivery_Systems.pdf-0015-08.png)
+
+
+Concentration<br>control dial<br>Decrease<br>Bypass<br>0 1%<br>chamber<br>Increase<br>Inlet Outlet<br>Cool<br>Pressure<br>compensator<br>Warm<br>Wick Vaporizing Filler port Filler port<br>chamber<br>Anesthetic Temperature<br>liquid compensator<br>A Vaporizor in off (“0”) position B Vaporizor turned on<br>
+
+**Fig. 20.19 Variable bypass vaporizer.** (A) Basic components. Vaporizer in the off or “0” position. Fresh gas from the flowmeter assembly enters the vaporizer and then flows through the bypass chamber, around the temperature compensator, and out the vaporizer without passing through the vaporizing chamber. (B) Selecting a vaporizer output (turning the vaporizer “on”) diverts an agent- specific ratio of gas through the pressure- compensating labyrinth, into the vaporizing chamber where it becomes saturated with anesthetic vapor, and then past the concentration cone where it reunites with the fresh gas stream. The temperature compensation device further adjusts the ratio of bypass to vaporizing chamber flow, to compensate for changes in anesthetic vapor pressure resulting from temperature changes. As the liquid anesthetic cools by evaporation, more gas is diverted to the vaporizing chamber to compensate for the decrease in vapor pressure. The labyrinth compensates for pressure fluctuations within the vaporizer from the gas supply side and the breathing circuit side to stabilize vaporizer output; it is _not_ present to compensate for changes in atmospheric pressure.
+
+<!-- PDF page 16 -->
+
+primarily determined by the concentration control dial setting and adjusted by the temperature compensation device (see below). Because the physical properties and clinical concentrations of each agent are unique, the diverting ratios are specific to each agent and dial setting, so the vaporizer is agent-specific. The approximate variable bypass splitting
+
+
+![](assets/chapter-20/20._Inhaled_Anesthetic_Delivery_Systems.pdf-0016-02.png)
+
+
+150 mL/min 150 mL/min 150 mL/min 40 mL/min<br>O2 O2 O2 sevoflurane  +<br>150 mL/min O2<br>600 mm Hg O2<br>79% O2 (v/v%)<br>760 mm Hg O2<br>100% O2 (v/v%) 157 mm Hg sevoflurane<br>21% sevoflurane (v/v%)<br>20°C (68°F)<br>A B<br>
+
+**Fig. 20.20 Theoretical vaporizing chamber demonstrating the volume of anesthetic gas added to the gas flow stream because of evaporation.** (A) Pure oxygen flows through the vaporizing chamber without any liquid anesthetic. The flow in (150 mL/min) is equal to the flow out, and both flows are entirely oxygen. (B) Liquid sevoflurane is added to the chamber and evaporates to saturated vapor pressure of 157 mm Hg, or 21% sevoflurane (see Table 20.1). The container remains at atmospheric pressure, so the partial pressure of oxygen in the chamber is now 600 mm Hg, or 79% oxygen. The total amount of oxygen that flows out of the vaporizer every minute must be the same as what flows in, but the gas that flows out is now 79% oxygen and 21% sevoflurane. The flow out of the vaporizer (190 mL/min) is higher than the flow in (150 mL/min). The amount of sevoflurane vapor added to the oxygen flow is 40 mL/min, in this example.
+
+ratios for the common anesthetic agents at 20°C are shown in Table 20.2. Variable bypass vaporizers cannot be used to deliver desflurane, because of this agent’s unique physical properties (see Desflurane Vaporizer, below).
+
+Temperature compensation mechanisms alter the ratio of gas flowing through the bypass and vaporizing chambers. Temperature compensation is accomplished by an expansion–contraction element, as seen in Fig. 20.19, or a bimetallic strip (Fig. 20.22). At cooler temperatures, the vapor pressure of liquid anesthetic decreases (see Fig. 20.16), and it is necessary to reduce the splitting ratio to maintain output. In Fig. 20.19B, as the liquid anesthetic agent cools, the temperature- compensating cone moves upward, restricts bypass flow, and diverts more gas to the vaporizing chamber, thereby maintaining stable vaporizer output. The inverse is also true: warmer temperatures cause the cone to move downward, increasing bypass flow, and diverting less gas to the vaporizing chamber. The most important function of temperature compensation devices is to correct for the effect of evaporative cooling on the liquid anesthetic. The bimetallic strip in Fig. 20.22 functions similarly, moving a baffle to divert more flow to the vaporizing chamber as the temperature of the anesthetic liquid falls.
+
+**Table 20.2** Variable Bypass Vaporizer Splitting Ratios
+
+|**Concentration**<br>**Control Dial**|**Bypass Ch**<br>**Split**|**amber- to- Vapori**<br>**ting Ratios at 20°**|**zing Chamber**<br>**C (68°F)***|
+|---|---|---|---|
+|**Setting (****_v_/****_v_%)**|**Halothane**|**Isoflurane**|**Sevoflurane**|
+|1|46:1|45:1|25:1|
+|2|23:1|22:1|12:1|
+|3|15:1|14:1|8:1|
+
+
+*Ratio of fresh gas flowing through the bypass chamber relative to the vaporizing chamber for the listed output concentrations. The temperature compensation device may alter the actual ratio. This applies to variable bypass vaporizers only. See Fig. 20.21 for a more detailed example of a splitting ratio calculation. _v_ / _v%,_ volume percent. From prescribing information for the various anesthetics.
+
+
+![](assets/chapter-20/20._Inhaled_Anesthetic_Delivery_Systems.pdf-0016-09.png)
+
+
+1850 mL/min<br>bypass 12:1 split ratio12:1 split ratio<br>chamber flow 2%<br>2000 mL/min     1850 mL/min bypass flow<br>fresh gas flow +  150 mL/min vaporizing chamber flow<br>into vaporizer +  40 mL/min sevoflurane output<br>=  2040 mL/min total vaporizer output<br>150 mL/min to<br>vaporizing<br>chamber<br>40 mL/min<br>sevoflurane<br>Sevoflurane 20°C (68°F) vaporized<br>40 mL sevoflurane / 2040 mL total output ~ 2% sevoflurane ( v/v% )<br>2% x 760 mm Hg ~ 15.2 mm Hg sevoflurane<br>
+
+**Fig. 20.21 Sevoflurane vaporizer set to deliver 2% sevoflurane.** A splitting ratio of 12:1 is required for 2% sevoflurane in a variable bypass vaporizer at 1 atm (760 mm Hg). Starting with 2000 mL/min of fresh gas flow, 1850 mL/min bypasses the vaporizing chamber, and 150 mL/min enters the vaporizing chamber, a ratio of 12:1. The 150 mL/min vaporizing chamber flow picks up 40 mL/min of sevoflurane (Fig. 20.20). Total flow out of the vaporizer is now 2040 mL/min, of which 40 mL/min is sevoflurane, meaning 40/2040 or approximately 2% sevoflurane.
+
+
+
+::: details 原始表格與符號（PDF 第 16 頁）
+
+![第 20 章，原始 PDF 第 16 頁](assets/chapter-20/source-page-0016.png)
+
+:::
+
+<!-- PDF page 17 -->
+
+Variable bypass vaporizers are constructed from materials with high specific heat, yielding temperature stability, and high thermal conductivity, which allows rapid transfer of ambient heat to keep the vaporizer and contents at the ambient temperature. Additionally, the vaporizer wick systems are in contact with the metal walls to facilitate absorption of environmental heat.
+
+**factors that influence variable bypass vaporizer output.** An ideal variable bypass vaporizer would maintain a constant concentration output at a given setting regardless of variables such as the fresh gas flow rate, temperature, intermittent backpressure from the breathing circuit, carrier gas composition, and barometric pressure. ISO standards state that the average output should not deviate from the dial setting by +30% or −20% or by more than +7.5% or −5% of the maximum setting.<sup>10</sup> Although modern vaporizers generally have excellent performance characteristics, it is important to understand how these challenges could potentially influence vaporizer output.
+
+impact of gas flow rate. At low flow rates (&lt;250 mL/ min), vaporizer output tends to be slightly less than the dial setting due to insufficient turbulence in the vaporizing chamber to advance the vapor molecules upward. At high flow rates (such as 15 L/min), the output of most variable bypass vaporizers is somewhat less than the dial setting. This discrepancy is due to cooling during rapid evaporation, incomplete mixing, and failure to saturate the carrier gas in the vaporizing chamber.<sup>57,62</sup>
+
+impact of temperature change. Modern vaporizers maintain constant concentration output over a wide range of common working temperatures. However, the linear change in the temperature- compensating mechanisms does not precisely match the shape of the vapor pressure curves.<sup>57,63</sup> As a result, a slight correlation between vaporizer temperature and delivered concentration remains. This correlation is mainly apparent at higher temperatures and higher concentrations (Fig. 20.23). A dangerous but
+
+highly unlikely circumstance could occur if the boiling point of a volatile agent within a variable bypass vaporizer were reached. In this situation, the vaporizer output would be impossible to control by any compensatory mechanism. Although it would be rare to reach ambient temperatures near 50°C at sea level (see Table 20.1), at higher altitudes, where boiling points are lower, this is theoretically more likely. The vaporizer manufacturer’s instructions for use should be consulted for safe operating temperatures.
+
+impact of intermittent backpressure. The intermittent backpressure that results from either positive- pressure ventilation or use of the oxygen flush valve may lead to higherthan- expected vaporizer output. This phenomenon, known as the pumping effect, is more pronounced at low flow rates, low dial settings, and low levels of liquid anesthetic in the vaporizing chamber.<sup>41,57</sup> Although contemporary variable bypass vaporizers are not highly vulnerable to the pumping effect, the proposed mechanism and preventive design features should be understood. The pumping effect is caused by retrograde transmission of pressure from the patient circuit to the vaporizer during the inspiratory phase of positive- pressure ventilation or use of the oxygen flush function. Gas molecules are compressed in both the bypass and vaporizing chambers. When the backpressure is suddenly released during the expiratory phase, vapor exits the vaporizing chamber both antegrade through the outlet and retrograde through the inlet. This occurs because the output resistance of the bypass chamber is lower than that of the vaporizing chamber, particularly at low dial settings. The enhanced output concentration results from the increment of vapor that travels in the retrograde direction to the bypass chamber.
+
+To decrease the pumping effect, modern vaporizing chambers are smaller than those of early variable bypass vaporizers so that only a small volume of vapor can be discharged retrograde into the bypass chamber.<sup>64</sup> Additionally, some vaporizers have a long spiral tube or labyrinth
+
+
+![](assets/chapter-20/20._Inhaled_Anesthetic_Delivery_Systems.pdf-0017-09.png)
+
+
+Inlet<br>Cold Hot<br>Wick Concentration<br>Temperature-<br>control dial<br>compensating valve<br>Baffle<br>system<br>Machine<br>outlet<br>check valve<br>Liquid<br>anesthetic<br>
+
+**Fig. 20.22 Temperature compensation with a bimetallic strip.** At cooler temperatures, the strip bends one way and diverts more flow through the vaporizing chamber. At warmer temperatures, the strip bends the opposite way and allows more flow through the bypass chamber. (From Chakravarti S, Basu S. Modern anaesthesia vapourisers. _Ind J Anaesth_ . 2013;57[5]:464–471.)
+
+<!-- PDF page 18 -->
+
+![](assets/chapter-20/20._Inhaled_Anesthetic_Delivery_Systems.pdf-0018-01.png)
+
+
+8<br>7<br>8<br>7 6<br>6<br>5<br>5<br>4<br>4<br>3 3<br>2 2<br>1 1<br>0.6<br>0 0.2<br>15 20 25 30 35<br>Temperature °C<br>DIAL SETTING<br>% SEVOFLURANE<br>
+
+**Fig. 20.23 Effect of ambient temperature on vaporizer output.** As the temperature increases, the vaporizer output increases above the dial setting, especially at high vaporizer settings. The 8% sevoflurane dial setting shows almost 10% output by the time the operating room temperature reaches 35°C (95°F). (Redrawn from Datex- Ohmeda. _Tec 7 Vaporizer: User’s Reference Manual._ Madison, WI: Datex- Ohmeda; 2002.)
+
+that serves as the inlet to the vaporizing chamber (see Fig. 20.19). When the pressure in the vaporizing chamber is released, the vapor does not flow back into the bypass chamber because of tube length.<sup>59</sup> This serpentine passage also dampens pressure fluctuations and compensates for fluctuations in gas supply pressure. Other designs may also include an extensive baffle system in the vaporizing chamber. Finally, a one- way check valve can be inserted after the vaporizers and before the breathing circuit inlet to minimize the pumping effect (see earlier discussion of the gas supply system). Although intermittent backpressure can result in transient rises in anesthetic concentration at the common gas outlet, the effects are mitigated by dilution within the much larger anesthetic breathing circuit. The goal of all these mechanisms is to provide an even flow of gas through the vaporizing chamber despite changes in pressure, allowing the vaporizers to be designated pressure compensated.
+
+impact of carrier gas composition. Variable bypass vaporizer output can be influenced by fresh gas composition. This effect is most pronounced when nitrous oxide is introduced or removed as a carrier gas.<sup>59,65,66</sup> In the experimental example seen in Fig. 20.24, a change in carrier gas from 100% oxygen to 100% nitrous oxide results in a sudden decrease in halothane output, followed by a slow increase to a new, lower, steady state (see Fig. 20.24, label B). This initial decrease is the result of differences in the solubility of carrier gases in volatile anesthetic liquids. Because nitrous oxide is more soluble than oxygen in the liquid anesthetic within the vaporizer sump, more of the carrier gas dissolves, and the volume output from the vaporizing chamber is transiently reduced.<sup>65</sup> Once the anesthetic liquid becomes saturated with nitrous oxide, the vaporizing chamber output increases and achieves a new steady state.
+
+The explanation for the new steady- state output value is less well understood.<sup>67</sup> Differences in density and viscosity between oxygen and nitrous oxide are likely responsible, because these physical properties affect the relative amount of gas flow through the bypass and vaporizing channels.<sup>66,68,69</sup> Helium, a gas with far lower density than either oxygen or nitrous oxide, has been shown to have variable effect on vaporizer output, depending on the vaporizer
+
+
+![](assets/chapter-20/20._Inhaled_Anesthetic_Delivery_Systems.pdf-0018-06.png)
+
+
+O2 6 L/min O2 O2<br>N2O 6 L/min N2O<br>5<br>4<br>3<br>A B C<br>1 min<br>Percent halothane<br>
+
+**Fig. 20.24 Halothane output of a variable bypass vaporizer with different carrier gases.** The initial output concentration is approximately 4% halothane when oxygen is the carrier gas at flows of 6 L/ min _(A)_ . When the carrier gas is quickly switched to 100% nitrous oxide _(B)_ , the halothane concentration decreases to 3% within 8 seconds. A new steady- state concentration of approximately 3.5% is then attained within about 1 minute. When O2 flow is reestablished, halothane output increases abruptly and then decreases back to baseline _(C)_ . (Modified from Gould DB, Lampert BA, MacKrell TN. Effect of nitrous oxide solubility on vaporizer aberrance. _Anesth Analg._ 1982;61:939.)
+
+model and study design (although the changes tend to be minimal).<sup>70,71</sup>
+
+impact of barometric pressure changes. With variable bypass vaporizers, the depth of anesthesia at a given dial setting is relatively independent of atmospheric pressure, and no adjustments need to be made (Table 20.3).<sup>57,72</sup> Understanding the reason for this perhaps counterintuitive fact is probably more important for comprehending vaporizer function than for actual clinical reasons.
+
+As previously discussed, the saturated vapor pressure of a liquid is independent of the barometric (atmospheric)
+
+<!-- PDF page 19 -->
+
+pressure. Therefore, as altitude increases and barometric pressure declines, the partial pressure of anesthetic agent in the vaporizing chamber remains constant despite decreases in the partial pressures of other constituent breathing gases and the total ambient pressure. This situation results in significantly increased volume percent concentration of anesthetic agent within the vaporizing chamber and at the outlet of the vaporizer (see Table 20.3). However, because anesthetic depth is determined by the _partial pressure_ of volatile agent in the brain, the clinical impact is minor (see MAPP in Table 20.1).
+
+Under hyperbaric conditions, the partial pressure of volatile anesthetic in the vaporizing chamber remains constant despite an increase in ambient pressure and the partial pressure of the other gases. The net theoretical effects on variable bypass vaporizers are a significant decrease in anesthetic concentration _(v/v%)_ and a mild decrease in partial pressure output. Again, while the delivered anesthetic concentration is affected by the change in barometric pressure, the clinical delivery of anesthesia is largely unaffected.<sup>72</sup>
+
+As described earlier, MAC values for contemporary inhalational anesthetic agents were determined at sea level. Similarly, anesthetic vaporizers are calibrated at sea level, thus ensuring that vaporizer output ( _v_ / _v_ %) matches the dial setting. The MAPP at altitude is the same as at sea level because it is a partial pressure, whereas the MAC increases because it is a simple concentration. Table 20.3 shows that the partial pressure output of a variable bypass vaporizer changes proportionally less than the volume percent concentration as altitude increases. Because the partial pressure of volatile agent determines anesthetic depth, the operator does not need to adjust the dial to a higher setting to compensate for barometric pressure. This holds true for variable bypass vaporizers, but not for the desflurane Tec 6–style vaporizer (see later).
+
+**other safety concerns.** Contemporary variable bypass vaporizers incorporate many other safety features. Agentspecific, keyed filling devices help prevent filling with the wrong agent. Overfilling is minimized by locating the filler port at the maximum safe liquid level. Modern vaporizers
+
+are firmly secured to a manifold on the anesthesia workstation to prevent tipping. Contemporary interlock systems prevent the administration of more than one inhaled anesthetic agent. However, virtually all safety systems have vulnerabilities, so it remains important to understand these potential hazards.
+
+**misfilling.** Misfilling of anesthetic vaporizers with the wrong agent can result in an overdose or underdose of volatile anesthetic.<sup>73,74</sup> Vaporizer output in these circumstances depends on the erroneous agent’s saturated vapor pressure and the splitting ratio of the misfilled vaporizer, since these key parameters must normally be matched to ensure accurate agent delivery. Agent- specific filling devices have reduced, but not eliminated, misfilling,<sup>75</sup> although their use is not mandated.<sup>24</sup> The use of breathing circuit gas analysis may alert the user to misfilling. If a variable bypass vaporizer for isoflurane or sevoflurane is misfilled with desflurane, a substantial overdose could occur because of the much higher vapor pressure of desflurane (see Fig. 20.16).
+
+**contamination.** Although rarely reported, contamination of anesthetic vaporizer contents has occurred. In one instance, organic contaminants (some volatile) in a bottle of isoflurane were detected because of an abnormal acrid odor emanating from the vaporizer.<sup>76</sup> In another report, water accumulation within sevoflurane vaporizers allowed bacteria _(Staphylococcus epidermidis)_ to grow and metabolize liquid sevoflurane to volatile and potentially toxic compounds.<sup>77</sup>
+
+**tipping.** Tipping of a variable bypass vaporizer can allow the liquid agent to enter the bypass chamber and cause an extremely high output.<sup>78</sup> Although some vaporizers are more sensitive than others, most should not be used after tipping until they have been flushed for a period of time at high flow rates. Manufacturers’ instructions differ regarding their post- tipping procedures, so it is best to refer to each specific user manual. A gas analyzer should be used to assess vaporizer output before replacing into clinical use. Some vaporizers have a transport (“T”) dial setting that isolates the vaporizer chamber from the bypass chamber
+
+**Table 20.3** Comparative Performance of an Isoflurane Variable Bypass Vaporizer and the Tec 6 Desflurane Vaporizer During Changes in Barometric Pressure
+
+|||**Isoflurane Variable By**|**pass Vaporizer With Di**|**al Setting of 0.89% (****_v_/****_v_)**|**Tec 6 Desflurane**<br>**Vaporizer With Dial**<br>**Setting of 6%**|
+|---|---|---|---|---|---|
+|**Atm**|**Ambient Pressure**<br>**(mm Hg)**|**mL Isoflurane Vapor Entrained**<br>**by 100 mL O2**|**Vaporizer Isoflurane**<br>**Output (****_v_/****_v_%)**|**Vaporizer**<br>**Isoflurane Output (mm Hg)**|**Vaporizer Desflurane**<br>**Output (mm Hg)**|
+|0.66|500 (≈10,000 ft)|91|1.7|8.8|30|
+|0.74|560 (≈8200 ft)|74|1.5|8|33.6|
+|0.8|608 (≈6000 ft)|64|1.2|7.6|36.5|
+|1.0|760 (sea level)|46|0.89|6.8|45.6|
+|1.5|1140|26|0.5|5.9|68.4|
+|2|1520|19|0.36|5.5|91.2|
+|3|2280|12|0.23|5.2|136|
+
+
+_atm,_ atmospheres (1 atm = 760 mm Hg); _v_ / _v%,_ volume percent. Modified from Ehrenwerth J, Eisenkraft J. Anesthesia vaporizers. In: Ehrenwerth J, Eisenkraft J, eds. _Anesthesia Equipment: Principles and Applications_ . St. Louis: Mosby; 1993:69–71.
+
+
+
+::: details 原始表格與符號（PDF 第 19 頁）
+
+![第 20 章，原始 PDF 第 19 頁](assets/chapter-20/source-page-0019.png)
+
+:::
+
+<!-- PDF page 20 -->
+
+to eliminate the possibility of internal overflow during transport.<sup>59</sup>
+
+**overfilling.** If the variable bypass vaporizer is overfilled, liquid anesthetic may enter the bypass chamber, and a harmful dose of vapor could be delivered.<sup>79</sup> Contemporary vaporizers are designed so that they cannot be overfilled when they are used in a normal operating position. Sidefill variable bypass vaporizers, as opposed to top- fill devices, largely prevent overfilling because the maximum safe level is predetermined by the position of the filler port (see Fig. 20.19). Overfilling can still occur if the vaporizer is rocked or tipped while filling,<sup>79,80</sup> or if certain vaporizers are filled in the “on” position.<sup>81</sup>
+
+**leaks.** Vaporizers and the vaporizer–machine interface are potential sources of gas leaks that can result in patient awareness during inhaled anesthesia. Loose filler caps, filler plugs, and drain valves are probably the most common sources of leaks. Such a leak may be obvious (e.g., an audible gas leak with spillage of anesthetic agent) or have a more subtle presentation (such as a lower than expected inhaled agent concentration, or the odor of anesthetic gas).<sup>82</sup> Another common source of gas leak occurs at the junction of the vaporizer and the mounting bracket or manifold, where broken mounting assemblies or foreign bodies can compromise the seal between the vaporizer and its point of attachment.<sup>83,84</sup> Gas leaks can also occur within the vaporizer itself as a result of mechanical failure.
+
+**Desflurane Vaporizer.** Because of its unique physical characteristics, accurate delivery of desflurane required a different approach to vaporizer design, resulting in an electrically heated, pressurized device specifically designed to deliver desflurane (Fig. 20.25).<sup>85,86</sup> The operating principles for the Datex- Ohmeda Tec 6 and the Dräger D- Vapor vaporizers are reviewed below, although the discussion centers on the Tec 6 specifically. Alternative desflurane vaporizers, such as cassette vaporizers and the injection vaporizers are discussed separately because their operating principles are different.
+
+**unsuitability of desflurane for use in a variable bypass vaporizer.** Desflurane’s high volatility and moderate
+
+potency (see Table 20.1) preclude its use with contemporary variable bypass vaporizers for three main reasons<sup>85</sup> :
+
+1. _Desflurane’s high rate of evaporation would require excessive diluting gas (bypass chamber) flow._ The vapor pressure of desflurane is 669 mm Hg at 20°C (68°F), which is significantly higher than other inhaled anesthetic agents (see Fig. 20.16).<sup>87</sup> At 1 atm and 20°C, 100 mL/ min passing through the vaporizing chamber would entrain 735 mL/min of desflurane giving rise to 835 mL of 88% desflurane. To achieve a 6% (or 1 MAC) output, approximately 12 L/min of bypass chamber flow would be required. Prohibitively high bypass chamber flow rates would be required to dilute the vaporizing chamber output to clinical concentrations.
+
+2. _Desflurane’s high rate of evaporation would cause substantial anesthetic cooling._ Variable bypass vaporizers require ambient heat to offset evaporative cooling. Because the MAC for desflurane is higher than that for the other volatile anesthetics in clinical use (see Table 20.1), the amount of desflurane required to be vaporized over a given period is considerable. Supplying desflurane in equivalent MAC concentrations would lead to excessive cooling of the liquid and reduced vaporizer output not easily overcome with material design.<sup>85</sup>
+
+3. _Desflurane is more likely to boil._ The boiling point of desflurane is 22.8°C (73°F) at 1 atm. This temperature is at the higher end of normal operating room temperatures. If the anesthetic agent were to boil within a variable bypass- type vaporizer, the output would be uncontrollable.
+
+**operating principles of the tec- 6- style desflurane vaporizers.** The Tec 6 desflurane vaporizer was the first clinically available vaporizer to be electrically heated and pressurized, making many aspects of the internal design and operating principles radically different from variable bypass vaporizers. The Tec 6 is probably more accurately described as a dual- gas blender than as a vaporizer. A simplified schematic of the Tec 6 is shown in Fig. 20.25. The vaporizer has two independent gas circuits arranged in parallel. The fresh gas circuit is shown in orange, and
+
+
+![](assets/chapter-20/20._Inhaled_Anesthetic_Delivery_Systems.pdf-0020-11.png)
+
+
+Working<br>R1<br>pressure<br>Fresh gas<br>from<br>flowmeter<br>Control<br>assembly<br>electronics<br>Differential<br>CE pressure Vaporizer<br>transducer outlet<br>Sump<br>shut-off R2<br>valve<br>Desflurane<br>gas Working Concentration<br>Pressure- pressure control valve<br>Desflurane regulating<br>valve<br>liquid<br>Sump at 39°C<br>
+
+**Fig. 20.25 Simplified schematic of the Tec 6 desflurane vaporizer (Datex- Ohmeda, Madison, WI).** See text for details. (From Andrews JJ. _Operating Principles of the Ohmeda Tec 6 Desflurane Vaporizer: A Collection of Twelve Color Illustrations_ . Washington, DC: Library of Congress; 1996.)
+
+<!-- PDF page 21 -->
+
+the vapor circuit is shown in blue. Fresh gas from the flowmeters enters at the fresh gas inlet, passes through a fixed restrictor (R1), and exits at the vaporizer gas outlet. The vapor circuit originates at the desflurane sump, which is a reservoir of desflurane vapor. It is electrically heated to 39°C, providing a source of desflurane vapor at a pressure of 1300 mm Hg.<sup>88</sup> The shut- off valve just downstream from the sump is either fully closed (dial off) or fully open (dial on). A pressure- regulating valve downregulates the desflurane vapor’s pressure to the pressure of the fresh gas circuit. The operator controls the output of desflurane by adjusting the concentration control valve (R2), which is a variable restrictor.<sup>85</sup>
+
+When fresh gas flows past the fixed restrictor R1, a specific backpressure proportional to the flow rate pushes against the diaphragm of the differential pressure transducer. The transducer relays the pressure difference between the fresh gas circuit and the desflurane vapor circuit to the control electronics system. Under electronic control, the system tunes the pressure- regulating valve so that the pressure in the vapor circuit equals the pressure in the fresh gas circuit. When the operator turns on the desflurane, the amount of desflurane vapor that flows through resistor R2 to mix with the fresh gas flow, forming the vaporizer output, is determined by the working pressure and the dial setting. If the operator increases the fresh gas flow at the same dial setting, the working pressure in the vapor circuit will increase, and therefore more desflurane will flow through R2, keeping the output concentration the same.<sup>85</sup>
+
+### factors that influence the tec- 6- style desflurane vaporizer’s output
+
+barometric pressure. Recall that while ambient pressure changes affect the volume percent output of variable bypass vaporizers significantly, the effect on partial pressure output is minimal (and further recall that the partial pressure of volatile agent in brain tissue is the main determinant of anesthetic depth). By contrast, the partial pressure output of Tec 6–style desflurane vaporizers is significantly affected by altitude, as can be seen in Table 20.3. Because the Tec 6 is designed to mix the fresh gas and the desflurane vapor to achieve the concentration on the dial, with changes in atmospheric pressure, the Tec 6 maintains a constant volume percent output ( _v_ / _v_ %), not a constant partial pressure. This means that at high altitudes, the partial pressure of desflurane will decrease in proportion to the reduction in atmospheric pressure divided by the calibration pressure (normally 760 mm Hg). In hyperbaric settings, the desflurane output is increased in proportion to the actual atmospheric pressure divided by the calibration pressure.
+
+carrier gas composition. Carrier gases such as nitrous oxide have lower viscosity than oxygen, which results in less working pressure as the gas travels through resistor R1 (see Fig. 20.25). As a result, when a carrier gas other than 100% oxygen is used at low flow rates, a clear trend toward reduction in vaporizer output emerges. With high concentrations of nitrous oxide at low flow rates, the decrease in vaporizer output could be clinically significant.<sup>89</sup>
+
+**safety features.** Because desflurane’s vapor pressure is nearly 1 atm, misfilling a variable bypass vaporizer with desflurane could theoretically result in both overdose and creation of a hypoxic gas mixture. The desflurane vaporizer has a unique, anesthetic- specific filling system to minimize
+
+this potential hazard. Each desflurane bottle has a “SAFT- FILL” adapter intended to prevent use with traditional vaporizers.<sup>90</sup> The SAF- T- FILL system helps prevent both misfilling of variable bypass vaporizers and leakage of desflurane to the atmosphere.<sup>91</sup>
+
+Major vaporizer faults cause the shut- off valve located just downstream from the desflurane sump to close and terminate output (see Fig. 20.25). The valve closes, and a nooutput alarm is activated, if any of the following conditions occur: (1) the anesthetic level decreases to the low alarm threshold, (2) the vaporizer is tilted, (3) a power failure occurs, or (4) the pressure difference between the vapor and fresh gas circuits exceeds a specified tolerance. Although such automated safeguards can enhance patient safety, they may have unintended consequences. For example, a previous generation of Datex- Ohmeda desflurane vaporizer was reported to be incompatible with a certain model of Dräger anesthesia machine.<sup>92</sup> By design, this workstation interrupted fresh gas flow during the inspiratory phase of volume control ventilation as a means of fresh gas decoupling. These purposeful fresh gas flow interruptions caused an alarm and inappropriate termination of vaporizer output. Although the vaporizer was subsequently modified, this example serves as a reminder that new technology can bring about new problems.
+
+**Cassette Vaporizers.** The vaporizer system used in the GE Aisys anesthesia workstations is unique in that a single electronically controlled vaporizer is designed to deliver several different inhaled anesthetic agents. The vaporizer consists of a permanent internal control unit housed within the workstation and interchangeable cassettes that contain anesthetic liquid and serve as vaporizing chambers. The Aladin cassettes (now superseded by the Aladin2) are filled using agent- specific fillers and color- coded: red (halothane), orange (enflurane), purple (isoflurane), yellow (sevoflurane), and blue (desflurane). They are also magnetically coded to allow the anesthesia workstation to identify which cassette has been inserted.
+
+Operationally, the Aladin cassette vaporizing system is best described as a computer- controlled variable bypass vaporizer (Fig. 20.26). It consists of a bypass section and vaporizing chamber, the latter of which is contained within the interchangeable cassette (Fig. 20.27). A fixed restrictor located in the bypass chamber causes gas flow from the inlet to split into two streams. One stream passes through the bypass chamber, and the other is diverted to the vaporizing chamber where it passes through a one- way check valve. This valve prevents retrograde flow of anesthetic vapor into the bypass chamber, and its presence is unique to the Aladin system. The one- way check valve is essential for precise delivery of desflurane (see below).
+
+Within the cassette, anesthetic agent vaporizes freely to saturated vapor pressure. A flow control valve, modulated by a central processing unit (CPU), precisely meters the amount of gas flow through the vaporizing chamber, which then rejoins the bypass flow.<sup>41</sup> The CPU receives input from multiple sources: the concentration control dial, pressure and temperature sensors inside the vaporizing chamber, and flow sensors in the bypass and vaporizing chambers. The CPU also receives input from the flowmeters regarding the carrier gas composition, which can affect
+
+<!-- PDF page 22 -->
+
+![](assets/chapter-20/20._Inhaled_Anesthetic_Delivery_Systems.pdf-0022-01.png)
+
+
+Bypass Fixed<br>chamber FBC restrictor<br>Inlet Outlet<br>Check FVC<br>Flow<br>valve<br>control valve<br>T<br>Concentration CPU<br>control dial P<br>Aladin<br>cassette<br>
+
+**Fig. 20.26 Simplified schematic of Datex- Ohmeda Aladin cassette vaporizer (Datex- Ohmeda, Madison, WI).** The _black arrows_ inside the vaporizer represent flow from the flowmeters, and the _yellow circles_ represent anesthetic vapor. The heart of the vaporizer is the electronically controlled flow control valve located in the outlet of the vaporizing chamber. _CPU,_ central processing unit; _FBC,_ flow measurement unit that measures flow through the bypass chamber; _FVC,_ flow measurement unit that measures flow through the vaporizing chamber; _P,_ pressure sensor; _T,_ temperature sensor. Please see text for additional details. (Modified from Andrews JJ. _Operating Principles of the Datex- Ohmeda Aladin Cassette Vaporizer: A Collection of Color Illustrations_ . Washington, DC: Library of Congress; 2000.)
+
+vaporizer output as described above. Using these data, the CPU precisely regulates fresh gas flow through the vaporizing chamber to obtain the desired vapor concentration output.<sup>93</sup>
+
+Because of the electronic controls, the amount of flow sent to the vaporizing chamber can be precisely enough regulated for desflurane to be viable. Furthermore, when the room temperature exceeds desflurane’s boiling point (22.8°C [73°F]), the cassette converts to function as a vapor injector: the one- way check valve closes and prevents carrier gas from entering the cassette, and the CPU adjusts the flow control valve to meter in the appropriate flow of pure desflurane vapor needed to achieve the desired final concentration.
+
+In the Aladin vaporizing system, protection from a hypoxic gas mixture is achieved by the electronic control system ensuring that no less than 25% oxygen is delivered at the common gas outlet regardless of carrier gas composition _and_ concentration of anesthetic agent. This feature is unique, since conventional oxygen–nitrous oxide proportioning systems are not sensitive to the concentration of potent inhaled anesthetic agents.
+
+When the Aladin cassette is removed from the workstation, valves close to prevent loss of fresh gas. Another valve prevents liquid anesthetic from entering the fresh gas line. The system also has an overfilling protection mechanism.<sup>94</sup> Finally, the Aladin cassette is immune to tipping and has no restrictions on orientation during handling or storage.<sup>93</sup>
+
+**Injection- Type Vaporizers.** The Maquet vaporizer is an electronically controlled, injection- type vaporizer that is used exclusively with Maquet FLOW- i anesthesia
+
+workstations. These vaporizers are located upstream from the patient’s breathing circuit and are designated as outof- circuit vaporizers. The Maquet injection vaporizers are agent- specific and available for isoflurane, sevoflurane, and desflurane. Externally, the device has a lid, filling port, electronic level indicator, and alert indicators, but no concentration control dial. Vaporizer output adjustments are accomplished through an electronic interface on the workstation.
+
+The Maquet vaporizer principle of operation is illustrated in Fig. 20.28. Gas from the anesthesia machine enters through the drive gas inlet and pressurizes a reservoir of liquid anesthetic. This pressure provides the force to drive liquid through the injector and minimizes evaporation within the reservoir chamber. Liquid anesthetic is injected into a heated vaporizing chamber in pulses that are under microprocessor control, leading to rapid evaporation. Injection continues in small increments until the desired volume is obtained. The total amount injected in any given interval is based on the desired anesthetic concentration and the fresh gas flow through the vaporizer. A dedicated gas analysis line downstream from the vaporizer monitors the output.
+
+During the daily workstation pre- use check, Maquet vaporizers are automatically tested with respect to functionality and leaks. A safety valve stops the flow of liquid agent in the event of vaporizer malfunction. The vaporizer is not vulnerable to tipping because it has no wicks to saturate, and agent cannot spill into the vaporizing chamber. The vaporizer can be filled during use, although no vaporizer output occurs during filling. An alarm triggers when the liquid anesthetic level is less than 10%, and a higherpriority alarm triggers when it reaches 5%. Limited data are
+
+<!-- PDF page 23 -->
+
+![](assets/chapter-20/20._Inhaled_Anesthetic_Delivery_Systems.pdf-0023-02.png)
+
+
+Vaporizer chamber Baffles<br>Fill port<br>Pin<br>Agent Liquid level window<br>Pins<br>Inlet valve Outlet valve<br>Temperature<br>Wicking sensor<br>material<br>Identification<br>magnet Locking<br>positions mechanism<br>Handle<br>Fill system<br>Liquid level<br>window<br>
+
+**Fig. 20.27 Gas flow and safety features of the Aladin2 cassette.** Top, side view illustrating filling system and baffles. Bottom, top view showing safety features, wicks, and gas flow during vapor uptake. (From GE HealthCare.)
+
+available on the Maquet vaporizer’s performance with different fresh gas flow rates,<sup>95,96</sup> but the impact of changing barometric pressure, temperature, and fresh gas composition has not been reported.
+
+Some Dräger anesthesia workstations are also equipped with vaporizers that function by the direct injection of volatile anesthetic (DIVA) principle (Fig. 20.29). Dräger DIVA vaporizers are agent-specific. They consist of an interchangeable vaporizing module and a gas supply arrangement that is part of the workstation.<sup>60</sup> Liquid anesthetic agent is held in a reservoir. The liquid flows by gravity into a dosing chamber, where it is pressurized by gas supply from the workstation. The liquid passes through a dosing valve, and it is sprayed by a fuel injector into a heated vaporizing chamber. The anesthetic agent evaporates rapidly to its vapor pressure and is then introduced into the patient’s breathing circuit under microprocessor control. The feedback control unit may be set to target a certain volatile agent concentration as a percentage of either the fresh gas stream or the patient’s end- tidal gas.<sup>97</sup> Because the DIVA system can be set up so that the vapor is injected directly into the breathing system (not available in the United States), one
+
+can rapidly increase anesthetic depth and at the same time maintain low or even zero fresh gas flow.
+
+**Draw- Over Vaporizers in Contemporary Practice.** Draw- over vaporizers remain a popular option for delivering anesthesia in settings where compressed medical gases (oxygen or air) are not always available, including military field operations.<sup>98</sup> They are characterized by in- circuit location, low resistance to gas flow, and gas flow that is driven by negative downstream pressure (typically arising from the patient’s respiratory effort, but potentially from a bellows or compressible bag). The basic design principle of one such vaporizer is reviewed here.
+
+_The Oxford Miniature Vaporizer_ (OMV) is a stainless steel, variable- bypass, draw- over vaporizer. It has a robust, simple, and portable design and holds up to 50 mL of liquid anesthetic.<sup>61</sup> A calibrated dial controls flow through an aperture between a slide valve and obturator located in the bypass chamber (Fig. 20.30).<sup>99</sup> Closing the aperture directs more flow into the vaporizing chamber and increases output. Metal mesh wicks increase the surface area for vaporization yet add little resistance to gas flow. The OMV is not
+
+<!-- PDF page 24 -->
+
+![](assets/chapter-20/20._Inhaled_Anesthetic_Delivery_Systems.pdf-0024-01.png)
+
+
+Lid and<br>filler port<br>Filling Drive<br>check gas inlet<br>valve<br>Heater<br>Evaporative<br>surface Fresh<br>gas in<br>Level<br>indicator<br>Liquid<br>Fresh<br>anesthetic<br>reservoir gas out<br>Injection<br>sensor<br>Liquid<br>anesthetic<br>injector<br>Drain plug<br>Safety valve<br>Fig. 20.28 The Maquet anesthetic vaporizer.  Drive gas from the anesthesia machine is used to pressurize a liquid anesthetic reservoir. Under micro-<br>processor control, liquid agent is injected into a vaporizing chamber. Injection is carefully monitored. A heated surface within the vaporizing chamber<br>facilitates evaporation of the anesthetic agent. Fresh gas flows through the chamber and is enriched with anesthetic gas. A safety valve stops the flow<br>of liquid agent in the case of vaporizer malfunction. (Illustration adapted from Maquet Critical Care, Solna, Sweden, with permission.)(Illustration adapted from Maquet Critical Care, Solna, Sweden, with permission.)<br>Target<br>Level Fresh gas % exp. %<br>Reservoir 100 mL vol. agentor vol. agent<br>ventilation<br>Feedback<br>Fresh gas flow<br>control unit<br>Coded Dosing<br>filling pressure P<br>system Heating<br>Vol. agent<br>Liquid Liquid vapor<br>vol. agent gate<br>Dosing Vaporizing Flow<br>Reservoir chamber Dosing chamber monitor<br>valve<br>
+
+**Fig. 20.28 The Maquet anesthetic vaporizer.** Drive gas from the anesthesia machine is used to pressurize a liquid anesthetic reservoir. Under microprocessor control, liquid agent is injected into a vaporizing chamber. Injection is carefully monitored. A heated surface within the vaporizing chamber facilitates evaporation of the anesthetic agent. Fresh gas flows through the chamber and is enriched with anesthetic gas. A safety valve stops the flow of liquid agent in the case of vaporizer malfunction. (Illustration adapted from Maquet Critical Care, Solna, Sweden, with permission.)(Illustration adapted from Maquet Critical Care, Solna, Sweden, with permission.)
+
+**Fig. 20.29 Schematic of the Dräger DIVA vaporizer.** The vaporizer consists of two modules: an interchangeable vaporizing module, and a gas supply module that is part of the anesthesia workstation. The vaporizing module includes a reservoir for liquid agent and a dosing chamber. The gas supply module consists of a feedback control unit that provides dosing pressure and control, as well as a system of valves. The valves may target vapor injection into either a mixing chamber (to mix with fresh gas flow) or directly into the breathing system (injection independent of fresh gas flow). (Diagram reprinted from Drägerwerk AG & Co. KGaA, with permission.)
+
+temperature compensated and output varies significantly with ambient temperature.<sup>100</sup> It does feature a heat sink of water and ethylene glycol (“antifreeze”) housed in the base to resist temperature swings. The OMV is not agent- specific, and different calibrated dials are available for halothane, isoflurane, and sevoflurane.<sup>41</sup>
+
+**Volatile Anesthetic Reflectors: AnaConDa and Similar Devices.** There has been a resurgence of interest in providing inhaled volatile anesthetics to patients in locations outside of the operating room, such as the ICU, where commercial anesthesia workstations are not readily available.<sup>101</sup> Indications for delivery of volatile anesthetics in
+
+<!-- PDF page 25 -->
+
+![](assets/chapter-20/20._Inhaled_Anesthetic_Delivery_Systems.pdf-0025-02.png)
+
+
+Slide Valve<br>Obturator I<br>O<br>METAL AGENT<br>MESH WICK FILLING<br>PORT<br>vc<br>WATER<br>JACKET<br>
+
+**Fig. 20.30 Oxford Miniature Vaporizer.** Gas flows from the inlet, _I_ , through a slide valve and towards the outlet, _O_ . A dial controls motion of an obturator that diverts flow to the vaporizing chamber, _VC_ , and determines vaporizer output. (Redrawn from Dhulkhed V, Shetti A, Naik S, et al. Vapourisers: physical principles and classification. _Ind J Anaesth_ . 2013;57[5]:455–419.)
+
+the ICU include refractory bronchospasm and status epilepticus (see also Chapter 79), as well as a potential alternative to intravenous sedation.<sup>102,103</sup> Barriers to providing volatile anesthesia in the intensive care setting include rapid consumption of volatile anesthetics due to the high gas flow rates of modern ICU ventilators, and environmental safety and occupational health hazards due to atmospheric contamination and ineffective scavenging of waste gases.
+
+One solution for ICU delivery of volatile anesthetics is reflector- style devices such as the anesthetic-conserving device (AnaConDa) and Mirus device.<sup>104,105</sup> The AnaConDa is a single- use device based on a heat and moisture exchanger (HME) filter and does not require a power source or an anesthesia workstation.<sup>106</sup> Liquid volatile anesthetic (either isoflurane or sevoflurane) is injected into the device using a standard syringe pump and vaporized through a porous evaporator rod. The patient breathes in the anesthetic vapor normally. Upon exhalation, the breathing gases pass through an activated carbon filter that rapidly adsorbs exhaled volatile anesthetic with high efficiency, while CO2 and other exhaled gases pass through. Upon the next inspiratory cycle, the adsorbed volatile anesthetic molecules are released from the carbon filter and “reflected” toward the patient for rebreathing. The efficiency of the device is approximately 90%, with only 10% loss of anesthetic vapor passing through the reflector to the ventilator waste gases. As a result, the agent consumption is theoretically similar to
+
+an anesthesia machine using fresh gas flows in the range of 0.5 to 1 L/min.<sup>107</sup> A gas sampling port allows for monitoring of end- tidal volatile agent concentration and titration of the syringe pump infusion rate. The Mirus device works on a similar concept, but is capable of delivering desflurane, and incorporates automatic control of endtidal concentrations.<sup>104,108</sup>
+
+### ANESTHETIC BREATHING CIRCUITS
+
+Fresh gas departs from the supply system and enters the anesthetic breathing circuit through the fresh gas line. The functions of the breathing circuit are to deliver oxygen and other gases to the patient and to eliminate CO2. The breathing system must contain a low- resistance conduit for gas flow, a reservoir that can meet the patient’s inspiratory flow demand, and an expiratory port or valve to vent excess gas.<sup>109</sup> Beyond these fundamentals, circuits are categorized as those that use an absorber to eliminate CO2 (the circle system) and those that do not (the Mapleson circuits).<sup>110</sup> Circle systems are the most common breathing circuits used for anesthetic delivery. However, certain Mapleson systems are used in anesthesia workstations, particularly in pediatrics, and they are often used by anesthesia providers during transport of patients, procedural sedation, liberation from tracheal intubation (the T- piece), and preoxygenation during out- of- the- operating- room airway management.
+
+### Circle Breathing Systems
+
+The circle breathing system is so named because it allows circular, unidirectional flow of gas facilitated by oneway valves. Essential components include: (1) a fresh gas inflow source, (2) inspiratory and expiratory unidirectional valves, (3) inspiratory and expiratory corrugated tubes, (4) a Y- piece that connects to the patient, (5) an overflow or adjustable pressure-limiting (APL) or “pop- off” valve, (6) a reservoir or breathing bag, and (7) a canister containing CO2 absorbent (Fig. 20.31). Several additional components are added to enhance patient safety, including a circuit pressure sensor, a pressure gauge, an expiratory (and possibly an inspiratory) flow sensor, and an inspired oxygen concentration sensor. A separate positive endexpiratory pressure (PEEP) valve may be present. Circle systems must allow for spontaneous ventilation, manual ventilation, and positive- pressure mechanical ventilation, and therefore must function with both the anesthesia reservoir bag and ventilator. The flow of gas and position of the valves during inspiration, expiration, and at endexpiration is reviewed in Figs. 20.31–20.33.
+
+Some of the main advantages of the circle system include: (1) maintenance of relatively stable inspired gas concentrations; (2) conservation and reuse of anesthetic gases; (3) conservation of respiratory heat and moisture; (4) elimination of CO2; and (5) prevention of operating room pollution.<sup>111</sup> The capability to rebreathe exhaled gases is a unique aspect of circle systems as compared with ICU ventilators. Carbon dioxide is efficiently removed to allow safe rebreathing of exhaled gases. Waste gas, which is composed of excess carrier gas, anesthetic agent, and CO2, is scavenged and eliminated.
+
+<!-- PDF page 26 -->
+
+![](assets/chapter-20/20._Inhaled_Anesthetic_Delivery_Systems.pdf-0026-01.png)
+
+
+Pressure Pressure To<br>transducer gauges ventilator<br>Expiratory<br>port<br>valve Bag–ventilator<br>(closed) selector switch<br>Gas sample<br>port<br>Expiratory APL<br>flow sensor<br>valve Scavenger<br>PEEP outlet<br>CO2 valve<br>absorber<br>Inspiratory<br>valve<br>(open)<br>Breathing<br>bag<br>Galvanic<br>oxygen<br>sensor Fresh gas<br>inflow<br>
+
+**Fig. 20.31 Classic circle breathing system.** Spontaneous breathing–inspiratory phase (ventilator not shown). Gas is drawn by the patient from the breathing bag and through the carbon dioxide (CO2) absorber. It is then mixed with the fresh gas inflow from the gas supply system, traverses the inspiratory valve, and flows to the patient. The expiratory valve prevents rebreathing by not allowing flow to bypass the CO2 absorber. _APL_ , adjustable pressure- limiting; _PEEP,_ positive end- expiratory pressure. (Courtesy Dr. Michael A. Olympio; modified with his permission.)
+
+
+![](assets/chapter-20/20._Inhaled_Anesthetic_Delivery_Systems.pdf-0026-03.png)
+
+
+Expiratory<br>valve<br>APL<br>(open)<br>valve<br>PEEP<br>valve<br>Inspiratory<br>valve<br>(closed)<br>Fresh gas<br>inflow<br>
+
+**Fig. 20.32 Spontaneous breathing: early expiratory phase.** The inspiratory unidirectional valve ensures that all exhaled carbon dioxide (CO2)–containing gas flows toward the breathing bag and adjustable pressure- limiting (APL) valve before being scrubbed of CO2. Fresh gas continues to flow, but now in retrograde fashion, and combines with the exhaled breath. The APL valve remains closed in this example because circuit pressure is still lower than the practitioner- set APL valve pressure threshold (e.g., 5 cm H2O). _PEEP,_ positive end- expiratory pressure. (Courtesy Dr. Michael A. Olympio; modified with his permission.)
+
+Circle breathing systems have several disadvantages. Because they have a complex design with ten or more individual connections, they are susceptible to misconnections, disconnections, obstructions, and leaks. In a closed- claim analysis of adverse anesthetic outcomes arising from gas delivery equipment, 39% of malpractice claims resulted from breathing circuit misconnections or disconnection.<sup>112</sup> Malfunction of unidirectional valves can be life- threatening. The circle breathing system is large and compliant when compared with the Mapleson systems, and this property may compromise tidal volume delivery during controlled ventilation. Finally, because circle breathing systems use a CO2 absorber, anesthetic degradation can occur. Specific perils associated with each
+
+component of the circle system are discussed in the sections to follow.
+
+### Mechanical Components of the Circle Breathing System
+
+**unidirectional valves.** The one- way valves are essential elements of the circle breathing system (Fig. 20.34). They are constructed to resist the humidity that sometimes accumulates in the breathing system. However, these usually reliable valves can occasionally fail during use. The expiratory valve seems to be more vulnerable because it is subject to greater moisture exposure. If a unidirectional valve sticks in the open position, inappropriate rebreathing of CO2 may occur.<sup>113</sup> Capnography may help with diagnosis, as each
+
+<!-- PDF page 27 -->
+
+![](assets/chapter-20/20._Inhaled_Anesthetic_Delivery_Systems.pdf-0027-02.png)
+
+
+Expiratory<br>APL<br>valve<br>valve<br>To<br>scavenger<br>Inspiratory<br>valve<br>CPAP<br>Fresh gas<br>inflow<br>
+
+**Fig. 20.33 Spontaneous breathing: end- expiratory phase with continuous positive airway pressure (CPAP).** Fresh gas continues to flow into the circuit generating pressure that maintains distention of the lungs (CPAP) and the breathing bag. Once the circuit pressure exceeds the adjustable pressure- limiting (APL) valve’s set threshold (e.g., 5 cm H2O), the valve opens, and excess gas flow is vented to the scavenger. (Courtesy Dr. Michael A. Olympio; modified with his permission.)
+
+
+![](assets/chapter-20/20._Inhaled_Anesthetic_Delivery_Systems.pdf-0027-04.png)
+
+
+Inspiratory Expiratory<br>valve valve<br>To From<br>patient patient<br>
+
+**Fig. 20.34 Circle breathing system unidirectional valves.** The “allowed” gas flow for each valve is illustrated by the _red arrows_ . When gas flow is reversed, the mobile valve disk is pressed down on the valve seat, blocking flow. (Modified from Yoder M. Absorbers and breathing systems. In: _Understanding Modern Anesthesia Systems_ . Telford, PA: Dräger Medical; 2009:83–126.)
+
+valve demonstrates a characteristic CO2 waveform when incompetent (see also Chapter 37).<sup>114</sup> An expiratory valve stuck in the closed position can lead to barotrauma.<sup>115</sup> Assessing for proper unidirectional valve function should be part of the anesthesia workstation pre- use checkout procedure. Anesthesia machines are constructed so that valve function and motion can either be visibly assessed, or malfunction is indicated by the workstation.<sup>10</sup>
+
+**adjustable pressure- limiting valve.** The APL valve is an operator- adjustable relief valve that vents excess breathing circuit gas to the scavenging system and provides control of the breathing system pressure during spontaneous and manual modes of ventilation. Switching the workstation to a ventilator mode excludes or closes the valve. Several other common names exist for these devices, including “pop- off” valve and pressure relief valve. The functional principles of the most common APL valve type are reviewed in Fig. 20.35. While APL valves are designed as a safety feature to allow control of circuit pressures during manual ventilation, problems do occur. A comparison of two modern anesthesia machines demonstrated that not
+
+all APL valves have equivalent linear behavior, and with certain valves the positive inspiratory pressure (PIP) may routinely exceed set values.<sup>116</sup> Also, mechanical failures of APL valves have been reported due to breakage or trapping of gas sampling lines under the edge of the control knob.<sup>117,118</sup> These cases serve as reminders that the operator must vigilantly monitor circuit pressure during manual ventilation.
+
+**anesthesia reservoir bag.** The anesthesia reservoir bag, or “breathing bag,” provides several important functions, including (1) serving as a reservoir for exhaled gas and excess fresh gas, (2) providing a means of delivering manual ventilation or assisting spontaneous breathing, (3) serving as a visual or tactile means of monitoring a patient’s spontaneous breathing efforts, and (4) partially protecting the patient from excessive positive pressure in the breathing system, such as in the case of inadvertent closure of the APL valve or an obstruction of the scavenge line (Fig. 20.36A). Standard adult breathing bags have a nominal volume of 3 L; pediatric bags are available as small as 0.5 L. The reservoir bag is the most compliant part of the breathing system.
+
+<!-- PDF page 28 -->
+
+![](assets/chapter-20/20._Inhaled_Anesthetic_Delivery_Systems.pdf-0028-01.png)
+
+
+Spring pressure Spontaneous<br>Manual exceeded by mode<br>ventilation mode circuit pressure<br>Control<br>dial<br>To<br>From scavenger<br>A breathing circuit B C<br>
+
+**Fig. 20.35 Adjustable pressure- limiting valve: pressure- regulating type.** (A) In the “manual” setting, the operator adjusts spring tension, thereby adjusting valve opening pressure. In this image the breathing circuit pressure has not yet exceeded spring tension. (B) Breathing circuit pressure has exceeded the set pressure (spring tension), and gas is vented to the scavenger. With the pressure-regulating type of adjustable pressure- limiting valve, circuit pressure is independent of the fresh gas flow rate. (C) When the valve is placed in the spontaneous mode, the disk is lifted off the valve seat, and gas flows freely to the scavenger. A check valve downstream prevents waste gas from returning to the breathing circuit.
+
+
+![](assets/chapter-20/20._Inhaled_Anesthetic_Delivery_Systems.pdf-0028-03.png)
+
+
+60<br>a<br>50<br>40<br>b<br>30<br>c<br>20<br>10<br>2 4 6 8 10 12<br>A B Volume (L)<br>O)Pressure (cm H2<br>
+
+**Fig. 20.36 Safety function of the breathing circuit reservoir bag when overdistended.** The standard for reservoir bags is that the maximum pressure should not exceed approximately 60 cm H2O at four times the stated capacity. However, the pressure inside many reservoir bags peaks at a lower volume, and all should maintain a plateau pressure with further expansion. (A) A breathing bag distended to a diameter of ∼66 cm and volume of ∼150 L. The pressure inside the bag is 34 cm H2O. (B) Pressure versus volume filling curves for three different reservoir bags, demonstrating a peak and plateau pressure. (From Križmarić M. Functions of anesthesia reservoir bag in a breathing system. _Slov Med J_ . 2017;86:226–235.)
+
+The pressure–volume characteristics of standard bags are such that they inflate to a maximal pressure, and then slightly decrease to a plateau as filling continues to higher volumes (Fig. 20.36B).<sup>109,119,120</sup> Anesthesia reservoir bags must adhere to pressure standards, which mandate a minimum pressure of approximately 30 cm H2O and a maximum pressure of approximately 60 cm H2O when the bag is filled to four times its stated capacity.<sup>121</sup> Classically, the reservoir bag is excluded from the breathing circuit when the ventilator is in use. However, on most contemporary Dráger workstations, the reservoir bag is integral to circuit function during mechanical ventilation, where it serves as an exhaled and fresh gas reservoir.<sup>35,122</sup>
+
+**corrugated breathing circuit tubing.** The breathing circuit tubing, which accounts for most of the volume within
+
+the circle system, has certain vulnerabilities. First, these circuits are compliant, and some of the volume intended for delivery to the patient during positive- pressure ventilation is lost to distention of the tubing. A circuit compliance test is part of the pre- use checkout on contemporary anesthesia machines, specifically to compensate for this effect. It is important that these tests be performed with the actual circuit that is to be used for anesthesia delivery. If a circuit extension is to be used to facilitate turning the operating room table 180 degrees, for example, then the compliance, leak, and flow tests should be performed with the extension in place.
+
+**y- piece.** The Y- piece is the distal part of the circuit nearest the patient where the inspiratory and expiratory limbs merge. It has a 15- mm inner diameter to connect to an
+
+<!-- PDF page 29 -->
+
+endotracheal tube or elbow connector, and a 22- mm outer diameter to connect to a face mask. The dead space in the circle breathing system, which comprises the portions of the circuit with bidirectional gas flow, begins at the Y- piece and continues to the patient (compare Figs. 20.31 and 20.32).<sup>123</sup> The gas sampling port is located at or near the Y- piece to allow monitoring of both inspiratory and expiratory gases.
+
+**filters and heat and moisture exchangers.** The use of HMEs and filters within the anesthesia breathing circuit is common. HMEs help replace the normal warming and humidifying function of the upper airway, which is often bypassed by an artificial airway during anesthesia.<sup>124</sup> With the advent of the novel coronavirus pandemic, the pressing need to filter patients’ exhaled gas became apparent. A bacterial/viral filter on the expiratory limb of the circuit protects the anesthesia machine, while a filter between the Y- piece and the patient’s airway provides protection from aerosol or airborne infections.<sup>125</sup> In smaller patients, the added dead space of a filter between the Y- piece and airway can lead to problems with rebreathing and hypercapnia.<sup>126</sup> On most contemporary workstations, if the sample gas is returned to the breathing circuit, the integrated water trap also contains a filter with adequate efficiency.<sup>125</sup>
+
+### Sensors
+
+**inspired oxygen concentration monitor.** The ASTM standards state that the workstation must be equipped with a sensor to monitor the oxygen concentration in the inspiratory limb or at the Y- piece of the breathing circuit. A low oxygen concentration alarm must sound within 30 seconds if the fraction of inspired oxygen (FiO2) drops below a set limit, which cannot be adjustable to less than 18% _v_ / _v_ %.<sup>24</sup> The oxygen sensor is truly the patient’s last line of defense from receiving a hypoxemic gas mixture. Modern anesthesia workstations typically use side- stream multigas analyzers at the Y- piece as the exclusive inspiratory oxygen monitor. Paramagnetic oxygen analyzers, which can be calibrated either as part of the automated machine check or less frequently with scheduled maintenance, are commonly used. Galvanic cell oxygen analyzers found in some machines still in service require daily calibration by the user.<sup>127</sup>
+
+**flow sensors.** Flow sensors are used on the anesthesia machine primarily to measure tidal volume; minute ventilation is typically displayed as well. Flow information may also be used to display flow waveforms and/or flow–volume loops. Some workstations use flow sensor measurements as a feedback signal to maintain stable tidal volume delivery at varying fresh gas flow rates (see discussion of flow compensation below). A variety of technologies may be used, such as differential pressure sensors, heated- wire anemometers, ultrasonic flow sensors, or variable- orifice flow sensors. The location of the flow sensors can vary, but a sensor for exhaled gas flow is required at a minimum.
+
+**breathing circuit pressure sensors.** The continuous measurement of airway pressure in the breathing circuit is critical to patient safety. Several requirements must be met. First, anesthesia workstations must continuously display pressure in the breathing system. Second, operatoradjustable alarms must be present for high pressure as well as for continuous positive pressure lasting 15 seconds
+
+or longer. An alarm must also sound if negative pressure below −10 cm H2O occurs in the breathing circuit for more than 1 second. Finally, when automatic ventilation is in use, the machine must alarm whenever the breathing pressure falls below a preset or adjustable threshold pressure for more than 20 seconds. This alarm may serve as a disconnection alarm, but low- volume or exhaled CO2 monitoring may also be used (see below).<sup>10</sup> The location of pressure sensors in the breathing system varies. They are typically located in the nondisposable portion of either the inspiratory or expiratory limb near one of the unidirectional valves.<sup>128</sup> It is important to remember that the breathing circuit pressure may not accurately represent the patient’s airway pressure, especially if the pressure sensor is located far from the Y- piece. Older machines have a mechanical pressure gauge, while newer models may display a digital representation of this gauge.
+
+### Circle System Function – Semiclosed, Semiopen, and
+
+**Closed Systems.** Circle system function is illustrated in Figs. 20.31–20.33. The extent of rebreathing, and therefore the conservation of exhaled gases, depends on the fresh gas flow rate. Higher fresh gas flow rates result in less rebreathing and greater waste gas. Contemporary circle systems are usually operated in a _semiclosed_ manner, meaning that some rebreathing occurs, but some waste flow is vented through the APL or waste gas valve of the ventilator. The delivery of _low- flow_ anesthesia (often &lt;1 L/min) generally refers to a technique where fresh gas flow is far less than minute ventilation, and at least 50% of expired gas is rebreathed after carbon dioxide removal.<sup>129</sup>
+
+The advantages of conducting low- flow or minimal- flow (≤0.5 L/min) anesthesia include the decreased use of volatile anesthetic agents, improved temperature and humidity control, and reduced environmental pollution. The disadvantages include difficulty in rapidly adjusting anesthetic depth and the theoretical possibility of accumulating unwanted exhaled gases (e.g., carbon monoxide, acetone, methane) or volatile anesthetic degradation products (e.g., compound A, carbon monoxide – see Carbon Dioxide Absorbers, below).<sup>129</sup>
+
+A closed system is one in which the rate of oxygen inflow exactly matches metabolic demand, rebreathing is complete, and no waste gas is vented. A volatile anesthetic agent is added to the breathing circuit in liquid form in precise amounts or is initially introduced through the vaporizer.<sup>130</sup> Closed- circuit anesthesia maximizes the advantages of low- and minimal- flow anesthesia. However, the vigilance demanded by this technique makes it impractical for routine clinical use.<sup>131</sup>
+
+### Potential Circle System Problems
+
+**leaks and disconnections.** Common sources of leaks include disposable tubing and components, as well as points of connection within the breathing circuit and at the CO2 absorber canister.<sup>132</sup> Although leaks can develop during the course of anesthesia care, such as a partial disconnection, most can be detected during a thorough workstation pre- use checkout. Leaks can be small and easily overcome by increasing fresh gas flow to compensate for lost volume, or they can be very large and render ventilation impossible. No matter the size, all leaks should be investigated. Several
+
+<!-- PDF page 30 -->
+
+monitors can assist the anesthesia provider in detecting a leak or circuit disconnection (Table 20.4).
+
+Breathing circuit pressure monitoring is an extremely important aid in diagnosing leaks and disconnections. The threshold pressure (or low peak inspiratory pressure) alarm is useful for detecting leaks and disconnections. When using a controlled ventilation mode, an audible and visual alarm is generated if the breathing system pressure drops below the threshold limit for more than 20 seconds (Fig. 20.37A). The threshold pressure alarm limit is operator- adjustable on some machines and may also have an “autoset” feature that applies an algorithm to set an appropriate limit based on current airway pressures. As can be seen in Fig. 20.37B, setting the threshold limit too low may allow a partial disconnection (leak) to go unrecognized. Conversely, setting the threshold limit too high can result in an erroneous alarm.
+
+Respiratory volume monitors (flow sensors) are useful in detecting leaks or disconnections. Low exhaled tidal volume and/or low minute ventilation alarms may first alert the operator to these problems. The user should bracket the ventilation alarms slightly higher and lower than the patient’s requirements. Institution- specific default profiles for the mechanical ventilators on anesthesia machines can be set, although these are typically less “tight” than
+
+**Table 20.4** Methods of Detecting Leaks and Disconnections During the Course of Anesthesia
+
+|**Method**|**Leak Indications**|
+|---|---|
+|Breathing circuit<br>pressure sensors|_Threshold pressure alarm_*<br>Pressure waveform evaluation<br>Trend of peak pressures|
+|Workstation tidal<br>volume sensors|Low minute ventilation or low tidal volume<br>alarm<br>Failure to deliver set tidal volume<br>Disparity between inhaled and exhaled tidal<br>volumes<br>Decreasing trend of tidal volume and minute<br>ventilation|
+|Exhaled gas analysis|Exhaled carbon dioxide automated<br>monitoring<br>Abnormal appearance and trend of<br>capnography tracing|
+|Physiologic sensors<br>(e.g., SpO2, HR, BP)|Late detection of significant leaks and<br>disconnections because the patient is<br>already decompensating|
+|A vigilant practitioner|Assesses breath sounds and chest wall<br>excursion<br>Pays close attention to alarms and responds<br>promptly<br>Observes workstation and physiologic<br>monitors<br>Notes that ventilator bellows is not refilling<br>completely, and tidal volumes are<br>decreasing<br>Notes that flow rate requirements are<br>increasing to refill an ascending bellow<br>Senses that breathing bag motion and feel<br>are not normal<br>Detects the odor of anesthetic gas<br>Follows his or her instinct that something is<br>not right|
+
+
+*ISO standard. _BP,_ blood pressure; _HR,_ heart rate; _SpO2,_ saturation of peripheral oxygen.
+
+user- set alarms would be. An autoset feature may be available as well, whereby a batch of alarms are bracketed to the patient’s current ventilatory parameters using a few keystrokes.<sup>33</sup> Some workstations will alarm if a significant disparity exists between inhaled and exhaled tidal volumes, or when the measured tidal volume does not achieve the set tidal volume.<sup>133</sup>
+
+Finally, all modern workstations have integrated gas monitoring with alarms for exhaled CO2. Total loss of the capnogram should alert the operator to a loss of ventilation and possible circuit disconnect. More subtle changes in capnogram amplitude or waveform may indicate a leak or a valve misfunction.<sup>114</sup>
+
+**misconnections.** Unfortunately, misconnections of the breathing system are not rare. Anesthesia workstations, breathing systems, ventilators, and scavenging systems incorporate many diameter- specific connections. Despite the efforts of standards committees to assign different diameters to various circuit connections, misconnections continue to occur. The ingenuity of some individuals in outwitting these “foolproof” systems has led to various hoses being adapted or forcefully fitted to inappropriate sites.<sup>134,135</sup> Operators and technicians should be properly trained on their respective workstations and modifications should be discouraged.
+
+**obstruction.** Occlusion (obstruction) of the breathing circuit may occur and can have severe consequences. Tracheal tubes may kink. Breathing circuit valves or other components can malfunction. Hoses throughout the breathing circuit are subject to occlusion by internal obstruction or external mechanical forces that can impinge on flow. Blockage of HMEs by secretions can also cause significant obstruction.<sup>136</sup> Case reports describe bilateral tension pneumothorax caused by blockage of a bacterial filter in the expiratory limb.<sup>137</sup> Defects associated with disposable circuit components or the tubing itself have caused severe circuit obstruction and sometimes injury to the patient.<sup>138–140</sup> Misplaced Luer caps have made their way into the elbow connector of the circuit because of packaging errors and have caused obstruction.<sup>141</sup> Only the performance of a manual circuit flow test can reliably detect obstruction.<sup>8,142</sup>
+
+For a patient that is difficult to ventilate for an unclear reason, do not delay in switching to a self- inflating resuscitation bag. Ventilate the patient first, troubleshoot later.
+
+**Variations in Circle Breathing System Design.** Numerous variations of the circle system are possible, depending on the relative positions of the unidirectional valves, the APL valve, the reservoir bag, the CO2 absorber, and the site of fresh gas entry. To prevent rebreathing of CO2 in a traditional circle system, three rules must be followed: (1) a unidirectional valve must be located between the patient and the reservoir bag on both the inspiratory and expiratory limbs; (2) the fresh gas inflow cannot enter the circuit between the expiratory valve and the patient; and (3) the APL valve cannot be located between the patient and the inspiratory valve. If these rules are followed, any arrangement of the other components will prevent rebreathing of CO2.<sup>111</sup> Design departures from the traditional circle breathing system are often driven by strategies to eliminate the impact of varying fresh gas flow rates or oxygen flush
+
+
+
+::: details 原始表格與符號（PDF 第 30 頁）
+
+![第 20 章，原始 PDF 第 30 頁](assets/chapter-20/source-page-0030.png)
+
+:::
+
+<!-- PDF page 31 -->
+
+![](assets/chapter-20/20._Inhaled_Anesthetic_Delivery_Systems.pdf-0031-02.png)
+
+
+30<br>25<br>20<br>15<br>10<br>5<br>A<br>Alarm limits set correctly to within<br>5 cm H2O of peak pressure Partial disconnection<br>30<br>25<br>20<br>15<br>10<br>5<br>B Alarm limits set incorrectly >5 cm<br>H2O below peak pressure Partial disconnection<br>Breathing<br>O)pressure (cm H2<br>Breathing<br>O)pressure (cm H2<br>
+
+**Fig. 20.37 Threshold pressure alarm limit.** (A) The threshold pressure alarm limit _(dotted line)_ has been set appropriately. An alarm is actuated when partial disconnection occurs _(arrow)_ because the threshold pressure alarm limit is not exceeded by the breathing circuit pressure. (B) Partial disconnection is unrecognized by the pressure monitor because the threshold pressure alarm limit has been set too low. (Redrawn from North American Dräger. _Baromed Breathing Pressure Monitor: Operator’s Instruction Manual._ Telford, PA: North American Dräger; 1986.)
+
+on inspiratory tidal volume and airway pressure during mechanical ventilation (fresh gas decoupling or compensation). These concepts are addressed later, in the section on anesthesia ventilators.
+
+### Carbon Dioxide Absorbers
+
+Circle breathing systems require a means of CO2 removal from the exhaled gases to avoid rebreathing and hypercapnia. Although increasing the fresh gas inflow to high levels can dilute out most CO2 in the circle system, this is a very inefficient way to conduct an anesthetic. Because typical gas flows through the anesthesia machine are less than minute ventilation, absorption of CO2 is essential. If one could design an ideal CO2 absorbent, its characteristics would include a lack of reactivity with common anesthetics, an absence of toxicity, low resistance to airflow, minimal dust production, low cost, ease of handling, and high efficiency. It should also be easy to assess for absorbent depletion (i.e., a diminished ability to remove CO2). Finally, the container that houses the absorbent should be easy to remove and replace, should maintain breathing circuit integrity if quickly replaced during use, and should impose minimal risk of causing breathing system leaks or obstruction.
+
+**Absorber Canister.** Although CO2 absorber canister configurations vary, they must be visible to the operator and transparent to monitor for absorbent presence and color. On traditional anesthesia machines, the absorber assembly consists of one or two clear plastic canisters filled either with loose bulk absorbent or with factory- supplied disposable prepack cartridges. Opening the canister assembly abolishes the integrity of the breathing circuit. If the absorbent needs to be changed during anesthesia, and apnea cannot be tolerated, it is necessary to ventilate by other means. These older canisters are a common source of leaks due to their multiple components and compression locking
+
+mechanism.<sup>132</sup> Loose granules from bulk absorbent may lodge between the canister and the O- ring gasket of the absorber and create a clinically significant leak. Leaks have also been caused by defective prepacks or those that were larger than factory specifications.<sup>143,144</sup> Circuit obstruction by granules impeding gas flow has been reported as well.<sup>145</sup> Problems with rebreathing CO2 have been caused by canister apparatus reassembly issues that escaped notice on machine checkout.<sup>146,147</sup>
+
+Many modern workstations now use single- use canister absorbers that are disposable and easily replaceable. Increasingly, workstation design allows the canister to be replaced during anesthesia without interfering with breathing system integrity, sometimes referred to as a _bypass_ feature. A potential risk imposed by this feature is that the machine may pass an automated or manual leak test without the absorber attached.
+
+**Chemistry of Absorbents.** Carbon dioxide is removed from the breathing circuit through absorption by chemicals within the absorber canister. Through a series of reactions, CO2 is transformed into water, heat, and other byproducts through a chemical process that neutralizes an acid (CO2 or carbonic acid) with one or more basic compounds. Most absorbents use calcium hydroxide [Ca(OH)2] to react with the expired CO2, producing insoluble calcium carbonate (CaCO3) (Box 20.1). However, because CO2 does not react quickly with Ca(OH)2, water and small amounts of stronger base catalysts are required to speed up the reaction. Calcium hydroxide–based absorbents vary in content of water, strong base catalysts (e.g., sodium hydroxide or potassium hydroxide), humectants (e.g., calcium chloride, to maintain the water content), and hardening agents such as silica. Newer absorbents only have trace amounts of potassium hydroxide (KOH) or sodium hydroxide (NaOH) because these bases have been associated with anesthetic degradation. One absorbent brand replaces Ca(OH)2 entirely with
+
+<!-- PDF page 32 -->
+
+### Box 20.1 Carbon Dioxide Absorber Reactions (Net and Sequential)
+
+**Carbon Dioxide Reaction with Soda Lime** **_Net Reaction_** CO2 + Ca(OH)2 → CaCO3 + H2O + heat **_Sequential Reactions_** 1.  CO2 (gas) + H2O (liquid) ⇌ H2CO3 (aqueous) 2.  H2CO3 + 2NaOH (or KOH) → Na2CO3 (or K2CO3) + 2H2O + heat 3.  Na2CO3 (or K2CO3) + Ca(OH)2 → CaCO3 + 2NaOH* (or KOH*) + heat **Carbon Dioxide Reaction with Lithium Hydroxide Monohydrate** 2LiOH • H2O + CO2 + heat → Li2CO3 + 3H2O
+
+*Note: Sodium hydroxide (NaOH) and potassium hydroxide (KOH) are catalysts in this reaction mechanism (they are neither created nor destroyed). _LiOH_ , lithium hydroxide.
+
+lithium hydroxide (LiOH), which does not require any additional catalysts to react with CO2, although increases in lithium costs drove it from the market.<sup>148</sup> Another brand uses a small amount of lithium chloride (LiCl) in place of other strong bases.<sup>149</sup> Key differences in absorbents include their capacity for CO2 absorption and their propensity to react with volatile anesthetics and produce potentially harmful degradation products. Important information about each brand of absorbent can be obtained from its Material Safety Data Sheet, although precise composition remains proprietary. The trend in modern absorbent chemistry is to remove KOH and reduce NaOH, balancing the absorptive efficiency of the product with the risks inherent in passing anesthetic gases through it.<sup>148,150</sup>
+
+The sequential reactions for classic soda lime are illustrated in Box 20.1 _. Soda lime_ is a mixture of chemicals that contains about 80% Ca(OH)2 along with water and small amounts of strong base. First, CO2 reacts with liquid water present on and within the absorbent granules to yield carbonic acid (H2CO3). This step requires water and explains why all Ca(OH)2- based absorbents contain approximately 15% H2O by mass. Second, the strong base additives NaOH and KOH react quickly with H2CO3 to yield the soluble salts sodium carbonate (Na2CO3) and potassium carbonate (K2CO3). All available active strong base is quickly depleted. Third, the carbonates react with Ca(OH)2 to yield insoluble CaCO3. Note that NaOH and KOH are regenerated in this step and therefore meet the definition of catalysts. Since additional CO2 cannot dissolve in water until H2CO3 is consumed by strong base (step 2), the rate of NaOH and KOH regeneration (step 3) is the rate- limiting step.<sup>151</sup> Some CO2 may react directly with Ca(OH)2, but as mentioned, this reaction is slower. Byproducts of the entire process are water and heat.
+
+### Interactions of Inhaled Anesthetics with Absorbents
+
+### formation of potentially harmful degradation prod-
+
+**ucts.** Volatile anesthetic agents have long been known to interact with the strong bases (KOH and NaOH) in absorbents to form degradation products. The main degradation products of concern are compound A, associated with the use of sevoflurane, and carbon monoxide (CO), mainly associated
+
+with the use of desflurane, enflurane, and isoflurane.<sup>152</sup> Other degradation products of potential concern include formaldehyde and methanol, but these are not discussed here.<sup>153</sup>
+
+**compound a production.** Sevoflurane can undergo a base- catalyzed degradation into fluoromethyl- 2,2difluoro- 1- (trifluoromethyl) vinyl ether, known as compound A _._ Compound A is nephrotoxic to rats at concentrations that can occur in the breathing circuit during clinical conditions.<sup>154</sup> In a limited number of volunteer studies, sevoflurane was associated with transient albuminuria and glucosuria.<sup>155,156</sup> To date, however, no relationship between sevoflurane use and postoperative renal dysfunction in humans has been demonstrated, including patients with preoperative renal insufficiency.<sup>157,158</sup> The sevoflurane package insert states that patient exposure should not exceed 2 MAC- hours at flow rates between 1 and 2 L/min in order to minimize risk from compound A. While flow rates less than 1 L/min were not officially recommended, several more contemporary studies have demonstrated safety at lower flow rates.<sup>148,158</sup>
+
+The type and ratio of strong bases within the CO2 absorbent affects the degree of sevoflurane degradation. KOH seems to cause more breakdown than NaOH.<sup>159</sup> For example, classic soda lime and Baralyme (which was voluntarily withdrawn from the market) both contain significant amounts of KOH and have a greater propensity to generate compound A than newer absorbents.<sup>160</sup> LiOH- based absorbents and newer Ca(OH)2- based absorbents that are free of KOH and NaOH generate zero or negligible amounts of compound A.<sup>161–164</sup> Given the ongoing improvements in CO2 absorbents, use of low flows poses minimal risk to patients from compound A during routine clinical practice.
+
+**carbon monoxide production.** Strong- base–containing absorbents that are extremely dry (desiccated) can also degrade inhaled anesthetics to clinically significant concentrations of CO.<sup>165</sup> Under certain conditions, this process can produce blood carboxyhemoglobin levels of 35% or greater in an exposed patient.<sup>166</sup> A typical scenario involving a dangerous CO exposure would be the first case on a Monday morning, after high continuous gas flows had accidentally been left on throughout the weekend and desiccated the absorbent. Machines in remote locations are more frequently found with desiccated absorbent.<sup>167</sup> Desiccation of absorbent is unlikely to occur during anesthesia delivery since CO2 absorption produces water and patients exhale humidified gas.
+
+In addition to the degree of desiccation, the inhaled anesthetic used affects the risk of CO production, with desflurane producing more (per given MAC multiple) than isoflurane or sevoflurane.<sup>168</sup> High anesthetic concentrations, low flow rates, and small patient size have also been implicated.<sup>168–170</sup> As with compound A production, the presence of strong bases (KOH and NaOH) in the desiccated absorbent correlates with the propensity to degrade certain anesthetics and liberate CO. LiOH absorbent produces essentially no CO and maintains excellent CO2 absorption.<sup>160,161</sup> Omission of KOH and reduction of NaOH from the Ca(OH)2- based absorbents reduces or eliminates the potential to produce CO without significant impact on the capacity for CO2 absorption.<sup>148,162,163,171</sup>
+
+**absorbent heat production.** One extremely rare but potentially life- threatening complication related to CO2
+
+<!-- PDF page 33 -->
+
+absorbent is the development of extreme exothermic reactions that lead to fires and explosions.<sup>172–174</sup> This seems to occur when desiccated strong base absorbents (particularly Baralyme) interact with sevoflurane. Under experimental conditions, desiccated Baralyme absorbers exceeded 200°C (392°F) and higher, and fire was noted in some of the breathing circuits.<sup>175</sup> Avoiding the use of sevoflurane with strong base- rich absorbents (e.g., the now discontinued Baralyme), especially when desiccated, is the best way to prevent such complications.
+
+A consensus statement established by the Anesthesia Patient Safety Foundation provides recommendations to reduce the risk of volatile anesthetic degradation by desiccated CO2 absorbents<sup>165</sup> :
+
+- Turn off all gas flow when the machine is not in use
+
+- Change the absorbent regularly
+
+- Change the absorbent if color change indicates exhaustion
+
+- Change all absorbent (not just one canister in a twocanister system)
+
+- Change the absorbent when uncertain about the state of hydration (e.g., if fresh gas flow is left on for an extensive or indeterminate period)
+
+- If compact canisters are used, change them more frequently
+
+Advances in absorbent chemistry, in particular the reduction or elimination of strong bases in modern absorbents, have substantially reduced the risks associated with desiccated absorbents. Nevertheless, it is prudent to choose absorbents carefully, and to educate anesthesia personnel about these hazards and preventive measures.
+
+**Indicators.** Conventional absorbents contain an indicator dye, ethyl violet, that allows anesthesia personnel to visually assess the functional integrity of the absorbent. Ethyl violet is a substituted triphenylmethane dye that undergoes a color change around pH 10.3.<sup>151</sup> When the absorbent is fresh, the pH exceeds 10.3 and the dye is colorless. As the absorbent becomes exhausted, the pH drops below 10.3 and the dye becomes purple. The color change indicates that the absorptive capacity of the material has been depleted. Unfortunately, ethyl violet may not always be a reliable indicator. Prolonged exposure of ethyl violet to fluorescent light can photodeactivate the dye. When this occurs, the absorbent will remain white even when exhausted.<sup>176</sup> One method to ensure full use of the absorbent’s capacity for removing CO2 from the patient circuit is to wait until significant inspired CO2 (around 5 mm Hg) appears. This method requires changing the absorbent mid- case, without the ability to perform a leak check, which some may not be comfortable with.<sup>177</sup>
+
+### Carbon Dioxide Removal Capacity and Absorber
+
+**Resistance.** The ability of the workstation’s absorber to remove CO2 is related to three main factors: (1) the amount of absorbent surface area exposed to the exhaled gas; (2) the intrinsic capacity of the absorbent to remove CO2; and (3) the amount of nonexhausted absorbent remaining. The size and shape of the absorptive granules are intended to maximize surface area while minimizing resistance to airflow. The smaller the granule size, the greater the surface area
+
+that is available for absorption. However, as particle size decreases, airflow resistance increases. The size and shape of the granules are proprietary and differ between manufacturers.<sup>150</sup> The presence of excess liquid water within the canister can decrease the exposed granule surface area and therefore the efficiency of CO2 absorption. As the absorbent granules stack up in canisters, small passageways inevitably form. These passages allow gas to flow preferentially through low- resistance areas. This phenomenon, known as _channeling_ , may substantially decrease the functional absorptive capacity.<sup>148</sup> A pair of nongranular polymer matrix products (SpiraLith and SpiraLith Ca) package the absorbent in a solid cylinder that has molded airflow channels, eliminating the phenomenon of channeling.<sup>150</sup>
+
+Since the CO2 absorbent is exposed to pulses of CO2 that need to be absorbed before the next breath is delivered, rather than measuring total absorptive capacity in a steady state, a better way to quantify capacity is by measuring how long before rebreathing of CO2 occurs under controlled conditions. There is a wide range of efficiency depending on absorbent formulation, with the top performer providing 40% longer use before reaching the experimental rebreathing cutoff, compared to the same weight of the least efficient absorbent.<sup>178</sup> Absorbents for anesthesia use are packaged by volume rather than weight; when comparing equal volumes of absorbent material, there is up to a twofold difference in how long the absorbent lasts before allowing significant rebreathing.<sup>150</sup>
+
+**Non- absorbent CO2 removal.** Using technology based on the oxygenator in a cardiopulmonary bypass circuit, a method of removing CO2 from the breathing circuit using sweep flow can be devised. The oxygenator membrane allows equilibration between the sweep gas and the gas in the circuit for O2 and CO2 but keeps the anesthetic vapor molecules within the patient circuit. Since the sweep gas contains no CO2, under normal conditions the CO2 content in the patient circuit approaches zero (but does not quite reach zero). The sweep gas is then directed to the waste gas scavenge, ideally with CO2 but without anesthetic agent. Because there is nothing used up in the oxygenator membrane, this method of CO2 removal eliminates the need for disposable CO2 absorbents. In bench and _in vivo_ testing, the consumption of anesthetic agent was higher than with traditional absorbents, indicating that some anesthetic agent was being picked up by the sweep gas and removed to the scavenge system.<sup>179,180</sup>
+
+### Mapleson Breathing Systems
+
+While the six Mapleson breathing circuits, designated A through E (Fig. 20.38),<sup>181,182</sup> are rarely used to provide inhaled anesthesia outside of resource- constrained environments, certain of them remain popular with anesthesiologists for patient transport and ventilating patients in the ICU. The Mapleson systems share certain features with the circle breathing system: they accept fresh gas flow, supply the patient with gas from a reservoir to meet inspiratory flow and volume requirements, and eliminate CO2. They differ from the circle system by having bidirectional gas flow and lacking an absorber. CO2 elimination in these systems depends on a higher rate of fresh gas inflow (washout). The Mapleson systems consist of several common components,
+
+<!-- PDF page 34 -->
+
+![](assets/chapter-20/20._Inhaled_Anesthetic_Delivery_Systems.pdf-0034-02.png)
+
+
+Mapleson A – spontaneous ventilation<br>A<br>FGF Gas vented<br>through pop-off<br>End-expiration<br>Mapleson A – controlled ventilation<br>End-expiration Inspiration<br>B FGF<br>Mixed gas in reservoir<br>E<br>C FGF FGF<br>D FGF<br>Legend<br>Fresh gas<br>Dead space<br>gas<br>F FGF<br>Alveolar<br>gas<br>
+
+**Fig. 20.38 Mapleson breathing systems.** (A) Mapleson A, also known as the “Magill circuit,” during spontaneous ventilation with gas distribution at end- expiration. This is the only Mapleson circuit where fresh gas flow enters far away from the patient. With the adjustable pressure-limiting (APL) valve fully open, there is minimal rebreathing during spontaneous breathing. A _, Inset,_ Mapleson A system during controlled ventilation. The Mapleson A requires high fresh gas flow to avoid rebreathing during positive pressure ventilation. (B–F) Mapleson systems B through F with gas distribution at end- expiration. Mapleson D, E, and F are the “T- piece group.” Mapleson C is known as the “Waters to- and- fro,” and lacks a corrugated tube. Mapleson E is the “Ayre’s T- piece.” Mapleson F is the “Jackson–Rees circuit.” _FGF,_ fresh gas flow. (Redrawn after Sykes MK. Rebreathing circuits. _Br J Anaesth_ . 1968;40[9]:666–674; and Kaul TK, Mittal G. Mapleson’s breathing systems. _Ind J Anaesth_ . 2013;57[5]:507–519.)
+
+<!-- PDF page 35 -->
+
+including a connection point to a face mask or endotracheal tube, reservoir tubing, fresh gas inflow tubing, an expiratory pop- off valve or port, and typically a breathing bag as an additional reservoir.
+
+Even though the components and their arrangement are simple, functional analysis of the Mapleson systems is complex<sup>183,184</sup> and will not be reviewed in detail here. Mapleson systems have low resistance to gas flow, they are small and contain few parts, and changes in the fresh gas flow composition result in rapid changes in the breathing circuit. In addition, the volatile anesthetic agents within a Mapleson breathing circuit have no chance of degradation because of the absence of a CO2 absorber. However, given their need for higher gas flows to prevent rebreathing, they are not as economical with regards to carrier gas and volatile anesthetic usage as the circle system. Conservation of heat and humidity is less efficient. Finally, scavenging of waste gas can be challenging with these systems.<sup>185</sup>
+
+Three Mapleson- style circuits deserve special mention. First, the Mapleson E circuit (see Fig. 20.38E) is the only one without a breathing bag. Sometimes called an Ayre’s T- piece, it is only able to support spontaneous ventilation. It is sometimes used when ICU patients are being liberated from mechanical ventilation. In resource- constrained environments, the Ayre’s T- piece can be used to deliver inhaled anesthetics to spontaneously breathing patients.
+
+Second, the Mapleson F circuit (see Fig. 20.38F), more usually called the Jackson–Rees circuit, is a modification of the Ayre’s T- piece by adding a breathing bag with an open “tail” to the expiratory limb of the circuit. The open tail may have an adjustable valve for positive-pressure ventilation or continuous positive airway pressure (CPAP). Perhaps because it closely approximates the look and feel of the breathing bag on an anesthesia machine, many anesthesia providers in the United States use the Jackson–Rees for patient transport and in the ICU. The Jackson–Rees is relatively efficient for both spontaneous and controlled ventilation. A flow of about 2.5–3 times minute ventilation is typically adequate to prevent rebreathing of CO2 for spontaneous ventilation and 1.5–2 times minute ventilation for controlled ventilation.<sup>186</sup>
+
+Finally, the Bain circuit is a coaxial circuit and a modification of the Mapleson D system (Fig. 20.39). Fresh gas
+
+flows through a narrow inner tube nested within the outer corrugated hose.<sup>187</sup> The central fresh gas tubing enters the corrugated hose near the reservoir bag, but the fresh gas actually empties into the circuit at the patient’s end. Exhaled gases pass down the corrugated hose, around the central tubing, and are vented through the pop- off valve near the reservoir bag.<sup>188</sup> Exhaled gases passing down the outer corrugated hose add warmth to the inspired fresh gases by countercurrent heat exchange. At least one center reported modifying a Bain circuit with a bacterial/viral filter for use in COVID- positive patients during the early part of the pandemic.<sup>189</sup> The main hazards related to use of the Bain circuit are an unrecognized disconnection or kinking of the inner fresh gas hose, resulting in hypercapnia or hypoxemia. The outer corrugated tube should be transparent to allow ongoing inspection of the inner tube.
+
+### Self- Inflating Manual Resuscitators
+
+While rarely used for delivery of inhaled anesthetics in modern practice, the manual resuscitation bag (e.g., Ambu bag, Laerdal resuscitator, or simply bag–valve–mask device) is an essential part of every anesthesia workstation. The key feature of this device is a compressible reservoir, typically made of silicone, that automatically expands upon release. Unlike the Mapleson circuits, the self- inflating manual resuscitator may be used for hand ventilation in the absence of an oxygen or air source. These devices are ubiquitous for patient transport, cardiopulmonary resuscitation, and for emergency back- up should the anesthesia machine ventilator or oxygen supply fail (see Checking Your Anesthesia Workstation, below).
+
+In addition to the self- inflating reservoir bag, the manual resuscitator has several key components<sup>190</sup> :
+
+- A T- shaped non- rebreathing valve is located between the bag and the patient in order to direct gas flow throughout the respiratory cycle. During inspiration, the valve opens to allow flow from the reservoir bag to the patient, and the expiratory port is blocked (Fig. 20.40). During exhalation, the inspiratory port (to the bag) is blocked, and the expiratory port opens to vent exhaled gas to the atmosphere. A variety of valve types exist (e.g., springdisc, fishmouth).
+
+
+![](assets/chapter-20/20._Inhaled_Anesthetic_Delivery_Systems.pdf-0035-12.png)
+
+
+Overflow<br>valve Corrugated tubing<br>Fresh gas inlet<br>Face mask<br>Reservoir bag<br>
+
+**<mark>Fig. 20.39 The Bain circuit.</mark>** <mark>(Redrawn from Bain JA, Spoerel WE. A streamlined anaesthetic system.</mark> _<mark>Can Anaesth Soc J.</mark>_ <mark>1972;19:426.)</mark>
+
+<!-- PDF page 36 -->
+
+![](assets/chapter-20/20._Inhaled_Anesthetic_Delivery_Systems.pdf-0036-01.png)
+
+
+A<br>Self-inflating 3<br>reservoir bag<br>Oxygen Inspiratory 1<br>reservoir<br>port<br>2<br>4<br>Oxygen inflow<br>B<br>Room air<br>intake<br>Expiratory<br>port<br>Oxygen<br>reservoir<br>
+
+**Fig. 20.40 Self- inflating manual resuscitator.** (A) Flow of gas during inspiration. (1) Non- rebreathing valve, (2) bag inlet valve, (3) pop- off or pressurelimiting valve (standard for pediatric and infant devices), and (4) outflow or excess- oxygen venting valve. (B) Flow of gas during expiration. See text for details. (Redrawn after Dorsch JA, Dorsch SE. Manual resuscitators. In: _Understanding Anesthesia Equipment._ 5th ed. Baltimore: Williams & Wilkins; 2008:282–295; and Lien S, Verreault DJ, Alston TA. Sustained airway pressure after transient occlusion of a valve venting a self- inflating manual resuscitator. _J Clin Anesth._ 2013;25[5]:424–425.)
+
+- An inlet valve permits refilling of the bag with reservoir gas or room air.
+
+- A pop- off valve may be present to limit the PIP, which can easily reach high levels with these devices.<sup>191</sup> ISO standards require that manual resuscitators designed for infants or children have a valve to limit PIP to 45 cm H2O.<sup>192</sup> An override feature must be present should higher pressures be required.
+
+While manual resuscitators are extremely useful, portable, and convenient, they do have potential hazards.<sup>190</sup> Dangerously high inspiratory pressures may be generated if the operator is untrained, uncareful, or if valve failure occurs.<sup>193</sup> High pressures may lead to barotrauma or gastric insufflation. Similar to Mapleson circuits, significant variation of tidal volume, PIP, and PEEP is likely to occur when manual resuscitators are compared with mechanical ventilators.<sup>194</sup> Finally, the non- rebreathing valves generate resistance and may significantly increase the work of breathing during spontaneous ventilation.
+
+### ANESTHESIA VENTILATORS
+
+Today’s anesthesia workstations incorporate ventilators with ICU- like capabilities, including a variety of ventilation modes and the ability to allow for patient triggering.
+
+ICU ventilators are open circuit, using entirely fresh gas for each breath, and venting all exhaled gas into the atmosphere. The anesthesia workstation must incorporate a means of collecting and redelivering the patient’s exhaled gas in the semi- closed circle system. This requirement presents unique engineering challenges in the design and control of the anesthesia ventilator. Historically the most common solution to this challenge has been the inclusion of a bellows in the anesthesia workstation. Alternative engineering solutions to allow rebreathing include piston- type ventilators, the Maquet volume reflector, or the Dräger Perseus’ blower ventilator. The following discussion focuses on the classification, operating principles, and hazards associated with contemporary anesthesia ventilators.
+
+### Classification
+
+In bellows ventilators, the bellows serves as a volume reservoir for breathing gas, and the ventilator uses a double circuit “bag in a bottle” design to deliver breaths. The bellows are typically driven pneumatically. Bellows- type ventilators can be subclassified as ascending or descending based on the direction of bellows movement during the expiratory phase. An ascending (standing) bellows ascends during the expiratory phase, whereas a descending (hanging) bellows
+
+<!-- PDF page 37 -->
+
+descends during the expiratory phase. Both types of bellows ventilators are illustrated in Fig. 20.41A,B.
+
+In nonbellows machines, the reservoir function may be served by the breathing bag itself (as in the Dräger piston [see Fig. 20.41C] or blower ventilators) or by the “volume reflector,” in the Maquet FLOW- i anesthesia workstation. The drive mechanism of piston and blower ventilators is mechanical, while the Maquet ventilator is pneumatically driven.
+
+Older anesthesia machine ventilators operated only in a time- cycled manner, without the ability to respond to a patient’s spontaneous breathing efforts, and offered only a volume- control mode of ventilation. Modern machines
+
+offer the ability for the patient to trigger breaths. In contemporary anesthesia workstations, the responsiveness to patient - triggering efforts is comparable to ICU ventilators, but the clinician should be on the lookout for evidence of asynchrony in modes that allow triggering.<sup>195,196</sup> These ventilators can function in volume- controlled or pressurecontrolled breaths, as well pressure support breaths and synchronized intermittent mandatory ventilation (SIMV). Finally, even though some ventilators may be pneumatically driven, all modern ventilators are under electronic control. The design of different anesthesia ventilators, with an emphasis on the integration between the ventilator and
+
+
+![](assets/chapter-20/20._Inhaled_Anesthetic_Delivery_Systems.pdf-0037-06.png)
+
+
+Exhalation Inspiration<br>Bellows<br>A housing<br>Bellows<br>Drive Breathing gas<br>gas<br>B<br>Breathing gas<br>Drive<br>gas<br>C<br>Breathing gas<br>Negative- Piston<br>pressure Rolling<br>relief valve diaphragms<br>Positive-<br>Driveshaft<br>pressure<br>Motor<br>relief valve<br>
+
+
+![](assets/chapter-20/20._Inhaled_Anesthetic_Delivery_Systems.pdf-0037-07.png)
+
+
+![](assets/chapter-20/20._Inhaled_Anesthetic_Delivery_Systems.pdf-0037-08.png)
+
+
+![](assets/chapter-20/20._Inhaled_Anesthetic_Delivery_Systems.pdf-0037-09.png)
+
+
+**Fig. 20.41** Three types of anesthesia ventilators during exhalation _(left)_ and inhalation _(middle)_ , with photo _(right)_ . To allow rebreathing and conservation of anesthetic gases, the anesthesia workstation ventilator must have a reservoir for the patient’s exhaled breathing gas, just as the breathing bag does in manual and spontaneous modes of ventilation. This is a unique requirement of ventilators in anesthesia workstations. Intensive care unit ventilators, conversely, can simply vent exhaled gases into the environment. In the diagrams, breathing gas is _green_ and ventilator drive gas is _yellow_ . (A) Ascending bellows. (B) Descending (hanging) bellows. (C) Piston ventilator. See text for additional details. (Piston ventilator diagram modified from Yoder M. Ventilators. In: _Understanding Modern Anesthesia Systems._ Telford, PA: Dräger Medical; 2009.)
+
+<!-- PDF page 38 -->
+
+the circle breathing system, using specific workstations as examples, are discussed below.
+
+### Pneumatically Driven Bellows Ventilator
+
+The operating principle of the bellows ventilator is that the bellows functions in a rigid airtight housing and serves as a reservoir for the patient’s breathing gas. The driving force used to move gas from the bellows back to the patient is pressurized gas that flows into the bellows’ housing under electropneumatic control. The bellows fills with the patient’s exhalation and fresh gas flow. Once the bellows is refilled, excess circuit gas is vented to the scavenging system during the expiratory pause. The mechanisms that vent breathing circuit waste gas during mechanical ventilation with bellows ventilators differ among manufacturers and models. The bellows ventilator is traditionally designated as a double circuit, meaning that the ventilator drive gas and the breathing gas exist in two separate circuits. The bellows serves as the interface between the breathing gas and the drive gas, much like the reservoir bag serves as the interface between the breathing gas and the anesthesia care provider’s hands.<sup>197</sup> Figs. 20.42 and 20.43 illustrate the inspiratory and expiratory phases of mechanical ventilation with an ascending bellows ventilator on the GE Aisys workstation. Note that the bellows ventilator uses pressurized gas from the intermediate- pressure section of the anesthesia machine to drive the bellows. The modern bellows ventilator has primary control over the pressure applied to the bellows, and uses data integrated from the flow sensors to create volume control breaths.
+
+The source of the drive gas for the bellows is either oxygen or air, which is obtained from the gas supply section
+
+of the workstation. Some workstations allow for the selection of either oxygen or air as the ventilator drive gas, and some can entrain room air through a Venturi effect into the oxygen drive gas flow, thereby decreasing the oxygen gas requirement. Knowing the type of gas used to drive the bellows ventilator can be important in oxygen failure emergencies. If oxygen is used as the drive gas, then the amount of oxygen consumed by the anesthesia machine will equal the amount of oxygen selected for fresh gas flow plus an amount approximately equal to the minute ventilation being delivered by the ventilator. Whereas a full E- cylinder can provide 10 hours of use with oxygen fresh gas flow of 1 L/min and manual ventilation through the circle system, that same E- cylinder will provide less than 2 hours’ supply in an adult patient when oxygen is used as the ventilator drive gas.
+
+As described earlier, bellows- type ventilators can be classified according to the direction that they move during patient exhalation. Ascending bellows rise with exhalation, and descending bellows fall with exhalation (see Fig. 20.41). Of the two configurations, the ascending bellows is considered safer. An ascending bellows will not fill if total disconnection occurs, or it may only partially fill if a circuit leak exceeds the fresh gas flow rate, providing an important visual cue for a circuit disconnect or leak. The bellows of a descending bellows ventilator, on the other hand, will continue its regular upward and downward movement despite patient disconnection: the drive gas pushes the bellows upward during the inspiratory phase, and during the expiratory phase the bellows “fills” with entrained room air instead of the patient’s exhaled gas, because of the weighted bellows. The pressure monitor and the volume monitor may be fooled even if disconnection is complete.<sup>198</sup>
+
+
+![](assets/chapter-20/20._Inhaled_Anesthetic_Delivery_Systems.pdf-0038-07.png)
+
+
+Ventilator<br>drive gas<br>Bellows<br>housing Exhalation<br>valve<br>Bellows<br>falls<br>Expiratory<br>valve Bag-ventilator<br>Expiratory<br>flow sensor (closed) selector switch Pop-off<br>valve Scavenger<br>outlet<br>APL<br>valve<br>Galvanic CO2<br>absorber<br>oxygen<br>sensor Inspiratory<br>valve<br>(open)<br>Inspiratory Pressure<br>flow sensor<br>transducer<br>port Fresh gas<br>inflow<br>
+
+**Fig. 20.42 Inspiratory phase of ventilation with an ascending bellows ventilator.** The ventilator drive gas circuit is located outside the bellows, and the patient’s breathing circuit is inside the bellows. During the inspiratory phase the electronically controlled ventilator drive gas enters the bellows chamber and causes the pressure to increase, thereby compressing the bellows, which delivers gas to the patient’s lungs. The drive gas also closes the exhalation valve and prevents the breathing gas from escaping into the scavenging system. Compensation for the impact of fresh gas flow on tidal volume accuracy is accomplished by monitoring the inhaled tidal volumes and adjusting ventilator drive gas volumes accordingly. _APL,_ adjustable pressure- limiting; _CO2_ , carbon dioxide. (Image courtesy Dr. Michael A. Olympio; modified with his permission. Adapted from Datex- Ohmeda. _Aisys Anesthesia Machine: Technical Reference._ Madison, WI: Datex- Ohmeda; 2005.)
+
+<!-- PDF page 39 -->
+
+![](assets/chapter-20/20._Inhaled_Anesthetic_Delivery_Systems.pdf-0039-02.png)
+
+
+Bellows Exhalation<br>rises valve<br>Expiratory<br>valve<br>(open) Pop-off<br>valve Drive gas<br>vents out<br>scavenger<br>outlet<br>CO2<br>absorber<br>Inspiratory<br>valve<br>(closed)<br>Fresh gas<br>inflow<br>
+
+**Fig. 20.43 Expiratory phase of ventilation with an ascending bellows ventilator.** During the early expiratory phase, the patient exhales into the bellows because the ventilator exhalation valve is now open, thus allowing the drive gas in the bellows housing to vent through the scavenger outlet. The pop- off or ventilator relief valve prevents bellows gas from escaping at this point so the bellows can fill. In the late expiratory phase, positive endexpiratory pressure (PEEP) is provided by pressurization of the bellows housing and pressure modulation of the expiratory valve. (Courtesy Dr. Michael A. Olympio; modified with his permission. Adapted with permission from Datex- Ohmeda. _Aisys Anesthesia Machine: Technical Reference._ Madison, WI: DatexOhmeda; 2005.)
+
+**Problems With Bellows Ventilators.** Correct function of the bellows ventilator requires that both the bellows housing and the bellows itself be free of leaks. Improper seating of the plastic bellows housing can result in inadequate ventilation because a portion of the driving gas is vented to the atmosphere.<sup>199</sup> A hole in the bellows can lead to alveolar hyperinflation and possibly barotrauma in some ventilators because high- pressure driving gas can enter the patient’s circuit. The oxygen concentration of the patient’s gas may increase when the driving gas is 100% oxygen, or it may decrease if the driving gas is composed of air or an air–oxygen mixture.<sup>200</sup>
+
+The ventilator relief valve (sometimes called the “exhalation valve”; see Fig. 20.42) can potentially cause problems. The function of this valve is to open during exhalation once the bellows has refilled, venting excess gas to the scavenger outlet. Hypoventilation can occur if the valve becomes incompetent because anesthetic gas is delivered to the scavenging system instead of to the patient during the inspiratory phase. A ventilator relief valve stuck in the closed or partially closed position can cause either barotrauma or undesired PEEP.<sup>201</sup> Excessive suction from the scavenging system can draw the ventilator relief valve to its seat and close the valve during both the inspiratory and expiratory phases.<sup>202</sup> In this case, breathing circuit pressure escalates because the excess anesthetic gas cannot be vented. Some bellows- style anesthesia workstations send the used ventilator drive gas to the anesthesia gas scavenging system during exhalation. Under certain conditions, notably high fresh gas flows combined with high minute ventilation, the scavenging system can be overwhelmed, causing inadvertent high PEEP levels and/or pollution of the operating room with waste anesthetic gases (see Scavenging Systems, below).
+
+### Mechanically Driven Piston Ventilator
+
+Mechanically driven, electronically controlled piston- type ventilators use a computer- controlled stepper motor instead of compressed drive gas to deliver tidal volume (see Fig. 20.41). These are single- circuit ventilators, as there is not a separate ventilator drive gas circuit. The piston operates much like the plunger of a syringe in a cylinder of essentially zero compliance.<sup>203</sup> The ventilator has primary control over the volume displaced in the circuit and uses the data from pressure sensors to create pressure control breaths. The computerized controls can support a variety of ventilator modes, including pressure or volume limited breaths, in controlled, synchronized, or spontaneous modes.
+
+Because the patient’s mechanical breath is delivered without the use of compressed gas to actuate bellows, these systems consume dramatically less compressed gas during ventilator operation than do traditional pneumatic ventilators. This improvement in efficiency may have clinical significance when the anesthesia workstation is used in a setting where no pipeline gas supply is available (e.g., remote locations or office- based anesthesia practices). Another advantage of the piston ventilator is the potential for very accurate tidal volume delivery, because of the low compliance of the piston chamber. This contrasts with bellows- type ventilators, in which the drive gas can be subject to varying degrees of compression. With either piston or bellows ventilators, circuit compliance compensation and the use of inspired tidal volume measurement serve as feedback signals to maintain stable tidal volume delivery.
+
+Figs. 20.44 and 20.45 illustrate the inspiratory and expiratory phases of mechanical ventilation with a piston ventilator, the Dräger Fabius workstation. Note the location of the ventilator within the breathing circuit between the fresh gas inflow and the inspiratory valve. The breathing
+
+<!-- PDF page 40 -->
+
+![](assets/chapter-20/20._Inhaled_Anesthetic_Delivery_Systems.pdf-0040-01.png)
+
+
+Exhaust<br>PEEP/Pmax valve<br>Expiratory valve<br>flow sensor APL<br>To<br>valve<br>Gas scavenger<br>sample<br>Expiratory<br>port valve<br>CO2<br>absorber<br>Fresh gas<br>Inspiratory decoupling<br>valve  valve<br>APL<br>bypass<br>Pressure Fresh valve<br>transducer<br>gas<br>port inflow<br>Piston<br>ventilator<br>Inspiratory phase of ventilation with a piston ventilator.  During inspiration, the positive end- expiratory pressure (PEEP)/maximum pres-<br>) valve is held closed. The pressure in the breathing circuit that is generated by the ventilator closes the fresh gas decoupling valve. This directs<br>fresh gas flow toward the breathing bag during inspiration, so it does not interfere with tidal volume accuracy. Excess fresh gas flows past the open<br>adjustable pressure- limiting (APL) bypass valve, through the exhaust check valve, and to the scavenger. Note how the breathing bag is integral to circuit<br>function during mechanical ventilation. In the manual and spontaneous modes of ventilation, the piston ventilator is held in the upward position, and<br>the APL bypass valve closes, thus making the APL valve operable. (Courtesy Dr. Michael A. Olympio; modified with his permission. Adapted from Dräger (Courtesy Dr. Michael A. Olympio; modified with his permission. Adapted from Dräger<br>Dräger Technical Service Manual: Fabius GS Anesthesia System.  Telford, PA: Rev: E, Dräger Medical; 2002.)<br>Exhaust<br>valve<br>APL<br>valve<br>Expiratory<br>valve<br>CO2<br>absorber<br>Inspiratory Decoupling<br>valve  valve<br>APL<br>bypass<br>valve<br>Fresh<br>gas<br>inflow<br>
+
+**Fig. 20.44 Inspiratory phase of ventilation with a piston ventilator.** During inspiration, the positive end- expiratory pressure (PEEP)/maximum pressure (Pmax) valve is held closed. The pressure in the breathing circuit that is generated by the ventilator closes the fresh gas decoupling valve. This directs fresh gas flow toward the breathing bag during inspiration, so it does not interfere with tidal volume accuracy. Excess fresh gas flows past the open adjustable pressure- limiting (APL) bypass valve, through the exhaust check valve, and to the scavenger. Note how the breathing bag is integral to circuit function during mechanical ventilation. In the manual and spontaneous modes of ventilation, the piston ventilator is held in the upward position, and the APL bypass valve closes, thus making the APL valve operable. (Courtesy Dr. Michael A. Olympio; modified with his permission. Adapted from Dräger (Courtesy Dr. Michael A. Olympio; modified with his permission. Adapted from Dräger Medical. _Dräger Technical Service Manual: Fabius GS Anesthesia System._ Telford, PA: Rev: E, Dräger Medical; 2002.)
+
+**Fig. 20.45 Expiratory phase of ventilation with a piston ventilator.** During the initial phase of exhalation, before the piston begins moving back to starting position and the decoupling valve opens, the patient exhales into the breathing bag, and fresh gas continues to flow retrograde (not pictured). Once the decoupling valve opens, the piston’s movement back to its starting position draws in gas stored within the breathing bag and fresh gas from the fresh gas inflow. Positive end- expiratory pressure (PEEP) is maintained by the PEEP/maximum pressure valve, which also prevents the ventilator from pulling in gas from the lungs. Once the piston reaches the bottom of its stroke, fresh gas flow reverses course and flows in retrograde fashion toward the breathing bag and the absorber (as in Fig. 20.44), while excess gas vents through the exhaust valve to the scavenger. _APL,_ adjustable pressure- limiting. (Courtesy Dr. Michael A. Olympio; modified with his permission. Adapted from Dräger Medical. _Dräger Technical Service Manual: Fabius GS Anesthesia System._ Telford, PA: Rev: E, Dräger Medical; 2002.)
+
+bag participates in the circuit during mechanical ventilation, acting as the reservoir for rebreathing. The circuit employs a fresh gas decoupling valve to exclude fresh gas from being added to the tidal volume during inspiration. Therefore during inspiration, the fresh gas is added to the
+
+breathing bag. During the expiratory phase, the breathing bag initially fills with exhaled gas; then, as the piston returns to its starting position, the fresh gas decoupling valve opens, and fresh gas flow plus gas from the breathing bag refill the piston chamber.
+
+<!-- PDF page 41 -->
+
+A potential hazard associated with piston ventilators is that, like descending bellows ventilators, they will refill even if a circuit disconnection occurs. Similarly, if a circuit leak is present, piston ventilators may entrain room air through the leak, thereby diluting oxygen and anesthetic agent. The associated risks are hypoxemia and awareness. The Dräger piston ventilators will entrain room air through an auxiliary air valve, seen in Fig. 20.41, to fill the piston chamber if the fresh gas flow fails or is inadequate (instead of causing negative pressure in the breathing circuit). However, if this occurs, an alarm will alert the operator.<sup>203</sup>
+
+### Maquet FLOW- i Anesthesia System with Volume Reflector
+
+The Maquet FLOW- i anesthesia workstation uses a novel device called the _volume reflector_ (Figs. 20.46 and 20.47) to act as the reservoir. The volume reflector is essentially a long plastic tube with a volume of 1.2 L, coiled compactly to fit in the anesthesia workstation. The volume reflector is functional and “in- circuit” during all modes of ventilation. It is interposed between the patient and the reflector gas module during positive- pressure ventilation or between the patient and the breathing bag during spontaneous or assisted ventilation. The volume reflector therefore acts as a volume reservoir while at the same time preventing mixing between the gas at the two ends of the tube.
+
+Mechanical ventilation is powered by the reflector gas module, a solenoid- controlled oxygen flow source, which pushes gas out of the volume reflector through the CO2 absorber and to the patient during inspiration, much like a piston (see Fig. 20.46). To understand the function of the volume reflector and reflector gas module, it is convenient to start with the expiratory phase (see Fig. 20.47), where exhaled patient gas fills the volume reflector’s proximal end (nearest the patient), displacing reflector gas module gas
+
+out the PEEP valve and into the scavenging system. At the end of exhalation, the volume reflector is filled at the patient end with exhaled gas and is filled distally with a mixture of exhaled gases and reflector gas. The coiled design of the volume reflector prevents significant mixing between these gases of different compositions. The inspired tidal volume is generated by a combination of gas from the fresh gas modules and the reflector gas module, which work together in a coordinated manner to control gas flow and pressure in the breathing circuit so that operator- determined ventilation parameters are maintained. During mechanical ventilation on the FLOW- i, the fresh gas flow is not constant, but rather occurs primarily during inspiration. The inhaled anesthetic, if chosen, is injected into this flow (see InjectionType Vaporizers, above). All the gas modules use feedback loop–controlled, solenoid- actuated, pneumatic valves similar in function to those found in a servo- controlled ICU ventilator.<sup>204</sup>
+
+When the workstation is in the spontaneous mode of ventilation, the breathing bag is enabled, and the reflector gas module is disabled. The patient breathes in and out of the volume reflector, which is between the bag and the patient. Circuit pressure is controlled by the operator- adjustable APL valve. Excess gases in controlled and spontaneous modes of ventilation are vented to the scavenger through the dual- function PEEP–APL valve.
+
+The FLOW- i system can compensate for breathing system leaks by increasing reflector gas module flow. The operator is informed if this occurs. Because the reflector gas module provides only 100% oxygen, dilution of anesthetic gas occurs in this circumstance. The machine is nearly entirely electronically interfaced; therefore, an emergency manual ventilation backup mode is provided for cases of system failure. This emergency backup mode provides an oxygen flow meter and mechanical APL valve linked to the patient circuit.<sup>204</sup>
+
+
+![](assets/chapter-20/20._Inhaled_Anesthetic_Delivery_Systems.pdf-0041-09.png)
+
+
+Reflector<br>gas module<br>Expiratory<br>valve O2<br>(closed) Reflector<br>gas flow<br>PEEP/APL<br>valve<br>CO2<br>absorber Breathing<br>bag<br>Volume Fresh gas<br>reflector flow<br>Inspiratory<br>valve<br>(open)  O2 N2O Air<br>Vaporizer<br>Fresh gas modules<br>
+
+**Fig. 20.46 Inspiratory phase of ventilation with a volume reflector ventilator.** Simplified schematic of the Maquet FLOW- i anesthesia workstation breathing circuit and gas supply system during inspiration in a controlled ventilation mode. The reflector gas module provides the driving force for ventilation by pushing gas out of the volume reflector to the patient. Volume reflector gas combines with the fresh gas flow downstream from the carbon dioxide (CO2) absorber. _APL,_ adjustable pressure- limiting; _N2O,_ nitrous oxide; _O2,_ oxygen; _PEEP,_ positive end- expiratory pressure. See text for additional details. (Adapted from Maquet Critical Care. _User’s Manual: FLOW- i 1.2 Anesthesia System._ Solna, Sweden: Rev: 11, Maquet Critical Care; 2011.)
+
+<!-- PDF page 42 -->
+
+![](assets/chapter-20/20._Inhaled_Anesthetic_Delivery_Systems.pdf-0042-01.png)
+
+
+Reflector<br>gas module<br>Expiratory<br>valve O2<br>(open) To<br>scavenger<br>PEEP/APL<br>valve<br>CO2<br>absorber Breathing<br>bag<br>Volume Fresh gas<br>reflector flow<br>Inspiratory<br>valve<br>(closed)  O2 N2O Air<br>Vaporizer<br>Fresh gas modules<br>
+
+**Fig. 20.47 Expiratory phase of ventilation with a volume reflector ventilator.** Simplified schematic of the Maquet FLOW- i anesthesia workstation breathing circuit and gas supply system during expiration in a controlled ventilation mode. The patient exhales into the volume reflector, which serves as an exhalation reservoir. The patient only partially fills the volume reflector. Fresh gas flows in retrograde fashion and combines with the exhaled gas. Excess gas is vented to the scavenger through the positive end- expiratory pressure (PEEP)/adjustable pressure- limiting (APL) valve, which also controls breathing circuit pressure. When the machine is placed in the manual mode of ventilation, the breathing bag is enabled, and the reflector gas module is disabled. In the manual mode, the patient breathes in and out of the volume reflector and can be assisted with the breathing bag. The PEEP/APL valve vents excess gas to the scavenger and controls breathing circuit pressure (continuous positive airway pressure). _CO2,_ carbon dioxide, _N2O,_ nitrous oxide; _O2,_ oxygen. (Adapted from Maquet Critical Care. _User’s Manual: FLOW- i 1.2 Anesthesia System._ Solna, Sweden: Rev: 11, Maquet Critical Care; 2011.)
+
+### Dräger Anesthesia Systems with BlowerTechnology Ventilators
+
+Several newer ventilators designed for the ICU utilize a blower to generate mechanical ventilation. A blower uses mechanical energy to spin a small fan at very high speeds to create pressure and flow. Sometimes this technology is referred to as turbine ventilators. Possible functional advantages of blower- based ventilators mentioned in bench testing include better responsiveness to patient triggering, more effective PSV, and, in some cases, more accurate tidal volume delivery under high ventilatory workload.<sup>205,206</sup>
+
+The Dräger Zeus and Perseus workstations incorporate blower- type ventilators (Figs. 20.48 and 20.49). In constructing an anesthesia workstation, the major advantage of the blower is that it can be placed directly within the circle system. Unlike the bellows or volume reflector, it does not require a separate quantity of gas to move the patient’s tidal volume; and unlike a piston, it does not require refilling. During inspiration (see Fig. 20.48), the blower generates flow and pressure directed into the inspiratory limb of the patient circuit, drawing gas from the breathing bag, which serves as a reservoir during mechanical ventilation. The fresh gas flow is incorporated as part of this inspiratory flow. During exhalation (see Fig. 20.49), exhaled gas fills the bag before escaping to the scavenge system, and that portion of the fresh gas flow that occurs during exhalation travels in the reverse direction toward the bag as well. As in the piston ventilators, the breathing bag is an integral part of the circuit during mechanical ventilation, continuing to serve a reservoir function. Unlike the piston ventilators, the blower ventilator design implies that the breathing bag empties during inspiration and refills during expiration.
+
+The bag’s motion may serve as a visual indicator of ventilation, and depending on set fresh gas flow, of circuit leak.
+
+Unlike the piston, the blower is primarily a pressure generator. The ventilator utilizes flow sensors and electronic controls to generate several modes of mechanical ventilation, including volume and pressure control, pressure support, and airway pressure release ventilation.
+
+### Target- Controlled Inhalational Anesthesia
+
+During traditional operation of the anesthetic workstation, the anesthesia provider controls the composition of the fresh gas flow that is added to the circle system every minute. Since this fresh gas mixes with the gases already in the circle breathing system, there may be a significant difference between the composition of the fresh gas flow and the final concentration of the inspired (or expired) gases. As the fresh gas flow is decreased, the difference between the composition of the fresh gas and the composition of the patient’s inspired gas can become greater. If the oxygen flow in the fresh gas flow is less than the patient’s metabolic oxygen requirement, then the amount of oxygen extracted from the circle breathing circuit every minute is more than the amount added, and the inspired gas will eventually become hypoxic.<sup>207</sup> Reducing the fresh gas flow reduces the total amount of anesthetic agent used, which reduces cost and the environmental footprint. However, low- flow anesthesia can be challenging in practice, as it is easier to control the patient’s actual inspired gas composition when the fresh gas flow is high.
+
+On anesthesia workstations where the flow control valves and the anesthetic vaporizers are under electronic control, it is possible to implement target- controlled inhalational anesthesia. The targets subject to control are the
+
+<!-- PDF page 43 -->
+
+![](assets/chapter-20/20._Inhaled_Anesthetic_Delivery_Systems.pdf-0043-02.png)
+
+
+APL<br>valve<br>Expiratory<br>airway PEEP Anesthetic<br>pressure  valve gas<br>sensor<br>system<br>Expiratory<br>Expiratory<br>flow sensor<br>valve<br>Inspiratory<br>airway CO2<br>pressure  absorber<br>sensor<br>Patient Inspiratory<br>valve<br>Bag<br>Inspiratory<br>flow sensor<br>Blower<br>Fresh<br>gas inflow<br>
+
+**Fig. 20.48 Inspiratory phase of ventilation with a blower ventilator.** Simplified schematic of the Dräger Perseus anesthesia workstation breathing circuit and gas supply system. During inspiration the positive end- expiratory pressure (PEEP) valve is held closed, and pressure is generated by the blower fan. There is no fresh gas decoupling valve. The flow generated by the blower draws gas from the breathing bag, which acts as a reservoir during mechanical ventilation, through the carbon dioxide (CO2) absorber, and to the patient. In the manual and spontaneous modes of ventilation, the blower is passive, allowing the adjustable pressure- limiting (APL) valve to control the pressure in the breathing circuit. (Adapted from Drägerwerk AG & Co. _Technical Documentation IPM: Perseus A500 and Perseus A500 Ceiling_ . Lübeck, Germany: Rev: 5.0; n.d.)
+
+end- tidal anesthetic agent and the end- tidal oxygen concentration. Currently, Dräger, GE, and Maquet all have target- controlled systems available. The major advantage of the target control is reduced consumption of anesthetic agent.<sup>208–212</sup> These systems rely on proprietary algorithms, and the actual savings may depend on how fast the algorithm tries to achieve the desired anesthetic depth. For example, the target- controlled system might actually prioritize rapid achievement of set anesthetic agent (requiring high initial fresh gas flow) over reducing fresh gas flow and anesthetic agent consumption.<sup>213</sup> The benefits of low- flow anesthesia could be realized by a vigilant anesthesia provider, but at the expense of significantly more key- strokes per case.<sup>210</sup> While such software has been available in many countries since the early 2000s, the first system Food and Drug Administration (FDA)- approved for use in the United States was for the GE Aisys system in 2022.
+
+### Fresh Gas Flow Compensation and Fresh Gas Decoupling
+
+On older bellows- type anesthesia workstations, the portion of fresh gas flow that occurred during an inspiratory cycle was added to the set tidal volume, leading to variation in tidal volume depending on the set fresh gas flow. During positive- pressure ventilation, the patient’s lungs received the volume from the bellows in addition to that from the flowmeters during the inspiratory phase. As the
+
+practitioner turned up the fresh gas flow, the tidal volume increased. The opposite would occur if the flow rate were decreased from the baseline. To maintain stable tidal volumes and airway pressures, the operator needed to adjust the set tidal volume on the ventilator if the total fresh gas flow rate was changed.
+
+Modern workstations have engineering features to maintain stable tidal volume delivery independent of fresh gas flow changes. The workstation will either exclude the fresh gas from the inspiratory limb of the circuit during inspiration, or it will use electronic controls to compensate for the fresh gas flow contribution. On the Dräger piston ventilators, a principle called fresh gas decoupling is used. During the inspiratory phase of ventilation, a decoupling valve located upstream from the piston ventilator diverts the fresh gas toward the breathing bag and scavenge outlet during each positive- pressure breath (Fig. 20.50). By contrast, the GE Aisys system employs fresh gas compensation to adjust for changes in flow. Using data from the inspiratory and expiratory flow sensors, the delivered tidal volume is adjusted to compensate for changes in fresh gas flow and leaks.<sup>133</sup>
+
+On workstations without a fresh gas decoupling or compensation feature, inappropriate activation of the oxygen flush valve during the inspiratory phase of mechanical ventilation can add a substantial amount of volume to the circuit, resulting in baro- and/or volutrauma.<sup>29</sup> Some
+
+<!-- PDF page 44 -->
+
+![](assets/chapter-20/20._Inhaled_Anesthetic_Delivery_Systems.pdf-0044-01.png)
+
+
+APL<br>valve<br>Expiratory<br>airway PEEP Anesthetic<br>pressure  valve gas<br>sensor<br>system<br>Expiratory<br>Expiratory<br>flow sensor<br>valve<br>Inspiratory<br>airway CO2<br>pressure  absorber<br>sensor<br>Patient Inspiratory<br>valve<br>Bag<br>Inspiratory<br>flow sensor<br>Blower<br>Fresh<br>gas inflow<br>Fig. 20.49 Expiratory phase of ventilation with a blower ventilator.  Simplified schematic of the Dräger Perseus anesthesia workstation breathing<br>circuit and gas supply system. The exhalation phase begins when the positive end- expiratory pressure (PEEP) valve opens, and exhaled gas fills the<br>breathing bag. The portion of fresh gas that flows during the exhalation phase also flows retrograde toward the breathing bag. Excess flow is vented<br>to the anesthetic gas system (scavenge). Note that the adjustable pressure- limiting (APL) valve is not active during controlled ventilation. PEEP is main-<br>tained by a separate valve.  CO22 , carbon dioxide. (Adapted from Drägerwerk AG & Co. (Adapted from Drägerwerk AG & Co.  Technical Documentation IPM: Perseus A500 and Perseus A500 Ceiling<br>Lübeck, Germany, n.d., Rev: 5.0.)<br>Exhaust<br>valve<br>APL To<br>valve<br>scavenger<br>Expiratory<br>valve<br>(closed)<br>Fresh gas<br>Inspiratory decoupling<br>valve valve<br>(open)  (closed)<br>APL<br>bypass<br>valve<br>Fresh<br>gas<br>inflow<br>( O2 flush )<br>Piston<br>ventilator<br>
+
+**Fig. 20.49 Expiratory phase of ventilation with a blower ventilator.** Simplified schematic of the Dräger Perseus anesthesia workstation breathing circuit and gas supply system. The exhalation phase begins when the positive end- expiratory pressure (PEEP) valve opens, and exhaled gas fills the breathing bag. The portion of fresh gas that flows during the exhalation phase also flows retrograde toward the breathing bag. Excess flow is vented to the anesthetic gas system (scavenge). Note that the adjustable pressure- limiting (APL) valve is not active during controlled ventilation. PEEP is maintained by a separate valve. _CO22_ , carbon dioxide. (Adapted from Drägerwerk AG & Co. (Adapted from Drägerwerk AG & Co. _Technical Documentation IPM: Perseus A500 and Perseus A500 Ceiling_ . Lübeck, Germany, n.d., Rev: 5.0.)
+
+**Fig. 20.50 Fresh gas decoupling during an oxygen (O2) flush.** As shown on the Dräger Fabius workstation, during inspiration, pressure in the breathing circuit that is generated by the ventilator closes the fresh gas decoupling valve. This directs the high- volume oxygen flush flow toward the breathing bag during inspiration, so it does not contribute to inhaled tidal volume and breathing circuit pressure. The O2 flush gas also flows past the open adjustable pressure- limiting (APL) bypass valve, through the exhaust check valve, and to the scavenger. (Modified image courtesy of Dr. Michael A. Olympio. Adapted from Dräger Medical: _Dräger Technical Service Manual: Fabius GS Anesthesia System._ Rev: E. Telford, PA: Dräger Medical; 2002.)
+
+<!-- PDF page 45 -->
+
+machines may include a factory- preset inspiratory pressure safety valve that opens at a preset airway pressure, such as 60 to 80 cm H2O, to minimize the risk of barotrauma. In machines with a fresh gas _decoupling_ feature, the oxygen flush inflow is diverted away from the patient during positive- pressure ventilation, thereby maintaining stable volumes and pressures. With fresh gas _compensation_ , the flow from the oxygen flush valve delivered in the inspiratory phase of mechanical ventilation will be registered at the inspiratory flow meter, and the breath terminated.
+
+### SCAVENGING SYSTEMS
+
+Scavenging is the collection and subsequent removal of waste anesthetic gases from both the anesthesia machine and the anesthetizing location. Scavenging is required because the fresh gas flow rates used during most anesthetic regimens deliver more anesthetic agent than necessary, as well as more oxygen than is being consumed. Without scavenging, operating room personnel could be exposed to anesthetic gases, and there could be an increased risk of an oxygen- rich environment supporting combustion.
+
+Compelling data are scarce regarding what constitutes unsafe levels of exposure to waste anesthesia gases.<sup>214</sup> The National Institute for Occupational Safety and Health (NIOSH) released the recommendations shown in Table 20.5 in 1977.<sup>215</sup> The Occupational Safety and Health Administration (OSHA)<sup>216</sup> and the ASA both have important publications with additional<sup>217</sup> detailed information on workplace exposure to and scavenging of waste anesthesia gases.
+
+The two major causes of waste gas contamination in the operating room are the anesthetic technique used and equipment issues.<sup>217,218</sup> Regarding the anesthetic technique, causes of operating room contamination include: (1) failure to turn off gas flow when the circuit is disconnected from the patient; (2) use of poorly fitting masks; (3) flushing of the circuit into the room; (4) filling of anesthetic vaporizers, particularly if spillage occurs; (5) use of uncuffed
+
+**Table 20.5** National Institute for Occupational Safety and Health Recommendations for Trace Anesthetic Gas Levels
+
+|**Anesthetic Gas**|**Maximum TWA**<br>**Concentration (ppm)***|
+|---|---|
+|Halogenated agent alone|2|
+|Nitrous oxide|25|
+|Combination of halogenated agent plus<br>nitrous oxide||
+|Halogenated agent|0.5|
+|Nitrous oxide|25|
+|Dental facilities (nitrous oxide alone)|50|
+
+
+_TWA,_ time- weighted average.
+
+- *Time- weighted average sampling, also known as time- integrated sampling, is a sampling method that evaluates the average concentration of anesthetic gas over a prolonged period, such as 1 to 8 hours.
+
+- From U.S. Department of Health, Education and Welfare. _Criteria for a Recommended Standard: Occupational Exposure to Waste Anesthetic Gases and Vapors_ . Washington, DC: U.S. Department of Health, Education and Welfare; 1977.
+
+endotracheal tubes; and (6) use of breathing circuits other than the circle system. Equipment failure or lack of understanding of proper equipment use can also contribute to operating room contamination. Leaks can occur in the high- pressure hoses, the nitrous oxide tank mounting, the high- or low- pressure circuits of the anesthesia machine, or the circle system, particularly at the CO2 absorber assembly. The anesthesia care provider must be certain that the room suction and scavenging system is operational and adjusted properly to ensure adequate scavenging. Flow from the gas sample must be directed to the scavenging system or returned to the breathing system.<sup>219</sup>
+
+### Classifications and Components
+
+Waste anesthesia gas scavenging systems can be classified as active or passive. In active systems, the scavenging system is connected to a vacuum source, such as the hospital’s suction system. Passive systems simply vent the waste gas into a heating, ventilation, and air conditioning (HVAC) system or through a hose to the building’s exterior through a wall, ceiling, or floor. Passive systems rely only on the slight positive pressure of the gases leaving the gascollecting assembly to provide the flow. If the passive system vents to an HVAC system, it is mandatory that it be a nonrecirculating system. Passive systems are less common in contemporary operating rooms.
+
+Scavenging systems classically have five components (Fig. 20.51): (1) the gas- collecting assembly, (2) the transfer tubing, (3) the scavenging interface, (4) the gas disposal tubing, and (5) an active or passive gas disposal assembly.<sup>214</sup>
+
+**Gas- Collecting Assembly.** Waste anesthetic gases are vented from the anesthesia system either through the APL valve or a ventilator relief valve into the gas- collecting assembly. Excess patient exhaled gas must exit the breathing system through one of these valves or be shed into the
+
+
+![](assets/chapter-20/20._Inhaled_Anesthetic_Delivery_Systems.pdf-0045-17.png)
+
+
+Gas-collecting Transfer Scavenging Disposal Disposal<br>assembly tubing interface tubing assembly<br>Vacuum<br>adjustment<br>Exhaust<br>valve<br>APL<br>valve Waste gas<br>vacuum line<br>From<br>breathing Room air<br>circuit<br>entrainment<br>APL<br>bypass<br>valve<br>
+
+**Fig. 20.51** Components of a scavenging system using the example of a Dräger Fabius system (Dräger Medical, Telford, PA) connected to an open, active scavenging system. The transfer tubing has a connector size distinct from the breathing circuit to prevent misconnections. Obstructions in the gas- collecting assembly or transfer tubing can cause high pressure in the breathing circuit. Leaks, inadequate suction, or failure of the scavenging interface can cause environmental contamination. _APL,_ adjustable pressure- limiting. See text for details. (From Brockwell RC. Delivery systems for inhaled anesthesia. In: Barash PG, ed. _Clinical Anesthesia._ 5th ed. Philadelphia: Lippincott Williams & Wilkins; 2006:589.)
+
+
+
+::: details 原始表格與符號（PDF 第 45 頁）
+
+![第 20 章，原始 PDF 第 45 頁](assets/chapter-20/source-page-0045.png)
+
+:::
+
+<!-- PDF page 46 -->
+
+room. Ventilator drive gas on contemporary bellows- type ventilators, as well as the flow from the reflector gas module on the Maquet FLOW- i, are vented to the scavenging system as well. Under conditions of high fresh gas flow and high minute ventilation, the gases flowing into the scavenging interface may overwhelm the evacuation system. If this occurs, waste anesthetic gases may overflow and pollute the operating room.
+
+**Transfer Tubing.** The transfer tubing carries excess gas from the gas- collecting assembly to the scavenging interface. The scavenging system must have 30- mm connectors, or some other proprietary connector that will prevent the scavenging system from connecting to other elements on the workstation.<sup>10</sup> Some manufacturers color- code the transfer tubing with yellow bands to distinguish it from 22- mm breathing system tubing. The tubing must be sufficiently rigid to minimize the chance of occlusion by kinking, or it must contain some means of pressure relief in case of occlusion. The transfer tubing is upstream from the pressure- limiting features of the scavenging interface, so if the transfer tubing is occluded by kinking or misconnection, breathing circuit pressure will increase and barotrauma can occur.<sup>135,220,221</sup>
+
+**Scavenging Interface.** The scavenging interface is designed to protect the breathing circuit or ventilator from excessive positive or negative pressure<sup>214</sup> and may be open or closed. An open scavenging system allows for room air to be entrained into the flow of waste gas, whereas a closed system does not.<sup>219</sup> Both types of interface should limit the pressure immediately downstream from the gas- collecting assembly to between −0.5 and +3.5 cm H2O under normal working conditions.<sup>10</sup> Positive- pressure relief is mandatory irrespective of the type of disposal system used, so the system can vent excess gas in case of occlusion (or inadequate suction with active systems) downstream from the interface. In an active system, negative- pressure relief will also be necessary to protect the breathing circuit or ventilator from excessive subatmospheric pressure. Subatmospheric pressure in the scavenging system could induce gas flow
+
+from the patient’s breathing system. A reservoir is highly desirable with active systems because it stores waste gases until the evacuation system can remove them.
+
+**open interfaces.** The open scavenging interface sets up a continual flow into the disposal tubing using an active interface (vacuum). If the amount of waste gas being discharged from the anesthesia workstation is less than the continual flow in the scavenging system, then the balance of that flow is obtained from entrained room air. Because the anesthesia machine discharges waste gas intermittently in surges, peak scavenge flow may be higher than the continual flow of the scavenging system, so open systems also require a reservoir canister (Fig. 20.52, see also Fig. 20.51).<sup>219</sup> Waste gas empties into the bottom of the cannister, where a vacuum line continuously removes gas. The vacuum rate should exceed the rate of waste gas flow into the chamber, and some room air should also be drawn into the canister through the relief port. The vacuum flow rate is usually adjusted on the scavenging interface using a flow control valve and flowmeter. Adjusting the scavenger vacuum flow rate is an important part of the workstation daily pre- use checkout procedure. If vacuum flow is inadequate, waste gas can spill out into the room through the relief ports. The open system does not require positive- or negative- pressure relief valves because the canister is open to the atmosphere. Some open scavenging systems can incorporate a reservoir bag instead of a canister.
+
+**closed interfaces.** Closed scavenging interfaces are isolated from the environment by pressure relief valves, so the relationship of waste gas flow, vacuum flow, and the size of the system’s reservoir bag determines the effectiveness of the gas elimination. All closed interfaces must have a positive- pressure relief valve to vent excess system pressure in case of obstruction and a negative- pressure relief valve to protect the breathing system from subatmospheric pressure if an active disposal system is used.<sup>214</sup>
+
+Two types of closed interfaces are used in clinical practice. One is used with passive scavenging systems and has positive- pressure relief only; the other is used with active scavenging systems and has both positive- and negativepressure relief.
+
+
+![](assets/chapter-20/20._Inhaled_Anesthetic_Delivery_Systems.pdf-0046-08.png)
+
+
+Hospital<br>vacuum Suction<br>source flow<br>connection adjuster<br>Scavenger Scavenger<br>inlet port inlet port<br>Relief port Relief port<br>Vacuum<br>flowmeter<br>and float<br>Waste gas<br>tube<br>Vacuum<br>tube<br>A B<br>
+
+
+![](assets/chapter-20/20._Inhaled_Anesthetic_Delivery_Systems.pdf-0046-09.png)
+
+
+**Fig. 20.52 Open scavenging interface.** (A, B) When adjusted properly, room air is continually entrained via the relief port on the top of the cannister. See text for details.
+
+<!-- PDF page 47 -->
+
+closed, passive scavenging. A closed, passive scavenging system requires only a single positive- pressure relief valve (Fig. 20.53A). Waste gas enters the interface at the waste gas inlets. Transfer of the waste gas from the interface to the disposal system relies on the slight positive pressure of the gases leaving the patient’s breathing system because a negative- pressure evacuation system is not used. Waste gases are then passively vented to a nonrecirculating HVAC system or to the outdoors. The positive- pressure relief valve opens at a preset value (such as 5 cm H2O) if an obstruction between the interface and the disposal system occurs.<sup>222</sup> With this type of system, a reservoir is not required.
+
+closed, active scavenging. A closed, active scavenging system requires a positive- pressure relief valve and at least one negative- pressure relief valve, in addition to a reservoir bag. Fig. 20.53B is a schematic of a closed scavenging interface for active suction systems. A variable volume of waste gas intermittently enters the interface through the waste gas inlets. The reservoir bag intermittently accumulates excess gas until the evacuation system eliminates it. The operator must adjust the vacuum control valve so that the reservoir bag remains properly inflated (see Fig. 20.53B, label _A_ ), neither overdistended (label _B_ ) nor completely deflated (label _C_ ). Gas is vented to the operating room atmosphere through the positive- pressure relief valve if the system pressure exceeds a preset pressure (varies depending on manufacturer). Room air is entrained through the negativepressure relief valve if the system pressure is more negative than that valve’s opening pressure, approximately −0.5 cm H2O. Some systems have a backup negative- pressure relief
+
+valve that opens at −1.8 cm H2O if the primary negativepressure relief valve becomes occluded by dust or other causes. Leakage of waste gases into the atmosphere occurs only when the reservoir bag becomes fully inflated and the pressure increases sufficiently to open the positive- pressure relief valve. A “high PEEP” or sustained airway pressure alarm is often encountered in this circumstance.
+
+**Gas Disposal Tubing.** The disposal tubing conducts waste gas from the scavenging interface to the receiving end of the gas disposal system (see Fig. 20.51). It should be collapseproof and should run overhead, if possible, to minimize the chance of accidental occlusion. The connection to the scavenging interface can be a permanent or proprietary connector, but the vacuum connection in an active gas disposal system should be a DISS- type connector.<sup>223</sup>
+
+**Gas Disposal System.** The gas disposal assembly ultimately eliminates excess waste gas (see Fig. 20.51). This is the suction connection, connection to HVAC system, or duct directly to the outside atmosphere.
+
+### HAZARDS
+
+Scavenging systems minimize operating room pollution, yet they add complexity to the anesthesia system. A scavenging system functionally extends the anesthesia circuit all the way from the anesthesia machine to the ultimate disposal site. This extension increases the potential for problems. Excessive vacuum applied to a scavenging system can
+
+
+![](assets/chapter-20/20._Inhaled_Anesthetic_Delivery_Systems.pdf-0047-09.png)
+
+
+–0.5 cm H2O<br>Relief<br>valve Negative-pressure Positive-pressure<br>relief valves relief valves<br>+5 cm H2O<br>–1.8 cm H2O +5 cm H2O<br>Waste Waste<br>gas gas Waste gas Waste gas<br>inlet inlet inlet inlet<br>Vacuum control<br>To central  vacuum<br>valve<br>Waste gas<br>exhaust<br>hose C<br>5-L B A<br>reservoir bag<br>To passive<br>disposal assembly<br>A B<br>
+
+**Fig. 20.53 Closed scavenging interfaces.** (A) Interface used with a passive disposal system. (B) Interface used with an active system. In (B) the labels on the 5- L reservoir bag refer to proper adjustment ( _A_ ), over- distention ( _B_ ), and completely deflated ( _C_ ). See text for additional details. (A, Modified from North American Dräger. _Scavenger Interface for Air Conditioning: Instruction Manual._ Telford, PA: North American Dräger; 1984; B, From North American Dräger. _Narkomed 2A Anesthesia System: Technical Service Manual._ Telford, PA: North American Dräger; 1985.)
+
+<!-- PDF page 48 -->
+
+cause undesirable negative pressures within the breathing system. Obstruction of scavenging pathways can cause excessive positive pressure in the breathing circuit. Even when the patient is protected from barotrauma by positivepressure relief valves, alarm conditions can contribute to potentially unsafe conditions.<sup>224</sup> Inadequate vacuum to the interface can cause venting of waste gas into the operating room. Waste gases improperly vented into engineering equipment rooms with vents to the outside instead of directly outside have been linked to fires.<sup>26,225</sup>
+
+### ENVIRONMENTAL EFFECTS OF INHALED ANESTHETICS
+
+Inhaled anesthetics are potent greenhouse gases (GHG) that contribute to global warming and may have significant consequences on our environment. Please see Chapter 18 for an extensive discussion of this important topic.
+
+## Checking Your Anesthesia Workstation
+
+A complete pre- anesthesia checkout (PAC) procedure must be performed each day before the anesthesia workstation is first used, and an abbreviated version should be performed before each subsequent case (Video 20.1). Box 20.2 lists seven basic requirements for safe delivery of anesthesia care drawn from the ASA’s _Recommendations for Pre- Anesthesia Checkout Procedures._<sup>12</sup> The anesthesia provider must have assurance prior to commencing any anesthetic that these requirements have been met. Local procedures for meeting these basic safety requirements have taken on increased importance as machine diversity undermines the applicability of a single, generic PAC.
+
+Despite the fact that a PAC has been a mandatory part of anesthesia practice for over 30 years,<sup>226</sup> evidence suggests that anesthesia providers frequently do not perform a complete PAC,<sup>5,6</sup> and may miss faults even when explicitly looking for them on a sabotaged machine.<sup>3</sup> Furthermore, all contemporary anesthesia workstations have automated checkout procedures, none of which can assure that all the basic safety requirements for delivery of anesthetic care have been met.<sup>7,145</sup> Many anesthesia providers are not fully aware of what elements are checked by the automated procedures.<sup>12</sup> Even review of user manuals does not always make it obvious.
+
+### Box 20.2 Requirements for Safe Delivery of Anesthesia Care
+
+- Reliable delivery of oxygen at any appropriate concentration up to 100%.
+
+- Reliable means of positive- pressure ventilation.
+
+- Backup ventilation equipment available and functioning.
+
+- Controlled release of positive pressure from the breathing circuit.
+
+- Anesthesia vapor delivery (if intended as part of the anesthetic plan).
+
+- Adequate suction.
+
+- Means to conform to standards for patient monitoring.
+
+From Sub- Committee of American Society of Anesthesiologists Committee on Equipment and Facilities: _Recommendations for PreAnesthesia Checkout Procedures_ (2008).
+
+The ASA’s _Recommendations for Pre- Anesthesia Checkout Procedures_ , summarized in Table 20.6, focus on ensuring the availability of key equipment, and assessing the function of that equipment. The _Recommendations_ also give guidance as to which items may be carried out by a technician (such as an anesthesia technician or biomedical technician). When the party responsible is listed as “provider and technician,” then the provider must perform that task, but the task may _also_ be assigned to the technician as an added layer of safety. Each institution should develop its own procedures in which the specific duties are delineated.
+
+### ASA RECOMMENDATIONS FOR PRE- ANESTHESIA CHECKOUT PROCEDURES
+
+The items in Table 20.6 are reviewed here. Fifteen items are required before commencing the day’s anesthesia procedures. Eight items (see Table 20.6, items 2, 4, 7, 11–15) are required before each case.
+
+### Item 1: Verify Auxiliary Oxygen Cylinder and SelfInflating Manual Ventilation Device Are Available and Functioning
+
+Frequency: Daily
+
+Responsible parties: Provider and technician
+
+The anesthesia provider must always be prepared to keep the patient alive without the assistance of the anesthesia machine. The most important safety check in any anesthesia location prior to commencing the day’s procedures is the presence of a self- inflating manual ventilation device and a source of oxygen separate from the anesthesia workstation and hospital pipeline oxygen supply. These items must be present at every anesthetizing location. Note that the presence of a non- self- inflating Mapleson- type breathing circuit is not adequate.
+
+The auxiliary oxygen tank should be checked to make sure it is full and has an attached flowmeter and a means to open the cylinder valve. The valve should be closed to prevent inadvertent loss of the contents after the check. Ensuring the presence of properly filled portable cylinders with attached flowmeters and cylinder wrenches benefits from the logistical support of support staff but must be verified by the anesthesia provider.
+
+### Item 2: Verify Patient Suction Is Adequate to Clear the Airway
+
+Frequency: Before each use
+
+Responsible parties: Provider and technician
+
+Adequate suction with tubing of appropriate length and an oral suctioning tool (e.g., Yankauer suction tip) are necessary before the start of any case. Since these are normally changed with every case, this task is often shared between provider and technician but the provider must verify this item prior to commencing the anesthetic.
+
+### Item 3: Turn on Anesthesia Delivery System and Confirm That AC Power Is Available
+
+Frequency: Daily
+
+Responsible party: Provider or technician
+
+Contemporary anesthesia workstations have backup battery power if wall power should fail. If a case is inadvertently started on battery backup power, the first obvious
+
+<!-- PDF page 49 -->
+
+### Table 20.6 Summary Recommendations of the 2008 Pre- Anesthesia Checkout Procedures
+
+||**ITEMS TO BE COMPLETED****_DAILY_**||
+|---|---|---|
+|**Item #**|**Task**|**Responsible Parties?**|
+|1|Verify that auxiliary oxygen cylinder and self- inflating manual ventilation device are available and<br>functioning|Provider_and_technician|
+|2|Verify that patient suction is adequate to clear the airway|Provider_and_technician|
+|3|Turn on the anesthesia delivery system and confirm that AC power is available|Provider_or_technician|
+|4|Verify the availability of required monitors, including alarms|Provider_or_technician|
+|5|Verify that pressure is adequate on the spare oxygen cylinder mounted on the anesthesia machine|Provider_and_technician|
+|6|Verify that the piped gas pressures are≥50 psig|Provider_and_technician|
+|7|Verify that vaporizers are adequately filled and, if applicable, that the filler ports are tightly closed|Provider_only_|
+|8|Verify that the gas supply lines have no leaks between the flowmeters and the common gas outlet|Provider_or_technician|
+|9|Test the scavenging system function|Provider_or_technician|
+|10|Calibrate, or verify the calibration of, the oxygen monitor, and check the low- oxygen alarm|Provider_or_technician|
+|11|Verify that carbon dioxide absorbent is not exhausted|Provider_or_technician|
+|12|Perform breathing system pressure and leak testing|Provider_and_technician|
+|13|Verify that gas flows properly through the breathing circuit during both inspiration and exhalation|Provider_and_technician|
+|14|Document the completion of checkout procedures|Provider_and_technician|
+|15|Confirm the ventilator settings, and evaluate readiness to deliver anesthesia care (Anesthesia Time Out)|Provider_only_|
+||**ITEMS TO BE COMPLETED BEFORE EACH PROCEDURE**||
+|**Item #**|**Task**|**Responsible Parties?**|
+|1|Verify that patient suction is adequate to clear the airway|Provider_and_technician|
+|2|Verify the availability of required monitors, including alarms|Provider_or_technician|
+|3|Verify that vaporizers are adequately filled and, if applicable, that the filler ports are tightly closed|Provider_only_|
+|4|Verify that carbon dioxide absorbent is not exhausted|Provider_or_technician|
+|5|Perform breathing system pressure and leak testing|Provider_and_technician|
+|6|Verify that gas flows properly through the breathing circuit during both inspiration and exhalation|Provider_and_technician|
+|7|Document the completion of checkout procedures|Provider_and_technician|
+|8|Confirm the ventilator settings, and evaluate readiness to deliver anesthesia care (Anesthesia Time Out)|Provider_only_|
+
+
+Modified from Sub- Committee of American Society of Anesthesiologists Committee on Equipment and Facilities: _Recommendations for Pre- Anesthesia Checkout Procedures_ (2008).
+
+sign of power failure can be catastrophic system shutdown when the backup batteries are exhausted. Prior to commencing the day’s anesthetic procedures, functioning AC power should be verified. This item may be completed by technician or provider.
+
+### Item 4: Verify Availability of Required Monitors and Check Alarms
+
+### Frequency: Before each use Responsible party: Provider or technician
+
+The ASA _Recommendations_ include in this item both the presence of monitoring supplies (blood pressure cuffs of appropriate sizes, pulse oximetry probes, etc.), functional tests of critical monitoring equipment (pulse oximeter and capnography), and functional tests of alarm conditions. The importance of an audible alarm is emphasized.
+
+Some elements of this item are straightforward, such as verifying the availability of the monitoring equipment and making sure that monitors are on, and cables are properly
+
+plugged in. However, the process of checking alarm thresholds, and possibly resetting them, can be tedious. Monitor alarm settings may vary within a facility because of provider manipulation of alarms for case requirements, a lack of standard default settings, and failure to reset alarm limits routinely. Departmental alarm default settings can be established and programmed into anesthesia workstation monitors. Anesthesia technicians can improve the quality of the pre- use checkout by confirming that critical alarm thresholds are set to established default values, but the provider is responsible for assuring that alarms are correctly set for their patient.
+
+### Item 5: Verify That Pressure Is Adequate on the Spare Oxygen Cylinder Mounted on the Anesthesia Machine
+
+### Frequency: Daily
+
+Responsible parties: Provider and technician
+
+In addition to verifying the presence of a separate source of cylinder oxygen (Item 1), the anesthesia provider should
+
+
+
+::: details 原始表格與符號（PDF 第 49 頁）
+
+![第 20 章，原始 PDF 第 49 頁](assets/chapter-20/source-page-0049.png)
+
+:::
+
+<!-- PDF page 50 -->
+
+verify the presence of an adequately filled oxygen cylinder mounted on the anesthesia workstation. Verification of oxygen cylinder pressure is accomplished by opening the oxygen cylinder or cylinders on the back of the machine and evaluating the tank gauge pressure. The current recommendations do not provide a specific value that would prompt replacing the tank. The _Recommendations_ affirm that other gas supply cylinders such as air and nitrous oxide need to be checked only if that gas is required for the anesthetic.
+
+### Item 6: Verify That Piped Gas Pressures Are 50 psig or Higher
+
+Frequency: Daily
+
+Responsible parties: Provider and technician
+
+A daily check of adequate pipeline pressures is required; this item should be performed by the provider even if it is part of the technician’s workflow. A more detailed daily preuse check of the pipeline system may be part of individual institutional protocols. For example, a quick inspection of connections, supply hoses, gas pressures, and the presence of more than 90% oxygen in the inspiratory limb can minimize risk. An important safety item on all machines is an audible and visual alarm that warns the operator of diminishing oxygen supply pressure. The only way to evaluate this safety device is to generate the alarm condition by disconnecting the wall oxygen supply and shutting off the oxygen supply tank or tanks. The _Recommendations_ do not mandate this maneuver.
+
+### Item 7: Verify That Vaporizers Are Adequately Filled and, If Applicable, That the Filler Ports Are Tightly Closed
+
+Frequency: Before each use
+
+Responsible parties: Provider only
+
+The anesthesia provider should verify that there is an adequate supply of anesthetic agent in the vaporizer if an
+
+inhaled anesthetic is planned. Because not every anesthetic utilizes an inhaled agent, alarm defaults may not include a low agent alarm. The risk of light anesthesia and recall can be mitigated by checking agent levels prior to proceeding. Some institutions involve the anesthesia technician in refilling vaporizers, but the ASA _Recommendations_ specify that this is solely the provider’s duty.
+
+### Item 8: Verify That No Leaks Are Present in the Gas Supply Lines Between the Flowmeters and the Common Gas Outlet
+
+Frequency: Daily and whenever a vaporizer is changed Responsible party: Provider or technician
+
+As discussed above, the low- pressure section of the anesthesia workstation, from the flow control valves, through the vaporizers, and to the common gas outlet, is the area of the anesthesia machine most vulnerable to leaks. (This is separate from leaks in the breathing circuit itself.) Leaks in this section of the machine can be associated with hypoxemia or patient awareness under anesthesia.
+
+Some anesthesia workstations include an outlet check valve (see Fig. 20.1). The implication of this check valve is that positive pressure in the breathing circuit cannot be used to check for leaks upstream in the low- pressure system, because the pressure will not be transmitted past the check valve into the low- pressure section. On these machines, a negative-pressure test must be performed. The negative- pressure leak test is simple to perform and is highly sensitive, detecting leaks as small as 30 mL/min. With flow control valves fully closed to prevent any flow of gas into the low- pressure circuit, a specially configured suction bulb is then attached to the common gas outlet (Fig. 20.54). The bulb is then squeezed repeatedly until it is fully collapsed. If the bulb does not stay collapsed, then air is being sucked by the bulb into the machine through a leak that will allow gas to escape when the machine is pressurized.
+
+
+![](assets/chapter-20/20._Inhaled_Anesthetic_Delivery_Systems.pdf-0050-15.png)
+
+
+Flowmeters Vaporizer<br>Leak<br>Leak<br>Check<br>valve<br>O2 flush Fresh gas<br>button<br>outlet<br>A B<br>
+
+**Fig. 20.54 The negative- pressure “universal” low- pressure system leak test.** (A) A specially configured suction bulb is connected to the common (fresh) gas outlet and collapsed. Subatmospheric pressure is created in the low- pressure circuit, thus opening the outlet check valve (if present) and exposing the vaporizers, tubing, and associated piping and connections to the bulb vacuum. In a system without a leak, the bulb stays deflated. (B) Leaks in the system draw in ambient air and cause the suction bulb to inflate. _O2,_ oxygen.
+
+<!-- PDF page 51 -->
+
+Most vaporizer leaks are not detected unless the vaporizer is on. Therefore, the negative-pressure leak test should be performed with each vaporizer. Some anesthesia machine manufacturers recommend that the vaporizer interlock system be checked, to ensure that no more than one vaporizer at a time can be activated. This check could naturally be performed during this part of the checkout. For workstations with electronically controlled vaporizers, vaporizer leak testing tends to be performed during the automated checkout.
+
+The negative- pressure test can be performed on machines without a check valve. For this reason, the negative- pressure test is sometimes referred to as the “universal leak test.” For machines without an outlet check valve, positive-pressure testing can detect leaks in the machine. Many contemporary anesthesia machines do not have an accessible common gas outlet; therefore negative- pressure low- pressure system testing cannot be performed. On these machines, either manual positive-pressure testing of the low- pressure system (and vaporizers) is performed during the pre- use checkout, or low- pressure testing is accomplished as part of an automated checkout feature. Note that the automated low- pressure test on some machines needs to be specifically selected.<sup>133</sup>
+
+### Item 9: Test Scavenging System Function
+
+Frequency: Daily
+
+Responsible party: Provider or technician
+
+Evaluation of the scavenging system is a manual maneuver. No automated checks are conducted. A test of the scavenging system begins by checking the proper assembly and integrity of each component and connection within the system. The integrity of the vacuum tubing leading from the wall outlet to the scavenging interface, should also be checked.
+
+To test the positive- pressure relief valve on a closed, passive scavenging system (as seen in Fig. 20.53A), one creates high flow within the exhaust system by turning up fresh gas flows with the APL valve open and occluding the patient Y- piece (or short- circuiting the inspiratory and expiratory connections with a short length of breathing hose). One then occludes the waste gas hose outlet on the scavenging interface. The positive- pressure relief valve should open, allowing gas to escape into the OR, and pressure in the breathing circuit should remain (e.g., &lt;10 cm H2O).
+
+To test the negative- and positive- pressure relief valves in a closed, active scavenging system (as seen in Fig. 20.53B), two steps are required. A check of positivepressure relief is conducted as just described for the passive, closed scavenger. A check of negative- pressure relief is conducted by setting scavenging interface suction to a routine setting, turning off all flow control valves on the anesthesia machine, and occluding inflow into the patient’s breathing circuit at the patient’s Y- piece (or short- circuiting). At this point, the breathing pressure gauge should indicate a negligible negative pressure (e.g., no lower than −1.0 cm H2O). After checking the function of the positive- and negative- pressure relief valves, the scavenging suction should be adjusted so that the reservoir bag is neither over- nor under- distended.
+
+For an open, active scavenging system as seen in Fig. 20.52, after ensuring that all gas transfer tubes and the
+
+suction lines are properly connected, the scavenger suction needle valve is adjusted to place the flowmeter bobbin between the indicator lines. Positive- and negative-pressure tests are then conducted as described earlier.
+
+Given the diversity of breathing systems, this check serves as another instance in which users must consider manufacturerspecified protocols when developing a local PAC.
+
+### Item 10: Calibrate, or Verify Calibration of, the Oxygen Monitor and Check the Low Oxygen Alarm
+
+Frequency: Daily
+
+### Responsible party: Provider or technician
+
+The oxygen concentration analyzer is one of the most important monitors on the anesthesia workstation. Older anesthesia workstations used a galvanic cell oxygen sensor located near the patient’s breathing circuit inspiratory valve. These devices have a finite life span and are vulnerable to drift.<sup>219</sup> Daily verification of calibration is recommended. Newer anesthesia workstations rely on side- stream multigas analyzers to measure the inspired oxygen concentration. While these monitors do not require daily calibration, the function of the sensor should be checked in room air, to verify that it reads 21%. The function of the low- oxygen concentration alarm should be tested daily. This may be done by setting the low-oxygen concentration alarm limit to more than 21% while exposing the analyzer to room air, generating the alarm condition. These steps may be carried out by a technician, according to local protocols.
+
+### Item 11: Verify Carbon Dioxide Absorbent Is Not Exhausted
+
+Frequency: Before each use
+
+Responsible party: Provider or technician
+
+Prior to each anesthetic, the CO2 absorbent should be assessed for exhaustion. It is important for providers to know that absorbent color change is not as reliable as is the presence of _inspired_ CO2 on capnography in identifying exhausted absorbent. Capnometry should be used with every anesthetic that uses the circle system, and the provider should be vigilant for inspired CO2 concentration greater than 0. A normal-appearing but nonfunctional absorbent is difficult to detect during the pre- use checkout procedure. It is no longer advised for providers to breathe into the circuit manually to assess the functionality of the absorbent before a case.
+
+### Item 12: Breathing System Pressure and Leak Testing
+
+Frequency: Before each use Responsible parties: Provider and technician
+
+Prior to each anesthetic, the provider must verify that positive pressure can be generated and sustained in the breathing circuit, and that the APL valve (“pop- off”) properly relieves pressure in the circuit. Since the ability to ventilate the anesthetized patient depends upon a competent circuit, a leak check is of paramount importance. Traditionally, this test has been performed manually. With the machine set in the “bag” or the manual mode of ventilation, the gas flows are set to zero, the APL valve is closed, the patient’s Y- piece is occluded, and breathing system is pressurized with the O2
+
+<!-- PDF page 52 -->
+
+flush button to approximately 30 cm H2O. The circuit passes the leak test if it holds this pressure for at least 10 seconds. A decrease in pressure during the test should prompt a check of all connections and a careful inspection of the disposable tubing. One of the most common locations of a circuit leak is at the absorber canister, and it is particularly important for the anesthesia provider to apply this check rigorously immediately after the absorbent has been changed. If the absorbent is changed in the middle of a case, the provider should be aware of the potential for a new leak to be introduced.
+
+Breathing circuit leak testing is a feature of many automated machine checks. Circuit compliance is often calculated during this phase to guide ventilator tidal volume delivery. Therefore, the test should be performed with the circuit that is going to be used. The automated circuit leak test may be performed by a technician, but its completion should be verified by the provider. Some automated checks may not calculate breathing system compliance with each leak test and only perform the calibration with a longer checkout procedure once daily.<sup>133</sup> Institutional protocols should therefore reflect the equipment in use: a more complete checkout procedure that re- calculates the breathing system compliance may be necessary if circuit size or configuration is changed between patients.
+
+The APL valve should be assessed by opening it widely after pressurizing the breathing circuit and ensuring that the pressure decreases rapidly to zero. A prompt pressure drop should occur regardless of APL valve design. The ability of the APL valve to maintain stable circuit pressure can be easily assessed by setting the APL valve to 30 cm H2O, occluding the patient’s Y- piece in a manual mode of ventilation, increasing gas flow to approximately 5 L/min, and ensuring the circuit pressure, once stable, remains within a range close to that set on the APL valve. This maneuver is not mandated.
+
+### Item 13: Verify That Gas Flows Properly Through the Breathing Circuit During Both Inspiration and Exhalation
+
+Frequency: Before each use
+
+Responsible parties: Provider and technician
+
+Assessment of the circle breathing system for unobstructed flow and proper function of the unidirectional valves is recommended before each case. This test of circuit flow is easily accomplished by placing a “test lung” or an extra breathing bag at the patient Y- piece. In the manual mode of ventilation, the operator ventilates the artificial “lung” with the breathing bag, then actively “exhales” (squeezes) the test lung back to the breathing bag in a to- and- fro motion (Fig. 20.55). This is the so- called _flow test_ . The inspiratory valve should open and the expiratory valve should close during inspiration, and vice versa for exhalation. Obstruction to inspiratory flow during the flow test manifests as a “tight” breathing bag on “inspiration,” whereas expiratory limb obstructions cause impeded “exhalation.” Circuit leak testing does not reliably identify circuit obstruction or unidirectional valve malfunction. Undetected circuit obstructions are particularly ominous and can manifest dramatically and sometimes immediately following induction.<sup>8,138</sup> Subtle circuit obstruction may not be appreciable except by capnometry. If this test is omitted, providers must be cognizant of the fact that unidirectional valve malfunction and breathing circuit obstruction have not been ruled out before starting the case.
+
+Automated machine checks typically do not assess for (nor detect) obstruction to flow within the breathing circuit.
+
+A number of complications and near- misses involving an obstructed breathing circuit have been reported despite the performance of the automated circuit check.<sup>8,139,141,142,145,</sup> 221,227,228
+
+### Item 14: Document Completion of Checkout Procedures
+
+Frequency: Before each use
+
+Responsible parties: Provider and technician
+
+Documentation of completion of the anesthetic checkout procedure by providers should occur within the anesthetic record. Currently, no guidance is available regarding where anesthesia or biomedical technician documentation of checkout procedures should occur. However, it would be prudent to maintain a detailed departmental log as a quality assurance tool.
+
+### Item 15: Confirm Ventilator Settings and Evaluate Readiness to Deliver Anesthesia Care (Anesthesia Time Out)
+
+Frequency: Immediately before initiating each anesthetic Responsible parties: Provider only
+
+The authors of the ASA’s _Recommendations_ include as the last step in the PAC an “anesthesia time out.” The time out asks the anesthesia provider to confirm six items:
+
+- Monitors functional?
+
+- Capnogram present?
+
+- Oxygen saturation by pulse oximetry measured?
+
+- Flowmeter and ventilator settings proper?
+
+- Manual/ventilator switch set to manual?
+
+- Vaporizer(s) adequately filled?<sup>12</sup>
+
+
+![](assets/chapter-20/20._Inhaled_Anesthetic_Delivery_Systems.pdf-0052-23.png)
+
+
+**Fig. 20.55 Flow test to verify proper gas flow through the breathing circuit.** The “to- and- fro” test uses a test lung or second reservoir bag on the patient Y- piece. _Top:_ A squeeze of the breathing bag should cause flow through the inspiratory limb, open the inspiratory valve, fill the test lung, and hold the expiratory valve closed. _Bottom:_ A reciprocal squeeze of the test lung should cause flow through the expiratory limb, open the expiratory valve, fill the breathing bag, and hold the inspiratory valve closed. Circuit flow during the test should be smooth and unimpeded. One- way valves should be inspected during gas flow.
+
+<!-- PDF page 53 -->
+
+This last step serves as a recommended final preinduction check list of the machine and other important items including the application of essential monitors. The six- item timeout above focuses on the anesthesia workstation but does not include other key equipment such as medications, intubation supplies, monitoring transducers, etc. Some providers rely on final check mnemonics such as the MS MAIDS checklist (Box 20.3). Regardless of the specific steps, a final check that verifies the presence and function of key safety items is fundamental to the safe delivery of anesthesia.
+
+### Additional Comments Pertaining to the ASA’s Recommendations for Pre-Anesthesia Checkout Procedures
+
+Although the PAC procedures are comprehensive, several steps that were part of the earlier PAC recommendations do not appear in the ASA’s _Recommendations_ .<sup>6,226</sup> Some of the items below are still found in machine user manuals. The use of these steps should be based on local needs or requirements because the ASA’s _Recommendations_ are not restrictive nor intended to be limiting. Some of these items are:
+
+1.  Disconnecting the central oxygen supply line to assess the low- oxygen- supply pressure alarm and to purge the tank pressure gauges to zero
+
+2.  Inspecting the gas supply hoses for cracks or wear
+
+3.  Testing the flowmeters for smooth operation
+
+4.  Testing the proportioning system by attempting to create a hypoxic oxygen–nitrous oxide mixture
+
+### AUTOMATED ANESTHESIA MACHINE CHECKOUT PROCEDURES
+
+Important points to consider regarding automated PAC features or “self- tests” are that: (1) they differ between manufacturers and models; (2) it is sometimes difficult to determine precisely which segments or components are being checked by reading the user manual; and (3) no
+
+machine automatically checks all the items on an effective PAC. At least some manual steps are required. Investigators have suggested that many providers do not understand exactly what is being reviewed by automated checks, or they make false assumptions regarding their respective machine’s automated checkout procedure.<sup>6</sup>
+
+It is easy to understand why the authors of the ASA’s _Recommendations for Pre- Anesthesia Checkout Procedures_ warned about an overreliance on the automated machine checkout. When developing a local PAC procedure, providers should gain familiarity with their machine’s automated checkout procedure through the user manual. If an important item is not specifically part of the described self- check or is not suggested in the user manual, it should not be assumed that it can be neglected. Not requiring that conventional vaporizers be opened during a leak test of the low- pressure system is such an example.
+
+### DEVELOPING A LOCAL PRE- ANESTHESIA MACHINE CHECKOUT CHECKLIST
+
+The goal of a PAC is to evaluate and configure the anesthesia workstation properly, so it performs its functions safely. The objectives of the PAC checklist are to guide the operator through an effective PAC and to promote compliance through ease of use. A PAC checklist can also serve as a quality control tool by codifying important items onto an organized list used by all providers.<sup>229</sup> The checkout procedure should be ergonomically ordered to minimize redundant movements and save time by placing procedures in a rational sequence.<sup>230</sup> Finally, the checklist should be as short as possible, yet be detailed enough so critical items are not omitted.
+
+### Complete references available online at expertconsult.com.
+
+### References
+
+1.  Mehta SP, et al. _Anesthesiology_ . 2013;119(4):788.
+
+### Box 20.3 The MS MAIDS Checklist
+
+   2.  Caplan RA, et al. _Anesthesiology_ . 1997;87(4):741.
+
+   3.  Larson ER, et al. _Anesth Analg_ . 2007;104(1):154.
+
+- **Machine:** The machine checkout is complete; the vaporizers are filled, closed, and set to “0”; all gas flow knobs are set to zero flow; the ventilator and pressure settings are appropriate for the upcoming patient, with the machine in manual/ spontaneous breathing mode, and the adjustable pressurelimiting valve is open.
+
+- **Suction:** Patient suction is adequate to clear the airway.
+
+- **Monitors:** All required standard monitors are present and ready to go.
+
+- **Airway:** Primary airway equipment and appropriate backup equipment are ready to go.
+
+- **Intravenous:** Intravenous lines, fluids, and associated equipment are ready to go.
+
+- **Drugs:** All necessary medications are available and are properly labeled.
+
+- **Special:** Any special or unique items (i.e., additional monitors) required for the case are available and ready.
+
+- *An example mnemonic for an “Anesthesia Time Out,” which ensures that all appropriate checks have been completed, all essential equipment is available, and the machine is properly configured for the next patient.
+
+4.  Armstrong- Brown A, et al. _Can J Anaesth J Can Anesth_ . 2000;47(10): 974.
+
+5.  O’Shaughnessy SM, et al. _Anaesthesia_ . 2015;70(8):1005.
+
+6.  Langford R, et al. _Eur J Anaesthesiol_ . 2007;24(12):1050.
+
+7.  Berry N, et al. _Anaesthesia_ . 2012;67(8):927.
+
+8.  Yang KK, et al. _Case Rep_ . 2014;2(12):143.
+
+9.  Organisation Internationale de Normalisation (ISO). ISO – Developing standards. ISO. https://www.iso.org/developing- standards.html.
+
+10.  International Organization for Standardization. ISO 80601- 2- 13: 2011(en), https://www.iso.org/obp/ui/#iso:std:iso:80601:- 2- 13:ed- 1:v1:en; 2011.
+
+11.  American Society of Anesthesiologists. https://www.asahq. org/standards- and- guidelines.
+
+12.  American Society of Anesthesiologists. _Recommendations for Preanesthesia Checkout Procedures_ ; 2008.
+
+13.  American Society of Anesthesiologists. _Guidelines for Determining Anesthesia Machine Obsolescence_ ; 2004.
+
+14.  American Society of Anesthesiologists. _Standards for Basic Anesthetic Monitoring_ ; 1986.
+
+15.  Association of Anaesthetists of Great Britain and Ireland. _Checking Anaesthetic Equipment_ ; 2012.
+
+16.  Australian and New Zealand College of Anaesthetists. _Guidelines on Checking Anaesthesia Delivery Systems_ ; 2014.
+
+17.  Dorsch JA, et al. _Understanding Anesthesia Equipment_ . 5th ed. Williams & Williams; 2008:83.
+
+<!-- PDF page 54 -->
+
+18.  Eisenkraft JB, et al. In: Ehrenwerth J. Eisenkraft JB, Berry JR, eds. _Anesthesia Equipment: Principles and Applications_ . 2nd ed. Saunders; 2013:25.
+
+19.  Malayaman SN, et al. In: Ehrenwerth J, Eisenkraft JB, Berry JR, eds. _Anesthesia Equipment: Principles and Applications_ . 2nd ed. Saunders; 2013:3.
+
+20.  Hogg CE. _Anesthesiology_ . 1973;38(1):85.
+
+21.  Goebel WM. _Anesth Prog_ . 1980;28(6):188.
+
+22.  Rose G, et al. _Anesth Patient Saf Found_ . 2010;25(1):16.
+
+23.  Anderson WR, et al. _J Clin Monit_ . 1991;7(1):39.
+
+24.  ASTM. _Standard Specification for Particular Requirements for Anesthesia Workstations and Their Components (ASTM F1850- 00)_ ; 2005.
+
+25.  Joo SS, et al. _AA Pract_ . 2020;14(13):e01337.
+
+26.  Yoder JM. _Understanding Modern Anesthesia Systems_ . Dräger Medical; 2009:23.
+
+27.  Mann DP, et al. _Anesthesiol J Am Soc Anesthesiol_ . 2004;101(2):558. 28.  Mun SH, et al. _Korean J Anesthesiol_ . 2013;64(6):550.
+
+29.  Pecorella SH, et al. _Anesthesiology._ 2022;136(2):326.
+
+30.  Mudumbai SC, et al. _Anesth Analg_ . 2010;110(5):1292.
+
+31.  Yoder JM. In: _Understanding Modern Anesthesia Systems_ . Dräger Medical; 2009:1.
+
+32.  Datex- Ohmeda. _S/5 Aespire Anesthesia Machine_ . Datex- Ohmeda; 2004.
+
+33.  Mindray DS, USA. _Operating Instructions: A7 Anesthesia System_ ; 2016.
+
+34.  Stone AGH, et al. _Anaesthesia_ . 2002;57(7):690.
+
+35.  Drägerwerk AG & Co. KGaA. Perseus A500 and Perseus A500 Ceiling Technical Documentation IPM. 5.0.
+
+36.  Eger EI, et al. _Anesthesiology_ . 1964;25(4):490.
+
+37.  Rendell- Baker L. _Int Anesthesiol Clin_ . 1982;20(3):1.
+
+38.  Eger EI, et al. _Anesthesiology_ . 1963;24(3):396.
+
+39.  Dräger Medical. _Dräger Technical Service Manual: Fabius GS Anesthesia System Rev 11_ . Dräger Medical; 2002.
+
+40.  Datex- Ohmeda. _Aestiva Anesthesia Machine Technical Reference Manual_ ; 2006.
+
+41.  Dorsch JA, et al. _Understanding Anesthesia Equipment_ . 5th ed. Williams & Wilkins; 2008:121.
+
+42.  Kim HJ, et al. _Korean J Anesthesiol_ . 2010;59(4):270.
+
+43.  Liew WL, et al. _Anaesthesia_ . 2011;66(5):399.
+
+44.  Aggarwal R, et al. _J Anaesthesiol Clin Pharmacol_ . 2018;34(1):135. 45.  Webb C, et al. _Anaesthesia_ . 2005;60(6):628.
+
+46.  Mitchell AM. _Anaesth Intensive Care_ . 2007;35(5):804.
+
+47.  Jagannathan VK, et al. _Eur J Anaesthesiol_ . 2008;25(2):165.
+
+48.  Haridas RP. _Anaesth Intensive Care_ . 2009;37(suppl 1):30. 49.  King AC. _Br Med J_ . 1946;2:536.
+
+50.  Desbarax P. _Anaesthesia_ . 2002;57(5):463.
+
+51.  Macintosh R, et al. In: Macintosh R, Mushin W, Epstein H, eds. _Physics for the Anaesthetist_ . 4th ed. Blackwell Scientific; 1987:73.
+
+52.  Ocasio IJ. _Principles of Chemistry_ . 4th ed. John Wiley & Sons; 2004. 53.  Eger EI. _Anesth Analg_ . 2001;93(4):947.
+
+54.  Nickalls RWD, et al. _Br J Anaesth_ . 2003;91(2):170. 55.  James MF, et al. _Anesth Analg_ . 1984;63(12):1097.
+
+56.  Adriani J. In: Adriani J, ed. _The Chemistry and Physics of Anesthesia_ . 2nd ed. Charles C Thomas; 1962:7.
+
+57.  Dräger Medical. _Dräger Vapor 2000: Anaesthetic Vaporizer Instructions for Use_ . 11th ed. Dräger Medical; 2005.
+
+58.  English WA, et al. _Anaesthesia_ . 2009;64(1):84. 59.  Yoder JM. _Understanding Modern Anesthesia Systems_ . Dräger Medical; 2009:55.
+
+60.  Chakravarti S, et al. _Indian J Anaesth_ . 2013;57(5):464.
+
+61.  Dhulkhed V, et al. _Indian J Anaesth_ . 2013;57(5):455.
+
+62.  Datex- Ohmeda. _Tec 7 Vaporizer: User’s Reference Manual_ . DatexOhmeda; 2002.
+
+63.  Bowie E, et al. _The Anesthesia Machine: Essentials for Understanding_ . BOC Group; 1985.
+
+64.  Hill D. In: Scurr C, Feldman S, eds. _Scientific Foundations of Anaesthesia_ . 3rd ed. William Heineman; 1982.
+
+65.  Gould DB, et al. _Anesth Analg_ . 1982;61(11):938.
+
+66.  Palayiwa E, et al. _Br J Anaesth_ . 1983;55(10):1025.
+
+67.  Scheller MS, et al. _Anesth Analg_ . 1986;65(1):88.
+
+68.  Habre W, et al. _Br J Anaesth_ . 2001;87(4):602.
+
+69.  Synnott A, et al. _Br J Anaesth_ . 1986;58(9):1055.
+
+70.  Loeb RG. _Can J Anaesth J Can Anesth_ . 1992;39(8):888. 71.  Carvalho B, et al. _Br J Anaesth_ . 2002;88(5):711.
+
+72.  Eisenkraft JB. In: Ehrenwerth J, Eisenkraft JB, Berry JM, eds. _Anesthesia Equipment: Principles Anad Applications_ . 2nd ed. Elsevier Saunders; 2013:64.
+
+73.  Abel M, et al. _J Clin Monit_ . 1996;12(2):119.
+
+74.  Andrews JJ, et al. _Can J Anaesth J Can Anesth_ . 1993;40(1):71.
+
+75.  Keresztury MF, et al. _Anesth Analg_ . 2006;103(1):124.
+
+76.  Lippmann M, et al. _Anesthesiology_ . 1993;78(6):1175.
+
+77.  Wallace AW. _Case Rep_ . 2016;6(12):399.
+
+78.  Munson WM. _Anesthesiology_ . 1965;26:235.
+
+79.  Pratap JN, et al. _Eur J Anaesthesiol EJA_ . 2009;26(1):90.
+
+80.  Fernando PM, et al. _Anaesthesia_ . 2001;56(10):1009.
+
+81.  Daniels D. _Anaesthesia_ . 2002;57(3):288.
+
+82.  Vohra SB. _Anaesthesia_ . 2001;55(6):606.
+
+83.  Terry L, et al. _J Clin Anesth_ . 2009;21(5):382.
+
+84.  Krishna KB, et al. _J Anaesthesiol Clin Pharmacol_ . 2011;27(3):415.
+
+85.  Andrews JJ, et al. _Anesth Analg_ . 1993;76(6):1338.
+
+86.  Weiskopf RB, et al. _Br J Anaesth_ . 1994;72(4):474.
+
+87.  Eger EI. _Anesthesiology_ . 1994;80(4):906.
+
+88.  Susay SR, et al. _Anesth Analg_ . 1996;83(4):864.
+
+89.  Johnston RV, et al. _Anesth Analg_ . 1994;79(3):548.
+
+90.  Jolly DT, et al. _Anesth Analg_ . 2000;90(3):742.
+
+91.  Uncles DR, et al. _Anaesthesia_ . 1994;49(6):547.
+
+92.  Kimatian SJ. _Anesthesiology_ . 2002;96(6):1533.
+
+93.  Hendrickx JFA, et al. _Anesth Analg_ . 2001;93(2):391.
+
+94.  Sansom GG. _Arrangement for Preventing Overfill of Anesthetic Liquid_ ; 2004.
+
+95.  Jakobsson P, et al. _F1000Res_ . 2017;6:389.
+
+96.  Leijonhufvud F, et al. _F1000Res_ . 2017;6:1997.
+
+97.  Meyer J, et al. In: Schüttler J, Schwilden H, eds. _Modern Anesthetics. Handbook of Experimental Pharmacology_ . Springer- Verlag; 2008.
+
+98.  Gegel BT. _AANA J (Am Assoc Nurse Anesth)_ . 2008;76(3):185.
+
+99.  Donovan A, et al. _Anaesthesia_ . 2007;62(6):609.
+
+100.  Craig GR, et al. _Anaesthesia_ . 1995;50(9):789.
+
+101.  Kim HY, et al. _Medicine (Baltim)_ . 2017;96(49):e8976.
+
+102.  Marcos- Vidal JM, et al. _Heart Lung Vessels_ . 2014;6(1):33.
+
+103.  Iwasaki Y, et al. _Heart Lung J Crit Care_ . 2022;56:70.
+
+104.  Bomberg H, et al. _Anaesthesia_ . 2014;69(11):1241.
+
+105.  Farrell R, et al. _J Clin Monit Comput_ . 2018;32(4):595.
+
+106.  Enlund M, et al. _Anaesthesia_ . 2001;56(5):429.
+
+107.  Bellgardt M, et al. _J Clin Monit Comput_ . 2022;36(1):169.
+
+108.  Bomberg H, et al. _Anesth Analg_ . 2019;129(2):371.
+
+109.  Dorsch JA, et al. _Understanding Anesthesia Equipment_ . 5th ed. Williams & Wilkins; 2008:191.
+
+110.  Miller DM. _Anaesth Intensive Care_ . 1995;23(3):281.
+
+111.  Dorsch JA, et al. _Understanding Anesthesia Equipment_ . 5th ed. Williams & Wilkins; 2008:223.
+
+112.  Metzner J, et al. _Best Pract Res Clin Anaesthesiol_ . 2011;25(2):263.
+
+113.  Lee C, et al. _Korean J Anesthesiol_ . 2013;65(4):337.
+
+114.  Kodali BS. _Anesthesiol J Am Soc Anesthesiol_ . 2013;118(1):192.
+
+115.  Dean HN, et al. _Anesth Analg_ . 1971;50(2):195.
+
+116.  Thomas J, et al. _Anaesthesia_ . 2017;72(1):28.
+
+117.  Chaturvedi AU, et al. _J Anaesthesiol Clin Pharmacol_ . 2017;33(2):264.
+
+118.  Oprea AD, et al. _J Clin Anesth_ . 2011;23(1):58.
+
+119.  Johnstone RE, et al. _Anesthesiology_ . 1973;38(2):192.
+
+120.  Križmarić M. _Slov Med J_ . 2017;86(5–6).
+
+121.  International Organization for Standardization. _ISO 5362: Anesthetic Reservoir Bags_ ; 2006.
+
+122.  Dräger Medical. _Apollo Operating Instructions_ . Dräger Medical; 2010.
+
+123.  Parthasarathy S. _Indian J Anaesth_ . 2013;57(5):516.
+
+124.  Wilkes AR. _Anaesthesia_ . 2011;66(1):31.
+
+125.  Feldman J, et al. _Anesthesia Patient Safety Foundation_ ; 2020.
+
+126.  Schrock CR, et al. _Anesthesiology_ . 2020;133(1):248.
+
+127.  Yoder JM. _Understanding Modern Anesthesia Systems_ . Dräger Medical, Inc.; 2009.
+
+128.  Yoder JM. _Understanding Modern Anesthesia Systems_ . Dräger Medical; 2009:83.
+
+129.  Brattwall M, et al. _Can J Anesth Can Anesth_ . 2012;59(8):785.
+
+130.  Herbert L, et al. _BJA Educ_ . 2017;17(9):301.
+
+131.  Baum J. _Acta Anaesthesiol Belg_ . 1990;41(3):239.
+
+132.  Ianchulev SA, et al. _Anesth Analg_ . 2005;101(3):774.
+
+133.  GE Healthcare. _Aisys CS2 User’s Reference Manual, Software Version 11_ ; 2016.
+
+134.  Hamad M, et al. _Anaesthesia_ . 2003;58(7):719.
+
+<!-- PDF page 55 -->
+
+135.  Khorasani A, et al. _Anesthesiology_ . 2000;92(5):1501.
+
+136.  Wilkes AR. _Anaesthesia_ . 2011;66(1):40.
+
+137.  McEwan AI, et al. _Anesth Analg_ . 1993;76(2):440.
+
+138.  Monteiro JN, et al. _Eur J Anaesthesiol_ . 2004;21(9):743.
+
+139.  Yang CH, et al. _Acta Anaesthesiol Taiwan_ . 2012;50(1):35.
+
+140.  Bajwa SJS, et al. _J Anaesthesiol Clin Pharmacol_ . 2012;28(2):269.
+
+141.  Nichols K, et al. _Anesth Patient Saf Found_ . 2004;19(3):35.
+
+142.  Eisenkraft JB. _AA Pract_ . 2014;2(12):147.
+
+143.  Ramarapu S, et al. _Anesth Analg_ . 2012;115(2):477.
+
+144.  Kshatri AM, et al. _Anesthesiology_ . 1996;84(2):475.
+
+145.  Moreno- Duarte I, et al. _Case Rep_ . 2017;8(8):192.
+
+146.  Agrawal P, et al. _J Anesth_ . 2010;24(6):976.
+
+147.  Phillips J, et al. _Anaesthesia_ . 2007;62(3):300.
+
+148.  Feldman JM, et al. _Anesth Analg_ . 2021;132(4):993.
+
+149.  Allied Healthcare Products. _Litholyme Material Safety Data Sheet_ ; 2013.
+
+150.  Jiang Y, et al. _J Clin Monit Comput_ . 2019;33(6):1081.
+
+151.  Dewey & Almy Chemical Division. _The Sodasorb Manual of CO2 Absorption_ ; 1962. Grace.
+
+152.  Kharasch ED, et al. _Anesthesiology_ . 2002;96(1):173.
+
+153.  Marini F, et al. _Acta Anaesthesiol Scand_ . 2007;51(5):625.
+
+154.  Anders MW. _Annu Rev Pharmacol Toxicol_ . 2005;45:147.
+
+155.  Eger EI, et al. _Anesth Analg_ . 1997;85(5):1154.
+
+156.  Eger EI, et al. _Anesth Analg_ . 1997;84(1):160.
+
+157.  Sondekoppam RV, et al. _Can J Anaesth_ . 2020;67(11):1595.
+
+158.  Kennedy RR, et al. _Anaesth Intensive Care_ . 2019;47(3):223.
+
+159.  Higuchi H, et al. _Anesth Analg_ . 2000;91(2):434.
+
+160.  Stabernack CR, et al. _Anesth Analg_ . 2000;90(6):1428.
+
+161.  Keijzer C, et al. _Acta Anaesthesiol Scand_ . 2007;51(1):31.
+
+162.  Versichelen LF, et al. _Anesthesiology_ . 2001;95(3):750.
+
+163.  Neumann MA, et al. _Anesth Analg_ . 1999;89(3):768.
+
+164.  Förster H, et al. _Anaesthesist_ . 2000;49(2):106.
+
+165.  Olympio MA. _APSF Newsl_ . 2005;20(2):25.
+
+166.  Berry PD, et al. _Anesthesiology_ . 1999;90(2):613.
+
+167.  Woehlck HJ, et al. _Anesthesiology_ . 1997;87(2):228.
+
+168.  Fang ZX, et al. _Anesth Analg_ . 1995;80(6):1187.
+
+169.  Holak EJ, et al. _Anesth Analg_ . 2003;96(3):757.
+
+170.  Bonome C, et al. _Anesth Analg_ . 1999;89(4):909.
+
+171.  Struys MMRF, et al. _Anaesthesia_ . 2004;59(6):584.
+
+172.  Fatheree RS, et al. _Anesthesiology_ . 2004;101(2):531.
+
+173.  Wu J, et al. _Anesthesiology_ . 2004;101(2):534.
+
+174.  Castro BA, et al. _Anesthesiology_ . 2004;101(2):537.
+
+175.  Laster M, et al. _Anesth Analg_ . 2004;99(3):769.
+
+176.  Andrews JJ, et al. _Anesthesiology_ . 1990;72(1):59.
+
+177.  Kuruma Y, et al. _Anesth Patient Saf Found Newsl_ . 2013;27(3):64.
+
+178.  Hendrickx JFA, et al. _J Clin Monit Comput_ . 2016;30(2):193.
+
+179.  Bashraheel MK, et al. _J Clin Monit Comput_ . 2022;36(6):1591.
+
+180.  Eerlings SA, et al. _J Clin Monit Comput_ . 2022;36(6):1647.
+
+181.  Mapleson WW. _Br J Anaesth_ . 1998;80(2):265.
+
+182.  Willis BA, et al. _Br J Anaesth_ . 1975;47(12):1239.
+
+183.  Rose DK, et al. _Can Anaesth Soc J_ . 1979;26(2):104.
+
+184.  Froese A, et al. In: Steward D, ed. _Some Aspects of Paediatric Anaesthesia_ . Elsevier North- Holland Biomedical Press; 1982:101.
+
+185.  Dorsch JA, et al. _Understanding Anesthesia Equipment_ . 5th ed. Williams & Wilkins; 2008:209.
+
+186.  Kaul T, et al. _Indian J Anaesth_ . 2013;57(5):507.
+
+187.  Bain JA, et al. _Can Anaesth Soc J_ . 1972;19(4):426.
+
+188.  Cooper R. _Can J Anesth_ 2014;61(6):587.
+
+189.  Jain A, et al. _AA Pract_ . 2021;15(10):e01530.
+
+190.  Dorsch JA, et al. _Understanding Anesthesia Equipment_ . 5th ed. Williams & Wilkins; 2008:282.
+
+192.  International Organization for Standardization. _ISO 10651- 4: Lung Ventilators – Part 4: Particular Requirements for Operator- Powered Resuscitators_ ; 2002.
+
+193.  Lien S, et al. _J Clin Anesth_ . 2013;25(5):424.
+
+194.  Lucy MJ, et al. _Pediatr Anesth_ . 2018;28(9):788.
+
+195.  Jaber S, et al. _Anesthesiology_ . 2006;105(5):944.
+
+196.  Sáez JA. _Anesthesiology_ . 2015;122(4):922.
+
+197.  Modak RK, et al. In: Ehrenwerth J, Eisenkraft JB, eds. _Anesthesia Equipment: Principles and Applications_ . 2nd ed. Elsevier Saunders; 2013:148.
+
+198.  Russell WJ, et al. _Anaesth Intensive Care_ . 1993;21(5):617.
+
+199.  Saied N, et al. _Simul Healthc_ . 2012;7(6):380.
+
+200.  Feeley TW, et al. _Int Anesthesiol Clin_ . 1982;20(3):83.
+
+201.  Bourke DL, et al. _Anesth Analg_ . 2003;97(2):492.
+
+202.  O’Connor DE, et al. _Anaesth Intensive Care_ . 1982;10(1):15.
+
+203.  Yoder JM. _Understanding Modern Anesthesia Systems_ . Dräger Medical; 2009:145.
+
+204.  Maquet Critical Care. _FLOW- I 4.2 User’s Manual_ ; 2015.
+
+205.  Boussen S, et al. _Respir Care_ . 2013;58(11):1911.
+
+206.  Delgado C, et al. _Respir Care_ . 2017;62(1):34.
+
+207.  Walker SG, et al. In: Ehrenwerth J, Eisenkraft JB, eds. _Anesthesia Equipment: Principles and Applications_ . 2nd ed. Elsevier Saunders; 2013:95.
+
+208.  Carette R, et al. _J Clin Monit Comput_ . 2016;30(3):341.
+
+209.  De Cooman S, et al. _BMC Res Notes_ . 2014;7:469.
+
+210.  Singaravelu S, et al. _Br J Anaesth_ . 2013;110(4):561.
+
+211.  Mostad D, et al. _Acta Anaesthesiol Scand_ . 2021;65(7):895.
+
+212.  Moran P, et al. _Paediatr Anaesth_ . 2019;29(4):310.
+
+213.  Wetz AJ, et al. _Acta Anaesthesiol Scand_ . 2017;61(10):1262.
+
+214.  Dorsch JA, et al. _Understanding Anesthesia Equipment_ . 5th ed. Williams & Wilkins; 2008:373.
+
+215.  U.S. Department of Health, Education and Welfare. _Criteria for a Recommended Standard: Occupational Exposure to Waste Anesthetic Gases and Vapors_ ; 1977.
+
+216.  Anesthetic Gases: Guidelines for Workplace Exposures. Occupational Safety and Health Administration.
+
+217.  American Society of Anesthesiologists Task Force on Trace Anesthetic Gases. _Waste Anesthetic Gases: Information for Management in Anesthetizing Areas and the Postanesthesia Care Unit (PACU)_ ; 1999.
+
+218.  Kanmura Y, et al. _Anesthesiology_ . 1999;90(3):693.
+
+219.  Eisenkraft JB, et al. In: Ehrenwerth J, Eisenkraft JB, Berry JM, eds. _Anesthesia Equipment: Principles and Applications_ . 2nd ed. Elsevier Saunders; 2013:125.
+
+220.  Elakkumanan LB, et al. _J Anaesthesiol Clin Pharmacol_ . 2012;28(2): 270.
+
+221.  Joyal JJ, et al. _Anesthesiology_ . 2012;116(5):1162.
+
+222.  Dräger Medical. _Scavenger Interface for Air Conditioning: Instruction Manual_ . Dräger Medical; 1984.
+
+223.  ASTM. Standard specification for anesthetic gas scavenging systems: transfer and receiving sytems (ASTM F1343- 02). _Med Devies Serv_ . 2005;13(1):554.
+
+224.  Saxena S, et al. _Anesth Patient Saf Found_ . 2016;31(1):17.
+
+225.  Allen M, et al. _ASA Newsl_ . 2004;68(10):22.
+
+226.  Carstensen P. _APSF Newsl_ . 1986;1(3):13.
+
+227.  Cohen JB, et al. _Anesth Patient Saf Found Newsl_ . 2012;27(1).
+
+228.  Huang J, et al. _J Anaesthesiol Clin Pharmacol_ . 2012;28(2):230.
+
+229.  Degani A, et al. _Hum Factors_ . 1993;35(2):345.
+
+230.  Federal Aviation Administration, Office of Safety Services, Safety Analysis Division. _Human Performance Considerations in the Use and Design of Aircraft Checklists_ ; 1995.
+
+191.  Hussey SG. _Arch Dis Child Fetal Neonatal Ed_ . 2004;89(6):F490.
+
+<!-- PDF page 56 -->
+
+### References
+
+1.  Mehta SP, Eisenkraft JB, Posner KL, Domino KB. Patient injuries from anesthesia gas delivery equipment: a closed claims update. _Anesthesiology_ . 2013;119(4):788–795.
+
+2.  Caplan RA, Vistica MF, Posner KL, Cheney FW. Adverse anesthetic outcomes arising from gas delivery equipment: a closed claims analysis. _Anesthesiology_ . 1997;87(4):741–748.
+
+3.  Larson ER, Nuttall GA, Ogren BD, et al. A prospective study on anesthesia machine fault identification. _Anesth Analg_ . 2007;104(1):154–156.
+
+4.  Armstrong- Brown A, Devitt JH, Kurrek M, Cohen M. Inadequate preanesthesia equipment checks in a simulator. _Can J Anaesth J Can Anesth_ . 2000;47(10):974–979.
+
+5.  O’Shaughnessy SM, Mahon P. Compliance with the automated machine check. _Anaesthesia_ . 2015;70(8):1005–1006.
+
+6.  Langford R, Gale TCE, Mayor AH. Anaesthetic machine checking guidelines: have we improved our practice? _Eur J Anaesthesiol_ . 2007;24(12):1050–1056.
+
+7.  Berry N, Mills P. The importance of the anaesthetic machine check. _Anaesthesia_ . 2012;67(8):927.
+
+8.  Yang KK, Lewis IH. Mask induction despite circuit obstruction: an unrecognized hazard of relying on automated machine check technology. _Case Rep_ . 2014;2(12):143–146.
+
+9.  Organisation Internationale de Normalisation (ISO). ISO – Developing standards. ISO. https://www.iso.org/developing- standards.html
+
+10.  International Organization for Standardization. ISO 80601- 2- 13:2011(en), Medical electrical equipment – Part 2- 13: Particular requirements for basic safety and essential performance of an anaesthetic workstation. https://www.iso.org/obp/ui/#iso:std :iso:80601:- 2- 13:ed- 1:v1:en; 2011
+
+11.  American Society of Anesthesiologists: Standards and Guidelines. https://www.asahq.org/standards- and- guidelines
+
+12.  American Society of Anesthesiologists. _Recommendations for Preanesthesia Checkout Procedures_ . ASA; 2008.
+
+13.  American Society of Anesthesiologists. _Guidelines for Determining Anesthesia Machine Obsolescence_ . ASA; 2004.
+
+14.  American Society of Anesthesiologists. _Standards for Basic Anaesthetic Monitoring_ . ASA; 1986.
+
+15.  Association of Anaesthetists of Great Britain and Ireland. _Checking Anaesthetic Equipment 2012_ ; 2012.
+
+16.  Australian and New Zealand College of Anaesthetists. _Guidelines on Checking Anesthesia Delivery Systems_ . ANZCA; 2014.
+
+17.  Dorsch JA, Dorsch SE. The anesthesia machine. In: Dorsch JA, Dorsch SE, eds. _Understanding Anesthesia Equipment_ . 5th ed. Williams & Wilkins; 2008:83–118.
+
+18.  Eisenkraft JB, Ehrenwerth J. The anesthesia machine and workstation. In: Eisenkraft JB, Berry JR, eds. _Anesthesia Equipment: Principles and Applications_ . 2nd ed. Saunders; 2013:25–63.
+
+19.  Malayaman SN, Mychaskiw G, Ehrenwerth J. Medical gases: storage and supply. In: Ehrenwerth J, Eisenkraft JB, Berry JR, eds. _Anesthesia Equipment: Principles and Applications_ . 2nd ed. Saunders; 2013:3–24.
+
+20.  Hogg CE. Pin- indexing failures. _Anesthesiology_ . 1973;38(1):85–87. 21.  Goebel WM. Failure of nitrous oxide and oxygen pin- indexing. _Anesth Prog_ . 1980;28(6):188–191.
+
+22.  Rose G, Durbin K, Ananian JD. An example of yet another medication error – of sorts! Gas Cylinder Colors ARE NOT an FDA Standard. _Anesth Patient Saf Found_ . 2010;25(1):16.
+
+23.  Anderson WR, Brock- Utne JG. Oxygen pipeline supply failure: a coping strategy. _J Clin Monit_ . 1991;7(1):39–41.
+
+24.  ASTM. _Standard Specification for Particular Requirements for Anesthesia Workstations and Their Components (ASTM F1850- 00)_ . ASTM; 2005.
+
+25.  Joo SS, Bechtold H, Jaffe RA, Brock- Utne JG. 100% nitrous oxide in the oxygen line: how could this happen in a modern anesthesia machine? _AA Pract_ . 2020;14(13):e01337.
+
+26.  Yoder JM. Pneumatic safety system components. In: _Understanding Modern Anesthesia Systems_ . Dräger Medical; 2009:23–54.
+
+27.  Mann DP, Ananian JD, Alston TA. Oxygen flush valve booby trap. _Anesthesiol J Am Soc Anesthesiol_ . 2004;101(2):558–558.
+
+28.  Mun SH, No MY. Internal leakage of oxygen flush valve. _Korean J Anesthesiol_ . 2013;64(6):550–551.
+
+29.  Pecorella SH, Smith LD, Smith TE, Templeton TW. Too much of a good thing: iatrogenic pediatric pneumothorax from engagement of the oxygen flush valve. _Anesthesiology_ . 2022;136(2):326.
+
+30.  Mudumbai SC, Fanning R, Howard SK, et al. Use of medical simulation to explore equipment failures and human- machine interactions in anesthesia machine pipeline supply crossover. _Anesth Analg_ . 2010;110(5):1292–1296.
+
+31.  Yoder JM. Gas supply systems. In: _Understanding Modern Anesthesia Systems_ . Dräger Medical; 2009:1–23.
+
+32.  Datex- Ohmeda. _S/5 Aespire Anesthesia Machine_ . Datex- Ohmeda; 2004.
+
+33.  Mindray DS, USA. _Operating Instructions_ . A7 Anesthesia System; 2016.
+
+34.  Stone AGH, Howell PR. Use of the common gas outlet for the administration of supplemental oxygen during Caesarean section under regional anaesthesia. _Anaesthesia_ . 2002;57(7):690–692.
+
+35.  Drägerwerk AG & Co. KGaA. Perseus A500 and Perseus A500 Ceiling Technical Documentation IPM. 5.0.
+
+36.  Eger EI, Epstein RM. Hazards of anesthetic equipment. _Anesthesiology_ . 1964;25(4):490–504.
+
+37.  Rendell- Baker L. Problems with anesthetic gas machines and their solutions. _Int Anesthesiol Clin_ . 1982;20(3):1–82.
+
+38.  Eger EI, Hylton RR, Irwin RH, Guadagni N. Anesthetic flow meter sequence – a cause for hypoxia. _Anesthesiology_ . 1963;24(3):396– 396.
+
+39.  Dräger Medical. _Dräger Technical Service Manual: Fabius GS Anesthesia System Rev 11_ . Dräger Medical; 2002.
+
+40.  Datex- Ohmeda. _Aestiva Anesthesia Machine Technical Reference Manual_ ; 2006.
+
+41.  Dorsch JA, Dorsch SE. Vaporizers. In: _Understanding Anesthesia Equipment_ . 5th ed. Williams & Wilkins; 2008:121–190.
+
+42.  Kim HJ, Kim MW. Interruption in the supply of breathing gas during general anesthesia due to malposition of the vaporizer. A case report. _Korean J Anesthesiol_ . 2010;59(4):270–274.
+
+43.  Liew WL, Jayamaha J. Anaesthetic machine leak from desflurane vaporiser. _Anaesthesia_ . 2011;66(5):399–400.
+
+44.  Aggarwal R, Kumar A. Leak in anesthesia workstation: an unusual cause. _J Anaesthesiol Clin Pharmacol_ . 2018;34(1):135–136.
+
+45.  Webb C, Ringrose D, Stone A. Faulty interlock on Drager vaporisers. _Anaesthesia_ . 2005;60(6):628–629; discussion 629–630.
+
+46.  Mitchell AM. Failure to wake due to faulty interlock system allowing two vaporisers to run. _Anaesth Intensive Care_ . 2007;35(5):804–805.
+
+47.  Jagannathan VK, Nortcliffe SA. Potentially fatal vaporizer incident. _Eur J Anaesthesiol_ . 2008;25(2):165–166.
+
+48.  Haridas RP. William TG Morton’s early ether inhalers: a tale of three inhalers and their inscriptions. _Anaesth Intensive Care_ . 2009;37(suppl 1):30–35.
+
+49.  King AC. The history and development of anaesthetic apparatus. _Br Med J_ . 1946;2:536–539.
+
+50.  Desbarax P. Morton’s design of the early ether vaporisers. _Anaesthesia_ . 2002;57(5):463–469.
+
+51.  Macintosh R, Mushin W, Epstein H, Jones P. Gas pressure: pressure in gaseous mixtures. In: Macintosh R, Mushin W, Epstein H, eds. _Physics for the Anaesthetist_ . 4th ed. Blackwell Scientific; 1987:73– 100.
+
+52.  Ocasio IJ. _Principles of Chemistry_ . 4th ed. John Wiley & Sons; 2004.
+
+53.  Eger EI. Age, minimum alveolar anesthetic concentration, and minimum alveolar anesthetic concentration- awake. _Anesth Analg_ . 2001;93(4):947–953.
+
+54.  Nickalls RWD, Mapleson WW. Age- related iso- MAC charts for isoflurane, sevoflurane and desflurane in man. _Br J Anaesth_ . 2003;91(2):170–174.
+
+55.  James MF, White JF. Anesthetic considerations at moderate altitude. _Anesth Analg_ . 1984;63(12):1097–1105.
+
+56.  Adriani J. Principles of physics and chemistry of solids and fluids applicable to anesthesiology. In: Adriani J, ed. _The Chemistry and Physics of Anesthesia_ . 2nd ed. Charles C Thomas; 1962:7.
+
+57.  Dräger Medical. _Dräger Vapor 2000: Anaesthetic Vaporizer Instructions for Use_ . 11th ed. Dräger Medical; 2005.
+
+58.  English WA, Tully R, Muller GD, Eltringham RJJ. The Diamedica Draw-Over Vaporizer: a comparison of a new vaporizer with the Oxford Miniature Vaporizer. _Anaesthesia_ . 2009;64(1):84–92.
+
+59.  Yoder JM. Vaporizers. In: _Understanding Modern Anesthesia Systems_ . Dräger Medical; 2009:55–82.
+
+60.  Chakravarti S, Basu S. Modern anaesthesia vapourisers. _Indian J Anaesth_ . 2013;57(5):464.
+
+<!-- PDF page 57 -->
+
+61.  Dhulkhed V, Shetti A, Naik S, Dhulkhed P. Vapourisers: physical principles and classification. _Indian J Anaesth_ . 2013;57(5):455.
+
+62.  Datex- Ohmeda. _Tec 7 Vaporizer: User’s Reference Manual_ . DatexOhmeda; 2002.
+
+63.  Bowie E, Huffman L. _The Anesthesia Machine: Essentials for Understanding_ . BOC Group; 1985.
+
+64.  Hill D. The design and calibration of vaporizers for volatile anaesthesia agents. In: Scurr C, Feldman S, eds. _Scientific Foundations of Anaesthesia_ . 3rd ed. William Heineman; 1982.
+
+65.  Gould DB, Lampert BA, MacKrell TN. Effect of nitrous oxide solubility
+
+   - on vaporizer aberrance. _Anesth Analg_ . 1982;61(11):938–940.
+
+66.  Palayiwa E, Sanderson MH, Hahn CE. Effects of carrier gas composition on the output of six anaesthetic vaporizers. _Br J Anaesth_ . 1983;55(10):1025–1038.
+
+67.  Scheller MS, Drummond JC. Solubility of N2O in volatile anesthetics contributes to vaporizer aberrancy when changing carrier gases. _Anesth Analg_ . 1986;65(1):88–90.
+
+68.  Habre W, Asztalos T, Sly PD, Petak F. Viscosity and density of common anaesthetic gases: implications for flow measurements. _Br J Anaesth_ . 2001;87(4):602–607.
+
+69.  Synnott A, Wren WS. Effect of nitrous oxide on the output of three halothane vaporizers. _Br J Anaesth_ . 1986;58(9):1055–1058.
+
+70.  Loeb RG. The output of four modern vaporizers in the presence of helium. _Can J Anaesth J Can Anesth_ . 1992;39(8):888–891.
+
+71.  Carvalho B, Sanders D. The output of two sevoflurane vaporizers in the presence of helium. _Br J Anaesth_ . 2002;88(5):711–713.
+
+72.  Eisenkraft JB. Anesthesia vaporizers. In: Ehrenwerth J, Eisenkraft JB, Berry JM, eds. _Anesthesia Equipment: Principles Anad Applications_ . 2nd ed. Elsevier Saunders; 2013:64–94.
+
+73.  Abel M, Eisenkraft JB. Performance of erroneously filled sevoflurane, enflurane and other agent- specific vaporizers. _J Clin Monit_ . 1996;12(2):119–125.
+
+74.  Andrews JJ, Johnston RV, Kramer GC. Consequences of misfilling contemporary vaporizers with desflurane. _Can J Anaesth J Can Anesth_ . 1993;40(1):71–76.
+
+75.  Keresztury MF, Newman AG, Kode A, Wendling WW. A surprising twist: an unusual failure of a keyed filling device specific for a volatile inhaled anesthetic. _Anesth Analg_ . 2006;103(1):124–125.
+
+76.  Lippmann M, Foran W, Ginsburg R, Lewis J. Contamination of anesthetic vaporizer contents. _Anesthesiology_ . 1993;78(6):1175–1177.
+
+77.  Wallace AW. Sevoflurane contamination: water accumulation in sevoflurane vaporizers can allow bacterial growth in the vaporizer. _Case Rep_ . 2016;6(12):399–401.
+
+78.  Munson WM. Cardiac arrest: hazard of tipping a vaporizer. _Anesthesiology_ . 1965;26:235.
+
+79.  Pratap JN, Harding L. Critical overfilling of a vaporizer. _Eur J Anaesthesiol EJA_ . 2009;26(1):90–91.
+
+80.  Fernando PM, Peck DJ. An uncommon cause of vaporiser failure. _Anaesthesia_ . 2001;56(10):1009–1010.
+
+81.  Daniels D. Overfilling of vaporisers. _Anaesthesia_ . 2002;57(3):288.
+
+82.  Vohra SB, Leaking Vaporiser. Anaesthesia. 2001;55(6):606–607.
+
+83.  Terry L, da Silva EJ. Faulty spring causing a gas leak. _J Clin Anesth_ . 2009;21(5):382–383.
+
+84.  Krishna KB, Anand T, Dinesh K, Sindhu B. Leaks in the vaporizer unit: still a possibility. _J Anaesthesiol Clin Pharmacol_ . 2011;27(3):415.
+
+85.  Andrews JJ, Johnston RV. The new Tec6 desflurane vaporizer. _Anesth Analg_ . 1993;76(6):1338–1341.
+
+86.  Weiskopf RB, Sampson D, Moore MA. The desflurane (Tec 6) vaporizer: design, design considerations and performance evaluation. _Br J Anaesth_ . 1994;72(4):474–479.
+
+87.  Eger EI. New inhaled anesthetics. _Anesthesiology_ . 1994;80(4):906– 922.
+
+88.  Susay SR, Smith MA, Lockwood GG. The saturated vapor pressure of desflurane at various temperatures. _Anesth Analg_ . 1996;83(4):864– 866.
+
+89.  Johnston RV, Andrews JJ, Deyo DJ, et al. The effects of carrier gas composition on the performance of the Tec 6 desflurane vaporizer. _Anesth Analg_ . 1994;79(3):548–552.
+
+90.  Jolly DT, Young J. Suspected malfunction of the SAF- T- FILLTM valve assembly of the Suprane® (desflurane, USP) refill bottle. _Anesth Analg_ . 2000;90(3):742.
+
+91.  Uncles DR, Sibell DM, Conway NE. Desflurane and the TEC 6 filler system. _Anaesthesia_ . 1994;49(6):547–548.
+
+92.  Kimatian SJ. With technology comes responsibility: intraoperative failure of an anesthetic vaporizer. _Anesthesiology_ . 2002;96(6):1533– 1534; author reply 1534–1535.
+
+93.  Hendrickx JFA, De Cooman S, Deloof T, et al. The ADU Vaporizing Unit: a new vaporizer. _Anesth Analg_ . 2001;93(2):391–395.
+
+94.  Sansom GG. _Arrangement for Preventing Overfill of Anesthetic Liquid_ ; 2004. https://patents.google.com/patent/US6745800 B1/en?q=ARRANGEMENTFORPREVENTING+OVERFILLO FANESTHETICLIQUID&oq=ARRANGEMENTFORPREVENTING+OVERFILLOFANESTHETICLIQUID.
+
+95.  Jakobsson P, Lindgren M, Jakobsson JG. Wash- in and wash- out of sevoflurane in a test- lung model: a comparison between Aisys and FLOW- i. _F1000Res_ . 2017;6:389.
+
+96.  Leijonhufvud F, Jöneby F, Jakobsson JG. The impact of fresh gas flow on wash- in, wash- out time and gas consumption for sevoflurane and desflurane, comparing two anaesthesia machines, a test- lung study. _F1000Res_ . 2017;6:1997.
+
+97.  Meyer J, Kullik G, Wruck N, et al. Advanced technologies and devices for inhalational anesthetic drug dosing. In: Schüttler J, Schwilden H, eds. _Modern Anesthetics. Handbook of Experimental Pharmacology_ . Springer- Verlag; 2008.
+
+98.  Gegel BT. A field- expedient Ohmeda universal portable anesthesia complete draw- over vaporizer setup. _AANA J (Am Assoc Nurse Anesth)_ . 2008;76(3):185–187.
+
+99.  Donovan A, Perndt H. Oxford Miniature Vaporiser output with reversed gas flows. _Anaesthesia_ . 2007;62(6):609–614.
+
+100.  Craig GR, Berry CB, Yeats MJ. An evaluation of the Universal PAC and Oxford Miniature Vaporizers for paediatric field anaesthesia. _Anaesthesia_ . 1995;50(9):789–793.
+
+101.  Kim HY, Lee JE, Kim HY, Kim J. Volatile sedation in the intensive care unit: a systematic review and meta- analysis. _Medicine (Baltim)_ . 2017;96(49):e8976.
+
+102.  Marcos- Vidal JM, González R, Garcia C, et al. Sedation with sevoflurane in postoperative cardiac surgery: influence on troponin T and creatinine values. _Heart Lung Vessels_ . 2014;6(1):33–42.
+
+103.  Iwasaki Y, Shiga T, Hoshi N, et al. Sevoflurane administration from extracorporeal membrane oxygenation via the AnaConDa device for a patient with COVID- 19: a breakthrough solution for the shortage of intravenous anesthetics. _Heart Lung J Crit Care_ . 2022;56:70–73.
+
+104.  Bomberg H, Glas M, Groesdonk VH, et al. A novel device for target controlled administration and reflection of desflurane – the Mirus TM. _Anaesthesia_ . 2014;69(11):1241–1250.
+
+105.  Farrell R, Oomen G, Carey P. A technical review of the history, development and performance of the anaesthetic conserving device “AnaConDa” for delivering volatile anaesthetic in intensive and post- operative critical care. _J Clin Monit Comput_ . 2018;32(4):595– 604.
+
+106.  Enlund M, Wiklund L, Lambert H. A new device to reduce the consumption of a halogenated anaesthetic agent. _Anaesthesia_ . 2001;56(5):429–432.
+
+107.  Bellgardt M, Drees D, Vinnikov V, et al. In vitro performance evaluation of AnaConDaTM- 100 and AnaConDaTM- 50 compared to a circle breathing system for control and consumption of volatile anaesthetics. _J Clin Monit Comput_ . 2022;36(1):169–177.
+
+108.  Bomberg H, Meiser F, Daume P, et al. Halving the volume of AnaConDa: evaluation of a new small- volume anesthetic reflector in a test lung model. _Anesth Analg_ . 2019;129(2):371–379.
+
+109.  Dorsch JA, Dorsch SE. The breathing system: general principles, common components, and classifications. In: _Understanding Anesthesia Equipment_ . 5th ed. Williams & Wilkins; 2008:191–208.
+
+110.  Miller DM. Breathing systems reclassified. _Anaesth Intensive Care_ . 1995;23(3):281–283.
+
+111.  Dorsch JA, Dorsch SE. The circle systems. In: _Understanding Anesthesia Equipment_ . 5th ed. Williams & Wilkins; 2008:223–281.
+
+112.  Metzner J, Posner KL, Lam MS, Domino KB. Closed claims’ analysis. _Best Pract Res Clin Anaesthesiol_ . 2011;25(2):263–276.
+
+113.  Lee C, Lee KC, Kim HY, et al. Unidirectional valve malfunction by the breakage or malposition of disc – two cases report. _Korean J Anesthesiol_ . 2013;65(4):337.
+
+114.  Kodali BS. Capnography outside the operating rooms. _Anesthesiol J Am Soc Anesthesiol_ . 2013;118(1):192–201.
+
+115.  Dean HN, Parsons DE, Raphaely RC. Case report: bilateral tension pneumothorax from mechanical failure of anesthesia machine due to misplaced expiratory valve. _Anesth Analg_ . 1971;50(2):195–198.
+
+<!-- PDF page 58 -->
+
+116.  Thomas J, Weiss M, Schmidt AR, Buehler PK. Performance of adjustable pressure- limiting (APL) valves in two different modern anaesthesia machines. _Anaesthesia_ . 2017;72(1):28–34.
+
+117.  Chaturvedi AU, Potdar MP. Malfunction of adjustable pressure limiting valve. _J Anaesthesiol Clin Pharmacol_ . 2017;33(2):264.
+
+118.  Oprea AD, Ehrenwerth J, Barash PG. A case of adjustable pressurelimiting (APL) valve failure. _J Clin Anesth_ . 2011;23(1):58–60.
+
+119.  Johnstone RE, Smith TC. Rebreathing bags as pressure- limiting devices. _Anesthesiology_ . 1973;38(2):192–193.
+
+120.  Križmarić M. Funkcije anestezijskega dihalnega balona v dihalnem sistemu (Functions of anesthesia reservoir bag in a breathing system). _Slov Med J_ . 2017;86(5–6).
+
+121.  International Organization for Standardization. _ISO 5362: Anesthetic Reservoir Bags_ ; 2006. https://www.iso.org/standard/43011.html.
+
+122.  Dräger Medical, GmbH. _Apollo Operating Instructions_ . Dräger Medical; 2010.
+
+123.  Parthasarathy S. The closed circuit and the low flow systems. _Indian J Anaesth_ . 2013;57(5):516.
+
+124.  Wilkes AR. Heat and moisture exchangers and breathing system filters: their use in anaesthesia and intensive care. Part 1 – history, principles and efficiency. _Anaesthesia_ . 2011;66(1):31–39.
+
+125.  Feldman J, Loeb R, Philip J. FAQ on Anesthesia Machine Use, Protection, and Decontamination during the COVID- 19 Pandemic. _Anesthesia Patient Safety Foundation_ ; 2020. https://www.apsf.org/faq- on- anesthesiamachine- use- protection- and- decontamination- during- the- covid- 1- 9- pandemic/.
+
+126.  Schrock CR, Montana MC. Rapid COVID- 19–related clinical adaptations and unanticipated risks. _Anesthesiology_ . 2020;133(1):248.
+
+127.  Yoder JM. Monitors. In: _Understanding Modern Anesthesia Systems_ . Dräger Medical, Inc.; 2009.
+
+128.  Yoder JM. Absorbers and breathing systems. In: _Understanding Modern Anesthesia Systems_ . Dräger Medical; 2009:83–126.
+
+129.  Brattwall M, Warrén- Stomberg M, Hesselvik F, Jakobsson J. Brief review: theory and practice of minimal fresh gas flow anesthesia. _Can J Anesth Can Anesth_ . 2012;59(8):785–797.
+
+130.  Herbert L, Magee P. Circle systems and low- flow anaesthesia. _BJA Educ_ . 2017;17(9):301–305.
+
+131.  Baum J. Clinical applications of low flow and closed circuit anesthesia. _Acta Anaesthesiol Belg_ . 1990;41(3):239–247.
+
+132.  Ianchulev SA, Comunale ME. To do or not to do a preinduction checkup of the anesthesia machine. _Anesth Analg_ . 2005;101(3):774–776.
+
+133.  GE Healthcare. _Aisys CS2 User’s Reference Manual, Software Version 11_ ; 2016.
+
+134.  Hamad M, Morgan- Hughes NJ, Beechey AP. Expiratory obstruction caused by inappropriate connection of the expiratory limb of a breathing circuit. _Anaesthesia_ . 2003;58(7):719–720; discussion 720.
+
+135.  Khorasani A, Saatee S, Khader RD, Nasr NF. Inadvertent misconnection of the scavenger hose: a cause for increased pressure in the breathing circuit. _Anesthesiology_ . 2000;92(5):1501–1502.
+
+136.  Wilkes AR. Heat and moisture exchangers and breathing system filters: their use in anaesthesia and intensive care. Part 2 – practical use, including problems, and their use with paediatric patients. _Anaesthesia_ . 2011;66(1):40–51.
+
+137.  McEwan AI, Dowell L, Karis JH. Bilateral tension pneumothorax caused by a blocked bacterial filter in an anesthesia breathing circuit. _Anesth Analg_ . 1993;76(2):440–442.
+
+138.  Monteiro JN, Ravindran MN, D’Mello JB. Three cases of breathing system malfunction. _Eur J Anaesthesiol_ . 2004;21(9):743–745.
+
+139.  Yang CH, Chen KH, Lee YE, Lin CR. Anesthetic breathing circuit obstruction mimicking severe bronchospasm: an unusual manufacturing defect. _Acta Anaesthesiol Taiwan_ . 2012;50(1):35–37.
+
+140.  Bajwa SJS, Singh A. Failed ventilation due to heat and moisture exchanger filters malfunction. _J Anaesthesiol Clin Pharmacol_ . 2012;28(2):269–270.
+
+141.  Nichols K, Thomas D, Barker C. Circuit obstruction mimics bronchospasm. _Anesth Patient Saf Found_ . 2004;19(3):35.
+
+142.  Eisenkraft JB. Editorial Comment: mask induction despite circuit obstruction: an unrecognized hazard of relying on automated machine check technology. _AA Pract_ . 2014;2(12):147–148.
+
+143.  Ramarapu S, Ramakrishnan U. An unusual cause of anesthesia circuit blockade by SODASORB PRE- PAK. _Anesth Analg_ . 2012;115(2):477.
+
+144.  Kshatri AM, Kingsley CP. Defective carbon dioxide absorber as a cause for a leak in a breathing circuit. _Anesthesiology_ . 1996;84(2):475–476.
+
+145.  Moreno- Duarte I, Montenegro J, Balonov K, Schumann R. Increased resistance to flow and ventilator failure secondary to faulty CO2 absorbent insert not detected during automated anesthesia machine check: a case report. _Case Rep_ . 2017;8(8):192–196.
+
+146.  Agrawal P, Gupta B, D’souza N. An unusual cause of carbon dioxide rebreathing in a circle absorber system. _J Anesth_ . 2010;24(6):976– 977.
+
+147.  Phillips J, Jones K, Parekh NS. Rebreathing due to incorrectly fitted seal on an Aestiva S/5. _Anaesthesia_ . 2007;62(3):300–300.
+
+148.  Feldman JM, Hendrickx J, Kennedy RR. Carbon dioxide absorption during inhalation anesthesia: a modern practice. _Anesth Analg_ . 2021;132(4):993–1002.
+
+149.  Allied Healthcare Products. _Litholyme Material Safety Data Sheet_ ; 2013.
+
+150.  Jiang Y, Bashraheel MK, Liu H, et al. In vitro efficiency of 16 different Ca(OH)2 based CO2 absorbent brands. _J Clin Monit Comput_ . 2019;33(6):1081–1087.
+
+151.  Dewey & Almy Chemical Division. _The Sodasorb Manual of CO_ 2 _Absorption_ ; 1962. Grace.
+
+152.  Kharasch ED, Powers KM, Artru AA. Comparison of Amsorb, sodalime, and Baralyme degradation of volatile anesthetics and formation of carbon monoxide and compound a in swine in vivo. _Anesthesiology_ . 2002;96(1):173–182.
+
+153.  Marini F, Bellugi I, Gambi D, et al. Compound A, formaldehyde and methanol concentrations during low- flow sevoflurane anaesthesia: comparison of three carbon dioxide absorbers. _Acta Anaesthesiol Scand_ . 2007;51(5):625–632.
+
+154.  Anders MW. Formation and toxicity of anesthetic degradation products. _Annu Rev Pharmacol Toxicol_ . 2005;45:147–176.
+
+155.  Eger EI, Gong D, Koblin DD, et al. Dose- related biochemical markers of renal injury after sevoflurane versus desflurane anesthesia in volunteers. _Anesth Analg_ . 1997;85(5):1154–1163.
+
+156.  Eger EI, Koblin DD, Bowland T, et al. Nephrotoxicity of sevoflurane versus desflurane anesthesia in volunteers. _Anesth Analg_ . 1997;84(1):160–168.
+
+157.  Sondekoppam RV, Narsingani KH, Schimmel TA, et al. The impact of sevoflurane anesthesia on postoperative renal function: a systematic review and meta- analysis of randomized- controlled trials. _Can J Anaesth_ . 2020;67(11):1595–1623.
+
+158.  Kennedy RR, Hendrickx JF, Feldman JM. There are no dragons: lowflow anaesthesia with sevoflurane is safe. _Anaesth Intensive Care_ . 2019;47(3):223–225.
+
+159.  Higuchi H, Adachi Y, Arimura S, et al. Compound A concentrations during low- flow sevoflurane anesthesia correlate directly with the concentration of monovalent bases in carbon dioxide absorbents. _Anesth Analg_ . 2000;91(2):434–439.
+
+160.  Stabernack CR, Brown R, Laster MJ, et al. Absorbents differ enormously in their capacity to produce compound a and carbon monoxide. _Anesth Analg_ . 2000;90(6):1428–1435.
+
+161.  Keijzer C, Perez RSGM, de Lange JJ. Compound A and carbon monoxide production from sevoflurane and seven different types of carbon dioxide absorbent in a patient model. _Acta Anaesthesiol Scand_ . 2007;51(1):31–37.
+
+162.  Versichelen LF, Bouche MP, Rolly G, et al. Only carbon dioxide absorbents free of both NaOH and KOH do not generate compound A during in vitro closed- system sevoflurane: evaluation of five absorbents. _Anesthesiology_ . 2001;95(3):750–755.
+
+163.  Neumann MA, Laster MJ, Weiskopf RB, et al. The elimination of sodium and potassium hydroxides from desiccated soda lime diminishes degradation of desflurane to carbon monoxide and sevoflurane to compound A but does not compromise carbon dioxide absorption. _Anesth Analg_ . 1999;89(3):768–773.
+
+164.  Förster H, Behne M, Warnken UH, et al. [The use of lithium hydroxide for carbon dioxide absorption prevents formation of compound A during sevoflurane anesthesia]. _Anaesthesist_ . 2000;49(2):106–112.
+
+165.  Olympio MA. Carbon dioxide absorbent desiccation safety conference convened by APSF. _APSF Newsl_ . 2005;20(2):25–29.
+
+166.  Berry PD, Sessler DI, Larson MD. Severe carbon monoxide poisoning during desflurane anesthesia. _Anesthesiology_ . 1999;90(2):613– 616.
+
+167.  Woehlck HJ, Dunning M, Connolly LA. Reduction in the incidence of carbon monoxide exposures in humans undergoing general anesthesia. _Anesthesiology_ . 1997;87(2):228–234.
+
+168.  Fang ZX, Eger EI, Laster MJ, et al. Carbon monoxide production from degradation of desflurane, enflurane, isoflurane,
+
+<!-- PDF page 59 -->
+
+halothane, and sevoflurane by Soda Lime and Baralyme. _Anesth Analg_ . 1995;80(6):1187–1193.
+
+169.  Holak EJ, Mei DA, Dunning MB, et al. Carbon monoxide production from sevoflurane breakdown: modeling of exposures under clinical conditions. _Anesth Analg_ . 2003;96(3):757–764.
+
+170.  Bonome C, Belda J, Alvarez- Refojo F, et al. Low- flow anesthesia and reduced animal size increase carboxyhemoglobin levels in swine during desflurane and isoflurane breakdown in dried soda lime. _Anesth Analg_ . 1999;89(4):909–916.
+
+171.  Struys MMRF, Bouche MPLA, Rolly G, et al. Production of compound A and carbon monoxide in circle systems: an in vitro comparison of two carbon dioxide absorbents. _Anaesthesia_ . 2004;59(6):584–589.
+
+172.  Fatheree RS, Leighton BL. Acute respiratory distress syndrome after an exothermic Baralyme®- sevoflurane reaction. _Anesthesiology_ . 2004;101(2):531–533.
+
+173.  Wu J, Previte JP, Adler E, et al. Spontaneous ignition, explosion, and fire with sevoflurane and barium hydroxide lime. _Anesthesiology_ . 2004;101(2):534–537.
+
+174.  Castro BA, Freedman LA, Craig WL, Lynch C. Explosion within an anesthesia machine: Baralyme®, high fresh gas flows and sevoflurane concentration. _Anesthesiology_ . 2004;101(2):537–539.
+
+175.  Laster M, Roth P, Eger EI. Fires from the interaction of anesthetics with desiccated absorbent. _Anesth Analg_ . 2004;99(3):769–774.
+
+176.  Andrews JJ, Johnston RV, Bee DE, Arens JF. Photodeactivation of ethyl violet: a potential hazard of Sodasorb. _Anesthesiology_ . 1990;72(1):59–64.
+
+177.  Kuruma Y, Kita Y, Fujii S. Exchanging a CLIC absorber in the middle of the surgery. _Anesth Patient Saf Found Newsl_ . 2013;27(3):64–65.
+
+178.  Hendrickx JFA, De Ridder SPAJ, Dehouwer A, et al. In vitro performance of prefilled CO2 absorbers with the Aisys®. _J Clin Monit Comput_ . 2016;30(2):193–202.
+
+179.  Bashraheel MK, Eerlings SA, De Wolf AM, et al. MemsorbTM, a novel CO2 removal device part I: in vitro performance with the Zeus IE®. _J Clin Monit Comput_ . 2022;36(6):1591–1600.
+
+180.  Eerlings SA, Bashraheel MK, De Wolf AM, et al. MemsorbTM, a novel CO2 removal device part II: in vivo performance with the Zeus IE®. _J Clin Monit Comput_ . 2022;36(6):1647–1655.
+
+181.  Mapleson WW. The elimination of rebreathing in various semiclosed anaesthetic systems. 1954. _Br J Anaesth_ . 1998;80(2):263– 269.
+
+182.  Willis BA, Pender JW, Mapleson WW. Rebreathing in a T- piece: volunteer and theoretical studies of the Jackson- Rees modification of Ayre’s T- piece during spontaneous respiration. _Br J Anaesth_ . 1975;47(12):1239–1246.
+
+183.  Rose DK, Froese AB. The regulation of PaCO2 during controlled ventilation of children with a T- piece. _Can Anaesth Soc J_ . 1979;26(2):104– 113.
+
+184.  Froese A, Rose D. A detailed analysis of T- piece systems. In: Steward D, ed. _Some Aspects of Paediatric Anaesthesia_ . Elsevier North- Holland Biomedical Press; 1982:101.
+
+185.  Dorsch JA, Dorsch SE. Mapleson breathing systems. In: _Understanding Anesthesia Equipment_ . 5th ed. Williams & Wilkins; 2008:209– 222.
+
+186.  Kaul T, Mittal G. Mapleson′s breathing systems. _Indian J Anaesth_ . 2013;57(5):507.
+
+187.  Bain JA, Spoerel WE. A streamlined anaesthetic system. _Can Anaesth Soc J_ . 1972;19(4):426–435.
+
+188.  Cooper R. From the Journal archives: a streamlined anesthetic system: the Bain (and Spoerel) circuit 40 years later. _Can J Anesth_ . 2014;61(6):587–590.
+
+189.  Jain A, Chaurasia R, Sengar NS, Deep A, Bain H. Innovative modification of Bain circuit for the resuscitation and transportation of patients with Coronavirus disease 2019. _AA Pract_ . 2021;15(10):e01530.
+
+190.  Dorsch JA, Dorsch SE. Manual resuscitators. In: _Understanding Anesthesia Equipment_ . 5th ed. Williams & Wilkins; 2008:282–294.
+
+191.  Hussey SG. Comparison of three manual ventilation devices using an intubated mannequin. _Arch Dis Child Fetal Neonatal Ed_ . 2004;89(6):F490–F493.
+
+192.  International Organization for Standardization. _ISO 10651- 4: Lung Ventilators – Part 4: Particular Requirements for Operator- Powered Resuscitators_ ; 2002.
+
+193.  Lien S, Verreault DJ, Alston TA. Sustained airway pressure after transient occlusion of a valve venting a self- inflating manual resuscitator. _J Clin Anesth_ . 2013;25(5):424–425.
+
+194.  Lucy MJ, Gamble JJ, Peeling A, et al. Artificial ventilation during transport: a randomized crossover study of manual resuscitators with comparison to mechanical ventilators in a simulation model. _Pediatr Anesth_ . 2018;28(9):788–794.
+
+195.  Jaber S, Tassaux D, Sebbane M, et al. Performance characteristics of five new anesthesia ventilators and four intensive care ventilators in pressure- support mode: a comparative bench study. _Anesthesiology_ . 2006;105(5):944–952.
+
+196.  Sáez JA. Patient- ventilator asynchrony during anesthesia. _Anesthesiology_ . 2015;122(4):922.
+
+197.  Modak RK, Olympio MA. Anesthesia ventilaors. In: Ehrenwerth J, Eisenkraft JB, eds. _Anesthesia Equipment: Principles and Applications_ . 2nd ed. Elsevier Saunders; 2013:148–178.
+
+198.  Russell WJ, Webb RK, Van der Walt JH, Runciman WB. The Australian Incident Monitoring Study. Problems with ventilation: an analysis of 2000 incident reports. _Anaesth Intensive Care_ . 1993;21(5):617–620.
+
+199.  Saied N, Booker R, Weinger M. Misassembled bellows housing leading to failure of mechanical ventilation during general anesthesia. _Simul Healthc_ . 2012;7(6):380–389.
+
+200.  Feeley TW, Bancroft ML. Problems with mechanical ventilators. _Int Anesthesiol Clin_ . 1982;20(3):83–93.
+
+201.  Bourke DL, Tolentino D. Inadvertent positive end- expiratory pressure caused by a malfunctioning ventilator relief valve. _Anesth Analg_ . 2003;97(2):492–493.
+
+202.  O’Connor DE, Daniels BW, Pfitzner J. Hazards of anaesthetic scavenging: case reports and brief review. _Anaesth Intensive Care_ . 1982;10(1):15–19.
+
+203.  Yoder JM. Ventilators. In: _Understanding Modern Anesthesia Systems_ . Dräger Medical; 2009:145–188.
+
+204.  Maquet Critical Care. _FLOW- I 4.2 User’s Manual_ ; 2015.
+
+205.  Boussen S, Gainnier M, Michelet P. Evaluation of ventilators used during transport of critically ill patients: a bench study. _Respir Care_ . 2013;58(11):1911–1922.
+
+206.  Delgado C, Romero JE, Puig J, et al. Performance of the new turbine mid- level critical care ventilators. _Respir Care_ . 2017;62(1):34–41.
+
+207.  Walker SG, Smith TC, Sheplock G, et al. Breathing circuits. In: Ehrenwerth J, Eisenkraft JB, eds. _Anesthesia Equipment: Principles and Applications_ . 2nd ed. Elsevier Saunders; 2013:95–124.
+
+208.  Carette R, De Wolf AM, Hendrickx JFA. Automated gas control with the Maquet FLOW- i. _J Clin Monit Comput_ . 2016;30(3):341–346.
+
+209.  De Cooman S, Hendrickx JFA, Peyton PJ, et al. Agent consumption with the Zeus® in the automated closed circuit anesthesia mode with O2/air mixtures. _BMC Res Notes_ . 2014;7:469.
+
+210.  Singaravelu S, Barclay P. Automated control of end- tidal inhalation anaesthetic concentration using the GE Aisys CarestationTM. _Br J Anaesth_ . 2013;110(4):561–566.
+
+211.  Mostad D, Klepstad P, Follestad T, Pleym H. Desflurane consumption with automated vapour control systems in two different anaesthesia machines. A randomized controlled study. _Acta Anaesthesiol Scand_ . 2021;65(7):895–901.
+
+212.  Moran P, Barr D, Holmes C. Saving sevoflurane: automated gas control can reduce consumption of anesthetic vapor by one- third in pediatric anesthesia. _Paediatr Anaesth_ . 2019;29(4):310–314.
+
+213.  Wetz AJ, Mueller MM, Walliser K, et al. End- tidal control vs. manually controlled minimal- flow anesthesia: a prospective comparative trial. _Acta Anaesthesiol Scand_ . 2017;61(10):1262–1269.
+
+214.  Dorsch JA, Dorsch SE. Controlling trace gas levels. In: _Understanding Anesthesia Equipment_ . 5th ed. Williams & Wilkins; 2008:373–403.
+
+215.  U.S. Department of Health, Education and Welfare. _Criteria for a Recommended Standard: Occupational Exposure to Waste Anesthetic Gases and Vapors_ ; 1977.
+
+216.  Anesthetic Gases: Guidelines for Workplace Exposures. Occupational Safety and Health Administration. https://www.osha.gov/dt s/osta/anestheticgases/index.html.
+
+217.  American Society of Anesthesiologists Task Force on Trace Anesthetic Gases. _Waste Anesthetic Gases: Information for Management in Anesthetizing Areas and the Postanesthesia Care Unit (PACU)_ ; 1999.
+
+218.  Kanmura Y, Sakai J, Yoshinaka H, Shirao K. Causes of nitrous oxide contamination in operating rooms. _Anesthesiology_ . 1999;90(3):693– 696.
+
+219.  Eisenkraft JB, McGregor DG. Waste anesthetic gases and scavenging systems. In: Ehrenwerth J, Eisenkraft JB, Berry JM, eds. _Anesthesia Equipment: Principles and Applications_ . 2nd ed. Elsevier Saunders; 2013:125–147.
+
+<!-- PDF page 60 -->
+
+220.  Elakkumanan LB, Vasudevan A, Krishnappa S, et al. Obstruction to scavenging system tubing. _J Anaesthesiol Clin Pharmacol_ . 2012;28(2):270–271.
+
+221.  Joyal JJ, Vannucci A, Kangrga I. High end- expiratory airway pressures caused by internal obstruction of the Draeger Apollo® scavenger system that is not detected by the workstation self- test and visual inspection. _Anesthesiology_ . 2012;116(5):1162–1164; discussion 1164–1166.
+
+222.  Dräger Medical. _Scavenger Interface for Air Conditioning: Instruction Manual_ . Dräger Medical; 1984.
+
+223.  ASTM. Standard specification for anesthetic gas scavenging systems: transfer and receiving sytems (ASTM F1343- 02). _Med Devies Serv_ . 2005;13(1):554–562.
+
+224.  Saxena S, Laykish M, Mangione MP, Knauf K. Safety issues with gas scavenging system in GE Avance and GE Aespire anesthesia machines. _Anesth Patient Saf Found_ . 2016;31(1):17.
+
+225.  Allen M, Lees DE. Fires in medical vacuum pumps: do you need to be concerned? _ASA Newsl_ . 2004;68(10):22–23.
+
+226.  Carstensen P. FDA issues pre- use checkout. _APSF Newsl_ . 1986;1(3):13–20.
+
+227.  Cohen JB, Chaudhry T. Kinked inspiratory limb of coaxial circuit mimics bronchospasm. _Anesth Patient Saf Found Newsl_ . 2012;27(1). https://www.apsf.org/article/kinked- inspiratory- limb- of- coaxialcircuit- mimics- bronchospasm/.
+
+228.  Huang J, Dodwani K, Simon P, Zhou J. Complete bacterial filter blockage by a plastic film. _J Anaesthesiol Clin Pharmacol_ . 2012;28(2):230– 231.
+
+229.  Degani A, Wiener EL. Cockpit checklists: concepts, design, and use. _Hum Factors_ . 1993;35(2):345–359.
+
+230.  Federal Aviation Administration, Office of Safety Services, Safety Analysis Division. _Human Performance Considerations in the Use and Design of Aircraft Checklists_ ; 1995.

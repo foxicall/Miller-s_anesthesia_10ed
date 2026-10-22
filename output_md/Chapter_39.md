@@ -1,0 +1,1194 @@
+---
+title: Neuromuscular Monitoring
+chapter: 39
+book: Miller's Anesthesia, 10th Edition
+source_file: 39. Neuromuscular Monitoring.pdf
+---
+
+# Neuromuscular Monitoring
+
+<!-- PDF page 1 -->
+
+
+J. ROSS RENEW and THOMAS FUCHS- BUDER
+
+|**KEY POINTS**|ᑏGood evidence- based practice dictates that clinicians always quantitate the extent of<br>neuromuscular block by objective monitoring.<br>ᑏThe neuromuscular block should be adjusted to ensure optimal surgical conditions. In most<br>procedures, one or two responses to train- of- four (TOF) stimulation will suffice. To avoid<br>involuntary diaphragmatic movements, a deeper level of neuromuscular block is required (i.e.,<br>one to five responses to posttetanic count [PTC]).|
+|---|---|
+||ᑏAdequate recovery of postoperative neuromuscular function cannot be guaranteed without<br>objective neuromuscular monitoring.|
+||ᑏObjective neuromuscular monitoring is essential for management of neuromuscular blockade<br>intraoperatively and its reversal for postoperative care. Neuromuscular blocking agents should<br>not be given in the intensive care unit without proper monitoring.|
+||ᑏIt is impossible to exclude with certainty clinically significant residual neuromuscular block by<br>clinical evaluation of recovery of neuromuscular function.<br>ᑏResidual postoperative neuromuscular block causes decreased chemoreceptor sensitivity to<br>hypoxia, functional impairment of the pharyngeal and upper esophageal muscles, impaired<br>ability to maintain an open upper airway, and an increased risk of hypoxemic events, as well as<br>the development of postoperative pulmonary complications.|
+||ᑏAbsence of tactile fade in the response to TOF stimulation, tetanic stimulation, and double-<br>burst stimulation does not exclude significant residual block.<br>ᑏTo exclude clinically significant residual neuromuscular block, the TOF ratio must exceed<br>0.9 when measured mechanically or electromyographically and 1.0 when measured<br>acceleromyographically.|
+||ᑏIf adequate recovery (TOF≥0.9–1.0) has not been documented objectively at the end of the<br>surgical procedure, the neuromuscular block should be antagonized.<br>ᑏAntagonism of the neuromuscular block with a cholinesterase inhibitor should not be initiated<br>before at least all four responses to TOF stimulation are observed.<br>ᑏAntagonism of the neuromuscular block achieved by rocuronium and vecuronium can be<br>initiated at all levels of block with the selective relaxant binding agent sugammadex.|
+
+
+Our understanding of the pathophysiologic consequences of residual paralysis has improved over the last decades, and it is now generally accepted that even small degrees of residual paralysis (i.e., a train- of- four [TOF] ratio 0.7– 0.9) may be clinically harmful.<sup>1–4</sup> As a consequence, the benchmark of adequate neuromuscular recovery has been revised several times; an adductor pollicis TOF ratio of 0.9 or greater is now required to exclude relevant residual neuromuscular block (i.e., paralysis). Clinically significant residual paralysis cannot be excluded using clinical criteria and it can persist postoperatively.<sup>5,6</sup> Objective monitoring of the degree of neuromuscular block associated with pharmacologic reversal reduces the incidence of residual paralysis and should be part of standard perioperative monitoring when neuromuscular blocking agents (NMBAs) are used.<sup>7–13</sup>
+
+In awake patients, muscle power can be evaluated by tests of voluntary muscle strength, but this is impossible during anesthesia and recovery from anesthesia. Historically, anesthesiologists have used clinical tests to assess
+
+muscle power directly and to estimate neuromuscular function indirectly (muscle tone; feel of the anesthesia bag as an indirect measure of pulmonary compliance, tidal volume; and inspiratory force). All these tests are influenced by factors other than the degree of neuromuscular block and, therefore, should not be used to evaluate recovery from neuromuscular blockade. Whenever precise information regarding the status of neuromuscular functioning is desired, the response of muscle to nerve stimulation should be assessed. This procedure also takes into account the considerable variation in individual response and sensitivity to NMBAs.
+
+This chapter reviews the basic principles of neuromuscular monitoring and the requirements for effective use of nerve stimulators for peripheral nerve stimulation. It also describes the response to nerve stimulation during depolarizing (phase I and phase II) and nondepolarizing neuromuscular block, provides information about the level of neuromuscular blockade, and discusses the consequences of residual paralysis. Moreover, methods
+
+
+
+::: details 原始表格與符號（PDF 第 1 頁）
+
+![第 39 章，原始 PDF 第 1 頁](assets/chapter-39/source-page-0001.png)
+
+:::
+
+<!-- PDF page 2 -->
+
+of evaluating evoked neuromuscular responses with and without the availability of recording equipment are discussed.
+
+## Principles of Peripheral Nerve Stimulation
+
+Neuromuscular monitoring is used to evaluate the effect of an NMBA. The muscle response after stimulation of its corresponding motor nerve is assessed. The most frequently assessed nerve–muscle unit is the ulnar nerve and the adductor pollicis muscle. The muscle response can be evaluated either qualitatively with a peripheral nerve stimulator or quantified with objective monitors. With the peripheral nerve stimulator, the observer evaluates the muscle response either tactically or visually, whereas with the monitor the response is objectively measured and displayed on a screen. Whatever method is used for neuromuscular monitoring, the clinician should be familiar with the following terms: supramaximal stimulation, calibration, impedance, and safety margin.
+
+### SUPRAMAXIMAL STIMULATION
+
+The reaction of a single muscle fiber to a stimulus follows an all- or- none pattern. In contrast, the response (the force of contraction) of the whole muscle depends on the number of muscle fibers activated. If a nerve is stimulated with sufficient intensity, all fibers supplied by the nerve will react, and the maximum response will be triggered. After administration of a neuromuscular blocking drug, the response of the muscle decreases in parallel with the number of fibers blocked. The reduction in response during constant stimulation reflects the degree of neuromuscular block.
+
+For the preceding principles to work, the stimulus must be truly maximal throughout the whole period of monitoring; therefore, the electrical stimulus applied is usually at least 15% to 20% greater than that necessary for a maximal response. For this reason, the stimulus is said to be supramaximal. This compensates for potential changes in skin resistance intraoperatively and assures constant maximal stimulation throughout the procedure.
+
+However, supramaximal electrical stimulation can be painful, which is not a concern during anesthesia, but during recovery the patient may be awake enough to experience the discomfort of nerve stimulation.<sup>14</sup> Therefore, some researchers advocate stimulation with submaximal current during recovery. Although several investigations indicate that testing of neuromuscular function can be reliably performed postoperatively with submaximal stimulation,<sup>15,16</sup> the accuracy of such monitoring is unacceptable with that low current.<sup>16</sup>
+
+### CALIBRATION
+
+A device used for objective monitoring of the neuromuscular function should be calibrated before the NMBA is administered. Calibration adjusts the gain of the device to ensure that the observed response to supramaximal stimulation is within the measurement window of the device and as close
+
+as possible to the “100% control response.” The calibration procedure varies with the type of device used, but most often it is done with 1.0 Hz single- twitch stimulation. It is especially important to calibrate when the onset and recovery of the neuromuscular block are established with singletwitch stimulation.
+
+### IMPEDANCE
+
+An alternative and novel option to ensure a constant maximum stimulus throughout the whole procedure is to control the impedance (resistance) of the skin. Indeed, if the resistance of the skin is below a threshold value, the neuromuscular monitoring device will stimulate with the same user- selected electrical current (i.e., 60 mA). For a maximum current of 60 mA, the maximal resistance of the skin should be equal to or lower than 5 kΩ. If the resistance of the skin is above this value, the monitor will not be able to stimulate the patient with the selected current. More recently, nerve stimulators have been introduced that indicate the level of skin impedance on the screen (e.g., Draeger Technologies, Mississauga, ON, Canada). Using this approach, establishment of supramaximal stimulation is not needed to assure that nerve stimulation is effective and constantly maximal through the whole procedure.
+
+### SAFETY MARGIN
+
+Neuromuscular transmission has a substantial margin of safety. Neuromuscular block only becomes evident when 70% to 80% of acetylcholine receptors at the neuromuscular endplate are occupied by nondepolarizing NMBAs and to produce complete block, 90% to 95% of receptors must be occupied. Thus the currently available equipment and the currently applied stimulation patterns allow only insight to this 70% to 95% range of receptor occupancy. This should be kept in mind, especially during recovery of neuromuscular block, where 70% of the acetylcholine receptors at the neuromuscular endplate may still be occupied but no longer detectable with neuromuscular monitoring, i.e., the TOF ratio has reached ≥0.9.
+
+## Types of Peripheral Nerve Stimulation
+
+Neuromuscular function is monitored by evaluating the muscular response to supramaximal stimulation of a peripheral motor nerve. Theoretically, two types of stimulation can be used: electrical and magnetic. Electrical nerve stimulation is by far the most used method in clinical practice, and it is described in detail in this chapter. In theory, magnetic nerve stimulation has several advantages over electrical nerve stimulation.<sup>2,17</sup> It is less painful and does not require physical contact with the body; however, the equipment required is bulky and heavy, it cannot be used for TOF stimulation, and it is difficult to achieve supramaximal stimulation with this method. As a result, magnetic nerve stimulation is not used in clinical anesthesia.
+
+<!-- PDF page 3 -->
+
+## Basic Considerations
+
+### STIMULATING ELECTRODES
+
+Electrical impulses are transmitted from stimulator to nerve by means of surface or needle electrodes. Normally, disposable pre- gelled silver or silver chloride surface electrodes are used. The conducting area should be small, approximately 7 to 11 mm in diameter (Fig. 39.1). Otherwise, the current produced in the underlying nerve may not be adequate.<sup>18</sup> Ideally, the skin should be cleansed properly and preferably rubbed with an abrasive before application of the electrodes.
+
+## Sites of Nerve Stimulation and Different Muscle Responses
+
+In principle, any superficially located peripheral motor nerve can be stimulated and the response to corresponding muscle measured. Choosing the site of neuromuscular monitoring depends on several factors: the site should be easily accessible during surgery, it should allow quantitative monitoring and finally, direct muscle stimulation should be avoided. Direct muscle stimulation is characterized by weak contractions without fade persisting even at a deep level of neuromuscular blockade. The risk is increased when the stimulation electrodes are directly attached over the muscle to be assessed. To prevent direct muscle stimulation, the nerve–muscle unit should be chosen so that the site of nerve stimulation and the site of the subsequent evaluation of the twitch response are topographically (anatomically) distinct.
+
+In clinical anesthesia, the ulnar nerve is the gold standard as a stimulation site, but the median, posterior tibial, common peroneal, and facial nerves are also sometimes used. For stimulation of the ulnar nerve, the electrodes are
+
+
+![](assets/chapter-39/39._Neuromuscular_Monitoring.pdf-0003-08.png)
+
+
+**Fig. 39.1** Stimulating electrodes with the appropriate contact area in the correct position over the ulnar nerve of the right forearm (SunStim Peripheral Nerve Stimulator, SunMed, Grand Rapids, USA).
+
+best applied to the volar side of the wrist (see Fig. 39.1). The distal electrode should be placed approximately 1 cm proximal to the point at which the proximal flexion crease of the wrist crosses the radial side of the tendon to the flexor carpi ulnaris muscle. The proximal electrode should preferably be placed so that the distance between the centers of the two electrodes is 3 to 6 cm (see Fig. 39.1). With this placement of the electrodes, electrical stimulation normally elicits only finger flexion and thumb adduction. If one electrode is placed over the ulnar groove at the elbow, thumb adduction is often pronounced because of stimulation of the flexor carpi ulnaris muscle. When this latter placement of electrodes (sometimes preferred in small children) is used, the active negative electrode should be at the wrist to ensure maximal response. Polarity of the electrodes is less crucial when both electrodes are close to each other at the volar side of the wrist; however, placement of the negative electrode distally normally elicits the greatest neuromuscular response.<sup>19</sup> Most of the reference values for dosing neuromuscular blocking agents, onset times, and recovery are based on stimulation of the ulnar nerve and differing muscle group sensitivities must be considered when using monitoring sites other than the hand. When the temporal branch of the facial nerve is stimulated, the negative electrode should be placed over the nerve, and the positive electrode should be placed somewhere else over the forehead. When the posterior tibial nerve is stimulated, the electrodes should be placed close to the medial malleolus, with the same distance as described above and the negative electrode being placed distally.
+
+### NERVE–MUSCLE UNIT
+
+Several nerve–muscle units may be chosen in clinical practice. Most often the ulnar nerve–adductor pollicis muscle is used.
+
+_Ulnar nerve–adductor pollicis muscle:_ This nerve–muscle unit is easily accessible intraoperatively if the arm is in the outstretched position and the hand in the supine position. The stimulatory response can be evaluated tactilely, visually, or by objective means. It has the lowest risk of direct muscle stimulation because it ensures topographic separation of the stimulated nerve and the evaluated muscle by stimulating the ulnar nerve running along the median side of the arm and assessing the muscle response at the adductor pollicis muscle, which is located on the lateral side of the hand.
+
+_Posterior tibial nerve–flexor hallucis brevis muscle_ : This nerve–muscle unit can be used for monitoring when the hands are inaccessible. The flexor hallucis brevis muscle produces flexion of the big toe following posterior tibial nerve stimulation. The characteristics (onset and recovery) of the neuromuscular block at the flexor hallucis brevis muscle is almost consistent with that of the adductor pollicis muscle.
+
+_Facial nerve–orbicularis oculi and facial nerve–corrugator supercilii muscle_ : When the arms are tucked under surgical drapes, quite often the only accessible site for monitoring is the head. Two facial muscles can be used as monitoring sites: the orbicularis oculi muscle and the corrugator supercilii muscle. The former encircles the orbital opening; its stimulation through the zygomatic branches of the facial
+
+<!-- PDF page 4 -->
+
+![](assets/chapter-39/39._Neuromuscular_Monitoring.pdf-0004-01.png)
+
+
+90<br>80<br>Adductor Diaphragm<br>pollicis<br>60<br>40<br>20<br>10<br>20 40 60 80 100 150<br>Dose (mcg/kg)<br>Depression of response (%)<br>
+
+**Fig. 39.2** The mean cumulative dose–response curve for pancuronium in two muscles shows that the diaphragm requires approximately twice as much pancuronium as the adductor pollicis muscle for the same amount of neuromuscular block. The depression in muscle response to the first stimulus in train- of- four nerve stimulation (probit scale) was plotted against dose (log scale). The force of contraction of the adductor pollicis was measured on a force- displacement transducer; response of the diaphragm was measured electromyographically. (From Donati F, Antzaka C, Bevan DR. Potency of pancuronium at the diaphragm and the adductor pollicis muscle in humans. _Anesthesiology_ . 1986;65[1]:1–5.)
+
+nerve causes the eyelids to close. Stimulation by the temporal branch of the facial nerve of the latter one draws the medial end of the eyebrow downward, producing wrinkling of the brow. However, because the facial nerve is in direct proximity to the intrinsic mimic muscles, the risk of direct muscle stimulation is significant. Therefore, care must be taken that the correct stimulatory response is assessed, and any other twitching muscle in the direct proximity of the stimulation electrodes is not falsely interpreted. Stimulation of the facial nerve can be accomplished with significantly lower currents: most often 25 to 30 mA are sufficient. Stimulation of these two muscles is technically difficult and the result often unsatisfactory in clinical practice.
+
+Because different muscle groups have different sensitivities to NMBAs, results obtained for one muscle cannot be automatically extrapolated to other muscles. However, most of the studies that are the base for dosing recommendations of NMBAs arise from measurement of the stimulation of the ulnar nerve. The diaphragm is among the most resistant of all muscles to both depolarizing<sup>20</sup> and nondepolarizing NMBAs.<sup>21</sup> In general, the diaphragm requires 1.4- to 2.0- fold as much NMBA as the adductor pollicis muscle for an identical degree of block (Fig. 39.2).<sup>21</sup> Also of clinical significance is that onset time is normally shorter for the diaphragm than for the adductor pollicis muscle, and the diaphragm recovers from paralysis more quickly than the peripheral muscles (Fig. 39.3).<sup>22</sup> The other respiratory muscles are less resistant than the diaphragm, as are the larynx and the corrugator supercilii muscles.<sup>23–25</sup> Most sensitive are the abdominal muscles, the orbicularis oculi muscle, the peripheral muscles of the limbs, and the
+
+
+![](assets/chapter-39/39._Neuromuscular_Monitoring.pdf-0004-05.png)
+
+
+Atracurium, 0.6 mg/kg<br>100<br>90<br>75<br>Diaphragm<br>50<br>Adductor<br>pollicis<br>25<br>10<br>0<br>0 1 2 3 4 10 30 50 70 90 110<br>Time (min)<br>Twitch height (%)<br>
+
+**Fig. 39.3** Evolution of twitch height (mean ± SD) of the diaphragm ( _blue circles_ ) and the adductor pollicis muscle ( _yellow circles_ ) in 10 anesthetized patients after the administration of atracurium (0.6 mg/kg). (From Pansard J- L, Chauvin M, Lebrault C, et al. Effect of an intubating dose of succinylcholine and atracurium on the diaphragm and the adductor pollicis muscle in humans. _Anesthesiology_ . 1987;67[3]:326–330.)
+
+geniohyoid, masseter, and upper airway muscles.<sup>1,26–28</sup> From a clinical point of view, the response of the corrugator supercilii to facial nerve stimulation reflects the extent of neuromuscular block of the laryngeal adductor muscles and abdominal muscles better than the response of the adductor pollicis to ulnar nerve stimulation.<sup>25,29</sup> Furthermore, the upper airway muscles seem to be more sensitive than the peripheral muscles.<sup>26,27</sup> Although some investigations using acceleromyography (AMG) have indicated small differences in the response to TOF nerve stimulation in the hand (adductor pollicis muscle) compared to the leg (flexor hallucis brevis muscle), these differences are probably of little clinical significance.<sup>30</sup> When comparing different sites of stimulation, there might be large differences between contralateral limbs (e.g., arm- to- arm variation of ± 20%).<sup>31,32</sup>
+
+Although the precise source of these differences is unknown, possible explanations may be variations in acetylcholine receptor density, acetylcholine release, acetylcholinesterase activity, fiber composition, innervation ratio (number of neuromuscular junctions), blood flow, and muscle temperature.
+
+## Patterns of Nerve Stimulation
+
+For the evaluation of the neuromuscular function, the most commonly used patterns are TOF stimulation, double- burst stimulation (DBS), and posttetanic count (PTC) stimulation. Single- twitch stimulation and tetanic stimulation are mainly used as a component in composite stimulation patterns (i.e., TOF, DBS, or PTC).
+
+### SINGLE- TWITCH STIMULATION
+
+### Background
+
+Single- twitch stimulation is the earliest and simplest pattern. The first device specifically developed to monitor the neuromuscular block, the “St. Thomas’s
+
+<!-- PDF page 5 -->
+
+![](assets/chapter-39/39._Neuromuscular_Monitoring.pdf-0005-01.png)
+
+
+0.1–1.0 Hz<br>Stimulation:<br>Response:<br>Non-dep.<br>block:<br>1 2 3 25 26<br>Dep.<br>block:<br>1 2 3 7 8 9<br>min.<br>
+
+**Fig. 39.4** Pattern of electrical stimulation and evoked muscle responses to single- twitch nerve stimulation (at frequencies of 0.1–1.0 Hz) after injection of nondepolarizing (Non- dep.) and depolarizing (Dep.) neuromuscular blocking drugs ( _arrows_ ). Note that except for the difference in time factors, no differences in the strength of the evoked responses exist between the two types of block.
+
+
+![](assets/chapter-39/39._Neuromuscular_Monitoring.pdf-0005-03.png)
+
+
+Stimulation:<br>1.5 sec 12 sec<br>Response: T1<br>Non-dep. T4<br>block:<br>T4O TOF ratio<br>T1<br>Dep.<br>block:<br>
+
+**Fig. 39.5** Pattern of electrical stimulation and evoked muscle responses to train- of- four (TOF) nerve stimulation before and after injection of nondepolarizing (Non- dep.) and depolarizing (Dep.) neuromuscular blocking drugs ( _arrows_ ).
+
+### TRAIN- OF- FOUR STIMULATION
+
+### Background
+
+Hospital nerve stimulator,” could only deliver a single twitch.<sup>33</sup> For decades it remained the only established stimulation pattern to assess neuromuscular blockade intraoperatively.
+
+### Stimulation Pattern
+
+In the single- twitch mode of stimulation, single electrical stimuli are applied to a peripheral motor nerve at frequencies ranging from 1.0 Hz (once every second) to 0.1 Hz (once every 10 seconds; Fig. 39.4) and the subsequent muscle response is evaluated. The response to single- twitch stimulation depends on the frequency at which the individual stimuli are applied. If the rate of delivery is increased to greater than 0.15 Hz, the evoked response will gradually decrease and stabilize at a lower level. Therefore, results obtained with 1- Hz singletwitch stimulation cannot be compared with results obtained using, for example, 0.1- Hz single- twitch stimulation.<sup>34</sup> As a result, a frequency of 0.1 Hz is generally recommended.
+
+### Clinical Application
+
+To assess the degree of neuromuscular blockade after single- twitch stimulations, a comparison with a reference value recorded before administration of the NMBA is mandatory. Thus, without appropriate monitoring equipment, this stimulation pattern does not provide sufficient information of the level of block. In clinical practice, the singletwitch stimulation has only limited value as a stand- alone stimulation pattern; it is mainly used as a component of the PTC stimulation and as 0.1-Hz single- twitch stimulation, it is sometimes used in scientific trials specifically to evaluate the time to onset of neuromuscular blockade. Moreover, it allows, in conjunction with a monitoring device, assessing a depolarizing neuromuscular block after succinylcholine.
+
+The TOF stimulation pattern was introduced by Ali and associates during the early 1970s.<sup>35,36</sup> These investigators aimed to develop a tool providing clinically reliable information throughout all phases of neuromuscular blockade with simple nerve stimulator and without the need for a monitoring device.
+
+### Stimulation Pattern
+
+TOF stimulation consists of four supramaximal stimuli given every 0.5 seconds (2 Hz; Fig. 39.5) and each stimulus in the train causes the muscle to contract. The basis for evaluation is either the number of discernible responses after TOF stimulation (i.e., TOF count) or the “fade” in the train of responses – that is, dividing the amplitude of the fourth response by the amplitude of the first response (i.e., TOF ratio). Without prior administration of an NMBA, all four responses are normally the same: the TOF ratio is 1.0. During a partial nondepolarizing block, the TOF ratio decreases (fades) and is inversely proportional to the degree of block. During a partial depolarizing block, no fade occurs in the TOF response and the TOF ratio remains 1.0, independently of the level of depolarizing neuromuscular blockade. Fade in the TOF response after injection of succinylcholine signifies the development of a phase II block (discussed later in the section on depolarizing neuromuscular block).
+
+When used continuously, an interval of at least 10 seconds should be allowed between each set (train) of four stimuli to avoid fade during the measurement.
+
+### Application
+
+TOF stimulation is still the most frequently used stimulation pattern. The advantages of TOF stimulation are most apparent during a nondepolarizing neuromuscular block because the degree of block can be read directly from the TOF response even though a preoperative value is lacking. Clinically relevant information about the onset, surgical
+
+<!-- PDF page 6 -->
+
+relaxation, and neuromuscular recovery can be obtained with the same stimulation pattern by using a simple peripheral nerve stimulator; the TOF count allows reliable assessment of the onset of neuromuscular block, and moderate blockade. Moreover, the TOF ratio can be taken as a measure of neuromuscular recovery from nondepolarizing blockade. TOF stimulation has some advantages over DBS and PTC stimulation; it is less painful and, unlike tetanic stimulation, does not generally influence subsequent monitoring of the degree of neuromuscular block. There are major limitations of the TOF stimulation pattern. First, the subjective assessment of the TOF ratio overestimates neuromuscular recovery, as the tactile of visual estimation of fade is accurate only if the TOF ratio is less than 0.4; in other words, at a TOF ratio between 0.4 and 0.9, fade cannot be detected either visually or tactically. Therefore, objective monitoring devices are needed to further quantify neuromuscular recovery and to reliably exclude residual paralysis. Second, the TOF stimulation does not allow the clinician to quantify intense and deep levels of neuromuscular blockade (i.e., at no responses to TOF). Finally, the TOF stimulation does not allow monitoring of the depolarizing phase I blockade.
+
+An altered TOF ratio has recently been proposed. Contrary to the usual TOF ratio this new parameter does not refer fade of the fourth twitch response to the height of the first twitch in a corresponding TOF series but refers fade of fourth response to a reference value taken before a neuromuscular blocking agent has been given (i.e., the median of the four TOF responses). As a result, this altered TOF ratio becomes independent of the fade within a TOF series. Recent data suggests that the T4/Tref ratio can be used to measure both, recovery from nondepolarizing and depolarizing neuromuscular block.<sup>37,38</sup>
+
+### DOUBLE- BURST STIMULATION
+
+### Background
+
+DBS was developed by Viby- Mogensen and associates in 1989 to improve the tactile or visual evaluation of recovery from nondepolarizing neuromuscular blockade.<sup>39</sup>
+
+### Stimulation Pattern
+
+DBS consists of two short bursts of 50- Hz tetanic stimulation separated by 750 ms, with a 0.2- ms duration of each square wave impulse in the burst (Fig. 39.6). The number of impulses in each burst can vary: in the DBS3,3 mode, there are three impulses in each of the two bursts, whereas in the DBS3,2 mode, the first burst contains three impulses while the second burst contains only two impulses.<sup>40–42</sup> The individual twitches elicited by each burst blend together and are felt as one single muscle contraction. Thus the response to DBS is two short muscle contractions and fade in the second burst compared to the first one is the basis for evaluation. In nonparalyzed muscle, both muscle contractions are of equal strength. In the presence of nondepolarizing blockade, the second response is weaker than the first and corresponds to the typical TOF fade (see Fig. 39.6). When measured mechanically, the TOF ratio correlates closely with the DBS3,3 ratio. Compared to DBS3,3, tactile detection of fade is slightly improved with the DBS3,2 mode, especially at higher TOF ratios.
+
+
+![](assets/chapter-39/39._Neuromuscular_Monitoring.pdf-0006-08.png)
+
+
+0.2 msec<br>20 msec<br>750 msec<br>Stimulation:<br>TOF  DBS3,3<br>Response:<br>TOF and<br>DBS3,3 ratios 1.0 0.2 0.4 0.7 0.9<br>Control Recovery<br>
+
+**Fig. 39.6** Pattern of electrical stimulation and evoked muscle responses to train- of- four (TOF) nerve stimulation and double- burst nerve stimulation (i.e., three impulses in each of two tetanic bursts, _DBS3,3_ ) before injection of neuromuscular blocking agent (control) and during recovery from nondepolarizing neuromuscular block. The TOF ratio is the amplitude of the fourth response to TOF divided by the amplitude of the first response. The DBS3,3 ratio is the amplitude of the second response to DBS3,3 divided by the amplitude of the first response. (See text for further explanation.)
+
+### Clinical Application
+
+DBS was developed with the specific aim of improving manual (tactile or visual) detection of residual nondepolarizing block under clinical conditions,<sup>41</sup> or during recovery and immediately after surgery. Indeed, tactile evaluation of the response to DBS is more accurate in detecting fade compared to TOF. However, DBS is still insufficient to exclude reliably residual paralysis corresponding to a TOF ratio between 0.6 and 0.9.<sup>42–44</sup> Accordingly, DBS cannot replace objective monitoring.
+
+### TETANIC STIMULATION
+
+### Background
+
+Tetanic stimulation was proposed by Tassonyi in 1975 as an alternative method to evaluate residual neuromuscular blockade.<sup>45</sup>
+
+### Stimulation Pattern
+
+Tetanic stimulation consists of high- frequency delivery of electrical stimuli (e.g., 50–100 Hz). The most commonly used pattern in clinical practice is 50- Hz stimulation given for 5 seconds, although some investigators have advocated the use of 100- Hz, or even 200- Hz stimulation for 1 second. In normal neuromuscular transmission, the observer detects one strong, sustained muscle contraction, and fade after tetanic stimulation is the basis for evaluation of nondepolarizing block. During a depolarizing block, the muscle response to 50- Hz tetanic stimulation for 5 seconds is sustained. In contrast, during a phase II block after the administration of succinylcholine, the response following tetanic stimulation is not sustained (i.e., fade occurs; Fig. 39.7).
+
+Fade in response to tetanic stimulation is normally considered a presynaptic event. The traditional explanation is
+
+<!-- PDF page 7 -->
+
+![](assets/chapter-39/39._Neuromuscular_Monitoring.pdf-0007-01.png)
+
+
+20 msec<br>Stimulation:<br>Te (50 Hz)<br>Response:<br>Control Moderate non-dep.<br>block<br>Control Moderate dep. block<br>
+
+**Fig. 39.7** Pattern of stimulation and evoked muscle responses to tetanic (50 Hz) nerve stimulation for 5 seconds (Te) and posttetanic twitch stimulation (1.0 Hz; _arrows_ ). Stimulation was applied before the injection of neuromuscular blocking drugs and during moderate nondepolarizing (non- dep.) and depolarizing (dep.) blocks. Note the fade in the response to tetanic stimulation, plus the posttetanic facilitation of transmission during nondepolarizing block. During depolarizing block, the tetanic response is well sustained, and no posttetanic facilitation of transmission occurs.
+
+that at the start of tetanic stimulation, large amounts of acetylcholine are released from immediately available stores in the presynaptic nerve terminal. As these stores become depleted, the rate of acetylcholine release decreases until equilibrium between mobilization and synthesis of acetylcholine is achieved. Despite this equilibrium, the muscle response to tetanic nerve stimulation is maintained (given normal neuromuscular transmission) because the acetylcholine released is many times greater than the amount necessary to evoke a response. However, when the “margin of safety”<sup>46</sup> at the postsynaptic membrane (i.e., the number of free cholinergic receptors) is reduced by nondepolarizing NMBAs, a typical reduction in twitch height is seen with a fade, especially during repetitive stimulation. In addition to this postsynaptic block, nondepolarizing NMBAs can also block presynaptic neuronal-subtype acetylcholine receptors, thereby leading to impaired mobilization of acetylcholine within the nerve terminal.<sup>47</sup> This effect substantially contributes to fade in the response to tetanic (and TOF) stimulation. Although the degree of fade depends primarily on the degree of neuromuscular block, fade also depends on the frequency (Hz), the length (seconds) of stimulation, and how often tetanic stimuli are applied. Unless these variables are kept constant, results from different studies using tetanic stimulation cannot be compared.
+
+### Clinical Application
+
+Traditionally, tetanic stimulation was proposed to evaluate residual neuromuscular block. While the sensitivity of tetanic stimulation to detect residual paralysis is about 70%,
+
+its specificity is only about 50%.<sup>48</sup> Especially when anesthesia was maintained with volatile anesthetics, a marked fade can be observed despite adequate neuromuscular recovery or even without prior administration of a nondepolarizing NMBA. Hence, this test is of limited value for assessing neuromuscular recovery. Furthermore, tetanic stimulation is very painful, which limits its use in unanesthetized patients. For all these reasons, tetanic stimulation has little, if any, use in everyday clinical anesthesia, except as a component in DBS and PTC stimulation.
+
+### POSTTETANIC COUNT STIMULATION
+
+### Background
+
+PTC stimulation was developed by Viby- Mogensen to allow tactile or visual evaluation of deep nondepolarizing neuromuscular blockade that does not respond to TOF stimulation.<sup>49</sup>
+
+### Stimulation Pattern
+
+PTC is a composite stimulation pattern composed by a tetanic stimulation (50 Hz for 5 seconds) followed by 10 to 15 single twitches (i.e., PTC twitches) given at 1 Hz starting 3 seconds after the end of tetanic stimulation.<sup>49</sup> It is based on a phenomenon called “posttetanic potentiation”: tetanic stimulation leads to a transient, exaggerated release of acetylcholine that briefly shifts the ratio of acetylcholine and NMBA at the motor endplate in favor of acetylcholine. Even if no twitch response has been discernible prior to the tetanic stimulation, noticeable muscle contractions might occur briefly after tetanic stimulation (see Fig. 39.7). The basis for evaluation of the PTC is the count of these discernible posttetanic twitches.
+
+The response to PTC stimulation depends primarily on the degree of neuromuscular block. It also depends on the frequency and duration of tetanic stimulation, the length of time between the end of tetanic stimulation and the first posttetanic stimulus, the frequency of the single- twitch stimulation, and probably the duration of single- twitch stimulation before tetanic stimulation. When the PTC method is used, these variables should be kept constant. Because of interference between PTC stimulation and the actual neuromuscular block within the monitored hand, tetanic stimulation should ideally not be repeated within 2–3 minutes.<sup>50</sup>
+
+### Clinical Application and Limitation
+
+Moderate levels of neuromuscular blockade (i.e., TOF count between 1 and 4) are not sufficient to reliably prevent reactions of the diaphragm and/or laryngeal muscles after stimulation. Both muscles are rather resistant to the effect of nondepolarizing NMBA. Therefore, deeper levels of neuromuscular blockade are needed in clinical situations where any bucking or coughing in response to tracheal stimulation or sudden diaphragmatic movements would compromise patient safety. Only PTC stimulation allows assessment of these degrees of neuromuscular blockade. During complete block, there is no response to either tetanic or posttetanic stimulation (Fig. 39.8). As the period of complete neuromuscular block dissipates, the first response to posttetanic twitch stimulation occurs and is followed by a gradual return of posttetanic twitches until the first response to TOF
+
+<!-- PDF page 8 -->
+
+![](assets/chapter-39/39._Neuromuscular_Monitoring.pdf-0008-01.png)
+
+
+Intense block Deep block Surgical block<br>A B C D<br>Stimulation:<br>TOF TE PTS<br>Response:<br>PTC and<br>no. of TOF<br>0 0 0 1 0 3 1 8<br>responses<br>
+
+**Fig. 39.8** Pattern of electrical stimulation and evoked muscle responses to train- of- four (TOF) nerve stimulation, 50- Hz tetanic nerve stimulation for 5 seconds (TE), and 1.0- Hz posttetanic twitch stimulation (PTS) during four different levels of nondepolarizing neuromuscular block. During complete block of peripheral muscles (A), no response to any of the forms of stimulation occurs. During less pronounced block (deep block, B and C), there is still no response to TOF stimulation, but posttetanic facilitation of transmission is present. During moderate block (D), the first response to TOF appears and posttetanic facilitation increases further. The posttetanic count (see text) is 1 during very deep block (B), 3 during less deep block (C), and 8 during moderate block (D).
+
+
+![](assets/chapter-39/39._Neuromuscular_Monitoring.pdf-0008-03.png)
+
+
+40<br>Pancuronium, 0.08/0.1 mg/kg<br>Vecuronium, 0.1 mg/kg<br>30<br>Atracurium, 0.6 mg/kg<br>Rocuronium, 0.6 mg/kg<br>20 Cisatracurium, 0.15 mg/kg<br>10<br>0<br>–10<br>–20<br>1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16<br>Posttetanic count<br> (min)Time to T1<br>
+
+**Fig. 39.9** Relationship between the posttetanic count and time when onset of train- of- four (T1) is likely to be elicited for various neuromuscular blocking agents. (From El- Orbany MI, Joseph JN, Salem MR. The relationship of post- tetanic count and train- of- four responses during recovery from intense cisatracurium- induced neuromuscular block. _Anesth Analg._ 2003;97[1]:80–84.)
+
+stimulation reappears. The PTC should be 3 or less if a deep block is required for clinical reasons; at 6 to 10 PTC, the return of the first TOF response is most often imminent (Fig. 39.9).<sup>51–54</sup> Because tetanic stimulation should not be performed more often than every 2–3 minutes, this stimulation pattern cannot be applied continuously.
+
+## Equipment
+
+Although many nerve stimulators are commercially available, not all meet the basic requirements for clinical use. The stimulus should produce a monophasic and rectangular waveform, and the length of the pulse should not exceed 0.2 to 0.3 ms. A pulse exceeding 0.5 ms may stimulate the muscle directly or cause repetitive firing. Stimulation at a constant current is preferable to stimulation at a constant
+
+voltage because current is the determinant of nerve stimulation. Furthermore, for safety reasons, the nerve stimulator should be operated by a rechargeable battery, include a battery check, and be able to generate 60 to 70 mA, but not more than 80 mA. Some commercially available stimulators can deliver just 25 to 50 mA and provide a constant current only when skin resistance ranges from 0 to 2.5 kΩ. This is a limitation, as skin resistance can increase to approximately 5 kΩ, especially during lower skin temperature. The high skin resistance can cause the current delivered to the nerve to decrease below the supramaximal level and lead to a decrease in the response to stimulation. Ideally, the nerve stimulator should have a built- in warning system, or a current level display that alerts the user when the selected current is not delivered to the nerve. Alternatively, the impedance should be indicated at the screen. The polarity of the electrodes should be indicated, and the apparatus should be capable of delivering the following modes of stimulation: TOF (as both a single train and in a repetitive mode, with TOF stimulation being given every 10–20 seconds) and PTC. Some recent nerve stimulators switch automatically between TOF and PTC, depending on the level of neuromuscular blockade. If the nerve stimulator does not allow objective measurement of the response to TOF stimulation, at least one DBS mode should be available, preferably DBS3,2.
+
+## Peripheral Nerve Stimulator
+
+Peripheral nerve stimulators only allow stimulation of the target nerve; the subsequent muscular response is assessed subjectively either tactilely or visually. When applying TOF stimulation and evaluating the TOF count, the peripheral nerve stimulator may deliver clinically useful information about the onset of neuromuscular block or the need for an additional dose of NMBA. Moreover, the clinician could be guided for the timing and dosing of reversal agents. It is in the determination of full neuromuscular recovery these devices have clinical limitations. It is impossible to reliably exclude residual neuromuscular blockade. Thus, simple
+
+<!-- PDF page 9 -->
+
+nerve stimulators are of limited clinical value, as they act only as a guide and should not be used as a diagnostic tool to exclude residual neuromuscular blockade.
+
+## Objective Monitors
+
+Objective monitors measure the evoked responses objectively and display it on a screen. Several methods may be used for objective clinical monitoring of neuromuscular function: evoked mechanical response of the muscle (mechanomyography [MMG]), evoked electrical response of the muscle (electromyography [EMG]), acceleration of the muscle response (AMG), evoked electrical response in a piezoelectric film sensor attached to the muscle (kinemyography [KMG]), measurement of pressure changes in blood pressure cuff after contractions of the upper arm muscles (cuff pressure modality [CPM]), measurement of pressure change of a spherical balloon after hand contraction (compressomyography [CMG]), and measurement of low- frequency sounds evoked by the muscle contraction (phonomyography [PMG]). The different methods are described below. For further information on recording evoked responses, the reader is referred to guidelines for good clinical research practice in pharmacodynamic studies of NMBAs.<sup>18</sup> The only objective monitors currently available are based on AMG, EMG, CPM, and KMG. The use of computer- guided administration of NMBAs and “closed loop control” systems has been suggested, but no systems are commercially available.<sup>55,56</sup>
+
+
+![](assets/chapter-39/39._Neuromuscular_Monitoring.pdf-0009-05.png)
+
+
+**Fig. 39.10 The setup for mechanomyography.** The response to nerve stimulation is measured using a force transducer (TD- 100; Biometer, Odense, Denmark) placed at the proximal phalanx of the thumb.
+
+response after blockade with succinylcholine. This increase in response, possibly caused by a change in the contractile response of the muscle, normally disappears within 15 to 25 minutes.
+
+Although there are numerous methods for mechanical recording of evoked mechanical responses, not all meet the criteria outlined. MMG is recognized as the historic gold standard of neuromuscular monitoring.<sup>18</sup>
+
+Despite this status, there is no commercially available neuromuscular monitor for daily clinical use based on this principle. This type of monitor is relegated to research purposes only.
+
+### MECHANOMYOGRAPHY
+
+MMG measures the isometric contraction of a muscle after stimulation of the corresponding nerve. A transducer converts the force of an isometric contraction into an electrical signal. For correct and reproducible measurement, the muscle contraction needs to be isometric. In clinical anesthesia, this condition is most easily achieved by measuring the force of contraction of the thumb after the application of a resting tension of 200 to 300 g (a preload) to the thumb. When the ulnar nerve is stimulated, the thumb (the adductor pollicis muscle) acts on a force- displacement transducer (Fig. 39.10). The force of contraction is then converted into an electrical signal, which is amplified, displayed, and recorded. The arm and hand should be rigidly fixed, and care should be taken to prevent overloading of the transducer. In addition, the transducer should be placed in correct relation to the thumb (i.e., the thumb should always apply tension along the length of the transducer). The response to nerve stimulation depends on the frequency with which the individual stimuli are applied, and the time used to achieve a stable control response may influence subsequent determination of the onset time and duration of block.<sup>18</sup> Generally, the reaction to supramaximal stimulation increases during the first 8 to 12 minutes after commencement of the stimulation (staircase phenomenon). Therefore, in clinical studies, recording of the control response (before administration of NMBA) should not be made until the response has stabilized for 8 to 12 minutes or a 2- or 5- second 50Hz tetanic stimulation has been given.<sup>57</sup> Even then, twitch response often recovers to 110% to 150% of the control
+
+### ELECTROMYOGRAPHY
+
+EMG is the oldest technique used for quantification of neuromuscular blockade. Evoked EMG records the compound muscle action potentials produced by stimulation of a peripheral nerve. The compound action potential is an electrical activity that for many years could be detected only by means of a preamplifier and a storage oscilloscope. Modern neuromuscular transmission analyzers can make real- time electronic analyses and graphic presentations of the EMG response.
+
+The evoked EMG response is most often obtained from muscles innervated by the ulnar or the median nerves. Stimulating electrodes are applied as in force measurements. Most often, the evoked EMG response is obtained from the thenar or hypothenar eminence of the hand or from the first dorsal interosseous muscle of the hand, preferably with the active electrode over the motor point of the muscle (Figs. 39.11 and 39.12). The signal picked up by the analyzer is processed by an amplifier, a rectifier, and an electronic integrator. The results are displayed either as a TOF count/ratio.
+
+Two new sites for recording the EMG response have been introduced: the larynx and the diaphragm.<sup>58,59</sup> Using a noninvasive disposable laryngeal electrode attached to the tracheal tube and placed between the vocal cords, it is possible to monitor the onset of neuromuscular block in the laryngeal muscles. However, the method is mainly of interest in clinical research when investigating onset times of the laryngeal muscles. In paravertebral surface
+
+<!-- PDF page 10 -->
+
+![](assets/chapter-39/39._Neuromuscular_Monitoring.pdf-0010-01.png)
+
+
+**Fig. 39.11** The setup for electromyographic recordings of the compound action potentials from the adductor pollicis and first dorsal interosseous muscles with the TwitchView monitor (Blink Device Company, Seattle, USA).
+
+diaphragmatic EMG, the recording electrodes are placed on the right of vertebrae T12/L1 or L1/L2 for monitoring the response of the right diaphragmatic crux to transcutaneous stimulation of the right phrenic nerve at the neck.<sup>58–60</sup> As is the case with surface laryngeal EMG, surface diaphragmatic EMG is mainly of interest in clinical research.
+
+Evoked electrical and mechanical responses represent different physiologic events. Evoked EMG records changes in the electrical activity of one or more muscles, whereas evoked MMG records changes associated with excitation– contraction coupling and contraction of the muscle as well. Nonetheless small differences in evoked EMG responses compared with evoked mechanical responses are of little clinical significance and measurements generally correlate between modalities.<sup>41,61–63</sup>
+
+EMG has several advantages over recording of evoked mechanical responses. Equipment for measuring evoked EMG responses is easier to set up, the response reflects only factors influencing neuromuscular transmission, and the response can be obtained from muscles not accessible to mechanical recording. However, monitoring with evoked EMG has specific considerations in order to obtain high- quality measurements. Specifically, improper placement of electrodes can result in inadequate pickup of the compound EMG signal. Observation of the actual waveform of the compound action potential allows for detection of incorrectly placed electrodes. Unlike monitoring with mechanical response at the hand, EMG can provide objective measurements when the arms are tucked during surgical positioning as the thumb does not need to be able to freely contract. The use of a preload device can improve precision but is not a requirement during clinical use. Monitoring with EMG is also susceptible to temperature changes as the amplitude of evoked responses can slightly increase as patient temperature decreases.<sup>64</sup> Finally, the evoked EMG response is highly sensitive to electrical interference, such as that caused by diathermy and objective measurements may not be achievable when these devices are in use.
+
+
+![](assets/chapter-39/39._Neuromuscular_Monitoring.pdf-0010-06.png)
+
+
+**Fig. 39.12** The setup for electromyographic recordings of the compound action potentials from the adductor digiti minimi muscle with the TetraGraph monitor (Senzime AB, Uppsala, Sweden).
+
+
+![](assets/chapter-39/39._Neuromuscular_Monitoring.pdf-0010-08.png)
+
+
+**Fig. 39.13** The setup of the acceleromyographic- based IntelliVue NMT monitor without preload (Philips, Amsterdam, the Netherlands). The response to nerve stimulation is measured with a small piezoelectric acceleration transducer placed distally on the volar site of the thumb.
+
+Currently, there are several EMG- based monitors available for clinical use (see Figs. 39.11 and 39.12).
+
+### ACCELEROMYOGRAPHY
+
+AMG was developed specifically for clinical use and is widely practiced. The technique of AMG is based on Newton’s second law: force = mass × acceleration; it measures the isotonic acceleration of the stimulated muscle.<sup>65</sup> If mass is constant, acceleration is directly proportional to force. Accordingly, after nerve stimulation, one can measure not only the evoked force but also acceleration of the thumb.
+
+AMG uses a piezoelectric ceramic wafer with electrodes on both sides. Exposure of the electrode to a force generates an electrical voltage proportional to acceleration of the electrode. Consequently, when an accelerometer is fixed to the thumb and the ulnar nerve is stimulated, an electrical signal is produced whenever the thumb moves (Fig. 39.13). This signal can be analyzed in a specially designed analyzer<sup>66</sup> or displayed on a recording system.
+
+AMG is a simple method of analyzing neuromuscular function, both in the operating room and in the intensive care unit. Although good correlation exists between the
+
+<!-- PDF page 11 -->
+
+TOF ratio measured by this method and the TOF ratio measured with a force- displacement transducer or EMG,<sup>65,67,68</sup> measurements made via AMG are not directly comparable with results obtained by the other two methods.<sup>68–74</sup> When AMG is used with a free- moving thumb, as originally suggested,<sup>65</sup> wide limits of agreements in twitch height (T1) and TOF ratio and differences in the onset and recovery course of block between AMG and MMG have been found. Moreover, the AMG control TOF ratio is consistently higher than when measured with a force- displacement transducer. In accordance with this, several studies have indicated that when using AMG, the TOF ratio indicative of sufficient postoperative neuromuscular recovery is 1.0 rather than 0.90, as when measured by MMG or EMG in the adductor pollicis muscle.<sup>6,73,75–77</sup> In contrast to MMG and EMG, the control baseline TOF value before administration of an NMBA is most often 1.1 to 1.2 when measured with AMG, and in some patients is as high as 1.4. A high control baseline value probably indicates that the TOF ratio necessary for excluding residual neuromuscular blockade is equally higher. For instance, in a patient with a high control baseline value (e.g., TOF ratio = 1.2), it is to be expected that a higher TOF ratio during recovery is necessary to exclude residual blockade compared with a patient with a low control baseline value (e.g., TOF ratio = 0.95). It is generally accepted that the TOF ratio should be at least 0.90 to exclude clinically significant residual neuromuscular blockade; using the preceding example, a TOF ratio of 1.08 (90% of 1.2) would represent safe recovery in the first patient, whereas a TOF ratio of 0.86 (90% of 0.95) would suffice in the other patient. To overcome such problems, it has been suggested to consider the TOF ratios during recovery to the baseline control TOF ratio (normalization).<sup>72,77–81</sup> For routine clinical use in excluding residual block using AMG, a non- normalized TOF ratio of at least 1.0 should be targeted, or a normalized ratio of ≥0.9 prior to tracheal extubation.<sup>72,73,77,79</sup>
+
+One reason for the wide limits of agreement between AMG and MMG is probably and paradoxically connected with one of the originally claimed advantages of the method, that fixation of the hand could be reduced to a minimum as long as the thumb could move freely.<sup>65</sup> In clinical practice, it is often not possible to ensure that the thumb can move freely and that the position of the hand does not change during the surgical procedure. The evoked response can therefore vary considerably. Several solutions have been proposed, but the use of an elastic preload on the thumb improves the precision without compromising the agreement between results obtained with AMG and MMG (Fig. 39.14).<sup>71,72</sup> Several studies have indicated that objective monitoring with AMG significantly reduces the incidence of postoperative residual neuromuscular block.<sup>71,82–86</sup>
+
+When the thumb is not available for monitoring during surgery, some clinicians monitor the AMG response of the orbicularis oculi or the corrugator supercilii in response to facial nerve stimulation.<sup>29</sup> However, neuromuscular monitoring of both sites with AMG is subject to both large uncertainty regarding the extent of neuromuscular blockade and high risk of direct muscle stimulation. AMG monitoring at the face may provide a rough estimate of the degree of block of the peripheral muscles and this practice is not recommended.<sup>87,88</sup>
+
+
+![](assets/chapter-39/39._Neuromuscular_Monitoring.pdf-0011-05.png)
+
+
+**Fig. 39.14** The setup of the acceleromyographic- based ToFscan monitor (Draeger Technologies, Mississauga, ON, Canada) with the piezoelectric acceleration transducer incorporated into the preload hand adaptor.
+
+Next-generation AMG monitors utilize three- dimensional piezoelectric transducers that measure the motion of the thumb in all directions, and not just in one plane.<sup>89,90</sup> Other advances include the incorporation of a built- in preload device (see Fig. 39.14) as well as displaying the impedance and automatically calculating a modified normalized TOF ratio.
+
+AMG was one of the first widely distributed commercially available monitors and devices are available as portable monitors as well as integrated into the anesthesia workstation.
+
+### KINEMYOGRAPHY
+
+The technique of KMG is based on the principle that stretching or bending a flexible piezoelectric film (e.g., one attached to the thumb) in response to nerve stimulation generates a voltage that is proportional to the amount of stretching or bending.<sup>91,92</sup>
+
+Few studies have evaluated the function of these monitors.<sup>91–93</sup> Limited data indicate not only a good relationship between results obtained with KMG, AMG, and MMG, but also wide limits of agreement between the methods. Therefore, although KMG may be a valuable clinical tool, the values obtained in an individual patient with this method can vary from those obtained with MMG or AMG. Only one device based on this principle is available commercially in two sizes (adult and pediatric): the NMT MechanoSensor (Datex- Ohmeda, Helsinki, Finland).
+
+### CUFF PRESSURE MODALITY (CPM)
+
+The cuff modality detects changes in cuff pressure due to muscle contraction. Electrodes integrated into a blood pressure cuff stimulate the brachial plexus at the humeral level. The subsequent bulk contraction of the upper arm generates pressure change in the blood pressure cuff that is analyzed and displayed at the monitor. Objective measurements obtained at the upper arm are not interchangeable with values from the hand and the degree of recovery may be overestimated.<sup>94,95</sup> Nonetheless, CPM can provide the convenience of combining two essential
+
+<!-- PDF page 12 -->
+
+monitors (noninvasive blood pressure cuff and objective neuromuscular monitor) into one device. One monitor based on this technology is commercially available: the Vision- DUO NMT monitor (RGB Medical Devices, Madrid, Spain).
+
+### COMPRESSOMYOGRAPHY
+
+CMG measures pressure changes in a handheld balloon. Following ulnar nerve stimulation, the force of muscle contraction of the hand muscles is transmitted to a balloon secured in the patient’s hand. Despite encouraging results in the only publication investigating the device,<sup>54</sup> this technique has not been further developed and is not commercially available.
+
+### PHONOMYOGRAPHY
+
+PMG measures the intrinsic low- frequency sounds of muscle contraction with special microphones following nerve stimulation. PMG has been evaluated for clinical and research purposes by one study group. This group reports good correlation between evoked acoustic responses and those obtained with more traditional methods of recording, such as MMG, EMG, and AMG.<sup>31,96–101</sup> A potential advantage of PMG, however, is that the method can be applied not only to the adductor pollicis muscle, but also to other muscles of clinical interest such as the diaphragm, larynx, and eye muscles. In addition, the ease of application is attractive. However, PMG- based monitors are not currently commercially available.
+
+## Evaluation of Recorded Evoked Responses
+
+In daily clinical practice, the recorded response to TOF stimulation and PTC stimulation are typically used to explain how to evaluate the degree of neuromuscular blockade during clinical anesthesia.
+
+### NONDEPOLARIZING NEUROMUSCULAR BLOCKADE
+
+After administration of a nondepolarizing NMBA in a dose sufficient for smooth tracheal intubation, TOF recording demonstrates various levels of neuromuscular block: complete, deep, moderate, shallow, minimal, and adequate recovery (Fig. 39.15).
+
+### Complete Neuromuscular Block
+
+Complete neuromuscular block occurs within 3 to 6 minutes of administration of an intubating dose of a nondepolarizing NMBA, depending on the drug and the dose given. This phase is also called the “period of no response” because no response to any pattern of nerve stimulation occurs. The length of this period varies, again depending primarily on the duration of action of the NMBA and the dose given. The sensitivity of the patient to the drug also affects the period of no response. A complete block cannot be antagonized with a cholinesterase inhibitor (e.g., neostigmine), and only a high dose of sugammadex (16 mg/kg) can antagonize a complete block caused by rocuronium or vecuronium.<sup>102,103</sup>
+
+### Deep Neuromuscular Block
+
+Complete neuromuscular block is followed by a period of deep neuromuscular block, characterized by absence of response to TOF stimulation, but with the presence of at least one response to PTC stimulation (i.e., PTC ≥1; compare with Fig. 39.8). To avoid diaphragmatic movements and thus to assure surgical stillness and improve surgical space conditions during laparoscopic abdominal procedures, deep neuromuscular blockade corresponding to ≤3 PTC responses is recommended.<sup>54</sup> Although prediction of the duration of a deep neuromuscular block is difficult, correlation usually exists between PTC stimulation and the time until reappearance of the first response to TOF stimulation (see Fig. 39.9). Attempts to reverse a deep neuromuscular block with neostigmine are essentially impossible. However, a deep neuromuscular block caused by rocuronium
+
+
+![](assets/chapter-39/39._Neuromuscular_Monitoring.pdf-0012-14.png)
+
+
+Injection of PTC stimulation<br>NMBA during deep block<br>Level of block Onset Intense block Deep block Moderate block Recovery phase<br>Response to TOF TOF count  � 1 TOF count 0 TOF count 0 TOF count 1–3 TOF ratio measurable<br>Response to PTC PTC 0 PTC  � 1<br>
+
+**Fig. 39.15** Levels of block after a normal intubating dose of a nondepolarizing neuromuscular blocking agent (NMBA) as classified by posttetanic count (PTC) and train- of- four (TOF) stimulation. During complete (intense/profound) block, there are no responses to either TOF or PTC stimulation. During deep block, there is response to PTC but not to TOF stimulation. Complete block and deep block together constitute the “period of no response to TOF stimulation.” Reappearance of the response to TOF stimulation heralds the start of moderate block. Finally, when all four responses to TOF stimulation are present and a TOF ratio can be measured, the recovery period has started. (From Fuchs- Buder T, Claudius C, Skovgaard LT, et al. Good clinical research practice in pharmacodynamic studies of neuromuscular blocking agents II: The Stockholm revision. _Acta Anaesthesiol Scand_ . 2007;51[7]:789–808.)
+
+
+
+::: warning 符號需核對
+此頁有符號無法完整擷取，請展開下方原始頁面核對。
+:::
+
+
+::: details 原始表格與符號（PDF 第 12 頁）
+
+![第 39 章，原始 PDF 第 12 頁](assets/chapter-39/source-page-0012.png)
+
+:::
+
+<!-- PDF page 13 -->
+
+or vecuronium can be antagonized completely within a few minutes using a dose of sugammadex of 4 mg/kg.<sup>104–106</sup>
+
+### Moderate Neuromuscular Block
+
+Moderate neuromuscular block begins when the first response to TOF stimulation appears. This phase is characterized by a gradual return of the four responses to TOF stimulation. Furthermore, good correlation exists between the degree of neuromuscular block and the number of responses to TOF stimulation. When only one response is detectable, the degree of neuromuscular block (the depression in twitch tension) is 90% to 95%. When the fourth response reappears, neuromuscular block is usually 60% to 85%.<sup>107,108</sup> The presence of one or two responses in the TOF pattern normally indicates sufficient blockade for most surgical procedures. During light anesthesia, however, patients may move, buck, or cough; therefore, a deeper block (or a deeper level of anesthesia) may be necessary when elimination of sudden movements or facilitation of surgery is necessary.
+
+Antagonism of neuromuscular block with neostigmine should usually not be attempted when the block is intense or deep. Even if some reversal occurs, it will often be inadequate, regardless of the dose of neostigmine administered.<sup>109</sup> Furthermore, after the administration of large doses of NMBAs, reversal of the block with neostigmine to clinically normal activity is not always possible if only one TOF response is present. In general, antagonism with neostigmine should not be initiated before all four responses after TOF stimulation are observed. Even then, sufficient recovery may take time and cannot be guaranteed unless documented using objective monitoring.<sup>110–112</sup>
+
+Antagonism of moderate block induced by rocuronium and vecuronium can be achieved with a small dose of sugammadex (2 mg/kg) within a few minutes.<sup>113–115</sup> However, the recurrence of neuromuscular blockade has been reported by anesthesiologists from Japan<sup>116</sup> when the 2 mg/ kg dose has been used. However, they did not monitor the degree of neuromuscular blockade and it remains unclear whether such recurrence was from inadequate monitoring or too small a dose of sugammadex. Although the antagonism of neuromuscular block from sugammadex seems to be fast and predictable, neuromuscular monitoring is mandatory for proper dosing, and objective monitoring should still be used until the TOF ratio is ≥0.9.
+
+### Shallow Levels of Neuromuscular Block and Recovery
+
+Return of the fourth response in the TOF heralds the recovery phase. Shallow neuromuscular block is evident when four responses are apparent following TOF stimulation; however, fade can be subjectively observed. Similarly, minimal neuromuscular block is present when the TOF count = 4 and fade is not detectable with a peripheral nerve stimulator. Even the most experienced anesthesiologists cannot consistently distinguish between the presence of fade and adequate recovery.<sup>77</sup>
+
+At these shallow levels of blockade, a reasonably good correlation exists between the actual TOF ratio and clinical observation, but the relationship between the TOF ratio and signs and symptoms of residual block varies greatly
+
+among patients.<sup>86,109</sup> When the TOF ratio is 0.4 or less, the patient is generally unable to lift the head or arm. Tidal volume may be normal, but vital capacity and inspiratory force is reduced. When the ratio is 0.6, most patients can lift their head for 3 seconds, open their eyes widely, and stick out their tongue, but vital capacity and inspiratory force are often still reduced. At a TOF ratio of 0.7 to 0.75, the patient can normally cough sufficiently and lift the head for at least 5 seconds, but grip strength may still be as low as about 60% of control.<sup>117</sup> When the ratio is 0.8 and higher, vital capacity and inspiratory force are normal.<sup>36,118–120</sup> The patient may, however, still have diplopia, blurred vision, and facial weakness (Table 39.1).<sup>85,117</sup>
+
+However, the TOF ratio must exceed 0.90 when recorded with MMG or EMG, and 1.0 when using AMG to exclude clinically important residual neuromuscular block.<sup>1,3,41,72,73,75,121–125</sup> Moderate degrees of neuromuscular block can impair carotid body chemosensitivity to hypoxia with absent ventilatory response to arterial desaturation.<sup>3,121,123,125</sup> Moreover, residual block (TOF &lt;0.90) is associated with functional impairment of the pharyngeal and upper esophageal muscles, which most probably predisposes to regurgitation and aspiration of gastric contents.<sup>1</sup> Eikermann and colleagues<sup>4</sup> have documented that partial neuromuscular block, even to a degree that does not evoke dyspnea or oxygen desaturation, can decrease inspiratory upper airway volume and can evoke partial inspiratory airway collapse.<sup>4</sup> Also, residual block (TOF &lt;0.70) caused by the long- acting NMBA pancuronium is a significant risk factor for the development of postoperative pulmonary complications (Table 39.2 and Fig. 39.16).<sup>122</sup> Intraoperative neuromuscular monitoring, followed by appropriate pharmacologic antagonsim, reduces the risk of residual neuromuscular block and results in fewer patients with hypoxemic events or airway obstruction in the postanesthesia care unit.<sup>85</sup> Even in volunteers without sedation or impaired consciousness, a TOF ratio of 0.90 or less can impair the ability to maintain the
+
+**Table 39.1** Clinical Signs and Symptoms of Residual Paralysis in Awake Volunteers after Mivacurium- Induced Neuromuscular Block
+
+|**Train- of- Four Ratio**|**Signs and Symptoms**|
+|---|---|
+|0.70–0.75|Diplopia and visual disturbances|
+||Decreased hand- grip strength|
+||Inability to maintain apposition of the incisor<br>teeth|
+||“Tongue depressor test” negative|
+||Inability to sit up without assistance|
+||Severe facial weakness|
+||Speaking a major effort|
+||Overall weakness and tiredness|
+|0.85–0.90|Diplopia and visual disturbances|
+||Generalized fatigue|
+
+
+From Kopman AF, Yee PS, Neuman GG. Relationship of the train- of- four fade ratio to clinical signs and symptoms of residual paralysis in awake volunteers. _Anesthesiology_ . 1997;86(4):765–761.
+
+
+
+::: details 原始表格與符號（PDF 第 13 頁）
+
+![第 39 章，原始 PDF 第 13 頁](assets/chapter-39/source-page-0013.png)
+
+:::
+
+<!-- PDF page 14 -->
+
+**Table 39.2** Relationship Between Train- of- Four Ratio at the First Postoperative Recording and Postoperative Pulmonary Complications
+
+|||**PANCURONIUM (****_n_ = 226)**|**ATRACU**|**RIUM O**|**R VECURONIUM (****_n_ = 450)**|
+|---|---|---|---|---|---|
+|||**PATIENTS WITH POPC**|||**PATIENTS WITH POPC**|
+||**No. of patients**|**_n_**<br>**%**|**No. of Patients**|**_n_**|**%**|
+|TOF≥0.70|167|8<br>4.8|426|23|5.4|
+|TOF &lt;0.70|59|10<br>16.9*|24|1|4.2|
+
+
+Results from a prospective, randomized, and blinded study of postoperative pulmonary complication (POPC) in a total of 691 adult patients undergoing abdominal, gynecologic, or orthopedic surgery and receiving either pancuronium, atracurium, or vecuronium.<sup>122</sup> In 4 of the 46 patients with POPC (1 in the pancuronium group and 3 in the atracurium and vecuronium groups), the train- of- four (TOF) ratio was not available. Because there were no significant differences in the two groups of patients given the intermediate- acting NMBAs, the data from these groups are pooled. *P &lt;.02 versus patients in the same group with a TOF ratio of 0.70 or greater.
+
+
+![](assets/chapter-39/39._Neuromuscular_Monitoring.pdf-0014-04.png)
+
+
+Orthopedic surgery<br>60<br>40<br>20<br>0<br>0 20 30 40 50 60 70 80<br>Gynecologic surgery<br>60<br>40<br>20<br>0<br>0 20 30 40 50 60 70 80<br>Abdominal surgery<br>60<br>40<br>20<br>0<br>0 20 30 40 50 60 70 80<br>Age<br>Risk for POPC (%)<br>Risk for POPC (%)<br>Risk for POPC (%)<br>
+
+**Fig. 39.16** Predicted probabilities of a postoperative pulmonary complication (POPC) in different age groups in orthopedic, gynecologic, and major abdominal surgery with duration of anesthesia of less than 200 minutes. The _red lines_ represent patients with residual neuromuscular block (train- of- four [TOF] &lt;0.70) after the administration of pancuronium; the _blue lines_ represent patients with a TOF of 0.70 or greater after the administration of pancuronium, as well as all patients after the administration of atracurium and vecuronium, independent of the TOF ratio at the end of anesthesia.<sup>122</sup>
+
+airway.<sup>82,117,126</sup> Even small degrees of residual block are unpleasant for patients, causing symptoms such as general weakness and blurred vision.<sup>86</sup> In summary, adequate recovery of neuromuscular function requires the return of an MMG or EMG TOF ratio to at least 0.90, and an AMG TOF ratio to at least 1.0 (or normalized to 0.90),<sup>79</sup> which cannot be guaranteed without objective neuromuscular monitoring.<sup>83,84,86,127–130</sup>
+
+### DEPOLARIZING NEUROMUSCULAR BLOCK (PHASE I AND II BLOCKS)
+
+Fade and posttetanic facilitation are the basis for evaluation of all stimulation patterns applied in clinical practice (i.e., TOF, DBS, and PTC stimulation). It is important to realize that during depolarizing neuromuscular phase I block, neither fade nor posttetanic facilitation occurred. Thus, the usually applied stimulation patterns do not allow assessment of depolarizing neuromuscular block. After TOF stimulation, all four responses are reduced at the same degree, no fade occurred, and all four disappear simultaneously. Thus, independent of the degree of depolarizing neuromuscular block, the TOF ratio remains 1 and the TOF count is either 4 or 0.
+
+Patients with normal plasma cholinesterase activity who are given a moderate dose of succinylcholine (0.5–1.5 mg/ kg) undergo a typical depolarizing neuromuscular block (phase I block); i.e., the response to TOF or tetanic stimulation does not fade, and no posttetanic facilitation of transmission occurs. All four responses are reduced at the same degree (TOF ratio is 1.0 or 0). In contrast, some patients with genetically determined abnormal plasma cholinesterase activity who are given the same dose of succinylcholine undergo a nondepolarizing- like block characterized by fade in the response to TOF and tetanic stimulation and the occurrence of posttetanic facilitation of transmission (Fig. 39.17). This type of block is called a _phase II block_ (dual, mixed, or desensitizing block). In addition, phase II blocks sometimes occur in genetically normal patients after repetitive bolus doses or a prolonged infusion of succinylcholine. Therefore, in a clinical setting, TOF stimulation can be used to distinguish depolarizing phase I block and phase II block. Patients with normal plasma cholinesterase activity would recover from the neuromuscular block within a few minutes, showing four equally weak responses (TOF ratio 1.0), which quickly become stronger (still at TOF ratio 1.0). In contrast, patients with abnormal plasma cholinesterase
+
+
+
+::: details 原始表格與符號（PDF 第 14 頁）
+
+![第 39 章，原始 PDF 第 14 頁](assets/chapter-39/source-page-0014.png)
+
+:::
+
+<!-- PDF page 15 -->
+
+![](assets/chapter-39/39._Neuromuscular_Monitoring.pdf-0015-02.png)
+
+
+10 seconds<br>50 min 60 min<br>120 min 160 min<br>
+
+**Fig. 39.17** Typical recording of the mechanical response to train- offour ulnar nerve stimulation after injection of 1 mg/kg of succinylcholine _(arrow)_ in a patient with genetically determined abnormal plasma cholinesterase activity. The prolonged duration of action and the pronounced fade in the response indicate a phase II block.
+
+activity and subsequent phase II block would not recover quickly and will return with a TOF count of 1, slowly increasing to 2, 3, and last 4 counts, then having a fade of TOF (TOF ratio &lt;1.0) during recovery as seen with nondepolarizing block.
+
+From a therapeutic point of view, a phase II block in normal patients must be differentiated from a phase II block in patients with abnormal cholinesterase activity. In healthy patients, a phase II block can be antagonized by administering a cholinesterase inhibitor a few minutes after discontinuation of succinylcholine. In patients with abnormal genotypes, however, the effect of a cholinesterase inhibitor (e.g., neostigmine) is unpredictable because it inhibits acetylcholinesterase and plasma cholinesterase. For example, neostigmine can potentiate the block dramatically, temporarily improve neuromuscular transmission, and then potentiate the block or partially reverse the block, all depending on the time elapsed since administration of succinylcholine and the dose of neostigmine given. Therefore, unless the cholinesterase genotype is known to be normal, antagonism of a phase II block with a cholinesterase inhibitor should be undertaken with extreme caution. Even if neuromuscular function improves promptly, patient surveillance should continue for at least 1 hour.
+
+## Use of Nerve Stimulators in Daily Clinical Practice
+
+Whenever an NMBA is administered to a patient, objective monitoring of the evoked response using recording equipment is the best way to evaluate the neuromuscular block. Indeed, a recent meta- analysis and systematic review revealed significantly lower incidence of residual paralysis and postoperative pulmonary complications associated with the use of a quantitative neuromuscular monitoring than with qualitative neuromuscular monitoring.<sup>48</sup> Accordingly, several anesthesia societies recommend quantitative monitoring when NMBAs are used.<sup>131,132</sup> An international panel of experts has recommended “if a
+
+quantitative monitor is not available, the interim option is a qualitative evaluation employing a peripheral nerve stimulator.” This panel further stresses evidence- based anesthesia and implores clinicians to transition from a peripheral nerve stimulator to an objective neuromuscular monitor.<sup>133</sup> The following is a description of how to use nerve stimulators with or without recording equipment (objective monitoring).
+
+### PREPARATIONS BEFORE INDUCTION OF ANESTHESIA AND ADMINISTRATION OF THE NEUROMUSCULAR BLOCKING AGENT
+
+First, for reliable stimulation, careful cleansing of the skin and proper placement and fixation of electrodes are essential. When the ulnar nerve is used for nerve stimulation, one should take advantage of the fact that the nerve follows the artery by placing the electrodes above the pulse. This placement gives the best response (see Fig. 39.1). Second, every effort should be taken to prevent central cooling, as well as cooling of the extremity being evaluated. Both central and local surface cooling of the adductor pollicis muscle can reduce twitch tension and the TOF ratio.<sup>134–136</sup> Peripheral cooling can affect nerve conduction, decrease the rate of release of acetylcholine and muscle contractility, increase skin impedance, and reduce blood flow to the muscles, thus decreasing the rate of removal of NMBA from the neuromuscular junction. These factors might account for the occasional and pronounced difference in muscle response between a cold extremity and the contralateral warm extremity.<sup>137</sup>
+
+### USE OF A NERVE STIMULATOR DURING INDUCTION OF ANESTHESIA
+
+The nerve stimulator should be attached to the patient before induction of anesthesia but should not be turned on until after the patient is unconscious.
+
+Single- twitch stimulation at 1 Hz can be used initially when seeking supramaximal stimulation. However, after supramaximal stimulation has been ensured and before the NMBA is administered, the recording equipment (when using objective monitoring) should be calibrated to ensure that the response is in the measurement window and the response to 1-Hz stimulation is set to 100%. Currently, all commercially available devices have an automatic calibration modus. Without calibration, the recorded response to nerve stimulation might differ significantly from the visual or tactile response throughout all levels of neuromuscular blockade; therefore, the mode of stimulation should be changed to TOF (or 0.1- Hz twitch stimulation). When the response to this stimulation is observed (the control response), the NMBA is administered. However, devices with integrated impedance measurement do not need calibration, but at least one TOF stimulation without NMBA should be registered, allowing to normalize the recovery TOF ratio. Although the trachea is often intubated when the response to TOF stimulation disappears, postponement of this procedure for 30 to 90 seconds, depending on the NMBA used, usually produces better conditions.
+
+When possible, the response to nerve stimulation should be evaluated at the thumb (rather than at the
+
+<!-- PDF page 16 -->
+
+|||During induction|||D|uring surgery||In the|
+|---|---|---|---|---|---|---|---|---|
+||Thiopental/<br>propofol|Supramaximal<br>stimulation|Tracheal<br>intubation|Intense<br>blockade|Deep<br>blockade|Moderate<br>blockade|Reversal|recovery<br>room|
+|Single<br>twitch||1.0 Hz|0.1 Hz||||||
+|TOF|||||||?||
+|PTC|||||||||
+|DBS|||||||||
+|**Fig. 39.1**<br>appropri<br>stimulati<br>myograp|**8**Diagram sho<br>ate use and_ligh_<br>on (DBS); and th<br>hy, or accelero|wing when the diff<br>_t areas_less effective<br>e question mark (?),<br>myography. (See tex|erent modes of<br>use. Modes of ne<br>indicating that T<br>t for further expla|electrical nerve sti<br>rve stimulation ar<br>OF is less useful in<br>nation.)|mulation can be<br>e train- of- four (TO<br>the recovery room|used during clini<br>F) stimulation; po<br>unless measured|cal anesthesia._Da_<br>sttetanic count (P<br>with mechanomy|_rk areas_indicate<br>TC); double- burst<br>ography, electro-|
+
+
+fifth finger). Direct stimulation of the muscle often causes subtle movement of the fifth finger when no response is present at the thumb. Finally, the different sensitivities of various muscle groups to NMBA should always be kept in mind.
+
+awareness with voluntary or involuntary movements. Another disadvantage is that deep block cannot readily be reversed by neostigmine and only sugammadex can reverse a deep neuromuscular block (if caused by rocuronium or vecuronium).
+
+### USE OF A NERVE STIMULATOR DURING SURGERY
+
+If tracheal intubation is facilitated by the administration of succinylcholine, no more NMBA should be given until the response to nerve stimulation reappears or the patient shows other signs of returning neuromuscular function. If plasma cholinesterase activity is normal, the muscle response to TOF nerve stimulation reappears within 4 to 8 minutes.
+
+When a nondepolarizing NBMA is used for tracheal intubation, a period of complete block usually follows. During this period no response to either PTC or TOF can be evaluated. Thereafter a longer- lasting period of deep block, characterized by no response to TOF but at least one response to PTC, can be observed. The number of responses following PTC stimulation allow us to evaluate the remaining time until the return of a TOF response (see Fig. 39.9 and Fig. 39.18).
+
+For most surgical procedures requiring muscle relaxation, it is not necessary to have a deep or complete block, provided that the patient is adequately anesthetized. If a nondepolarizing NMBA is used, a moderate level of neuromuscular block with one or two responses to TOF stimulation is sufficient. However, because the respiratory muscles (including the diaphragm) are more resistant to NMBAs than the peripheral muscles are, the patient may breathe, hiccup, or even cough at this moderate level of block. Moreover, tonus of the diaphragm might impede the surgical conditions, especially during abdominal laparoscopic surgery. To ensure paralysis of the diaphragm, neuromuscular block of the peripheral muscles must be deep so that the PTC is 1–3 at the thumb.
+
+The disadvantages of sustaining a deep or intense neuromuscular block are that at these levels of block, the muscles are completely paralyzed, and the patient cannot signal
+
+### USE OF A NERVE STIMULATOR DURING ANTAGONISM OF NEUROMUSCULAR BLOCK
+
+Antagonism of nondepolarizing neuromuscular block is most often facilitated with either a cholinesterase inhibitor, such as neostigmine, or with the selective relaxant binding agent sugammadex when the neuromuscular block is achieved using rocuronium or vecuronium.
+
+Antagonism with neostigmine should not be initiated before at least all four responses to TOF stimulation are present. Reversal of neuromuscular block will not be hastened and can possibly be delayed by giving neostigmine when no response to peripheral nerve stimulation is present. Moreover, even when there are four responses to TOF stimulation, the reversal is slow and insufficient in some patients.<sup>132</sup> With an appropriate dose of neostigmine (e.g., 40–50 mcg/kg), the median time to achieve a TOF ratio of 0.90 is 15 to 20 minutes, and it will take approximately 90 to 120 minutes to achieve a TOF ratio of 0.90 in 95% of the patients after an intermediate- acting NMBA (e.g., rocuronium).<sup>138</sup> Conversely, a large dose of neostigmine after full recovery might give a paradoxical block with decreasing TOF ratio.<sup>139–143</sup>
+
+When rocuronium or vecuronium is used, the selective relaxant binding drug sugammadex can be used for reversal.<sup>113,114</sup> Sugammadex encapsulates rocuronium and vecuronium with a high affinity, thereby antagonizing the neuromuscular blocking effect. Three different doses of sugammadex are recommended according to the level of block. A large dose (16 mg/kg) is given during complete block (no response to PTC stimulation),<sup>102,103</sup> a medium dose (4 mg/kg) during deep block (at least one response to PTC),<sup>104–106</sup> and a low dose (2 mg/kg) during moderate block (two or more responses to TOF stimulation).<sup>113–115</sup> In most patients, all levels of neuromuscular block are
+
+
+
+::: details 原始表格與符號（PDF 第 16 頁）
+
+![第 39 章，原始 PDF 第 16 頁](assets/chapter-39/source-page-0016.png)
+
+:::
+
+<!-- PDF page 17 -->
+
+![](assets/chapter-39/39._Neuromuscular_Monitoring.pdf-0017-01.png)
+
+
+100<br>80 TOF DBS TET 100<br>60<br>40<br>TET 50<br>20<br>0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1.0<br>TOF ratio<br>Fade detectable manually (%)<br>
+
+**Fig. 39.19** Fade detectable by tactile evaluation of the response to train- of- four (TOF), double- burst stimulation (DBS3,3), and 50- and 100- Hz tetanic stimulation (TET 50 and TET 100) in relation to the true TOF ratio, as measured mechanically. The y-axis indicates the percentage of instances in which fade can be detected at a given TOF ratio.<sup>40,42,77</sup> It appears that it is not possible to exclude residual neuromuscular block by any of the methods. (See text for further explanation.)
+
+reversed within 2 to 5 minutes. However, appropriate dosing requires neuromuscular monitoring and residual neuromuscular block can be excluded only with objective monitoring (TOF ratio, 0.9–1.0), even after routine use of sugammadex.<sup>116,144</sup>
+
+During recovery of neuromuscular function, when all four responses to TOF stimulation can be felt, an estimation of the TOF ratio can be attempted. However, manual (tactile) evaluation of the response to TOF stimulation (Fig. 39.19) is not sensitive enough to exclude the possibility of residual neuromuscular block.<sup>40,77,127,145</sup> Greater sensitivity is achieved with DBS3,3, but even absence of manual fade in the DBS3,3 response does not exclude clinically significant residual block (i.e., TOF 0.6–0.9).<sup>44,77</sup>
+
+## When to Use a Peripheral Nerve Stimulator
+
+In clinical practice, significant residual block can be excluded with certainty only if an objective method of neuromuscular monitoring is used.<sup>83,84</sup> Therefore, good evidence- based practice dictates that clinicians should always quantitate the extent of neuromuscular recovery by objective monitoring.<sup>7–13</sup> Only a TOF ratio of 0.90 to 1.00 measured by objective monitoring ensures a low risk of clinically significant residual blockade. Several national or international anesthesia societies recommend in their practice guideline quantitative neuromuscular monitoring to avoid residual paralysis and relaxant associated postoperative complications.
+
+However, in many departments, clinicians still do not have access to equipment for measuring the degree
+
+of block.<sup>146</sup> How then to evaluate and, as far as possible, exclude a clinically significant postoperative block? First, long- acting neuromuscular blocking drugs should not be used. Second, the tactile response to TOF nerve stimulation should be evaluated regularly during surgery. Third, if possible, total twitch suppression should be avoided. The neuromuscular block should be managed so that there are always one or two tactile TOF responses. Fourth, the block should be antagonized at the end of the procedure, preferably with sugammadex if rocuronium or vecuronium have been used. When using neostigmine, reversal should not be initiated before the spontaneous return of at least all four responses to TOF stimulation (and ideally the fourth response should not be very weak). Fifth, during recovery, tactile evaluation of the response to DBS is preferable to tactile evaluation of the response to TOF stimulation because it is easier to manually assess fade in the DBS than in the TOF response. Sixth, the clinician should recognize that the absence of tactile fade in both the TOF and DBS responses does not exclude significant residual block. For detailed information on reversal strategies in combination with neuromusuclar monitoring, see Chapter 24.
+
+In view of the uncertainty connected with the use of clinical tests of postoperative neuromuscular recovery and tactile evaluation of the response to nerve stimulation, all patients receiving neuromuscular blocking drugs should be monitored with an objective monitor. While patient safety and implementation of evidencebased care may compel anesthesia providers to utilize such devices, international anesthesia societies are beginning to incorporate quantitative monitors into guidelines whenever NMBAs are administered.<sup>147–149</sup> Whether the functioning of such a neuromuscular transmission analyzer is based on EMG or AMG is not crucial as long as the apparatus is used appropriately. Finally, recent advances in monitoring technology can be integrated into modern anesthesia practices and improve patient outcomes.<sup>150,151</sup>
+
+### Acknowledgment
+
+The authors, editors, and publisher would like to thank Drs. Casper Claudius and Jorgen Viby- Mogensen for their contributions to this chapter in the earlier edition of this work. It has served as the foundation of the current chapter.
+
+**Complete references available online at expertconsult.com.**
+
+### References
+
+1.  Eriksson LI, et al. _Anesthesiology_ . 1997;87(5):1035.
+
+2.  Moerer O, et al. _Eur J Anaesthesiol_ . 2002;19(12):883.
+
+3.  Eriksson LI, et al. _Anesthesiology_ . 1993;78(4):693.
+
+4.  Eikermann M, et al. _Am J Respir Crit Care Med_ . 2007;175(1):9.
+
+5.  Viby- Mogensen J, et al. _Anesthesiology_ . 1979;50:539.
+
+6.  Debaene B, et al. _Anesthesiology_ . 2003;98:1042.
+
+7.  Viby- Mogensen J. _Br J Anaesth_ . 2000;84:301.
+
+<!-- PDF page 18 -->
+
+8.  Eriksson LI. _Anesthesiology_ . 2003;98(5):1037. 9.  Viby- Mogensen J, et al. _Anesth Analg_ . 2010;111(1):1.
+
+10.  Miller RD, et al. _Anesth Analg_ . 2010;111(1):3.
+
+11.  Donati F. _Anesth Analg_ . 2010;111(1):6.
+
+12.  Kopman AF. _Anesth Analg_ . 2010;111(1):9.
+
+13.  Futter M, et al. _Anesth Analg_ . 2010;111(1):11.
+
+14.  Nemes R, et al. _Anesth Analg_ . 2020;130(4):941.
+
+15.  Brull SJ, et al. _Anesthesiology_ . 1990;72(4):629.
+
+16.  Brull SJ, et al. _Can J Anaesth_ . 1991;38(2):164.
+
+17.  Iwasaki H, et al. _Anaesthesia_ . 1994;49(9):814.
+
+18.  Fuchs- Buder T, et al. _Acta Anaesthesiol Scand_ . 2007;51(7):789.
+
+19.  Brull SJ, et al. _Anesthesiology_ . 1995;83(4):702.
+
+20.  Smith CE, et al. _Anesth Analg_ . 1988;67(7):625.
+
+21.  Donati F, et al. _Anesthesiology_ . 1986;65(1):1.
+
+22.  Pansard JL, et al. _Anesthesiology_ . 1987;67(3):326.
+
+23.  Donati F, et al. _Anesthesiology_ . 1990;73(5):870.
+
+24.  Rimaniol JM, et al. _Anesth Analg_ . 1996;83(4):808.
+
+25.  Plaud B, et al. _Anesthesiology_ . 2001;95(1):96. 26.  Pavlin EG, et al. _Anesthesiology_ . 1989;70(3):381. 27.  Isono S, et al. _Anesthesiology_ . 1991;75(6):980.
+
+28.  Dhonneur G, et al. _Br J Anaesth_ . 2007;99(3):376. 29.  Kirov K, et al. _Br J Anaesth_ . 2007;98(5):611.
+
+30.  Kern SE, et al. _J Clin Anesth_ . 1997;9(5):383.
+
+31.  Michaud G, et al. _Anesth Analg_ . 2005;100(3):718.
+
+32.  Claudius C, et al. _Br J Anaesth_ . 2010;105(3):310.
+
+33.  Christie T, et al. _Lancet_ . 1958;21:776.
+
+34.  Curran MJ, et al. _Br J Anaesth_ . 1987;59(8):989.
+
+35.  Ali HH, et al. _Br J Anaesth_ . 1970;42(11):967.
+
+36.  Ali HH, et al. _Br J Anaesth_ . 1971;43(5):478.
+
+37.  Schmartz D, et al. _J Clin Monit Comput_ . 2021;35(5):1133.
+
+38.  Schmartz D, et al. _Anaesth Crit Care Pain Med_ . 2022;41(4):101088.
+
+39.  Engbaek J, et al. _Br J Anaesth_ . 1989;62(3):274.
+
+40.  Viby- Mogensen J, et al. _Anesthesiology_ . 1985;63(4):440.
+
+41.  Engbaek J, et al. _Anesthesiology_ . 1989;71(3):391.
+
+42.  Drenck NE, et al. _Anesthesiology_ . 1989;70(4):578.
+
+43.  Saddler JM, et al. _Anesthesiology_ . 1990;73(3):401.
+
+44.  Fruergaard K, et al. _Acta Anaesthesiol Scand_ . 1998;42(10):1168.
+
+45.  Tassonyi E. _Anaesthesist_ . 1975;24:374.
+
+46.  Paton WD, et al. _J Physiol_ . 1967;191(1):59.
+
+47.  Jonsson M, et al. _Anesthesiology_ . 2006;105(3):521.
+
+48.  Carvalho H, et al. _Br J Anaesth_ . 2020;125(4):466.
+
+49.  Viby- Mogensen J, et al. _Anesthesiology_ . 1981;55(4):458.
+
+50.  Brull SJ, et al. _Anesthesiology_ . 1992;77:642.
+
+51.  Bonsu AK, et al. _Br J Anaesth_ . 1987;59(9):1089.
+
+52.  Muchhal KK, et al. _Anesthesiology_ . 1987;66(6):846.
+
+53.  Fernando PU, et al. _Acta Anaesthesiol Scand_ . 1987;31(7):593.
+
+54.  Schultz P, et al. _Acta Anaesthesiol Scand_ . 2001;45(5):612.
+
+55.  Eleveld DJ, et al. _Anesth Analg_ . 2005;101(3):758.
+
+56.  Gilhuly TJ, et al. _Anesth Analg_ . 2008;107(5):1609.
+
+57.  Lee GC, et al. _Anesthesiology_ . 1997;86(1):48.
+
+58.  Hemmerling TM, et al. _Anesth Analg_ . 2000;90(2):494.
+
+59.  Hemmerling TM, et al. _Anesth Analg_ . 2001;92(1):106.
+
+60.  Hemmerling TM, et al. _Can J Anaesth_ . 2001;48(4):356.
+
+61.  Engbaek J, et al. _Acta Anaesthesiol Scand_ . 1993;37(8):788.
+
+62.  Nemes R, et al. _Anesthesiology_ . 2021;135(4):597.
+
+63.  Kopman AF, et al. _Anesthesiology_ . 2002;96(3):583.
+
+64.  Engbaek J. _Danish Med Bull_ . 1996;43:301.
+
+65.  Viby- Mogensen J, et al. _Acta Anaesthesiol Scand_ . 1988;32(1):45.
+
+66.  Jensen E, et al. _Acta Anaesthesiol Scand_ . 1988;32(1):49.
+
+67.  Werner MU, et al. _Acta Anaesthesiol Scand_ . 1988;32(5):395.
+
+68.  May O, et al. _Acta Anaesthesiol Scand_ . 1988;32(3):239.
+
+69.  McCluskey A, et al. _Anaesthesia_ . 1997;52(4):345.
+
+70.  Kirkegaard- Nielsen H, et al. _J Clin Monit Comput_ . 1998;14(1):19.
+
+71.  Eikermann M, et al. _Acta Anaesthesiol Scand_ . 2004;48(3):365.
+
+72.  Claudius C, et al. _Anesthesiology_ . 2008;108(6):1117.
+
+73.  Claudius C, et al. _Anesthesiology_ . 2009;110(6):1261.
+
+74.  Claudius C, et al. _Acta Anaesthesiol Scand_ . 2009;53(4):449.
+
+75.  Eikermann M, et al. _Anesthesiology_ . 2003;98(6):1333.
+
+76.  Capron F, et al. _Anesthesiology_ . 2004;100(5):1119.
+
+77.  Capron F, et al. _Anesth Analg_ . 2006;102(5):1578.
+
+78.  Kopman AF. _Acta Anaesthesiol Scand_ . 2005;49(10):1575.
+
+79.  Suzuki T, et al. _Br J Anaesth_ . 2006;96(1):44.
+
+80.  Heier T, et al. _Anesthesiology_ . 2010;113(4):825.
+
+81.  Heier T, et al. _Br J Anaesth_ . 2012;108(3):444.
+
+82.  Eikermann M, et al. _Anesth Analg_ . 2006;102(3):937.
+
+83.  Gätke MR, et al. _Acta Anaesthesiol Scand_ . 2002;46(2):207.
+
+84.  Mortensen CR, et al. _Acta Anaesthesiol Scand_ . 1995;39(6):797.
+
+85.  Murphy GS, et al. _Anesthesiology_ . 2008;109(3):389.
+
+86.  Murphy GS, et al. _Anesthesiology_ . 2011;115(5):946.
+
+87.  Gätke MR, et al. _Acta Anaesthesiol Scand_ . 2002;46(9):1124.
+
+88.  Larsen PB, et al. _Acta Anaesthesiol Scand_ . 2002;46(9):1131.
+
+89.  Colegrave N, et al. _Anaesth Crit Care Pain Med_ . 2016;35(3):223.
+
+90.  Murphy GS, et al. _Anesthesiology_ . 2018;29(5):880.
+
+91.  Kern SE, et al. _Anesth Analg_ . 1994;78(5):978.
+
+92.  Pelgrims K, et al. _Acta Anaesthesiol Belg_ . 2001;52(3):297.
+
+93.  Dahaba AA, et al. _Anesth Analg_ . 2002;94(3):591.
+
+94.  Honing GHM, et al. _J Clin Anesth_ . 2022;78:110673.
+
+95.  Markle A, et al. _Anaesthesiol Intensive Ther_ . 2020;52(3):181.
+
+96.  Barry DT. _Arch Phys Med Rehabil_ . 1991;72(8):573.
+
+97.  Dascalu A, et al. _Br J Anaesth_ . 1999;83(3):405.
+
+98.  Hemmerling TM, et al. _Br J Anaesth_ . 2002;88(3):389.
+
+99.  Hemmerling TM, et al. _Anesthesiology_ . 2003;98(2):359.
+
+100.  Michaud G, et al. _Can J Anaesth_ . 2005;52(8):795. 101.  Trager G, et al. _Can J Anaesth_ . 2006;53(2):130.
+
+102.  de Boer HD, et al. _Anesthesiology_ . 2007;107(2):239.
+
+103.  Pühringer FK, et al. _Anesthesiology_ . 2008;109(2):188. 104.  Groudine SB, et al. _Anesth Analg_ . 2007;104(3):555. 105.  Sparr HJ, et al. _Anesthesiology_ . 2007;106(5):935. 106.  Duvaldestin P, et al. _Anesth Analg_ . 2010;110(1):74. 107.  O’Hara DA. _Br J Anaesth_ . 1986;58(11):1300.
+
+108.  Gibson FM, et al. _Acta Anaesthesiol Scand_ . 1987;31(7):655.
+
+109.  Engbaek J, et al. _Anesthesiology_ . 1990;72(5):803.
+
+110.  Kirkegaard H, et al. _Anesthesiology_ . 2002;96(1):45.
+
+111.  Kopman AF, et al. _Anesth Analg_ . 2004;98(1):102.
+
+112.  Tajaate N, et al. _Eur J Anaesthesiol_ . 2018;35:184.
+
+113.  Sorgenfrei IF, et al. _Anesthesiology_ . 2006;104(4):667. 114.  Suy K, et al. _Anesthesiology_ . 2007;106(2):283. 115.  Pühringer FK, et al. _Br J Anaesth_ . 2010;105(5):610.
+
+116.  Kotake Y, et al. _Anesth Analg_ . 2013;117:345.
+
+117.  Kopman AF, et al. _Anesthesiology_ . 1997;86(4):765.
+
+118.  Ali HH, et al. _Br J Anaesth_ . 1971;43(5):473.
+
+119.  Ali HH, et al. _Br J Anaesth_ . 1975;47(5):570.
+
+120.  Brand JB, et al. _Anesth Analg_ . 1977;56(1):55.
+
+121.  Eriksson LI, et al. _Acta Anaesthesiol Scand_ . 1992;36(7):710.
+
+122.  Berg H, et al. _Acta Anaesthesiol Scand_ . 1997;41(9):1095.
+
+123.  Wyon N, et al. _Anesthesiology_ . 1998;89(6):1471.
+
+124.  Sundman E, et al. _Anesthesiology_ . 2000;92(4):977.
+
+125.  Jonsson M, et al. _Acta Anaesthesiol Scand_ . 2002;46(5):488. 126.  Herbstreit F, et al. _Anesthesiology_ . 2009;110(6):1253. 127.  Kopman AF, et al. _Anesthesiology_ . 1996;85(6):1253. 128.  Naguib M, et al. _Br J Anaesth_ . 2007;98(3):302.
+
+129.  Shorten GD, et al. _Can J Anaesth_ . 1995;42(8):711.
+
+130.  Viby- Mogensen J, et al. _Br J Anaesth_ . 2007;99(2):297.
+
+131.  Plaud B, et al. _Anaesth Crit Care Pain Med_ . 2020;39(1):125. 132.  Fuchs- Buder T, et al. _Eur J Anaesthesiol_ . 2023;40(2):82.
+
+133.  Naguib M, et al. _Anesth Analg_ . 2018;127:71.
+
+134.  Eriksson LI, et al. _Acta Anaesthesiol Scand_ . 1991;35(3):247.
+
+135.  Heier T, et al. _Anesthesiology_ . 1990;72(5):807. 136.  Heier T, et al. _Anesthesiology_ . 2006;104(5):1070.
+
+137.  Thornberry EA, et al. _Anaesthesia_ . 1988;43(6):447.
+
+138.  Brull SJ, et al. _Anesthesiology_ . 2017;126:173.
+
+139.  Payne JP, et al. _Br J Anaesth_ . 1980;52(1):69.
+
+140.  Eikermann M, et al. _Anesthesiology_ . 2007;107(4):621.
+
+141.  Eikermann M, et al. _Br J Anaesth_ . 2008;101(3):344.
+
+142.  Caldwell JE. _J Crit Care_ . 2009;24(1):21.
+
+143.  Herbstreit F, et al. _Anesthesiology_ . 2010;113(6):1280. 144.  Le Corre F, et al. _Can J Anaesth_ . 2011;58(10):944.
+
+145.  Pedersen T, et al. _Anesthesiology_ . 1990;73(5):835.
+
+146.  Naguib M, et al. _Anesth Analg_ . 2010;111(1):110. 147.  The APSF Committee on Technology. _APSF Newsl_ . 2022;37(1):7. 148.  Klein AA, et al. _Anaesthesia_ . 2021;76(9):1212.
+
+149.  Dobson G, et al. _Can J Anaesth_ . 2022;69(1):24. 150.  Renew JR, et al. _Anesth Analg_ . 2021;132(5):1421.
+
+151.  Todd MM, et al. _Anesth Analg_ . 2014;119(2):323.
+
+<!-- PDF page 19 -->
+
+### References
+
+1.  Eriksson LI, Sundman E, Olsson R, et al. Functional assessment of the pharynx at rest and during swallowing in partially paralyzed humans: simultaneous videomanometry and mechanomyography of awake human volunteers. _Anesthesiology_ . 1997;87(5):1035– 1043.
+
+2.  Moerer O, Baller C, Hinz J, et al. Neuromuscular effects of rapacuronium on the diaphragm and skeletal muscles in anaesthetized patients using cervical magnetic stimulation for stimulating the phrenic nerves. _Eur J Anaesthesiol_ . 2002;19(12):883–887.
+
+3.  Eriksson LI, Sato M, Severinghaus JW. Effect of a vecuroniuminduced partial neuromuscular block on hypoxic ventilatory response. _Anesthesiology_ . 1993;78(4):693–699.
+
+4.  Eikermann M, Vogt FM, Herbstreit F, et al. The predisposition to inspiratory upper airway collapse during partial neuromuscular blockade. _Am J Respir Crit Care Med_ . 2007;175(1):9–15.
+
+5.  Viby- Mogensen J, Jørgensen BC, Ording H. Residual curarization in the recovery room. _Anesthesiology_ . 1979;50:539–541.
+
+6.  Debaene B, Plaud B, Dilly MP, Donati F. Residual paralysis in the PACU after a single intubating dose of nondepolarizing muscle relaxant with an intermediate duration of action. _Anesthesiology_ . 2003;98:1042–1048.
+
+7.  Viby- Mogensen J. Postoperative residual curarization and evidencebased anaesthesia. _Br J Anaesth_ . 2000;84:301–303.
+
+8.  Eriksson LI. Evidence- based practice and neuromuscular monitoring: it’s time for routine quantitative assessment. _Anesthesiology_ . 2003;98(5):1037–1039.
+
+9.  Viby- Mogensen J, Claudius C. Evidence- based management of neuromuscular block. _Anesth Analg_ . 2010;111(1):1–2.
+
+10.  Miller RD, Ward TA. Monitoring and pharmacologic reversal of a nondepolarizing neuromuscular blockade should be routine. _Anesth Analg_ . 2010;111(1):3–5.
+
+11.  Donati F. Neuromuscular monitoring: what evidence do we need to be convinced? _Anesth Analg_ . 2010;111(1):6–8.
+
+12.  Kopman AF. Managing neuromuscular block: where are the guidelines? _Anesth Analg_ . 2010;111(1):9–10.
+
+13.  Futter M, Gin T. Neuromuscular block: views from the Western Pacific. _Anesth Analg_ . 2010;111(1):11–12.
+
+14.  Nemes R, Nagy G, Murphy GS, et al. Awake volunteer pain scores during neuromuscular monitoring. _Anesth Analg_ . 2020;130(4):941– 948.
+
+15.  Brull SJ, Ehrenwerth J, Silverman DG. Stimulation with submaximal current for train- of- four monitoring. _Anesthesiology_ . 1990;72(4):629–632.
+
+16.  Brull SJ, Ehrenwerth J, Connelly NR, et al. Assessment of residual curarization using low- current stimulation. _Can J Anaesth_ . 1991;38(2):164–168.
+
+17.  Iwasaki H, Igarashi M, Namiki A. A preliminary clinical evaluation of magnetic stimulation of the ulnar nerve for monitoring neuromuscular transmission. _Anaesthesia_ . 1994;49(9):814–816.
+
+18.  Fuchs- Buder T, Claudius C, Skovgaard LT, et al. 8th International Neuromuscular Meeting. Good clinical research practice in pharmacodynamic studies of neuromuscular blocking agents II: the Stockholm revision. _Acta Anaesthesiol Scand_ . 2007;51(7):789–808.
+
+19.  Brull SJ, Silverman DG. Pulse width, stimulus intensity, electrode placement, and polarity during assessment of neuromuscular block. _Anesthesiology_ . 1995;83(4):702–709.
+
+20.  Smith CE, Donati F, Bevan DR. Potency of succinylcholine at the diaphragm and at the adductor pollicis muscle. _Anesth Analg_ . 1988;67(7):625–630.
+
+21.  Donati F, Antzaka C, Bevan DR. Potency of pancuronium at the diaphragm and the adductor pollicis muscle in humans. _Anesthesiology_ . 1986;65(1):1–5.
+
+22.  Pansard JL, Chauvin M, Lebrault C, et al. Effect of an intubating dose of succinylcholine and atracurium on the diaphragm and the adductor pollicis muscle in humans. _Anesthesiology_ . 1987;67(3):326–330.
+
+23.  Donati F, Meistelman C, Plaud B. Vecuronium neuromuscular blockade at the diaphragm, the orbicularis oculi, and adductor pollicis muscles. _Anesthesiology_ . 1990;73(5):870–875.
+
+24.  Rimaniol JM, Dhonneur G, Sperry L, et al. A comparison of the neuromuscular blocking effects of atracurium, mivacurium, and vecuronium on the adductor pollicis and the orbicularis oculi muscle in humans. _Anesth Analg_ . 1996;83(4):808–813.
+
+25.  Plaud B, Debaene B, Donati F. The corrugator supercilii, not the orbicularis oculi, reflects rocuronium neuromuscular blockade at the laryngeal adductor muscles. _Anesthesiology_ . 2001;95(1):96–101.
+
+26.  Pavlin EG, Holle RH, Schoene RB. Recovery of airway protection compared with ventilation in humans after paralysis with curare. _Anesthesiology_ . 1989;70(3):381–385.
+
+27.  Isono S, Ide T, Kochi T, et al. Effects of partial paralysis on the swallowing reflex in conscious humans. _Anesthesiology_ . 1991;75(6):980– 984.
+
+28.  Dhonneur G, Kirov K, Motamed C, et al. Post- tetanic count at adductor pollicis is a better indicator of early diaphragmatic recovery than train- of- four count at corrugator supercilii. _Br J Anaesth_ . 2007;99(3):376–379.
+
+29.  Kirov K, Motamed C, Ndoko SK, et al. TOF count at corrugator supercilii reflects abdominal muscles relaxation better than at adductor pollicis. _Br J Anaesth_ . 2007;98(5):611–614.
+
+30.  Kern SE, Johnson JO, Orr JA, et al. Clinical analysis of the flexor hallucis brevis as an alternative site for monitoring neuromuscular block from mivacurium. _J Clin Anesth_ . 1997;9(5):383–387.
+
+31.  Michaud G, Trager G, Deschamps S, et al. Dominance of the hand does not change the phonomyographic measurement of neuromuscular block at the adductor pollicis muscle. _Anesth Analg_ . 2005;100(3):718–721.
+
+32.  Claudius C, Skovgaard LT, Viby- Mogensen J. Arm- to- arm variation when evaluating neuromuscular block: an analysis of the precision and the bias and agreement between arms when using mechanomyography or acceleromyography. _Br J Anaesth_ . 2010;105(3):310– 317.
+
+33.  Christie T, Churchill- Davidson HC. The St. Thomas’s nerve stimulator in the diagnosis of prolonged apnoea. _Lancet_ . 1958;21:776.
+
+34.  Curran MJ, Donati F, Bevan DR. Onset and recovery of atracurium and suxamethonium- induced neuromuscular blockade with simultaneous train- of- four and single twitch stimulation. _Br J Anaesth_ . 1987;59(8):989–994.
+
+35.  Ali HH, Utting JE, Gray C. Stimulus frequency in the detection of neuromuscular block in humans. _Br J Anaesth_ . 1970;42(11):967–978.
+
+36.  Ali HH, Utting JE, Gray TC. Quantitative assessment of residual antidepolarizing block. _Br J Anaesth_ . 1971;43(5):478–485.
+
+37.  Schmartz D, Chénard L, Baumann C, Fuchs- Buder T. A modified train- of- four ratio to assess recovery from depolarizing neuromuscular blockade after succinylcholine, a prospective observational study. _J Clin Monit Comput_ . 2021;35(5):1133–1138.
+
+38.  Schmartz D, Bernard P, Sghaier R, et al. A modified TOF- ratio to assess rocuronium- induced neuromuscular block: a comparison with the usual TOF- ratio. _Anaesth Crit Care Pain Med_ . 2022;41(4):101088.
+
+39.  Engbaek J, Ostergaard D, Viby- Mogensen J. Double burst stimulation (DBS): a new pattern of nerve stimulation to identify residual neuromuscular block. _Br J Anaesth_ . 1989;62(3):274–278.
+
+40.  Viby- Mogensen J, Jensen NH, Engbaek J, et al. Tactile and visual evaluation of the response to train- of- four nerve stimulation. _Anesthesiology_ . 1985;63(4):440–443.
+
+41.  Engbaek J, Ostergaard D, Viby- Mogensen J, et al. Clinical recovery and train- of- four ratio measured mechanically and electromyographically following atracurium. _Anesthesiology_ . 1989;71(3):391– 395.
+
+42.  Drenck NE, Ueda N, Olsen NV, et al. Manual evaluation of residual curarization using double burst stimulation: a comparison with train- of- four. _Anesthesiology_ . 1989;70(4):578–581.
+
+43.  Saddler JM, Bevan JC, Donati F, et al. Comparison of double- burst and train- of- four stimulation to assess neuromuscular blockade in children. _Anesthesiology_ . 1990;73(3):401–403.
+
+44.  Fruergaard K, Viby- Mogensen J, Berg H, et al. Tactile evaluation of the response to double burst stimulation decreases, but does not eliminate, the problem of postoperative residual paralysis. _Acta Anaesthesiol Scand_ . 1998;42(10):1168–1174.
+
+45.  Tassonyi E. A new concept in the measurement of neuromuscular transmission and block. _Anaesthesist_ . 1975;24:374–377.
+
+46.  Paton WD, Waud DR. The margin of safety of neuromuscular transmission. _J Physiol_ . 1967;191(1):59–90.
+
+47.  Jonsson M, Gurley D, Dabrowski M, et al. Distinct pharmacologic properties of neuromuscular blocking agents on human neuronal nicotinic acetylcholine receptors: a possible explanation for the train- of- four fade. _Anesthesiology_ . 2006;105(3):521–533.
+
+<!-- PDF page 20 -->
+
+48.  Carvalho H, Verdonck M, Cools W, et al. Forty years of neuromuscular monitoring and postoperative residual curarisation: a metaanalysis and evaluation of confidence in network meta- analysis. _Br J Anaesth_ . 2020;125(4):466–482.
+
+49.  Viby- Mogensen J, Howardy- Hansen P, Chraemmer- Jørgensen B, et al. Posttetanic count (PTC): a new method of evaluating an intense nondepolarizing neuromuscular blockade. _Anesthesiology_ . 1981;55(4):458–461.
+
+50.  Brull SJ, Silverman DG. Tetanus- induced changes in apparent recovery after bolus doses of atracurium or vecuronium. _Anesthesiology_ . 1992;77:642–645.
+
+51.  Bonsu AK, Viby- Mogensen J, Fernando PU, et al. Relationship of post- tetanic count and train- of- four response during intense neuromuscular blockade caused by atracurium. _Br J Anaesth_ . 1987;59(9):1089–1092.
+
+52.  Muchhal KK, Viby- Mogensen J, Fernando PU, et al. Evaluation of intense neuromuscular blockade caused by vecuronium using posttetanic count (PTC). _Anesthesiology_ . 1987;66(6):846–849.
+
+53.  Fernando PU, Viby- Mogensen J, Bonsu AK, et al. Relationship between posttetanic count and response to carinal stimulation during vecuronium- induced neuromuscular blockade. _Acta Anaesthesiol Scand_ . 1987;31(7):593–596.
+
+54.  Schultz P, Ibsen M, Østergaard D, et al. Onset and duration of action of rocuronium—from tracheal intubation, through intense block to complete recovery. _Acta Anaesthesiol Scand_ . 2001;45(5):612–617.
+
+55.  Eleveld DJ, Proost JH, Wierda JM. Evaluation of a closed- loop muscle relaxation control system. _Anesth Analg_ . 2005;101(3):758–764.
+
+56.  Gilhuly TJ, Macleod BA, Dumont GA, et al. Improved neuromuscular blockade using a novel neuromuscular blockade advisory system: a randomized, controlled, clinical trial. _Anesth Analg_ . 2008;107(5):1609–1617.
+
+57.  Lee GC, Iyengar S, Szenohradszky J, et al. Improving the design of muscle relaxant studies. Stabilization period and tetanic recruitment. _Anesthesiology_ . 1997;86(1):48–54.
+
+58.  Hemmerling TM, Schurr C, Walter S, et al. A new method of monitoring the effect of muscle relaxants on laryngeal muscles using surface laryngeal electromyography. _Anesth Analg_ . 2000;90(2):494–497.
+
+59.  Hemmerling TM, Schmidt J, Wolf T, et al. Intramuscular versus surface electromyography of the diaphragm for determining neuromuscular blockade. _Anesth Analg_ . 2001;92(1):106–111.
+
+60.  Hemmerling TM, Schmidt J, Hanusa C, et al. The lumbar paravertebral region provides a novel site to assess neuromuscular block at the diaphragm. _Can J Anaesth_ . 2001;48(4):356–360.
+
+61.  Engbaek J, Skovgaard LT, Fries B, et al. Monitoring of neuromuscular transmission by electromyography (II). Evoked compound EMG area, amplitude and duration compared to mechanical twitch recording during onset and recovery of pancuronium- induced blockade in the cat. _Acta Anaesthesiol Scand_ . 1993;37(8):788–798.
+
+62.  Nemes R, Lengyel S, Nagy G, et al. Ipsilateral and simultaneous comparison of responses from acceleromyography- and electromyography- based neuromuscular monitors. _Anesthesiology_ . 2021;135(4):597–563.
+
+63.  Kopman AF, Klewicka MM, Neuman GG. The relationship between acceleromyographic train- of- four fade and single twitch depression. _Anesthesiology_ . 2002;96(3):583–587.
+
+64.  Engbaek J. Monitoring of neuromuscular transmission by electromyography during anaesthesia. A comparison with mechanomyography in cat and man. _Danish Med Bull_ . 1996;43:301–316.
+
+65.  Viby- Mogensen J, Jensen E, Werner M, et al. Measurement of acceleration: a new method of monitoring neuromuscular function. _Acta Anaesthesiol Scand_ . 1988;32(1):45–48.
+
+66.  Jensen E, Viby- Mogensen J, Bang U. The accelograph: a new neuromuscular transmission monitor. _Acta Anaesthesiol Scand_ . 1988;32(1):49–52.
+
+67.  Werner MU, Kirkegaard Nielsen H, May O, et al. Assessment of neuromuscular transmission by the evoked acceleration response. An evaluation of the accuracy of the acceleration transducer in comparison with a force displacement transducer. _Acta Anaesthesiol Scand_ . 1988;32(5):395–400.
+
+68.  May O, Kirkegaard Nielsen H, Werner MU. The acceleration transducer—an assessment of its precision in comparison with a force displacement transducer. _Acta Anaesthesiol Scand_ . 1988;32(3):239–243.
+
+69.  McCluskey A, Meakin G, Hopkinson JM, et al. A comparison of acceleromyography and mechanomyography for determination of the dose- response curve of rocuronium in children. _Anaesthesia_ . 1997;52(4):345–349.
+
+70.  Kirkegaard- Nielsen H, Helbo- Hansen HS, Lindholm P, et al. New equipment for neuromuscular transmission monitoring: a comparison of the TOF- guard with the Myograph 2000. _J Clin Monit Comput_ . 1998;14(1):19–27.
+
+71.  Eikermann M, Groeben H, Hüsing J, et al. Predictive value of mechanomyography and accelerometry for pulmonary function in partially paralyzed volunteers. _Acta Anaesthesiol Scand_ . 2004;48(3):365– 370.
+
+72.  Claudius C, Viby- Mogensen J. Acceleromyography for use in scientific and clinical practice: a systematic review of the evidence. _Anesthesiology_ . 2008;108(6):1117–1140.
+
+73.  Claudius C, Skovgaard LT, Viby- Mogensen J. Is the performance of acceleromyography improved with preload and normalization? A comparison with mechanomyography. _Anesthesiology_ . 2009;110(6):1261–1270.
+
+74.  Claudius C, Skovgaard LT, Viby- Mogensen J. Acceleromyography and mechanomyography for establishing potency of neuromuscular blocking agents: a randomized- controlled trial. _Acta Anaesthesiol Scand_ . 2009;53(4):449–454.
+
+75.  Eikermann M, Groeben H, Hüsing J, et al. Accelerometry of adductor pollicis muscle predicts recovery of respiratory function from neuromuscular blockade. _Anesthesiology_ . 2003;98(6):1333–1337.
+
+76.  Capron F, Alla F, Hottier C, et al. Can acceleromyography detect low levels of residual paralysis? A probability approach to detect a mechanomyographic train- of- four ratio of 0.9. _Anesthesiology_ . 2004;100(5):1119–1124.
+
+77.  Capron F, Fortier LP, Racine S, et al. Tactile fade detection with hand or wrist stimulation using train- of- four, double- burst stimulation, 50- hertz tetanus, 100- hertz tetanus, and acceleromyography. _Anesth Analg_ . 2006;102(5):1578–1584.
+
+78.  Kopman AF. Normalization of the acceleromyographic train- of- four fade ratio. _Acta Anaesthesiol Scand_ . 2005;49(10):1575–1576.
+
+79.  Suzuki T, Fukano N, Kitajima O, et al. Normalization of acceleromyographic train- of- four ratio by baseline value for detecting residual neuromuscular block. _Br J Anaesth_ . 2006;96(1):44–47.
+
+80.  Heier T, Caldwell JE, Feiner JR, et al. Relationship between normalized adductor pollicis train- of- four ratio and manifestations of residual neuromuscular block: a study using acceleromyography during near steady- state concentrations of mivacurium. _Anesthesiology_ . 2010;113(4):825–832.
+
+81.  Heier T, Feiner JR, Wright PM, et al. Sex- related differences in the relationship between acceleromyographic adductor pollicis trainof- four ratio and clinical manifestations of residual neuromuscular block: a study in healthy volunteers during near steady- state infusion of mivacurium. _Br J Anaesth_ . 2012;108(3):444–451.
+
+82.  Eikermann M, Blobner M, Groeben H, et al. Postoperative upper airway obstruction after recovery of the train of four ratio of the adductor pollicis muscle from neuromuscular blockade. _Anesth Analg_ . 2006;102(3):937–942.
+
+83.  Gätke MR, Viby- Mogensen J, Rosenstock C, et al. Postoperative muscle paralysis after rocuronium: less residual block when acceleromyography is used. _Acta Anaesthesiol Scand_ . 2002;46(2):207– 213.
+
+84.  Mortensen CR, Berg H, el- Mahdy A, Viby- Mogensen J. Perioperative monitoring of neuromuscular transmission using acceleromyography prevents residual neuromuscular block following pancuronium. _Acta Anaesthesiol Scand_ . 1995;39(6):797–801.
+
+85.  Murphy GS, Szokol JW, Marymont JH, et al. Intraoperative acceleromyographic monitoring reduces the risk of residual neuromuscular blockade and adverse respiratory events in the postanesthesia care unit. _Anesthesiology_ . 2008;109(3):389–398.
+
+86.  Murphy GS, Szokol JW, Avram MJ, et al. Intraoperative acceleromyography monitoring reduces symptoms of muscle weakness and improves quality of recovery in the early postoperative period. _Anesthesiology_ . 2011;115(5):946–954.
+
+87.  Gätke MR, Larsen PB, Engbaek J, et al. Acceleromyography of the orbicularis oculi muscle I: significance of the electrode position. _Acta Anaesthesiol Scand_ . 2002;46(9):1124–1130.
+
+88.  Larsen PB, Gätke MR, Fredensborg BB, et al. Acceleromyography of the orbicularis oculi muscle II: comparing the orbicularis oculi and adductor pollicis muscles. _Acta Anaesthesiol Scand_ . 2002;46(9):1131–1136.
+
+89.  Colegrave N, Billard V, Motamed C, Bourgain JL. Comparison of the TOF- Scan™ acceleromyograph to TOF- Watch SX™: influence of calibration. _Anaesth Crit Care Pain Med_ . 2016;35(3):223– 227.
+
+<!-- PDF page 21 -->
+
+90.  Murphy GS, Szokol JW, Avram MJ, et al. Comparison of the TOFscan and the TOF- watch SX during recovery of neuromuscular function. _Anesthesiology_ . 2018;29(5):880–888.
+
+91.  Kern SE, Johnson JO, Westenskow DR, et al. An effectiveness study of a new piezoelectric sensor for train- of- four measurement. _Anesth Analg_ . 1994;78(5):978–982.
+
+92.  Pelgrims K, Vanacker B. Comparative study of the TOF- ratio measured by the paragraph versus the TOF- guard, with and without thumb repositioning. _Acta Anaesthesiol Belg_ . 2001;52(3):297–300.
+
+93.  Dahaba AA, von Klobucar F, Rehak PH, et al. The neuromuscular transmission module versus the relaxometer mechanomyograph for neuromuscular block monitoring. _Anesth Analg_ . 2002;94(3):591– 596.
+
+94.  Honing GHM, Torensma B, Martini CH, et al. Comparison of neuromuscular block measured by compressomyography at the upper arm and electromyography at the adductor pollicis muscle in obese and non- obese patients: an observational study. _J Clin Anesth_ . 2022;78:110673.
+
+95.  Markle A, Horn K, Welter J, Dullenkopf A. An observational study comparing the performance of TOF- Cuff with TOF- Scan monitoring during anaesthetic induction in clinical routine. _Anaesthesiol Intensive Ther_ . 2020;52(3):181–186.
+
+96.  Barry DT. Muscle sounds from evoked twitches in the hand. _Arch Phys Med Rehabil_ . 1991;72(8):573–575.
+
+97.  Dascalu A, Geller E, Moalem Y, et al. Acoustic monitoring of intraoperative neuromuscular block. _Br J Anaesth_ . 1999;83(3):405–409.
+
+98.  Hemmerling TM, Donati F, Beaulieu P, et al. Phonomyography of the corrugator supercilii muscle: signal characteristics, best recording site and comparison with acceleromyography. _Br J Anaesth_ . 2002;88(3):389–393.
+
+99.  Hemmerling TM, Babin D, Donati F. Phonomyography as a novel method to determine neuromuscular blockade at the laryngeal adductor muscles: comparison with the cuff pressure method. _Anesthesiology_ . 2003;98(2):359–363.
+
+100.  Michaud G, Trager G, Deschamps S, et al. Monitoring neuromuscular blockade at the vastus medialis muscle using phonomyography. _Can J Anaesth_ . 2005;52(8):795–800.
+
+101.  Trager G, Michaud G, Deschamps S, et al. Comparison of phonomyography, kinemyography and mechanomyography for neuromuscular monitoring. _Can J Anaesth_ . 2006;53(2):130–135.
+
+102.  de Boer HD, Driessen JJ, Marcus MA, et al. Reversal of rocuroniuminduced (1.2 mg/kg) profound neuromuscular block by sugammadex: a multicenter, dose- finding and safety study. _Anesthesiology_ . 2007;107(2):239–244.
+
+103.  Pühringer FK, Rex C, Sielenkämper AW, et al. Reversal of profound, high- dose rocuronium- induced neuromuscular blockade by sugammadex at two different time points: an international, multicenter, randomized, dose- finding, safety assessor- blinded, phase II trial. _Anesthesiology_ . 2008;109(2):188–197.
+
+104.  Groudine SB, Soto R, Lien C, et al. A randomized, dose- finding, phase II study of the selective relaxant binding drug, sugammadex, capable of safely reversing profound rocuronium- induced neuromuscular block. _Anesth Analg_ . 2007;104(3):555–562.
+
+105.  Sparr HJ, Vermeyen KM, Beaufort AM, et al. Early reversal of profound rocuronium- induced neuromuscular blockade by sugammadex in a randomized multicenter study: efficacy, safety, and pharmacokinetics. _Anesthesiology_ . 2007;106(5):935–943.
+
+106.  Duvaldestin P, Kuizenga K, Saldien V, et al. A randomized, doseresponse study of sugammadex given for the reversal of deep rocuronium- or vecuronium- induced neuromuscular blockade under sevoflurane anesthesia. _Anesth Analg_ . 2010;110(1):74–82.
+
+107.  O’Hara DA, Fragen RJ, Shanks CA. Comparison of visual and measured train- of- four recovery after vecuronium- induced neuromuscular blockade using two anaesthetic techniques. _Br J Anaesth_ . 1986;58(11):1300–1302.
+
+108.  Gibson FM, Mirakhur RK, Clarke RS, et al. Quantification of trainof- four responses during recovery of block from non- depolarising muscle relaxants. _Acta Anaesthesiol Scand_ . 1987;31(7):655–657.
+
+109.  Engbaek J, Ostergaard D, Skovgaard LT, et al. Reversal of intense neuromuscular blockade following infusion of atracurium. _Anesthesiology_ . 1990;72(5):803–806.
+
+110.  Kirkegaard H, Heier T, Caldwell JE. Efficacy of tactile- guided reversal from cisatracurium- induced neuromuscular block. _Anesthesiology_ . 2002;96(1):45–50.
+
+111.  Kopman AF, Zank LM, Ng J, et al. Antagonism of cisatracurium and rocuronium block at a tactile train- of- four count of 2: should quantitative assessment of neuromuscular function be mandatory? _Anesth Analg_ . 2004;98(1):102–106.
+
+112.  Tajaate N, Schreiber JU, Fuchs- Buder T, et al. Neostigmine- based reversal of intermediate acting neuromuscular blocking agents to prevent postoperative residual paralysis: a systematic review. _Eur J Anaesthesiol_ . 2018;35:184–192.
+
+113.  Sorgenfrei IF, Norrild K, Larsen PB, et al. Reversal of rocuroniuminduced neuromuscular block by the selective relaxant binding agent sugammadex: a dose- finding and safety study. _Anesthesiology_ . 2006;104(4):667–674.
+
+114.  Suy K, Morias K, Cammu G, et al. Effective reversal of moderate rocuronium- or vecuronium- induced neuromuscular block with sugammadex, a selective relaxant binding agent. _Anesthesiology_ . 2007;106(2):283–288.
+
+115.  Pühringer FK, Gordon M, Demeyer I, et al. Sugammadex rapidly reverses moderate rocuronium- or vecuronium- induced neuromuscular block during sevoflurane anaesthesia: a dose- response relationship. _Br J Anaesth_ . 2010;105(5):610–619.
+
+116.  Kotake Y, Ochiai R, Suzuki T. Reversal with sugammadex in the absence of monitoring did not preclude residual neuromuscular block. _Anesth Analg_ . 2013;117:345–351.
+
+117.  Kopman AF, Yee PS, Neuman GG. Relationship of the train- of- four fade ratio to clinical signs and symptoms of residual paralysis in awake volunteers. _Anesthesiology_ . 1997;86(4):765–771.
+
+118.  Ali HH, Utting JE, Gray TC. Quantitative assessment of residual antidepolarizing block. I. _Br J Anaesth_ . 1971;43(5):473–477.
+
+119.  Ali HH, Wilson RS, Savarese J, et al. The effect of tubocurarine on indirectly elicited train- of- four muscle response and respiratory measurements in humans. _Br J Anaesth_ . 1975;47(5):570–574.
+
+120.  Brand JB, Cullen DJ, Wilson NE, et al. Spontaneous recovery from nondepolarizing neuromuscular blockade: correlation between clinical and evoked responses. _Anesth Analg_ . 1977;56(1):55–58.
+
+121.  Eriksson LI, Lennmarken C, Wyon N, et al. Attenuated ventilatory response to hypoxaemia at vecuronium- induced partial neuromuscular block. _Acta Anaesthesiol Scand_ . 1992;36(7):710–715.
+
+122.  Berg H, Roed J, Viby- Mogensen J, et al. Residual neuromuscular block is a risk factor for postoperative pulmonary complications. A prospective, randomised, and blinded study of postoperative pulmonary complications after atracurium, vecuronium and pancuronium. _Acta Anaesthesiol Scand_ . 1997;41(9):1095–1103.
+
+123.  Wyon N, Joensen H, Yamamoto Y, et al. Carotid body chemoreceptor function is impaired by vecuronium during hypoxia. _Anesthesiology_ . 1998;89(6):1471–1479.
+
+124.  Sundman E, Witt H, Olsson R, et al. The incidence and mechanisms of pharyngeal and upper esophageal dysfunction in partially paralyzed humans: pharyngeal videoradiography and simultaneous manometry after atracurium. _Anesthesiology_ . 2000;92(4):977–984.
+
+125.  Jonsson M, Kim C, Yamamoto Y, et al. Atracurium and vecuronium block nicotine- induced carotid body chemoreceptor responses. _Acta Anaesthesiol Scand_ . 2002;46(5):488–494.
+
+126.  Herbstreit F, Peters J, Eikermann M. Impaired upper airway integrity by residual neuromuscular blockade: increased airway collapsibility and blunted genioglossus muscle activity in response to negative pharyngeal pressure. _Anesthesiology_ . 2009;110(6):1253–1260.
+
+127.  Kopman AF, Ng J, Zank LM, et al. Residual postoperative paralysis. Pancuronium versus mivacurium, does it matter? _Anesthesiology_ . 1996;85(6):1253–1259.
+
+128.  Naguib M, Kopman AF, Ensor JE. Neuromuscular monitoring and postoperative residual curarisation: a meta- analysis. _Br J Anaesth_ . 2007;98(3):302–316.
+
+129.  Shorten GD, Merk H, Sieber T. Perioperative train- of- four monitoring and residual curarization. _Can J Anaesth_ . 1995;42(8):711–715.
+
+130.  Viby- Mogensen J, Claudius C, Eriksson LI. Neuromuscular monitoring and postoperative residual curarization. _Br J Anaesth_ . 2007;99(2):297–299.
+
+131.  Plaud B, Baillard C, Bourgain JL, et al. Guidelines on muscle relaxants and reversal in anaesthesia. _Anaesth Crit Care Pain Med_ . 2020;39(1):125–142.
+
+132.  Fuchs- Buder T, Romero CS, Lewald H, et al. Peri- operative management of neuromuscular blockade: a guideline from the European Society of Anaesthesiology and Intensive Care. _Eur J Anaesthesiol_ . 2023;40(2):82–94.
+
+<!-- PDF page 22 -->
+
+133.  Naguib M, Brull SJ, Kopman AF, et al. Consensus statement on perioperative use of neuromuscular monitoring. _Anesth Analg_ . 2018;127:71–80.
+
+134.  Eriksson LI, Lennmarken C, Jensen E, et al. Twitch tension and train- of- four ratio during prolonged neuromuscular monitoring at different peripheral temperatures. _Acta Anaesthesiol Scand_ . 1991;35(3):247–252.
+
+135.  Heier T, Caldwell JE, Sessler DI, et al. The effect of local surface and central cooling on adductor pollicis twitch tension during nitrous oxide/isoflurane and nitrous oxide/fentanyl anesthesia in humans. _Anesthesiology_ . 1990;72(5):807–811.
+
+136.  Heier T, Caldwell JE. Impact of hypothermia on the response to neuromuscular blocking drugs. _Anesthesiology_ . 2006;104(5):1070– 1080.
+
+137.  Thornberry EA, Mazumdar B. The effect of changes in arm temperature on neuromuscular monitoring in the presence of atracurium blockade. _Anaesthesia_ . 1988;43(6):447–449.
+
+138.  Brull SJ, Kopman AF. Current status of neuromuscular reversal and monitoring: challenges and opportunities. _Anesthesiology_ . 2017;126:173–190.
+
+139.  Payne JP, Hughes R, Al Azawi S. Neuromuscular blockade by neostigmine in anaesthetized man. _Br J Anaesth_ . 1980;52(1):69–76.
+
+140.  Eikermann M, Fassbender P, Malhotra A, et al. Unwarranted administration of acetylcholinesterase inhibitors can impair genioglossus and diaphragm muscle function. _Anesthesiology_ . 2007;107(4):621– 629.
+
+141.  Eikermann M, Zaremba S, Malhotra A, et al. Neostigmine but not sugammadex impairs upper airway dilator muscle activity and breathing. _Br J Anaesth_ . 2008;101(3):344–349.
+
+142.  Caldwell JE. Clinical limitations of acetylcholinesterase antagonists. _J Crit Care_ . 2009;24(1):21–28.
+
+143.  Herbstreit F, Zigrahn D, Ochterbeck C, et al. Neostigmine/glycopyrrolate administered after recovery from neuromuscular block increases upper airway collapsibility by decreasing genioglossus muscle activity in response to negative pharyngeal pressure. _Anesthesiology_ . 2010;113(6):1280–1288.
+
+144.  Le Corre F, Nejmeddine S, Fatahine C, et al. Recurarization after sugammadex reversal in an obese patient. _Can J Anaesth_ . 2011;58(10):944–947.
+
+145.  Pedersen T, Viby- Mogensen J, Bang U, et al. Does perioperative tactile evaluation of the train- of- four response influence the frequency of postoperative residual neuromuscular blockade? _Anesthesiology_ . 1990;73(5):835–839.
+
+146.  Naguib M, Kopman AF, Lien CA, et al. A survey of current management of neuromuscular block in the United States and Europe. _Anesth Analg_ . 2010;111(1):110–119.
+
+147.  The APSF Committee on Technology. APSF- endorsed statement on revising recommendations for patient monitoring during anesthesia. _APSF Newsl_ . 2022;37(1):7–8.
+
+148.  Klein AA, Meek T, Allcock E, et al. Recommendations for standards of monitoring during anaesthesia and recovery 2021: guideline from the Association of Anaesthetists. _Anaesthesia_ . 2021;76(9):1212– 1223.
+
+149.  Dobson G, Filteau L, Fuda G, et al. Guidelines to the practice of anesthesia – revised edition 2022. _Can J Anaesth_ . 2022;69(1):24–61.
+
+150.  Renew JR, Hex K, Johnson P, et al. Ease of application of various neuromuscular devices for routine monitoring. _Anesth Analg_ . 2021;132(5):1421–1428.
+
+151.  Todd MM, Hindman BJ, King BJ. The implementation of quantitative electromyographic neuromuscular monitoring in an academic anesthesia department. _Anesth Analg_ . 2014;119(2):323–331.

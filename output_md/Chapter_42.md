@@ -1,0 +1,1171 @@
+---
+title: Peripheral Nerve Blocks and Ultrasound Guidance for Regional Anesthesia
+chapter: 42
+book: Miller's Anesthesia, 10th Edition
+source_file: 42. Peripheral Nerve Blocks and Ultrasound Guidance for Regional Anesthesia.pdf
+---
+
+# Peripheral Nerve Blocks and Ultrasound Guidance for Regional Anesthesia
+
+<!-- PDF page 1 -->
+
+
+REBECCA L. JOHNSON, SANDRA L. KOPP, JENS KESSLER, and ANDREW T. GRAY
+
+### KEY POINTS
+
+- Regional anesthesia is only successful when local anesthetic is administered or injected close to the targeted nerve/s. From the inception of regional anesthesia several techniques have been used and are available to facilitate the correct placement of local anesthetic, including the paresthesia- seeking approach, peripheral nerve stimulator, and ultrasound guidance.
+
+- There are no data to support the superiority of one nerve localization technique—paresthesia, nerve stimulation, ultrasound—over another regarding reducing the risk of nerve injury.
+
+- Ultrasound imaging can elucidate the structure of peripheral nerves and adjacent anatomic structures for regional block. Peripheral nerves have a characteristic honeycomb echotexture, formed by the internal pattern of connective tissue and nerve fibers.
+
+- Ultrasound provides real- time imaging for needle tip placement and drug injection. Successful local anesthetic injections clarify the border of the nerve and track along the nerve path and its branches. Ultrasound guidance results in more consistent procedure times for peripheral nerve blocks and can be applied to many regional anesthesia procedures. Anatomic variation in nerve position and course, which is a potential source of block failure, can be directly visualized.
+
+- Ultrasound- guided fascial plane blocks target the space between two fasciae rather than discrete peripheral nerves and are becoming increasingly popular alternatives to traditional central and peripheral nerve techniques.
+
+- Lipid emulsion administration improves the success of resuscitation from cardiac arrest if given immediately after recognition of local anesthetic systemic toxicity.
+
+- Prior to performing a regional block, checklists are recommended to make rare adverse events even less common and improve standardized management when they do, thereby improving patient safety.
+
+## Introduction
+
+Peripheral nerve blocks can be performed using a variety of guidance techniques. Recently, ultrasound has gained popularity for regional anesthesia because it allows direct imaging of peripheral nerves, the block needle, and injection distribution. This chapter is a focused update of ultrasound principles, common regional block techniques in the upper extremities, trunk and lower extremities, and modern regional anesthesia training strategies. The sections to follow contain a selective description of the more common peripheral nerve blocks utilized in clinical practice.
+
+## Techniques for Localizing Neural Structures
+
+### PERIPHERAL NERVE STIMULATION
+
+Peripheral nerve stimulators deliver small pulses of electric current to the end of a block needle to cause depolarization
+
+and muscle contraction when the tip of the needle is near a neural structure. This technique allows for localization of a specific peripheral nerve without requiring the elicitation of a paresthesia, thus allowing patients to be more sedated during block placement. It is necessary to attach the cathode (negative terminal) to the stimulating needle and the anode (positive terminal) to the surface of the patient because cathodal stimulation is about twice as efficient as anodal stimulation. The location of the anode on the body surface does not influence nerve stimulation characteristics. Most current- stimulating needles are coated with a thin layer of electrical insulation along the needle shaft except for the tip. This allows for higher current density at the tip of the needle. Higher current output (>1.5 mA) is more likely to stimulate neural structures through tissue or fascial planes and can be associated with painful, vigorous muscle contractions. After localization of the correct motor response, the current is gradually decreased to a current of 0.5 mA or less. A motor response at a current of approximately 0.5 mA is appropriate when used to facilitate the location for injection of local anesthetic or catheter
+
+<!-- PDF page 2 -->
+
+placement. When a motor response occurs at a low current output, such as 0.2 mA or lower, one cannot reliably discern if the needle tip is abutting the nerve or is subepineural based on nerve stimulation alone.<sup>1–3</sup>
+
+Immediately following injection of local anesthetic or saline (ionic solutions), the current density at the needle tip will rapidly dissipate and the evoked motor response is eliminated (the Raj test).<sup>4</sup> The stimulating pulse of current can be modified to produce a sensory response. The short- duration impulse commonly used (0.1 ms) is effective in stimulating motor fibers, but a longer- duration pulse (0.3 ms) will also stimulate sensory fibers, a useful feature if a pure sensory nerve is being sought.
+
+### ULTRASOUND GUIDANCE
+
+Ultrasound imaging allows direct visualization of peripheral nerves, the block needle tip, and local anesthetic distribution.<sup>5</sup> This imaging modality has proven highly useful for guiding targeted drug injections and catheter placement (Video 42.1). Ultrasound also can be used to guide fascial plane blocks, even with relatively deep targets.<sup>6</sup> This section describes general principles of ultrasound imaging for regional blocks.
+
+### Fundamental Assumptions and Artifacts
+
+Ultrasound is sound with a frequency above the audible range (>20,000 cycles per second). High- frequency ultrasound beams (greater than 10 MHz) provide the resolution necessary for peripheral nerve imaging. For most applications, the highest frequency is selected that adequately penetrates the depth of field. Sound waves reflected at the interface of two tissues with different acoustic impedances generate echoes. Today, ultrahigh frequency sound waves (UHF, greater than 20 MHz) can be used for high fidelity imaging. These high frequencies are capable of imaging 50% to 60% of the total number of fascicles within a given peripheral nerve.<sup>7</sup>
+
+Ultrasound imaging is predicated on several common assumptions. First, the speed of sound through soft tissue is 1540 m/s. This assumption allows interconversion of time and distance for echo ranging. Local heterogeneities of the speed of sound within soft tissue can cause artifacts such as apparent bending of the block needle on ultrasound scans (i.e., the bayonet artifact). Second, ultrasound waves are assumed to take a straight path to and from tissue. When this is not true, reverberation artifacts occur (echoes that are displayed deep to a reflector because they arrive later at the transducer). Reverberation artifacts are commonly observed from the block needle shaft at shallow angles of insertion because sound waves bounce back and forth between the walls of the needle before eventually returning to the transducer. Third, all reflectors are assumed to be on the central ray of the transducer beam. When this assumption is not true, out- of- plane artifacts are observed (slice thickness artifacts). Definitive proof of out- of- plane artifacts requires multiple views, which are recommended when such ambiguities arise.
+
+Unlike adjacent soft tissue, most biologic fluids do not significantly attenuate the sound beam and therefore cause acoustic enhancement (sometimes referred to as posterior acoustic enhancement or increased through- transmission). Acoustic enhancement artifacts deep to blood vessels can
+
+be erroneously interpreted as peripheral nerves. Acoustic shadowing occurs deep to strong reflecting structures, such as the cortical surface of mature bone.
+
+Ambient lighting has a large effect on visual discrimination; therefore, dim lighting without glare is especially useful for imaging low- contrast targets such as peripheral nerves.
+
+### Transducer Selection, Manipulation, and Modes of Imaging
+
+Transducer selection is important to the success of ultrasound- guided regional anesthesia procedures. Highfrequency sound waves provide the best resolution but will not penetrate far into tissue. The frequency range is therefore chosen to be the highest that will allow adequate insonation of the entire depth of field.
+
+The footprint size (i.e., the length of the active face transducer that contacts the skin) is chosen to provide a broad enough view of the structures of interest. As a rule, the footprint should be similar to the anticipated depth of field. A keyhole view (i.e., depth greater than footprint) provides limited guidance.
+
+Linear- array transducers generally have a higher scanline density than curved arrays and therefore produce better image quality. Images from linear arrays are usually displayed in a rectangular format. When a linear transducer is needed but space at the site of block is limited by anatomic structures such as adjacent bone, a compact linear (hockey stick) transducer that has a smaller footprint can be very useful. Curved arrays provide a broad field of view for a given footprint size and are more generally used when space is limited. Curved probes are easier to rock (see below) and produce images in sector format.
+
+Universal precautions should be used when handling dirty equipment.<sup>8</sup> External surface probes require disinfection between every use and after extended periods of nonuse, per instructions of the manufacturer. Do not drop any ultrasound transducer, because the active face of the transducer is especially sensitive to contact with hard surfaces.
+
+One of the essential skills to acquire for regional block with ultrasound is transducer manipulation (Fig. 42.1). For this reason, standardized nomenclature has been established.<sup>9</sup> Sliding (moving contact) the transducer along the known course of the nerve using a short- axis view often helps (Fig. 42.1A). Tilting (cross- plane, side- to- side) will vary the echo brightness of peripheral nerves. Optimizing this angle is critical to promote nerve visibility (Fig. 42.1B). Compression is often used to confirm venous structures. To improve imaging, compression not only provides better contact but also it brings the structures closer to the surface of the transducer. Soft tissue is subject to compression; therefore, estimates of tissue distances will vary (Fig. 42.1C). Rocking (in- plane, toward, or away from the indicator) is often necessary to improve visibility of the needle and anatomic structures when the working room is limited (Fig. 42.1D). Rotation of the probe will produce true short- axis views rather than oblique or long- axis views (Fig. 42.1E).
+
+To stabilize the transducer for imaging, the hands of the operator rest or are gently braced on the patient. With experience, operators learn to rock and tilt the transducer naturally to fill in the received echoes from peripheral nerves. Sliding and rotating the transducer achieves needle tip
+
+<!-- PDF page 3 -->
+
+![](assets/chapter-42/42._Peripheral_Nerve_Blocks_and_Ultrasound_Guidance_for_Regional_Anesthesia.pdf-0003-02.png)
+
+
+A B C<br>D E<br>
+
+**<mark>Fig. 42.1 Transducer manipulation.</mark>** <mark>Sliding (A), tilting (B), compression (C), rocking (D), and rotation (E) of the transducer are shown.</mark>
+
+
+![](assets/chapter-42/42._Peripheral_Nerve_Blocks_and_Ultrasound_Guidance_for_Regional_Anesthesia.pdf-0003-04.png)
+
+
+A<br>B<br>
+
+localization after optimizing peripheral nerve echoes by tilting.
+
+Doppler imaging can be used to detect small blood vessels (Fig. 42.2). A Doppler shift occurs when a wave source and receiver are moving relative to each other (i.e. a change in frequency such that the frequencies of the transmitted and reflected sound waves are not the same). In clinical medicine, red blood cells are the primary reflectors that produce Doppler shifts. There are different modes of Doppler imaging. Traditional color Doppler encodes mean frequency shifts to provide directional velocity information (blue color indicates flow away from the transducer, red indicates flow toward the transducer). More recently, power Doppler (based on integration of the power spectrum) has been developed because it is more sensitive and less angle dependent than traditional color Doppler.
+
+### Nerve Imaging With Ultrasound
+
+Peripheral nerves are composed of several fascicles and their surrounding connective tissue (Fig. 42.3). The fascicles are round and appear hypoechoic on ultrasound scans. The number of fascicles within the nerve can vary from nerve to nerve, side to side, or along the nerve course (Fig. 42.4). Thus, nerve echotexture can be mono- , oligoor poly- fascicular (Fig. 42.5). The connective tissue appears hyperechoic, with poly- fascicular nerves having more connective tissue content. The mixture of fascicles and connective tissue gives rise to the “honeycomb” appearance of poly- fascicular peripheral nerves. Mono- or oligo- fascicular nerves may be at higher risk of nerve damage from a variety of causes because they have less connective tissue content. Mono- fascicular nerves can be particularly difficult to identify and can resemble small blood vessels. Nerves tend to have more connective tissue as they travel towards the periphery.
+
+**Fig. 42.2 Duplex sonograms illustrate the Doppler shift.** (A) In color Doppler, color encoding is based on the mean frequency shift. (B) In power Doppler, color encoding is based on the power spectrum.
+
+longitudinal diameter vary little along the course of a given nerve. Peripheral nerves do exhibit anisotropy (change in echoes with the angle of insonation), but considerably less than other adjacent anatomic structures such as tendons (Fig. 42.6). Small nerves are best identified by sliding along their known course with the nerve in short axis view. There are many terms used to describe this technique (e.g., “elevator” or “ski lift” technique). Although mono- fascicular nerves are round, oligo- or poly- fascicular nerves are commonly flattened oval or triangular, depending on the adjacent anatomic borders.
+
+The number of fascicles that can be detected within a peripheral nerve depends on the frequency of insonation, with ultra- high frequency ultrasound imaging giving the highest estimates of fascicle count. Insonation frequencies of 10 MHz or higher can distinguish nerves from tendons
+
+Peripheral nerve cross- sectional area (CSA) is relatively constant, and reference values for the normal range are now available for many named nerves. CSA and
+
+<!-- PDF page 4 -->
+
+![](assets/chapter-42/42._Peripheral_Nerve_Blocks_and_Ultrasound_Guidance_for_Regional_Anesthesia.pdf-0004-01.png)
+
+
+A<br>
+
+
+![](assets/chapter-42/42._Peripheral_Nerve_Blocks_and_Ultrasound_Guidance_for_Regional_Anesthesia.pdf-0004-02.png)
+
+
+B<br>
+
+**Fig. 42.3 Nerve echotexture.** (A) Fascicles of the common peroneal ( _short yellow arrow_ ) and tibial ( _long yellow arrow_ ) nerves are visualized in the popliteal fossa. In this sonogram the honeycomb appearance of a poly- fascicular peripheral nerve is observed. (B) Close- up view shows detailed echotexture of the two nerves.
+
+
+![](assets/chapter-42/42._Peripheral_Nerve_Blocks_and_Ultrasound_Guidance_for_Regional_Anesthesia.pdf-0004-04.png)
+
+
+**Fig. 42.4 Radial nerve division in the antecubital fossa.** The deep motor branch and superficial sensory branch lie side- by- side. Here the two fascicles appear similar.
+
+
+![](assets/chapter-42/42._Peripheral_Nerve_Blocks_and_Ultrasound_Guidance_for_Regional_Anesthesia.pdf-0004-06.png)
+
+
+**Fig. 42.5 Femoral nerve in the inguinal region following local anesthetic injection for regional block.** The nerve appears poly- fascicular and lies lateral to the femoral artery ( _yellow arrow_ ).
+
+based on echotexture alone. The blood supply of the proximal sciatic nerve is large enough to help detect its location with duplex Doppler imaging.<sup>10</sup> Peripheral nerves are not easily compressed, and are best imaged with firm transducer pressure. Peripheral nerves are to some degree mobile, with extremity movement producing characteristic nerve motion. The point of optimal visibility (POV) of a particular nerve is usually determined by the tradeoff of the depth and branching pattern of the emerging nerve.
+
+### Nerve Pathology Imaging With Ultrasound
+
+Peripheral nerves can be pathologically enlarged either by entrapment or in certain inherited neuromuscular
+
+disorders, such as Charcot–Marie–Tooth, type 1A, disease (Fig. 42.7).<sup>11</sup> Some evidence suggests that patients with diabetic neuropathy also have enlarged and more rigid peripheral nerves. In many clinical conditions the regenerative capacity of the nerve is limited.
+
+Sonographic signs of peripheral nerve injury include nerve enlargement (fusiform shape, with nerve borders not clear), fascicular crowding (from edema, swelling), and hyperemia (nerve blood flow detected on Doppler scans). Caution is advised when these signs are detected.
+
+### Anatomic Variations
+
+It is important to recognize normal nerve anatomy and adjacent anatomic structures while performing regional blocks. Familiarity with region- specific anatomy is the foundation of safe and effective ultrasound- guided regional anesthesia. However, it is also important to recognize anatomic variations that may influence regional block success rates. Common variations in nerve anatomy include different nerve paths with respect to adjacent muscles and different branching patterns.<sup>12,13</sup> Vascular (e.g., arterial duplication) and bone (e.g., cervical ribs) variations also can occur and may alter the approach for regional anesthesia. The territories supplied by peripheral nerves also vary and overlap with adjacent nerves, and thereby influence the choices for location of regional block.<sup>14,15</sup> Anatomic variations in nerve formation may be evident in sonographic estimates of nerve size.
+
+### Needle Tip Visibility
+
+Many factors influence needle tip visibility in clinical practice. Metal needles are hyperechoic and can cause reverberation artifact. Needle tip visibility is best when the needle path is parallel to the active face of the transducer. Under this condition, the needle is perpendicular to the sound beam; therefore strong specular reflections will be produced; that is, mirror- like reflections will be produced from a smooth surface. As the angle of incidence is increased, the mean brightness will decrease.<sup>16</sup> In this same study, the bevel angles were ground from 10 to 70 degrees but were found to have no effect on the needle tip echo. However, bevel orientation does influence the needle tip echo; visibility is best with the bevel either directly facing or averting the transducer.<sup>17</sup> Because needle diameters are smaller than the scan plane thickness, larger needles are more echogenic than finer ones. Visualization of needles in echogenic tissue
+
+<!-- PDF page 5 -->
+
+![](assets/chapter-42/42._Peripheral_Nerve_Blocks_and_Ultrasound_Guidance_for_Regional_Anesthesia.pdf-0005-02.png)
+
+
+A B<br>
+
+**Fig. 42.6** (A) Sciatic nerve imaging in the subgluteal region. (B) The amplitude of the received echoes diminishes when the angle of insonation is changed away from perpendicular to the nerve path, thereby demonstrating anisotropy.
+
+
+![](assets/chapter-42/42._Peripheral_Nerve_Blocks_and_Ultrasound_Guidance_for_Regional_Anesthesia.pdf-0005-04.png)
+
+
+**Fig. 42.7 Sonogram demonstrates the popliteal fossa of a patient with Charcot–Marie–Tooth, type 1A, disorder.** The peripheral nerves are significantly enlarged because of the large fascicles ( _yellow arrows_ ). Nerves of the symptomatic and asymptomatic sides can appear similar in these patients. Large tick marks are 10 mm apart.
+
+is difficult, particularly in bright adipose tissue. A number of strategies have been proposed to improve needle tip visibility.<sup>18,19</sup> A low- receiver gain can improve the detection of the needle tip echo. Rocking back the transducer can improve the angle between the ultrasound beam and needle during in- plane technique (see Approaches to Regional Block with Ultrasound, below). Most practitioners orient the needle so that the needle bevel faces the transducer.
+
+Small-volume test injections (1 mL or less) with saline or local anesthetic can be useful for identifying the needle or catheter tip location. Gently moving or wiggling the needle also can improve tip conspicuity.
+
+Needles with echogenic modifications are now commercially marketed for peripheral nerve blocks.<sup>20</sup> One engineering strategy has been to texture the needle surface so that echoes return to the transducer source regardless of the angle of insonation (i.e. retroreflection, Fig. 42.8). One potential limitation of these needle designs is the finite size of the needle texturing. Low- frequency transducers produce longer wavelengths that may be too large to reflect strongly back from the textured surface of the needle. Advanced needle tracking systems are being developed to improve deeper or more challenging regional blocks.<sup>21</sup>
+
+## Approaches to Regional Block with Ultrasound
+
+Many approaches to regional block with ultrasound are available. Peripheral nerves are usually viewed in short axis rather than long axis. The needle can approach within the plane of imaging (in- plane technique) or cross the plane of imaging as an echogenic dot (out- of- plane technique). For some regional blocks, offline markings (skin markings
+
+<!-- PDF page 6 -->
+
+![](assets/chapter-42/42._Peripheral_Nerve_Blocks_and_Ultrasound_Guidance_for_Regional_Anesthesia.pdf-0006-01.png)
+
+
+A B<br>C D<br>
+
+**Fig. 42.8 Photomicrographs of needles that are used for regional block.** A plain conventional needle (A) and echogenic designs (B–D) are shown. A smooth needle may not generate a recordable echo because its rounded shaft reflects most incident sound away from the source. A variety of textured surfaces are manufactured and marketed to improve needle tip detection on acquired sonograms. (Modified from Gray AT. _Atlas of Ultrasound- Guided Regional Anesthesia_ . 3rd ed. Philadelphia: Saunders; 2018.)
+
+before needle insertion) are used instead of online imaging (i.e., imaging during needle insertion and injection). Most studies have suggested that adequate visualization and correct identification of the relevant structures (e.g., peripheral nerve, needle tip, local anesthetic, adjacent anatomic structures) is more important than the approach, _per se_ , for outcomes after regional blocks. Nevertheless, consistent practice patterns are developing among institutions and illustrate the underlying principles.
+
+Successful injections for peripheral nerve blocks have typical characteristics (Fig. 42.9). Injections should distribute around the nerve (clarifying the nerve border), travel or track along the nerve path and its distal branches, and separate the nerve from common anatomic structures such as adjacent arteries that are wrapped together in common fascia and connective tissue (Fig. 42.10). However, it has proven difficult to precisely correlate observed local anesthetic distributions with subsequent regional block characteristics.<sup>22</sup>
+
+Although direct nerve imaging has led to a phenomenal increase in ultrasound- guided regional anesthesia, the identification of other nearby anatomic structures, such as the fascia and other connective tissue), is also critical in this endeavor. These layers permit favorable distribution of local anesthetic, making nerve contact with the block needle unnecessary.
+
+### COMMON REGIONAL BLOCK TECHNIQUES BY ANATOMIC REGION
+
+Several recent publications have highlighted the importance of standardization<sup>23</sup> both in nomenclature<sup>24</sup> and basic
+
+
+![](assets/chapter-42/42._Peripheral_Nerve_Blocks_and_Ultrasound_Guidance_for_Regional_Anesthesia.pdf-0006-08.png)
+
+
+**Fig. 42.9 Local anesthetic injection for successful peripheral nerve block.** The ulnar nerve and ulnar artery are viewed in short axis in the forearm in this sonogram. The nerve is surrounded with anechoic local anesthetic.
+
+regional anesthesia techniques.<sup>25</sup> To help promote more widespread adoption of regional anesthesia techniques, this chapter focuses on technical content for “high yield” upper extremity, truncal, and lower extremity blocks that would be approachable to all anesthesiologists. The applicability of these techniques depends on the procedure, the patient, and the preferences/skillset of the anesthesiologist,
+
+<!-- PDF page 7 -->
+
+![](assets/chapter-42/42._Peripheral_Nerve_Blocks_and_Ultrasound_Guidance_for_Regional_Anesthesia.pdf-0007-02.png)
+
+
+**Fig. 42.10 Local anesthetic distribution following infraclavicular block.** The three cords of the brachial plexus (lateral, posterior, and medial) are surrounded by the injected fluid. All three cords lie adjacent to the axillary artery.
+
+in partnership with the surgeon. As the intent is not to be exhaustive, the authors of this chapter encourage additional supplementation of content with other regional anesthesiafocused textbooks (e.g., Gray AT. _Atlas of Ultrasound- Guided Regional Anesthesia_ . Saunders, 2009; Hebl J, Lennon R. _Mayo Clinic Atlas of Regional Anesthesia and UltrasoundGuided Nerve Blockade_ . Mayo Clinic Scientific Press, 2010; Jankovic D, Peng P. _Regional Nerve Blocks in Anesthesia and Pain Ther_ apy. Springer International Publishing, 2022) and online resources (e.g., American Society for Regional Anesthesia and Pain Medicine [ASRA] Pain Medicine, “How I Do It” series, www.asra.com; New York School of Regional Anesthesia [NYSORA], www.nysora.com; Ultrasound for Regional Anesthesia [UGRA], www.usra.ca).
+
+### UNIVERSAL CONTRAINDICATIONS
+
+It is essential that anesthesiologists have a thorough understanding of the universal contraindications applicable to all regional anesthetic techniques, as well as the block- specific contraindications (see sections below). Universal absolute contraindications include patient refusal, infection at the site of needle insertion, allergy to local anesthetic, or the result of the block negatively impacting surgery or postoperative neurologic exam. Universal relative contraindications include combative patients, preexisting neuropathy, and anticoagulation or coagulopathy. For some blocks, these relative contraindications may become absolute contraindications.
+
+### CHOICE OF LOCAL ANESTHETIC
+
+The choice of local anesthetic for a peripheral nerve block depends to some extent on the duration of the surgical procedure or desired analgesia, although other factors are also important (see Chapter 25). Prolonged blockade for up to 24 hours often occurs with long- acting local anesthetics such as bupivacaine or ropivacaine. Whatever drug is chosen, the total dosage should be calculated for each patient
+
+and should be kept within safe limits (see Chapter 25 for details).
+
+Vasoconstrictors, usually epinephrine, can be added to the local anesthetic to decrease drug uptake and to prolong action. A concentration of 1:200,000–1:400,000 epinephrine is usually recommended. Ideally, the epinephrine should be added to the local anesthetic at the time the block is to be performed. Commercially prepared solutions with epinephrine have a much lower pH, resulting in a higher percentage of ionized drug molecules. These ionized molecules do not readily cross the neural membrane, delaying the onset of action after injection. Epinephrine should not be added to the local anesthetic for peripheral nerve blocks of the digits, ankle, or penis because tissue ischemia may result. Various other additives, including steroids, clonidine, dexmedetomidine, opioids, and ketamine, have been reported to enhance or prolong local anesthetic peripheral nerve blockade (see Chapter 25). Liposomal bupivacaine, which slowly releases local anesthetic, is now approved by the Food and Drug Administration (FDA) for facial plane blocks and interscalene nerve blocks. Unfortunately, the benefit of this formulation to provide an extended block compared to single-injection blocks with plain long- acting local anesthetics or continuous catheters has not been reliably demonstrated.<sup>26</sup>
+
+### UNIVERSAL COMPLICATIONS
+
+A thorough understanding of the potential complications of regional anesthesia is critical to adequately obtain informed patient consent. There is a spectrum of complications ranging from minor side effects to major morbidity. Patients should be monitored and observed carefully during the block and for at least 30 minutes afterward for immediate complications. In addition, there should be a mechanism in place for follow- up and management of later- occurring complications. Universal complications for all types of peripheral blocks include bleeding, nerve injury, local anesthetic systemic toxicity (LAST), and injury to structures in the area (i.e., phrenic nerve, lung, other non- target nerves).
+
+### Postoperative Nerve Injury
+
+Nerve injury is a recognized complication of peripheral regional techniques (Box 42.1). Prevention of neurologic complications begins during the preoperative visit with a careful evaluation of the patient’s medical history. It is imperative that all preoperative neurologic deficits are documented to allow early diagnosis of new or worsening neurologic dysfunction postoperatively. Postoperative sensory or motor deficits must also be distinguished from residual (prolonged) local anesthetic effect. Although most neurologic complications resolve completely within several days or weeks, significant neurologic injuries necessitate consultation to document the degree of involvement and coordinate further workup. Neurophysiologic testing, such as nerve conduction studies, evoked potentials, and electromyography, are often useful in establishing a diagnosis and prognosis. Risk factors contributing to neurologic deficit after regional anesthesia include neural ischemia, traumatic injury to the nerves during needle or catheter placement, and infection. Theoretically, localization of neural structures with a nerve stimulator or ultrasound
+
+<!-- PDF page 8 -->
+
+### Box 42.1 Recommendations: Needle Tip Location, Choice of Local Anesthetic, and Nerve Localization Techniques
+
+### Needle Tip Location, Choice of Local Anesthetic, and Paresthesia
+
+- Intrafascicular needle insertion and injection should be avoided because it can cause histologic and/or functional nerve injury.
+
+### Nerve Localization Techniques
+
+- There are no human data to support the superiority of one nerve localization technique over another regarding reducing the likelihood of peripheral nerve injury.
+
+- Peripheral nerve stimulation ᑏ Presence of an evoked motor response at a current of &lt;0.5 mA (pulse duration 0.1 ms) indicates intimate needle– nerve relationship, needle–nerve contact, or an intraneural needle placement.
+
+- Injection pressure monitoring ᑏ Animal data have linked high injection pressures to subsequent fascicular injury, but there are no human data that confirm or refute the effectiveness of injection pressure monitoring for limiting peripheral nerve injury.
+
+- Ultrasound
+
+- Ultrasound can detect intraneural injection.
+
+- Current ultrasound technology does not have adequate resolution to discern between an interfascicular and intrafascicular injection.
+
+- Adequate images of needle–nerve interface are not consistently obtained by all operators and in all patients.
+
+Modified from Neal JM, Barrington MJ, Brull R, et al. The second ASRA practice advisory on neurologic complications associated with regional anesthesia and pain medicine: executive summary 2015. _Reg Anesth Pain Med_ . 2015;40(5):401–430.
+
+guidance would allow a high success rate without increasing the risk of neurologic complications, but this has not been established. Likewise, prolonged exposure, high dose, or high concentrations of local anesthetic solutions can also result in permanent neurologic deficits. In laboratory models, the addition of epinephrine increases the neurotoxicity of local anesthetic solutions and decreases nerve blood flow; however, the clinical relevance of these findings in humans remains unclear.
+
+Postoperative neurologic injury because of pressure from improper patient positioning, tightly applied casts or surgical dressings, and surgical trauma is often attributed to the regional anesthetic. Patient factors such as body habitus or a preexisting neurologic dysfunction can also contribute.<sup>27–29</sup>
+
+### Hemorrhagic and Infectious Complications
+
+Hemorrhagic complications have been described with nearly every peripheral technique and range from localized bruising to severe hematomas or hemorrhagic complications depending on the location of the block. For example, post- procedure bleeding after a superficial block may lead to a minor bruise whereas post- procedure bleeding following a posterior lumbar plexus block could lead to a massive retroperitoneal hemorrhage. The placement of peripheral nerve blocks in patients with a coagulopathy or on anticoagulation therapy should be performed with caution, especially in a deep, noncompressible site where an expanding
+
+hematoma could go unnoticed (e.g., lumbar plexus) or in a location where a hematoma could compress the airway (e.g., interscalene).<sup>30</sup>
+
+Infectious complications can be caused by exogenous (contaminated medication or equipment) or endogenous sources. Infection at the site of needle placement is an absolute contraindication to peripheral nerve blockade, although caution should be used in patients with nearby cellulitis or systemic blood infections (bacteremia or sepsis). Although bacterial colonization of peripheral nerve catheters is not uncommon, cellulitis, abscess, or bacteremia are extremely rare.<sup>31–33</sup> Imaging techniques, such as computed tomography and magnetic resonance imaging, are useful in identifying infectious processes and expanding hematomas.
+
+### Intravascular Injections and Systemic Toxicity
+
+The use of ultrasound guidance and the resulting reduced doses of local anesthetic used may decrease but not eliminate the risk of LAST.<sup>34</sup> Therefore, practitioners of regional anesthesia must be familiar with the immediate detection and treatment of LAST, which can occur immediately from an intravascular injection, or it may be delayed due to excessive systemic absorption of local anesthetic. In addition to frequent aspiration during injection of local anesthetic, the addition of epinephrine can help alert the practitioner to potential intravascular injection. Typically, an assistant will aspirate with the syringe after each 5 mL injection of local anesthetic. When using ultrasound guidance, the injection should be imaged during the entire procedure. If local anesthetic spread is not appreciated, pause to re- ascertain needle tip position and scout for adjacent blood vessels (lift probe and look for nearby veins relative to the needle position). Lipid emulsion rescue therapy improves success of resuscitation from cardiac arrest due to local anesthetic toxicity if given immediately after a local anesthetic overdose.<sup>34–36</sup> Checklists are advised for use if LAST is suspected.<sup>37</sup> For more details on treatment of local anesthesia toxicity, see Chapter 25.
+
+### UPPER EXTREMITY BLOCKS
+
+The brachial plexus is derived from the anterior primary rami of the fifth, sixth, seventh, and eighth cervical nerves and the first thoracic nerve, with variable contributions from the fourth cervical and second thoracic nerves. After leaving their intervertebral foramina, these nerves course anterolaterally and inferiorly to lie between the anterior and middle scalene muscles, which arise from the anterior and posterior tubercles of the cervical vertebra, respectively. The anterior scalene muscle passes caudally and laterally to insert into the scalene tubercle of the first rib; the middle scalene muscle inserts on the first rib posterior to the subclavian artery, which passes between these two scalene muscles along the subclavian groove. The prevertebral fascia invests the anterior and middle scalene muscles, fusing laterally to enclose the brachial plexus in a fascial sheath.
+
+Between the scalene muscles, these nerve roots unite to form three trunks, which emerge from the interscalene space to lie cephaloposterior to the subclavian artery as it courses along the upper surface of the first rib. The superior (C5 and C6), middle (C7), and inferior (C8 and T1) trunks are arranged accordingly and are not in a strict horizontal
+
+<!-- PDF page 9 -->
+
+![](assets/chapter-42/42._Peripheral_Nerve_Blocks_and_Ultrasound_Guidance_for_Regional_Anesthesia.pdf-0009-02.png)
+
+
+Roots<br>C5<br>Trunks<br>C6<br>Divisions<br>C7<br>Cords<br>C8<br>Branches T1<br>Musculocutaneous<br>nerve<br>Axillary nerve<br>Radial nerve<br>Median nerve Medial antebrachial cutaneous nerve<br>Medial brachial cutaneous nerve<br>Ulnar nerve<br>Medial<br>Superior<br>Middle<br>Posterior<br>Lateral Inferior<br>
+
+**Fig. 42.11 Roots, trunks, divisions, cords, and branches of the brachial plexus.**
+
+formation, as often depicted. At the lateral edge of the first rib, each trunk forms anterior and posterior divisions that pass posterior to the midportion of the clavicle to enter the axilla. Within the axilla, these divisions form the lateral, posterior, and medial cords, named for their relationship with the second part of the axillary artery. The superior divisions from the superior and middle trunks form the lateral cord, the inferior divisions from all three trunks form the posterior cord, and the anterior division of the inferior trunk continues as the medial cord.
+
+At the lateral border of the pectoralis minor, the three cords divide into the peripheral nerves of the upper extremity. The lateral cord gives rise to the lateral head of the median nerve and the musculocutaneous nerve; the medial cord gives rise to the medial head of the median nerve, as well as the ulnar, the medial antebrachial, and the medial brachial cutaneous nerves; and the posterior cord divides into the axillary and radial nerves (Fig. 42.11).
+
+Aside from the branches from the cords that form the peripheral nerves as described, several branches arise from the roots of the brachial plexus providing motor innervation to the rhomboid muscles (C5), the subclavian muscles (C5 and C6), and the serratus anterior muscle (C5, C6, and C7). The suprascapular nerve arises from C5 and C6, supplies the muscles of the dorsal aspect of the scapula, and makes a significant contribution to the sensory supply of the shoulder joint.
+
+Sensory distributions of the cervical roots and the peripheral nerves are shown in Fig. 42.12.
+
+Branches arising from the cervical roots were traditionally blocked with the interscalene approach to the brachial plexus. However, interscalene block has a welldocumented risk of concomitant phrenic nerve block. This can result in symptomatic hemidiaphragmatic paralysis and respiratory compromise, especially among those patients with obesity or moderate to severe obstructive pulmonary disease.<sup>38,39</sup> Recent evidence suggests diaphragm paresis may be avoidable with more distal “lung- sparing”
+
+block techniques that target the terminal nerves supplying the shoulder joint.
+
+By design, brachial plexus blocks above the clavicle (e.g., interscalene and supraclavicular blocks) primarily target local anesthetic placement near the ventral rami, trunks, and divisions. Blocks below the clavicle (e.g., infraclavicular and axillary blocks) primarily target the cords and terminal nerves. However, expanded ultrasound use has allowed these traditionally described anatomic lines to blur, making hybrid blocks and selective nerve targeting possible.
+
+### Interscalene Brachial Plexus Block (ISB)
+
+The ISB is often the chosen regional anesthesia technique for shoulder surgery<sup>40</sup> in patients without significant pulmonary disease. Blockade occurs at the level of the superior and middle trunks of the brachial plexus. This technique is not recommended for forearm and hand surgery because blockade of the inferior trunk (C8 and T1) can be incomplete and require supplementation of the ulnar nerve for adequate surgical anesthesia in that distribution.<sup>41</sup> However, ultrasound guidance for ISB reduces the chance of inferior trunk sparing.<sup>42</sup>
+
+**Ultrasound- Guided Technique.** Traditional approaches to ISB include paresthesia or peripheral nerve stimulation technique. However, this block is well suited to the use of ultrasound guidance. The patient should be in the supine position, with the head turned away from the side to be blocked and the patient’s arm in any position (Fig. 42.13). A supraclavicular view of the subclavian artery and brachial plexus should be obtained (Fig. 42.14) and then the plexus is traced up the neck with a high- frequency ultrasound probe until the plexus trunks are visualized as hypoechoic structures between the anterior and medial scalene muscles (the “stoplight” sign<sup>43</sup> ). The needle can then be advanced with either an in- plane or out- of- plane approach. An advantage of the out- of- plane approach is avoidance of the long thoracic and dorsal scapular nerves
+
+<!-- PDF page 10 -->
+
+![](assets/chapter-42/42._Peripheral_Nerve_Blocks_and_Ultrasound_Guidance_for_Regional_Anesthesia.pdf-0010-01.png)
+
+
+Anterior Posterior<br>Anterior Posterior<br>Upper lateral<br>cutaneous<br>nerve of arm<br>C6 Medial<br>cutaneous<br>nerve of arm<br>and intercostal<br>C7 brachial nerve<br>C8 Cutaneous<br>branches<br>T1 of radial nerve<br>Medial<br>Lateral<br>cutaneous<br>cutaneous<br>nerve of forearm<br>nerve of<br>forearm<br>Ulnar nerve<br>C6<br>Radial nerve<br>C7<br>A B Median nerve<br>
+
+**<mark>Fig. 42.12</mark>** <mark>(A) Cutaneous distribution of the cervical roots. (B) Cutaneous distribution of the peripheral nerves.</mark>
+
+
+![](assets/chapter-42/42._Peripheral_Nerve_Blocks_and_Ultrasound_Guidance_for_Regional_Anesthesia.pdf-0010-03.png)
+
+
+AS<br>MS<br>A B<br>
+
+**Fig. 42.13 Interscalene brachial plexus block with ultrasound imaging.** (A) External photograph of the setup for interscalene brachial plexus block with out- of- plane needle approach. (B) Sonogram of the plexus trunks. The plexus lies between the anterior scalene (AS) and middle scalene (MS) muscles in this anatomic region. Local anesthetic placement within the periplexus space ( _yellow line_ ) adjacent to the MS.
+
+<!-- PDF page 11 -->
+
+which are difficult to visualize within the middle scalene muscle belly. Also, the out- of- plane approach allows for relatively easy catheter placement alongside the brachial plexus. Use color Doppler to identify vascular structures in the area. After negative aspiration, local anesthetic spread around the brachial plexus confirms appropriate placement of the needle. Generally, 10–15 mL of local anesthetic is used, although volumes as low as 5 mL are successful and may be associated with a decreased frequency of diaphragmatic paresis.<sup>44</sup>
+
+**Side Effects and Complications.** At the traditional (C6) level of ISB, ipsilateral phrenic nerve block and resultant diaphragmatic paresis are inevitable. This effect results from the proximity of the phrenic nerve to the plexus at this level<sup>45</sup> and may cause subjective symptoms of dyspnea. Respiratory compromise can occur in patients with severe preexisting respiratory disease or contralateral phrenic nerve dysfunction.
+
+Blockade of the vagus, recurrent laryngeal, and cervical sympathetic nerves is rarely significant when unilateral, but reassurance may be required if patients experience symptoms related to blockade of these nerves. The risk of pneumothorax is small when the needle is correctly placed at the C5 or C6 level because of the distance from the dome of the pleura.
+
+Severe hypotension and bradycardia (i.e., Bezold– Jarisch reflex) can occur in awake, sitting patients undergoing shoulder surgery under ISB. The cause is presumed to be stimulation of intracardiac mechanoreceptors by decreased venous return, producing an abrupt withdrawal of sympathetic tone and enhanced parasympathetic output. This effect results in bradycardia, hypotension, and syncope.
+
+Epidural and intrathecal injections have occurred with this block, primarily when done under general anesthesia. The proximity of significant neurovascular structures (including the spinal cord) may increase the risk of serious neurologic complications when interscalene block is performed in heavily sedated or anesthetized patients.
+
+
+![](assets/chapter-42/42._Peripheral_Nerve_Blocks_and_Ultrasound_Guidance_for_Regional_Anesthesia.pdf-0011-07.png)
+
+
+Sternocleidomastoid<br>muscle<br>Brachial<br>plexus<br>Subclavian<br>artery<br>First rib<br>Lung<br>
+
+**Fig. 42.14 Ultrasound image of the brachial plexus at the level of the first rib.**
+
+Accordingly, it is recommended that interscalene blocks are placed under light sedation in adult patients.
+
+### Superior Trunk Block and Anterior Suprascapular Nerve Block
+
+The superior trunk block and the anterior suprascapular nerve block are two examples of how ultrasound use has enabled the traditional interscalene brachial plexus block to evolve. The suprascapular nerve (arising from the superior trunk) provides 70% of the innervation of the shoulder joint; therefore, selective blockade has been proposed as an alternative to surgical anesthesia and analgesia provided by ISB, especially in those patients with compromised pulmonary function.<sup>46</sup> Auyong and colleagues have shown the anterior suprascapular block technique provides noninferior, yet phrenic- sparing analgesia compared to interscalene nerve block without need for additional terminal nerve block supplementation (e.g., axillary block).<sup>47</sup> Likewise, Kim and colleagues showed that, compared to the interscalene block, a low- dose (15 mL) superior trunk block resulted in less-frequent hemidiaphragmatic paralysis with noninferior pain and patient satisfaction scores.<sup>48</sup>
+
+**Ultrasound- Guided Technique.** Using similar positioning to ISB, the cervical roots and interscalene muscles are identified using a high- frequency ultrasound probe that is then slid distally until the suprascapular nerve is seen branching off the superior trunk. Under dynamic scanning, the suprascapular nerve can be visualized as a round hypoechoic structure deep to the inferior belly of the omohyoid muscle and lateral to the superior trunk in the posterior cervical triangle of the neck (Fig. 42.15). Use of color Doppler is advised as the transverse cervical artery and the suprascapular artery, also hypoechoic structures, can mimic the suprascapular nerve within the posterior cervical triangle.
+
+For the superior trunk block, target the injectate in the location immediately before the suprascapular nerve branches. For the anterior suprascapular nerve block, trace the suprascapular nerve more posterior–lateral to a distance away from the superior trunk. Through an out- of- plane or
+
+
+![](assets/chapter-42/42._Peripheral_Nerve_Blocks_and_Ultrasound_Guidance_for_Regional_Anesthesia.pdf-0011-14.png)
+
+
+omohyoid<br>A<br>
+
+**Fig. 42.15 Proximal suprascapular nerve block (anterior suprascapular nerve block) sonogram.** The suprascapular nerve is featured as a round hypoechoic structure ( _yellow arrow_ ) deep to the inferior belly of the omohyoid muscle lateral to the superior trunk of the brachial plexus within the posterior cervical triangle.
+
+<!-- PDF page 12 -->
+
+in- plane approach approximately 5 to 15 mL of local anesthetic is deposited deep into omohyoid muscle, but shallow to the prevertebral fascia (higher volumes could result in phrenic nerve blockade).
+
+**Side Effects and Complications.** Administering lower anesthetic volumes (≤15 mL) and directing the injectate to the proximal origin of the suprascapular nerve has resulted in lower frequency of neurologic symptoms compared to pre–ultrasound era studies.<sup>49</sup> However, additional study is required before declaring the superior trunk block, the anterior suprascapular block, and other phrenic sparing approaches as complete replacement options to ISB.
+
+### Supraclavicular Brachial Plexus Block
+
+Indications for supraclavicular blocks include operations on the elbow, forearm, and hand. Blockade occurs at the distal trunk–proximal division level of the brachial plexus. At this point, the brachial plexus is relatively compact, and a small volume of local anesthetic produces rapid onset of reliable blockade.
+
+**Ultrasound- Guided Technique.** The patient is placed supine, with the head turned away from the side to be blocked. The arm to be anesthetized is adducted against the side of the body. Although this block can be performed using paresthesia or peripheral nerve stimulation, the introduction of ultrasound guidance has made this block far more popular. Ultrasound guidance allows visualization of the brachial plexus, subclavian artery, pleura, and first rib. The inherent safety of this technique requires continuous visualization of the needle tip and adjacent anatomic structures during needle advancement.
+
+A high- frequency linear transducer is positioned just proximal to the supraclavicular fossa to obtain a supraclavicular view (see Fig. 42.14). The brachial plexus trunks and divisions are clustered vertically over the first rib on the lateral side of the subclavian artery. The first rib, which is short, wide, and flat, acts as a medial barrier to prevent the needle from reaching the pleural dome.
+
+The needle is advanced under direct ultrasound guidance using an in- plane approach from lateral to medial.<sup>50,51</sup> After negative aspiration, local anesthetic spread around the brachial plexus confirms appropriate placement of the
+
+needle tip. Volumes ranging from 15 to 30 mL may be successful; however, considering the compact nature of the supraclavicular fossa, higher local anesthetic volumes may result in ischemic compression of the neural elements with heightened potential for neurologic injury.
+
+**Side Effects and Complications.** The prevalence of pneumothorax after supraclavicular block is 0.5% to 6% and diminishes with increased experience, but even under ultrasound guidance the risk has not been eliminated.<sup>52</sup> The supraclavicular approach is best avoided when the patient is uncooperative or cannot tolerate any degree of respiratory compromise. Other unique complications include phrenic nerve block (as high as 40%–60%) and Horner syndrome. The presence of phrenic or cervical sympathetic nerve block usually requires only reassurance.
+
+### Infraclavicular Brachial Plexus Block
+
+The advantages of the infraclavicular block are that it results in complete brachial plexus anesthesia, provides a stable location for catheter placement, and no manipulation of the arm is necessary.<sup>53–55</sup> The disadvantages are that the infraclavicular block is a deep block; therefore, needle or probe manipulations may be necessary, along with steep angles of needle insertion that result in decreased needle tip visibility.
+
+**Ultrasound- Guided Technique.** Although the arm can remain at the side of the patient, the block is facilitated with shoulder abduction to 90 degrees, which externally rotates the humeral head, retracts the clavicle, and straightens the neurovascular bundle. The three cords are named medial, lateral, and posterior with respect to the second part of the axillary artery. The authors of this chapter prefer a lateral sagittal (paracoracoid) approach which allows for the artery to be visualized in short- axis view deep to the pectoralis major and minor muscles (Fig. 42.16). The ideal place for local anesthetic injection is posterior to the axillary artery for single- injection or catheter placement. Substantial evidence suggests that 30–40 mL of local anesthetic placed posterior to the axillary artery produces complete brachial plexus block (Table 42.1 and Box 42.2). The cords of the brachial plexus do not need to be directly visualized for successful block.
+
+
+![](assets/chapter-42/42._Peripheral_Nerve_Blocks_and_Ultrasound_Guidance_for_Regional_Anesthesia.pdf-0012-13.png)
+
+
+Lateral<br>PMa (cephalad)<br>PMi<br>A<br>V<br>A B C<br>
+
+**Fig. 42.16 Infraclavicular brachial plexus block with ultrasound imaging.** (A) External photograph of the setup for infraclavicular block shows the arm has been abducted in this case. (B) Sonogram of the cords of the brachial plexus ( _yellow arrows_ ) are adjacent to the axillary artery (A) and vein (V). The neurovascular bundle lies deep to the pectoralis major (PMa) and pectoralis minor (PMi) muscles in this anatomic region. (C) Needle tip is in position for infraclavicular block and the resulting local anesthetic distribution.
+
+<!-- PDF page 13 -->
+
+![](assets/chapter-42/42._Peripheral_Nerve_Blocks_and_Ultrasound_Guidance_for_Regional_Anesthesia.pdf-0013-01.png)
+
+
+1317<br>
+
+Alternatively, the costoclavicular approach to the infraclavicular brachial plexus block, where the cords of the brachial plexus are clustered together in a same plane lateral to the first part of the axillary artery, has been compared to the lateral sagittal (paracoracoid) approach.<sup>56</sup> Local anesthetic is injected between the cords of the brachial plexus at the costoclavicular space, resulting in a more rapid onset based on the intra- cord distribution. This lateral to medial needle trajectory when using a costoclavicular approach has higher potential for inadvertent pleural puncture. This is due to the close proximity of the lung to the costoclavicular space. Similar to the supraclavicular block, injectate within the neural element clusters may result in higher potential for injury whether directly by needle contact or as a result of volume compression.
+
+**Side Effects and Complications.** The disadvantage of the infraclavicular brachial plexus block, over supraclavicular and axillary brachial plexus block, is that it is a deeper block, making needle tip visibility challenging due to steep angle trajectories. Duplication of the axillary vein is an important anatomic variation in the infraclavicular region. The clinical problem is that the accessory vein lies adjacent to the lateral cord of the brachial plexus and near the usual desired position of the needle tip.
+
+### Axillary Brachial Plexus Block
+
+The axillary block is a versatile block for upper extremity anesthesia providing surgical anesthesia of the distal upper arm, elbow, and hand. Although relatively safe and effective with classical approaches, one historic weakness
+
+**Table 42.1** Examples of Sonographic Landmarks for Infraclavicular Block
+
+|**Proximal**|**Optimal Location**|**Distal**|
+|---|---|---|
+|Cephalic vein|Pectoralis<br>minor muscle<br>(midportion)|Subscapular artery|
+|Thoracoacromial<br>artery|Brachial plexus cords<br>surround axillary<br>artery|Coracobrachialis muscle|
+|Chest wall and<br>pleura|Posterior (or medial)<br>cord underneath<br>axillary artery|Anterior circumflex<br>artery<br>Posterior circumflex<br>artery|
+
+
+Infraclavicular block is usually performed at the level of the second part of the axillary artery (deep to the pectoralis minor muscle). Proximal and distal landmarks along the course of the axillary artery are listed.
+
+### Box 42.2 Sonographic Signs Indicating Infraclavicular Block Success
+
+- Reduction in axillary artery diameter during injection
+
+- “U- shaped” distribution underneath the axillary artery
+
+- Separation of cords from axillary artery
+
+- _White wall_ appearance to the axillary artery (free walls)
+
+- _Dark layer_ underneath the axillary artery (long- axis view)
+
+- Several studies of clinical block characteristics have validated the high predictive value of local anesthetic distribution underneath the axillary artery for three- cord anesthesia (“U- shaped” distribution).
+
+has been the failure to ensure blockade of tourniquetrelated pain. With the advent of ultrasound imaging, this limitation can be overcome by directly visualizing and targeting the musculocutaneous (branch of the lateral cord), medial brachial cutaneous (branch of the medial cord), and intercostobrachial nerve (not part of the brachial plexus, but rather from the thoracic second intercostal nerve), all located separate from the brachial plexus when using traditional landmark- based approaches to axillary brachial plexus blockade.
+
+**Ultrasound- Guided Technique.** The shallow depth of the neurovascular bundle (a 20- mm field is typical) makes this block relatively easy with ultrasound guidance (Table 42.2). Usually, three nerves (median, ulnar, and radial) and one nerve with a characteristic medial- to- lateral course in the axilla (musculocutaneous) are visualized. In addition, the musculocutaneous nerve has a characteristic change in shape as it moves from adjacent to the artery (round) to within the coracobrachialis muscle (flat) and then exiting the muscle (triangular).
+
+Both in- plane (with needle approaching from the lateral side of the arm) and out- of- plane (with needle approaching from distal to proximal) techniques can be used (Figs. 42.17 and 42.18; Video 42.2). The block is performed in the proximal axilla, with the transducer gently pressed against the chest wall to visualize the conjoint tendon of the latissimus dorsi and teres major.<sup>57</sup> A high- frequency linear probe is used and the ideal location for local anesthetic injection is between the nerves and the artery so that separation between the two structures occurs to ensure distribution within the neurovascular bundle. The musculocutaneous nerve is usually blocked within the coracobrachialis muscle, where its flat shape gives a large amount of surface area for rapid block onset. Duplication of the axillary artery and musculocutaneous–median nerve fusion (low- lying lateral cord) are common anatomic variations in the axilla. Ultrasound- guided selective medial brachial cutaneous and intercostobrachial nerve blocks located separate from the brachial plexus superficial to the brachial fascia are recommended for additional tourniquet- related pain coverage.<sup>58</sup>
+
+**Side Effects and Complications.** The axillary approach to the brachial plexus is superficial in location, compressible, and associated with a very low complications rate. However, the vascular anatomy within the axilla is notably variable and intravascular injection must be avoided.
+
+**Table 42.2** Comparison of the Infraclavicular and Axillary Approaches to Brachial Plexus Block
+
+||**Infraclavicular Block**|**Axillary Block**|
+|---|---|---|
+|Depth|Deep (two overlying<br>muscles)|Shallow|
+|Onset|Slower|Faster|
+|Tourniquet<br>tolerance|Good|Fair|
+|Catheter success|High|Low|
+
+
+
+::: details 原始表格與符號（PDF 第 13 頁）
+
+![第 42 章，原始 PDF 第 13 頁](assets/chapter-42/source-page-0013.png)
+
+:::
+
+<!-- PDF page 14 -->
+
+![](assets/chapter-42/42._Peripheral_Nerve_Blocks_and_Ultrasound_Guidance_for_Regional_Anesthesia.pdf-0014-01.png)
+
+
+Lateral<br>A<br>A B<br>
+
+**Fig. 42.17 Axillary brachial plexus block with ultrasound guidance.** (A) External photograph demonstrates the in- plane approach. (B) Sonogram of the neurovascular bundle in the short- axis view shows the needle tip in- plane after injection of the local anesthetic. The probe compression is just sufficient to coapt the walls of the satellite veins. The block is performed at the level of the conjoint tendon of the latissimus dorsi and teres major ( _white arrows_ ), which lies under the neurovascular structures. The third part of the axillary artery (A) and nerves of the brachial plexus—radial, ulnar, median, and musculocutaneous—in order from medial to lateral ( _yellow arrows_ ) are shown.
+
+
+![](assets/chapter-42/42._Peripheral_Nerve_Blocks_and_Ultrasound_Guidance_for_Regional_Anesthesia.pdf-0014-03.png)
+
+
+Lateral<br>A<br>A B<br>
+
+**Fig. 42.18 Axillary brachial plexus block with ultrasound guidance.** (A) External photograph demonstrates the out- of- plane approach. (B) Sonogram of the neurovascular bundle in the short- axis view shows the needle tip ( _white arrow_ ) crossing the plane of imaging. The probe compression is just sufficient to coapt the walls of the satellite veins. The third part of the axillary artery ( _A_ ) and nerves of the brachial plexus ( _yellow arrows_ ) are shown.
+
+### TRUNCAL BLOCKS
+
+Traditionally, central neuraxial blocks have dominated pain management strategies for chest wall and abdominal surgeries. However, epidural and spinal blocks come with bilateral motor blockade, urinary retention, pruritus, nausea and vomiting, and an elevated risk for spinal cord injury or epidural hematoma compared to peripheral techniques. Furthermore, peripheral nerve blockade is associated with fewer cardiovascular and respiratory alterations. Recently, the use of ultrasound has facilitated paravertebral block and other fascial plane block targets, which has effectively expanded options for peripheral nerve blockade approaches to the chest wall and abdomen. In addition, truncal blocks can be performed in either unilateral or bilateral single, multiple injections, or for continuous catheter use.
+
+### Paravertebral Block
+
+The paravertebral block provides anesthesia and analgesia for operations (including breast and cardiothoracic surgery) that is comparable to thoracic epidural but with less complications than appreciated with central neuraxial blockade. The anatomic borders of the paravertebral space include the parietal pleura (anterolaterally), the vertebral body, intervertebral disk, and neural foramen (medially), the posterior intercostal membrane (laterally), and the superior costotransverse ligament (posteriorly). This makes the thoracic paravertebral space contiguous with the epidural space, the intercostal space, and the contralateral paravertebral space through the paravertebral fascia. The targeted neural elements within the paravertebral space include the intercostal nerve (ventral ramus),
+
+<!-- PDF page 15 -->
+
+![](assets/chapter-42/42._Peripheral_Nerve_Blocks_and_Ultrasound_Guidance_for_Regional_Anesthesia.pdf-0015-02.png)
+
+
+TP TP<br>B<br>TP<br>TP<br>A C<br>
+
+**Fig. 42.19 Paravertebral and erector spinae block with ultrasound guidance.** (A) Seated position image demonstrates the approach for both the paravertebral and erector spinae plane blocks. (B) In this sonogram, the transverse processes (TP) are identified. The needle approaches in- plane, caudal to cranial in trajectory and is directed until it just pierces the superior costotransverse ligament. The “smile sign” is from local anesthetic depressing the parietal pleura anteriorly. (C) The needle approaches the surface ( _yellow arrow_ ) of the TP during the more superficial erector spinae plane block.
+
+the dorsal ramus, the gray and white communications, and the sympathetic chain.
+
+**Ultrasound- Guided Technique.** In a seated position, the spinous process of each level is identified and marked 2.5 cm lateral from the superior border of the spinous process in the area targeted for blockade. In the thoracic region, these marks correspond to the transverse process of the immediately caudal vertebra (Fig. 42.19). Although a transverse horizontal probe position is described in the literature, the authors prefer a parasagittal approach in which the probe is positioned vertically. This allows for improved visualization of the pleura, more ergonomic hand positioning, and improved needle navigation past adjacent transverse processes. Furthermore, an anatomic study has shown improved dye spread with a parasagittal compared to the transverse approach.<sup>59</sup> Using a low-frequency curvilinear probe, identify the transverse processes of two spinal levels, the superior costotransverse ligament, and parietal pleura/lung. The probe may be moved laterally with rib visualization as the lateral- most limit. Using an in- plane caudal to cranial trajectory, aim the needle for the nearside transverse process and advance (using hydrolocation technique to confirm needle tip) until it just pierces the superior costotransverse ligament. Local anesthesia injected within the paravertebral space will depress the parietal pleura anteriorly, creating a “smile sign.”
+
+**Side Effects and Complications.** Pneumothorax is the most feared complication following paravertebral blockade. Although the actual incidence during ultrasound- guided paravertebral block is low, with rates similar to the operation alone,<sup>60</sup> treatment for this complication is generally limited to observation, administration of oxygen, or needle aspiration. Rarely is chest tube placement required.
+
+Patients with severe pulmonary disease who rely on their intercostal muscles can exhibit respiratory decompensation after bilateral blockade. The transverse approach with medial needle placement has been associated with dural puncture, intraforaminal spinal cord injury, and high spinal. Block failure can occur in 6%–10%, depending on level of experience.
+
+### Erector Spinae Plane (ESP) Block
+
+The ESP block has become a popular somatic and visceral pain analgesic alternative to the paravertebral block due to its more superficial location remote from the lung.<sup>61</sup> Considering the approachability under ultrasound guidance, ESB block has been readily adopted for thoracic procedures (e.g., lung and breast operations) and chest trauma treatment (e.g., rib fractures). The erector spinae muscle group extends along the spine bilaterally and lies superficial to the transverse processes. The exact mechanism of action of the ESP block is unknown; however, it is postulated that the dorsal and ventral rami and sympathetic nerves may be anesthetized within the involved targeted levels.
+
+<!-- PDF page 16 -->
+
+**Ultrasound- Guided Technique.** In a seated or lateral decubitus position using a similar parasagittal approach as the paravertebral block, the erector spinae muscle group and transverse processes are identified. Using an in- plane either craniocaudal or caudocranial needle approach, local anesthetic is deposited deep to the erector spinae muscle over the periosteum of the transverse process (see Fig. 42.19). Volumes of 15–30 mL are used; however, lower doses should be used if bilateral blockade is performed.
+
+**Side Effects and Complications.** LAST is of concern with higher volumes and multiple injections considering the increased uptake potential due to the vascularity of this region.
+
+### Transversus Abdominis Plane (TAP) Block
+
+Four thoracoabdominal peripheral nerves, the subcostal, ilioinguinal, iliohypogastric, and genitofemoral, primarily innervate the lower abdominal wall (T6–T12). The extended course of the first three nerves through the abdominal wall within the layer between the transversus abdominis and the internal oblique muscles makes this the desired anatomic location for regional block. The subcostal approach may provide better superior and anterior coverage, whereas the midaxillary approach may provide more
+
+lateral and inferior wall analgesia. Notably, this block is somatic, and therefore TAP block is without visceral analgesia benefits.
+
+**Ultrasound- Guided Technique.** For ultrasound- guided TAP block, the patient is usually in the supine position (Fig. 42.20). The transducer is placed between the iliac crest and costal margin in the midaxillary line. In this location, the muscle layers of the lateral abdominal wall (external oblique, internal oblique, and transversus abdominis) are well defined.
+
+Injection is in the fascial layer that separates the internal oblique and the transversus abdominis muscles. Direct visualization and proximity to the nerves is not critical if 15 to 20 mL of dilute local anesthetic is injected in this layer. The needle approach is in- plane from the anterior side and directed toward the posterolateral corner of the transversus abdominis muscle. The respiratory motion of the peritoneal cavity and influence of muscle contraction makes performing this block under general anesthesia an appealing option. The transversus abdominis muscle is relatively thin; therefore, careful placement of the needle tip is necessary.
+
+**Side Effects and Complications.** A deep injection would have the potential to perforate the peritoneum, causing intra- abdominal trauma.
+
+
+![](assets/chapter-42/42._Peripheral_Nerve_Blocks_and_Ultrasound_Guidance_for_Regional_Anesthesia.pdf-0016-09.png)
+
+
+Posterolateral<br>EO<br>IO<br>TA<br>A B<br>C D<br>
+
+**Fig. 42.20 Transversus abdominis plane (TAP) block with ultrasound guidance.** (A) Abdominal wall image demonstrates the approach for TAP block. (B) In this sonogram the external oblique (EO), internal oblique (IO), and transversus abdominis (TA) muscles are identified (the three- layer- cake appearance). Nerves ( _yellow arrow_ ) are seen entering the plane between the IO and TA muscles. (C) The needle approaches in- plane and is directed toward the posterolateral edge of the TA muscles. (D) The kayak sign demonstrates successful TAP injection. The fascia between the IO and TA muscles is split apart in the shape resembling a kayak.
+
+<!-- PDF page 17 -->
+
+### LOWER EXTREMITY BLOCKS
+
+The nerve supply to the lower extremity is derived from the lumbar and sacral plexuses. The lumbar plexus is formed by the anterior rami of the first four lumbar nerves, frequently including a branch from T12 and occasionally from L5 (Fig. 42.21). The plexus lies between the psoas major and quadratus lumborum muscles in the psoas compartment. The lower components of the plexus, L2, L3, and L4, primarily innervate the anterior and medial thigh. The anterior divisions of L2, L3, and L4 form the obturator nerve; the posterior divisions of the same components form the femoral nerve; and the lateral femoral cutaneous nerve is formed from posterior divisions of L2 and L3.
+
+The sacral plexus gives off two nerves that are important for lower extremity surgery: the posterior cutaneous nerve of the thigh and the sciatic nerve. The posterior cutaneous nerve of the thigh and the sciatic nerve are derived from the first, second, and third sacral nerves plus branches from the anterior rami of L4 and L5, respectively. These nerves pass through the pelvis together and can be blocked by proximal techniques; otherwise, more distal approaches will require ultrasound targeting of the individual posterior cutaneous nerve and sciatic nerve branches for primary anesthesia of the posterior thigh. The sciatic nerve is a combination of two major nerve trunks, the tibial (i.e., ventral branches of the anterior rami of L4, L5, S1, S2, and S3) and the common peroneal (i.e., dorsal branches of the anterior rami of L4, L5, S1, S2, and S3), which form the sciatic nerve. The trunks
+
+separate at or above the popliteal fossa, with the tibial nerve passing medially and the common peroneal laterally. The cutaneous distributions of the lumbosacral and peripheral nerves are shown in Fig. 42.22.
+
+### Femoral Nerve Block
+
+The advantages of using ultrasound to guide femoral nerve block include a more complete block, local anesthetic volume sparing, and fewer vascular punctures. The femoral nerve usually lies lateral to the femoral artery in the groove formed by the iliacus and psoas muscles. According to the pelvic inclination and a slight medial to lateral course of the femoral nerve, some tilting and rotation of the probe is needed for the best view of the nerve. In some patients, the psoas tendon can appear similar to the femoral nerve. However, the psoas tendon lies deep within the muscle. If the profunda femoris artery (i.e., the deep branch of the femoral artery) is visualized, then the transducer is usually too distal for complete femoral nerve block. The femoral nerve is often identified as a slight indentation in the surface of the iliacus and psoas muscles. Combined ultrasound and nervestimulator technique may be used to improve accuracy of neurolocation.
+
+**Ultrasound- Guided Technique.** For femoral nerve block, a broad high-frequency linear transducer is used (Fig. 42.23). Both in- plane (from lateral to medial) and out- of- plane (from distal to proximal) approaches can be used. The advantage of the in- plane approach is visualization of the approaching
+
+
+![](assets/chapter-42/42._Peripheral_Nerve_Blocks_and_Ultrasound_Guidance_for_Regional_Anesthesia.pdf-0017-09.png)
+
+
+Iliohypogastric nerve<br>Quadratus l um borum muscle<br>Ilioinguinal nerve<br>Psoas major muscle<br>Genitofem oral  nerve<br>Lateral femoral<br>cutaneous nerve<br>Obturator nerve<br>Femoral nerve Inguinal<br>ligament<br>
+
+**Fig. 42.21 The lumbar plexus lies in the psoas compartment between the psoas major and quadratus lumborum muscles.**
+
+<!-- PDF page 18 -->
+
+![](assets/chapter-42/42._Peripheral_Nerve_Blocks_and_Ultrasound_Guidance_for_Regional_Anesthesia.pdf-0018-01.png)
+
+
+L3<br>L4<br>L5<br>S3<br>S4<br>S5<br>L1 S1<br>S5 S2<br>S4<br>L2 Posterior<br>cutaneous nerve<br>Femoral<br>L3<br>nerve<br>Lateral femoral<br>L4 cutaneous nerve<br>L3<br>Obturator<br>nerve<br>Commom<br>peroneal nerve<br>L5<br>S2 S1<br>L4<br>Femoral<br>Superficial<br>saphenous<br>peroneal nerve<br>nerve<br>L4<br>S1<br>Sural nerve<br>Sural nerve<br>L5 Tibial nerve<br>A B<br>
+
+**<mark>Fig. 42.22</mark>** <mark>(A) Cutaneous distribution of the lumbosacral nerves. (B) Cutaneous distribution of the peripheral nerves of the lower extremity.</mark>
+
+needle. The disadvantages are the longer needle path and a tendency of the needle to skim over the fascia iliaca by deforming it rather than puncturing it. For either approach, the needle tip is positioned between the fascia iliaca and the iliopsoas muscle near the lateral corner of the femoral nerve to avoid the femoral vessels. The desired distribution is local anesthetic layering under or completely around the femoral nerve. The out- of- plane approach is often advised for catheter placement.
+
+**Side Effects and Complications.** A successful femoral nerve block results in profound quadriceps weakness. Contemporary postoperative analgesic protocols often advocate for more distal, motor- sparing approaches than a proximal femoral nerve block to enhance rehabilitation and reduce the potential risk for falling after lower extremity total knee arthroplasty.<sup>62</sup> However, systematic review and metaanalysis examining fall risk with femoral nerve blockade reported fall risk is not outside the attributable rates when peripheral nerve blockade was avoided<sup>63</sup> ; and furthermore, the risk has been shown to be mitigated through systemic fall-prevention strategies.<sup>64</sup>
+
+### Fascia Iliaca Block
+
+The fascia iliaca block was originally described in children and involved detection of a double pop sensation as the needle traverses the fascia lata and fascia iliaca of the thigh (see also Chapter 72).<sup>65</sup> More recently, the fascia iliaca block has
+
+been used as an effective means of analgesia for hip surgery and trauma including treatment of hip fracture pain prior to surgery.<sup>66</sup> A single, more proximal injection (suprainguinal approach) can more reliably target the femoral, lateral femoral cutaneous, and obturator nerves than the infrainguinal approach or individual nerve peripheral nerve blockade.
+
+**Ultrasound- Guided Technique.** Ultrasound can also be used to visualize the two fascial layers and view the spread of local anesthetic beneath the fascia iliaca.<sup>67,68</sup> In a supine extended hip position, a high-frequency linear probe is oriented perpendicular to the inguinal ligament between the anterior superior iliac spine and the pubic symphysis. Slide the probe along the inguinal ligament until the sartorius and internal oblique muscles are visualized. Color Doppler should be used to identify and avoid the deep circumflex iliac artery (just posterior to the internal oblique muscle). Rotate the probe slightly clockwise to align more perpendicular to the inguinal ligament. Then, using an in- plane approach, inject local anesthetic below the vessel in the fascial plane over the iliacus muscle deep to the iliac fascia. Use a hydrodissection technique to advance the needle in a cephalad direction within this plane, depositing 30–40 mL of dilute, long- acting local anesthetic. Avoid intramuscular injection.
+
+**Side Effects and Complications.** Intravascular injection and hematoma are unlikely although possible because of
+
+<!-- PDF page 19 -->
+
+![](assets/chapter-42/42._Peripheral_Nerve_Blocks_and_Ultrasound_Guidance_for_Regional_Anesthesia.pdf-0019-02.png)
+
+
+A<br>A<br>Lateral<br>B<br>C<br>
+
+**Fig. 42.23 Femoral nerve block with ultrasound imaging (in- plane approach).** (A) External photograph shows the setup for femoral nerve block. (B) The needle tip is in position before injecting adjacent to the femoral nerve ( _yellow arrow_ ). The femoral nerve lies lateral to the femoral artery (A). (C) Local anesthetic surrounds the femoral nerve after injection. (Modified from Gray AT. _Atlas of Ultrasound- Guided Regional Anesthesia_ . 3rd ed. Philadelphia: Saunders; 2018.)
+
+the proximity of the femoral artery. The presence of femoral vascular grafts is a relative contraindication to these techniques, but these grafts are easily identified with ultrasound imaging in most cases. Because the injection is made between the femoral and lateral femoral cutaneous nerves, nerve damage is rare. Like a proximal femoral nerve block, the suprainguinal approach may cause quadriceps and adductor muscle weakness. Patient education for fallavoidance prevention is imperative.
+
+### Adductor Canal Block
+
+The saphenous nerve is a terminal sensory branch of the femoral nerve above the knee, and it supplies innervation
+
+to the infrapatellar branches to the knee joint. It pierces the fascia lata between the tendons of the sartorius and gracilis muscles before it runs in the adductor canal along the posterior border of the sartorius muscle. The nerve emerges and divides at the level of the knee before continuing distally along the medial border of the lower leg and medial ankle. Several above- the- knee ultrasoundguided approaches to target the saphenous nerve have been described. When used in combination with multimodal analgesia, a saphenous nerve block at or near the mid- thigh can be as effective or in some studies preferable to a femoral nerve block following knee surgery because of reduced rates of quadriceps weakness.<sup>69–71</sup> The correct _“_ adductor canal block _”_ location is a source of active debate even though the anatomic targets may be separated by mere inches. The _“_ true _”_ adductor canal block location may best be determined with ultrasound by identifying the medial border of the sartorius muscle converging with the medial border of the adductor longus muscle.<sup>72</sup> A double contour is appreciated on the roof of the canal, which denotes the vastoadductor membrane. This anatomic distinction holds importance as the nerve to the vastus medialis often lies outside the adductor canal in a distinct fascial sheath. Hence, a block too distal within the _“_ true _”_ adductor canal may miss the nerve to the vastus medialis, a major contributor to knee joint pain following total knee arthroplasty. Jaeger and colleagues advocate for a periarterial injection of local anesthesia lateral to the femoral artery under the sartorius muscle deep to the vastoadductor membrane midway between the anterior superior iliac spine and the patella where local anesthetic is likely to cover both the saphenous nerve and the nerve to the vastus medialis.<sup>69</sup>
+
+**Ultrasound- Guided Technique.** Adductor canal block is performed in the supine position, with thigh positioned in slight external rotation with leg extended to expose the inner thigh. Ultrasound guidance is the preferred neurolocalization technique, although nerve stimulation alone or in combination with ultrasound guidance would also be an option to avoid needle trauma to the nerve to vastus medialis. A high- frequency linear transducer is positioned transverse on the anteromedial thigh, which is scanned in short axis beginning at the junction between the middle and distal thirds of the thigh. The thick vastoadductor membrane defines the border between vastus medialis muscle (lateral), sartorius muscle (anterior), and femoral artery (most medial) (Fig. 42.24). Through an in- plane approach approximately 10 to 15 mL of local anesthetic (higher volumes may result in quadriceps paresis)<sup>73</sup> is injected lateral to the artery, deep to the sartorius muscle.
+
+**Side Effects and Complications.** Vascular injury leading to arterial pseudoaneurysm is rare but has been described. Intramuscular spread of local anesthetic should be avoided as cases of severe myonecrosis have been reported<sup>74</sup> and unexpected thigh weakness should prompt evaluation. Although adductor canal block is considered among the more selective “muscle- sparing” peripheral blocks of the lower extremity, caution is still advised and fall-prevention strategies are important, including patient education on avoidance of unsupported ambulation.<sup>64</sup>
+
+<!-- PDF page 20 -->
+
+![](assets/chapter-42/42._Peripheral_Nerve_Blocks_and_Ultrasound_Guidance_for_Regional_Anesthesia.pdf-0020-01.png)
+
+
+Sartorius<br>A<br>A B<br>
+
+**Fig. 42.24 Adductor canal block with ultrasound imaging (in- plane approach).** (A) External photograph shows the setup for adductor canal block. (B) Sonographically, the adductor canal block may best be determined by identifying the converging borders between the vastus medialis muscle (lateral), sartorius muscle (anterior), and femoral artery (most medial). Periarterial deposit of local anesthesia is desired lateral ( _yellow arrow_ ) to the femoral artery (A).
+
+### Sciatic Nerve Block
+
+The sciatic nerve can be blocked anywhere along its course from the gluteal region to the popliteal fossa.<sup>75–77</sup> However, approaches proximal to the popliteal fossa are usually more difficult because the nerve lies deeper from the skin surface. Because of the depth and variation in position, ultrasound guidance may not be as useful for proximal sciatic nerve blocks in some patients. For procedures above the knee, the parasacral sciatic nerve block can provide an advantage over more distal approaches because the block of both the sciatic and posterior femoral cutaneous nerves is possible.<sup>78–80</sup> Alternatively, the posterior femoral cutaneous nerve can be blocked separately using ultrasound guidance.<sup>81</sup> The subgluteal approach to sciatic nerve block is useful when block of the hamstring muscles is indicated.<sup>82</sup> The anterior approach to sciatic nerve block is useful when the patient cannot be positioned for posterior approaches due to pain or leg traction.<sup>83–85</sup>
+
+**Ultrasound- Guided Technique.** One of the most common approaches for foot and ankle surgery is to block the sciatic nerve in the popliteal fossa using a lateral approach in supine position with the leg elevated.<sup>86</sup> The division of the sciatic nerve provides a broad target with a large surface area to promote clinical block characteristics. For this technique, the needle tip is positioned between the tibial and common peroneal components of the sciatic nerve near the division so that a single injection distributes to both nerves (Fig. 42.25). By sliding the transducer along the known course of the sciatic nerve, its characteristic division in the popliteal fossa can be identified. The tibial nerve has a straighter course than the common peroneal nerve and has approximately twice the cross- sectional area. The tibial nerve lies posterior to the popliteal artery and vein at the popliteal crease, and this location can be a useful starting point when imaging is difficult. The sciatic nerve is a mobile structure with position and orientation varying with extremity motion.<sup>87,88</sup> When the foot is moved, the nerves of the popliteal fossa have characteristic motion that can be helpful for nerve identification in some patients. The
+
+advantages of this approach are the convenient position, the transducer position is remote from the site of needle entry, and the parallel in- plane approach of the block needle results in optimal needle tip visibility. After injection, following the local anesthetic distribution around and along the nerve path (Fig. 42.26) is relatively easy.
+
+A selective tibial nerve block in the popliteal fossa is an alternative to blocking both sciatic branches and has been associated with successful posterior knee pain management with less foot drop.<sup>89</sup> Similarly, ultrasound- guided _i_ nfiltration between _p_ opliteal _a_ rtery and _c_ apsule of the _k_ nee (IPACK) block provides an analgesic alternative to a traditional sciatic nerve block within the popliteal fossa that may result in less sensorimotor dysfunction. These motorsparing block approaches to sciatic nerve block may be combined with adductor canal blockade for improved outpatient surgery pain management.
+
+**Side Effects and Complications.** Successful sciatic nerve block results in lower leg weakness. Cautious use of sciatic block is recommended in cases of pronounced genu valgus deformity of the knee as foot drop has been associated with delays in diagnosis and treatment of iatrogenic common peroneal nerve injury occurring during knee correction surgery. Due to proximity to neurovascular structures, popliteal arterial injury or vascular injection are possible.
+
+### Nerve Blocks at the Ankle
+
+Ankle blocks are relatively simple to perform and offer excellent anesthesia for surgical procedures of the foot. These blocks are traditionally performed at the level of the malleoli and guided by surface landmarks and more recently ultrasound guidance.
+
+Four of the five nerves supplying the foot are terminal branches of the sciatic nerve: the tibial, sural, superficial peroneal, and deep peroneal branches (Fig. 42.27). The common peroneal nerve descends laterally around the neck of the fibula, where it divides into the superficial and deep peroneal nerves. The sural nerve forms from both tibial and common peroneal nerve contributions.
+
+<!-- PDF page 21 -->
+
+![](assets/chapter-42/42._Peripheral_Nerve_Blocks_and_Ultrasound_Guidance_for_Regional_Anesthesia.pdf-0021-02.png)
+
+
+Lateral<br>A B<br>
+
+**Fig. 42.25 Popliteal block with ultrasound imaging (in- plane approach).** (A) External photograph shows the setup for popliteal nerve block in the supine position. The leg is elevated, and the transducer is applied to the posterior surface of the leg. (B) The needle approaches the bifurcation of the sciatic nerve in the plane of imaging from the lateral aspect of the leg. The needle tip is positioned between the tibial ( _long yellow arrow_ ) and common peroneal ( _short yellow arrow_ ) nerves.
+
+
+![](assets/chapter-42/42._Peripheral_Nerve_Blocks_and_Ultrasound_Guidance_for_Regional_Anesthesia.pdf-0021-04.png)
+
+
+A B<br>C D<br>
+
+**Fig. 42.26** Sciatic nerve imaging in the popliteal fossa before (A), during (B,C), and after (D) division into the tibial and common peroneal nerves. Local anesthetic tracks with both individual nerves, thereby confirming a successful block.
+
+The saphenous nerve is the major descending sensory branch of the femoral nerve. The territory of this nerve is the medial leg and can extend as far as the base of the great toe.<sup>90</sup>
+
+**Ankle Block Technique.** The posterior tibial artery is palpated, and a 25- gauge needle is inserted posterolateral to the artery at the level of the medial malleolus. If a paresthesia is obtained, 3 to 5 mL of local anesthetic should be injected. Otherwise, 7 to 10 mL of local anesthetic should be injected as the needle is slowly withdrawn from the medial malleolus. Blockade of the tibial nerve provides anesthesia of the heel, plantar portion of the toes, and the sole of the foot, as well as some motor branches in the same area.
+
+Use of ultrasound guidance can shorten onset time<sup>91</sup> (Fig. 42.28; Video 42.3).
+
+The sural nerve is located superficially between the lateral malleolus and the Achilles tendon. A 25- gauge needle is inserted lateral to the tendon and is directed toward the malleolus as 5 to 10 mL of solution is injected subcutaneously. This block provides anesthesia of the lateral foot and the lateral aspects of the proximal sole of the foot. If using ultrasound, the sural nerve may be blocked where seen traveling with the lesser saphenous vein. The deep peroneal, superficial peroneal, and saphenous nerves can be blocked through a single needle entry site. A line is drawn across the dorsum of the foot connecting the malleoli. The extensor hallucis longus tendon is identified by having
+
+<!-- PDF page 22 -->
+
+![](assets/chapter-42/42._Peripheral_Nerve_Blocks_and_Ultrasound_Guidance_for_Regional_Anesthesia.pdf-0022-01.png)
+
+
+Deep Dorsalis<br>Tibialis<br>peroneal n. pedis a. Extensor<br>anterior<br>hallucis<br>tendon<br>longus<br>tendon<br>Saphenous Superficial<br>v. and n. peroneal n.<br>Tibia<br>Posterior Fibula<br>tibial v. and a.<br>Tibial n.<br>Achilles<br>tendon Sural n.<br>and small<br>saphenous v.<br>
+
+**Fig. 42.27 Cross- sectional anatomy for an ankle block.** An ankle block is performed by injecting local anesthetic solution at five separate nerve locations. The superficial peroneal nerve, sural nerve, and saphenous nerve are usually blocked by subcutaneous infiltration because they may have already branched as they cross the ankle joint. The tibial and deep peroneal nerves require deeper injection adjacent to the accompanying blood vessels (the posterior tibial and anterior tibial arteries, respectively). Because the block needle approaches the ankle from many angles, it is convenient to elevate the foot by supporting the calf. (Modified from Brown DL, Factor DA, eds. _Regional Anesthesia and Analgesia._ Philadelphia: WB Saunders; 1996.)
+
+the patient dorsiflex the big toe. The anterior tibial artery lies between this structure and the tendon of the extensor digitorum longus muscle and is palpable at this level. A skin wheal is raised just lateral to the arterial pulsation between the two tendons on the intermalleolar line. A 25gauge needle is advanced perpendicular to the skin entry site, and 3 to 5 mL of local anesthetic is injected deep to the extensor retinaculum to block the deep peroneal nerve. This technique anesthetizes the skin between the first and second toes and the short extensors of the toes. However, anatomic variations exist with the anterior tibial artery and the deep peroneal nerve visualized under ultrasound 1–1.5 cm lateral to the extensor hallucis longus tendon at times.<sup>92</sup> This may explain the higher failure rates observed with landmark- based techniques to block the deep peroneal nerve as compared to ultrasound guidance.
+
+The needle is directed laterally through the same skin wheal while injecting 3 to 5 mL of local anesthetic subcutaneously, blocking the superficial peroneal nerve and resulting in anesthesia of the dorsum of the foot, excluding the first interdigital cleft. The same maneuver can be performed in the medial direction, thereby anesthetizing the saphenous nerve, a terminal branch of the femoral nerve that supplies a strip along the medial aspect of the foot.
+
+**Side Effects and Complications.** Multiple injections are required for this procedure, which can result in discomfort for the patient. Persistent paresthesia can occur, but it is generally self- limited. The presence of edema or induration around the ankle block can make palpation of landmarks difficult. When present, a more proximal block can be performed (e.g., popliteal and saphenous nerve blocks in the distal thigh) or visualization with ultrasound is recommended.
+
+## Continuous Catheter Techniques
+
+The advantages cited for continuous nerve blockade include prolongation of surgical anesthesia, decreased risk of systemic toxicity because of lower incremental doses, and postoperative pain relief and sympathectomy. Catheter placement using over- needle and through- needle methods have been described. Advances in equipment technology, including the development of stimulating needles and catheters and portable pumps allowing local anesthetic infusion after hospital dismissal, have increased the success rate and popularity of continuous peripheral blockade. Although concern regarding accurate catheter placement and maintenance still exists, the use of stimulating catheters and radiographic confirmation may further improve the functionality. Ultrasound guidance appears to produce more consistent times for catheter placement. Overall, continuous peripheral nerve block provides superior analgesia compared with conventional opioid therapy. Minor technical problems such as catheter kinking, displacement or leakage, and bacterial colonization are frequent, with no adverse clinical consequences in most cases. Major neurologic and infectious adverse events are rare. Methods of providing continuous brachial plexus anesthesia have been described since the 1940s. These methods frequently offer ingenious solutions for the placing and securing of the needle or catheter. This technique is especially applicable to patients with upper extremity or digit replantation, total shoulder or elbow arthroplasty, or reflex sympathetic dystrophies, for which prolonged pain relief and sympathectomy are advantageous. Continuous lower extremity techniques were also described decades ago, but until recently have remained underused compared with continuous upper extremity and neuraxial approaches. Reliable, improved success rates and the risk of spinal hematoma after neuraxial techniques led clinicians to reconsider continuous lower extremity blocks. Contemporary applications for continuous psoas compartment, sciatic, femoral, adductor canal, and popliteal fossa blockade have been reported. Compared with conventional systemic and neuraxial analgesic methods, continuous lower extremity blocks provide superior analgesia with fewer side effects, improve perioperative outcomes, and reduce hospital stays after major joint replacement (Video 42.4).
+
+### TESTING THE CATHETER
+
+Test injections of saline, local anesthetic, or air with realtime ultrasound imaging can be used to assess catheter tip function. The overall success rate of peripheral nerve catheter placement with ultrasound guidance is high, so
+
+<!-- PDF page 23 -->
+
+![](assets/chapter-42/42._Peripheral_Nerve_Blocks_and_Ultrasound_Guidance_for_Regional_Anesthesia.pdf-0023-02.png)
+
+
+Tibial Nerve<br>Posterior Tibial Artery<br>A B<br>16<br>-16<br>cm/s<br>Anterior<br>Tibial<br>Artery<br>C<br>
+
+**Fig. 42.28** (A) External photograph shows the setup for out- of- plane approach to block the tibial nerve at the ankle. (B) Ultrasound image of the medial aspect of the ankle showing the posterior tibial artery ( _red_ ) and the tibial nerve ( _yellow_ ). (C) Sonogram of the anterior aspect of the tibia just cephalad to the intermalleolar line. The deep peroneal nerve is usually located lateral to the anterior tibial artery although the location of the nerve is variable.
+
+the additional value of these subsequent tests is still being established.<sup>93,94</sup>
+
+practitioners elect to use tunnel catheters that are intended to remain in place for a prolonged period.
+
+### SECURING THE CATHETER
+
+Catheter migration and dislodgement are clinically relevant issues. Catheter threading distances do not seem to correlate with the chance of dislodgement. Excessively large threading distances (>5 cm) may result in catheter knotting. If ultrasound guidance is used for catheter placement, sterile dry gauze can be used to remove excess gel prior to securing the catheter. Skin adhesive applied to the catheter at the skin exit site may reduce catheter dislodgement, fluid leakage at the site, and chance of catheter- related infection.<sup>95</sup> Application of skin adhesive at more than one site along the catheter may improve fixation. A partial loop or coiling the catheter at the exit site will help reduce catheter dislodgement, and a variety of strain relief devices are now commercially available.
+
+Peripheral catheters can remain in place for over one week if the site remains clean and dry.<sup>96</sup> Diabetes and obesity are risk factors for catheter- related infection. Some
+
+## Training
+
+Ultrasound guidance is a tool that has significantly advanced our options and understanding of peripheral nerve blockade. Ultrasound has the potential to prevent intravascular and intraneural injection of local anesthetic (Fig. 42.29). It provides benefits of increased block success rates, shorter block performance, faster block onset, reduction in needle passes, and shows important advantages compared to other nerve localizing techniques. The technical progress in machine and transducer hardware and software itself is not able to improve these safety outcomes. Education and training play key roles to guarantee proper use. Various specialized programs and workshops have been designed to teach necessary skills, and guidelines have been published to implement teaching standards and certifications.
+
+One of the first ideas to standardize education in this field was the six- step learning model<sup>97</sup> (Fig. 42.30). It addresses
+
+<!-- PDF page 24 -->
+
+![](assets/chapter-42/42._Peripheral_Nerve_Blocks_and_Ultrasound_Guidance_for_Regional_Anesthesia.pdf-0024-01.png)
+
+
+A B<br>
+
+**Fig. 42.29** These sonograms were obtained in the axilla before (A) and after (B) injection in the musculocutaneous nerve. Nerve expansion is detected but with preservation of the overall integrity of the nerve borders. No paresthesias were observed during or after the procedure. Neurologic outcome was favorable after this low- volume, low- pressure injection.
+
+
+![](assets/chapter-42/42._Peripheral_Nerve_Blocks_and_Ultrasound_Guidance_for_Regional_Anesthesia.pdf-0024-03.png)
+
+
+1 Knowledge of anatomy<br>Basic knowledge of ultrasound<br>2<br>& equipment<br>Hands-on workshop with<br>3<br>test-persons<br>4 Phantom workshop<br>5 Cadaver workshop<br>Ultrasound-guided block with<br>6<br>the help of an instructor<br>
+
+**Fig. 42.30 Six- step learning model for ultrasound- guided regional anesthesia.** (Adapted from Kessler J, Marhofer P, Rapp HJ, Hollmann MW. [Ultrasound- guided anaesthesia of peripheral nerves. The new challenge for anaesthesiologists]. _Anaesthesist_ . 2007;56(7):642–655.)
+
+all important topics and is still valid today. Step 1 postulates the repetition of basic anatomic knowledge to achieve a reliable interpretation of the sonogram. The objective of this unit is to translate anatomy into sono- anatomy and _vice versa_ . The question is not limited to identifying the target nerve but also to create an anatomic roadmap to reduce the risk for iatrogenic damage. Step 2 is an important component to get familiar with the universal rules of ultrasound and its pitfalls. At the same time, it allows the operator to improve the visibility of different tissue types, the needle, and the local anesthetic by adequate use of internal presets offered by the system. Step 3 describes the hands- on workshop with volunteers to train the different transducer manipulations. At the same time, the learner will realize that individual anatomic variations can lead to a sonogram that cannot be deduced from the rules of a standardized anatomic drawing in a textbook. Step 4 is probably the most important, and most challenging,
+
+
+![](assets/chapter-42/42._Peripheral_Nerve_Blocks_and_Ultrasound_Guidance_for_Regional_Anesthesia.pdf-0024-06.png)
+
+
+**Fig. 42.31 Tissue- equivalent phantom for training in ultrasoundguided interventions.**
+
+module. It recommends using a tissue- equivalent phantom to practice the coordination of eye, hands, transducer, needle, and ultrasound picture (Fig. 42.31). It has been shown that common errors of novices while learning ultrasoundguided regional blocks include advancing the needle when it was not visualized and unintentional probe movement. Both can endanger patients, and most training studies have concluded that skills for ultrasound- guided procedures can be rapidly acquired if using simulation tools.
+
+Several phantoms are now marketed for regional anesthesia purposes, and biologic tissue models that simulate nerve blocks have been developed. Different types of needles can be tested and artifacts can be demonstrated.
+
+Innovative technologies support these learning processes.<sup>98,99</sup> Fig. 42.32 shows a modern learning lab summarizing steps 1 to 4 by using the most recent teaching books, an interactive 3D anatomy and physiology learning approach
+
+<!-- PDF page 25 -->
+
+![](assets/chapter-42/42._Peripheral_Nerve_Blocks_and_Ultrasound_Guidance_for_Regional_Anesthesia.pdf-0025-02.png)
+
+
+**Fig. 42.32 Training lab for ultrasound- guided regional anesthesia combining textbooks, virtual dissection, and hands- on scanning (see text for details).**
+
+through virtual dissection (www.anatomage.com), a modern ultrasound machine to teach equipment and transducer manipulation “hands- on,” and a second machine combined with different phantoms to include step 4.
+
+Even if creating a perfect phantom, it will not be possible to combine realistic regional anatomic structures with simulated interventions. Therefore step 5 suggests the cadaver workshop. However, the cost and use of specialized embalming methods that preserve nerve imaging and cadaver flexibility have limited this approach to a few specialized institutions.
+
+Step 6 recommends summarizing all lessons learned in application of the technique to the patient under guidance of an experienced tutor. The latest literature points out that highly sophisticated virtual- reality models using eye- tracking software, or technical equipment that integrates the sonogram combined with virtual reality information into the visual field by using mixed-reality glasses (www.somaview.glass; Fig. 42.33) could be able in the future to support this step.
+
+However, even with studies supporting the benefit of pre- rotation simulation in enhancing learning and skill uptake when trainees commence clinical exposure, large interindividual differences in learning make it challenging to create a standardized curriculum which guarantees for reliable transition from simulation to improved clinical outcomes.
+
+
+![](assets/chapter-42/42._Peripheral_Nerve_Blocks_and_Ultrasound_Guidance_for_Regional_Anesthesia.pdf-0025-08.png)
+
+
+**Fig. 42.33 Mixed- reality glasses that include ultrasound imaging information (see text for details).**
+
+Ultrasound guidance is a tool that has significantly advanced our options and understanding of peripheral nerve blockade. Once proficiency is established for a particular procedure, starting to use ultrasound for other interventional applications is relatively easy. Ultrasound imaging can prevent and detect critical events such as intravascular or intraneural injection that may improve safety during regional anesthesia procedures by allowing decreased doses of local anesthetics. However, if safety outcomes are to improve, then education and training play key roles in reducing these relatively uncommon adverse events.
+
+### Complete references available online at expertconsult.com.
+
+### References
+
+1.  Neal JM, et al. _Reg Anesth Pain Med_ . 2015;40(5):401.
+
+2.  Wiesmann T. _Anesth Analg_ . 2014;118(3):681.
+
+3.  Varobieff M. _Anesth Analg_ . 2021;132(2):556.
+
+4.  Tsui BC. _Reg Anesth Pain Med_ . 2004;29(3):189.
+
+5.  Gray AT. _Anesthesiology_ . 2006;104:368.
+
+6.  Langnas EM. _Perioper Med (Lond)_ . 2022;11(1):40.
+
+7.  Snoj Ž. _J Neuroimaging_ . 2022;32(3):420.
+
+8. _J Ultrasound Med_ . 2021;40(5):895.
+
+9. _J Ultrasound Med_ . 1999;18(2):169.
+
+10.  Elsharkawy H. _Reg Anesth Pain Med_ . 2018;43(1):57.
+
+11.  An T. _Foot Ankle Int_ . 2022;43(4):504.
+
+12.  Kessler J. _Reg Anesth Pain Med_ . 2007;32(2):172.
+
+13.  Orebaugh S. _Reg Anesth Pain Med_ . 2020;45(4):320.
+
+14.  Hasenkam CS. _Reg Anesth Pain Med_ . 2017;42(4):478.
+
+15.  Feigl GC. _Br J Anaesth_ . 2020;124(3):308.
+
+16.  Bondestam S. _Invest Radiol_ . 1989;24(7):555.
+
+17.  Hopkins RE. _Clin Radiol_ . 2001;56(6):499.
+
+## Summary and Conclusions
+
+Peripheral nerve blockade has been shown to decrease pain, decrease length of stay, improve patient satisfaction, and decrease opioid consumption. Successfully mastering these techniques and applying them to the appropriate clinical situations add valuable options to the anesthetic care. Knowledge of regional anesthesia is also essential for the diagnosis and treatment of acute and chronic pain syndromes (see Chapters 47 and 77).
+
+18.  Schafhalter- Zoppoth I. _Reg Anesth Pain Med_ . 2004;29(5):480.
+
+19.  Maecken T. _Reg Anesth Pain Med_ . 2007;32:440.
+
+20.  Hovgesen CH. _J Ultrasound Med_ . 2022;41(2):311.
+
+21.  Kåsine T. _Anaesthesia_ . 2020;75(1):72.
+
+22.  Marhofer D. _Br J Anaesth_ . 2014;113(1):177.
+
+23.  Bowness JS. _Reg Anesth Pain Med_ . 2022;47:106.
+
+24.  El- Boghdadly K, et al. _Reg Anesth Pain Med_ . 2021;46:571.
+
+25.  Turbitt LR. _Anaesthesia_ . 2020;75:293.
+
+26.  Ilfeld BM. _Anesthesiology_ . 2021;134:283.
+
+27.  Neal JM, et al. _Reg Anesth Pain Med_ . 2015;40(5):401.
+
+28.  Sites BD, et al. _Reg Anesth Pain Med_ . 2012;37(5):478.
+
+29.  Neal JM, et al. _Reg Anesth Pain Med_ . 2017;42(5):681.
+
+30.  Horlocker TT. _Reg Anesth Pain Med_ . 2018;43(3):263.
+
+<!-- PDF page 26 -->
+
+31.  Hebl JR. _Reg Anesth Pain Med_ . 2006;31(4):311.
+
+32.  Provenzano DA. _Reg Anesth Pain Med_ . 2013;38(5):415.
+
+33.  Alakkad H, et al. _Reg Anesth Pain Med_ . 2015;40(1):82.
+
+34.  Barrington MJ. _Reg Anesth Pain Med_ . 2013;38(4):289.
+
+35.  Neal JM, et al. _Reg Anesth Pain Med_ . 2018;43(2):113.
+
+36.  Weinberg GL. _Anesthesiology_ . 2012;117(1):180.
+
+37.  Neal JM. _Reg Anesth Pain Med_ . 2021;46:81.
+
+38.  Urmey WF. _Anesth Analg_ . 1991;72:498.
+
+39.  Urmey WF. _Anesth Analg_ . 1992;74:352.
+
+40.  Winnie AP. _Anesth Analg_ . 1970;49(3):455.
+
+41.  Lanz E. _Anesth Analg_ . 1983;62(1):55.
+
+42.  Kapral S, et al. _Reg Anesth Pain Med_ . 2008;33(3):253.
+
+43.  Franco CD. _Reg Anesth Pain Med_ . 2016;41(4):452.
+
+44.  Gautier P. _Anesth Analg_ . 2011;113(4):951.
+
+45.  Kessler J. _Reg Anesth Pain Med_ . 2008;33(6):545.
+
+46.  Chan C. _Reg Anesth Pain Med_ . 2011;36:358.
+
+47.  Auyong DB. _Anesthesiology_ . 2018;129(1):47.
+
+48.  Kim DH, et al. _Anesthesiology_ . 2019;131:521.
+
+49.  Rajpal G, et al. _Reg Anesth Pain Med_ . 2016;41:477.
+
+50.  Soares LG. _Reg Anesth Pain Med_ . 2007;32(1):94.
+
+51.  Kang RA. _Reg Anesth Pain Med_ . 2018;43(7):720.
+
+52.  Bhatia A. _Anesth Analg_ . 2010;111(3):817.
+
+53.  Raj PP. _Anesth Analg_ . 1973;52:897.
+
+54.  Ootaki C. _Reg Anesth Pain Med_ . 2000;25(6):600.
+
+55.  Sandhu NS. _Br J Anaesth_ . 2002;89(2):254.
+
+56.  Songthamwat B. _Reg Anesth Pain Med_ . 2018;43:825.
+
+57.  Gray AT. _Reg Anesth Pain Med_ . 2009;34(2):179.
+
+58.  Magazzeni P, et al. _Reg Anesth Pain Med_ . 2018;43:832.
+
+59.  Paraskeuopoulos T, et al. _Clin Anat_ . 2010;23:840.
+
+60.  Niesen AD, et al. _Reg Anesth Pain Med_ . 2020;45:813.
+
+61.  Forero M, et al. _Reg Anesth Pain Med_ . 2016;41:621.
+
+62.  Sharma S, et al. _Clin Orthop Relat Res_ . 2010;468:135.
+
+63.  Johnson RL. _Br J Anaesth_ . 2013;110:518.
+
+64.  Johnson RL. _Anesth Analg_ . 2014;119(5):1113.
+
+   66.  Guay J. _Anesth Analg_ . 2018;126(5):1695.
+
+   67.  Hebbard P. _Anaesthesia_ . 2011;66(4):300.
+
+   68.  Desmet M, et al. _Reg Anesth Pain Med_ . 2017;42(3):327.
+
+   69.  Jæger P, et al. _Reg Anesth Pain Med_ . 2013;38(6):526.
+
+   70.  Kim DH, et al. _Anesthesiology_ . 2014;120(3):540.
+
+   71.  Macrinici GI, et al. _Reg Anesth Pain Med_ . 2017;42(1):10.
+
+   72.  Wong WY. _Reg Anesth Pain Med_ . 2017;42(2):241.
+
+   73.  Chen J. _Reg Anesth Pain Med_ . 2014;39(2):170.
+
+   74.  Neal JM. _Reg Anesth Pain Med_ . 2016;41(6):723.
+
+   75.  Gray AT. _Anesth Analg_ . 2003;97(5):1300.
+
+   76.  Chan VW, et al. _Anesthesiology_ . 2006;104(2):309.
+
+   77.  Karmakar MK, et al. _Br J Anaesth_ . 2007;98(3):390.
+
+   78.  Fuzier R. _Anesth Analg_ . 2005;100(5):1511.
+
+   79.  Valade N, et al. _Anesth Analg_ . 2008;106(2):664.
+
+   80.  Bendtsen TF. _Br J Anaesth_ . 2011;107(2):278.
+
+   81.  Johnson CS. _J Ultrasound Med_ . 2018;37(4):897.
+
+   82.  Yamamoto H. _Anesth Analg_ . 2014;119(6):1442.
+
+   83.  Beck GP. _Anesthesiology_ . 1963;24:222.
+
+   84.  Tsui BC. _Reg Anesth Pain Med_ . 2008;33(3):275.
+
+   85.  Ota J. _Anesth Analg_ . 2009;108(2):660.
+
+   86.  Gray AT. _Reg Anesth Pain Med_ . 2004;29(5):507.
+
+   87.  Schafhalter- zoppoth I. _Anesthesiology_ . 2004;101(3):808.
+
+   88.  Balius R. _Skeletal Radiol_ . 2018;47(6):763.
+
+   89.  Sinha SK, et al. _Anesth Analg_ . 2012;115:202.
+
+   90.  Benzon HT. _Anesthesiology_ . 2005;102(3):633.
+
+   91.  Redborg KE. _Reg Anesth Pain Med_ . 2009;34(3):256.
+
+   92.  Benzon HT, et al. _Anesth Analg_ . 2009;109:2022.
+
+   93.  Swenson JD. _Anesth Analg_ . 2008;106(3):1015.
+
+   94.  Johns J, et al. _J Ultrasound Med_ . 2014;33(12):2197.
+
+   95.  Kumar AH. _Anaesthesia_ . 2021;76(5):714.
+
+   96.  Bomberg H, et al. _Anesthesiology_ . 2018;128(4):764.
+
+   97.  Kessler J. _Anaesthesist_ . 2007;56(7):642.
+
+   98.  Ramlogan R. _Reg Anesth Pain Med_ . 2017;42(2):217. 99.  Ramlogan RR. _Anaesthesia_ . 2021;76:53.
+
+65.  Dalens B. _Anesth Analg_ . 1989;69(6):705.
+
+<!-- PDF page 27 -->
+
+### References
+
+1.  Neal JM, Barrington MJ, Brull R, et al. The Second ASRA Practice Advisory on neurologic complications associated with regional anesthesia and pain medicine: executive summary 2015. _Reg Anesth Pain Med_ . 2015;40(5):401–430.
+
+2.  Wiesmann T, Bornträger A, Vassiliou T, et al. Minimal current intensity to elicit an evoked motor response cannot discern between needle- nerve contact and intraneural needle insertion. _Anesth Analg_ . 2014;118(3):681–686.
+
+3.  Varobieff M, Choquet O, Swisser F, et al. Real- time injection pressure sensing and minimal intensity stimulation combination during ultrasound- guided peripheral nerve blocks: an exploratory observational trial. _Anesth Analg_ . 2021;132(2):556–565.
+
+4.  Tsui BC, Wagner A, Finucane B. Electrophysiologic effect of injectates on peripheral nerve stimulation. _Reg Anesth Pain Med_ . 2004;29(3):189–193.
+
+5.  Gray AT. Ultrasound- guided regional anesthesia: current state of the art. _Anesthesiology_ . 2006;104:368–373.
+
+6.  Langnas EM, Gray A, Braehler M. Erector spinae plane block for postoperative analgesia for above- the- knee amputation: a case report. _Perioper Med (Lond)_ . 2022;11(1):40.
+
+7.  Snoj Ž, Serša I, Matičič U, et al. Median and ulnar nerve fascicle imaging using MR microscopy and high- resolution ultrasound. _J Neuroimaging_ . 2022;32(3):420–429.
+
+8.  AIUM technical bulletin. Disinfection of ultrasound transducers used for percutaneous procedures: intersocietal position statement. _J Ultrasound Med_ . 2021;40(5):895–897.
+
+9.  AIUM technical bulletin: transducer manipulation. American Institute of Ultrasound in Medicine. _J Ultrasound Med_ . 1999;18(2):169.
+
+10.  Elsharkawy H, Kashy BK, Babazade R, Gray AT. Ultrasound detection of arteria comitans: a novel technique to locate the sciatic nerve. _Reg Anesth Pain Med_ . 2018;43(1):57–61.
+
+11.  An T, Schwartz E, Kissen M, et al. Safety and efficacy of postoperative indwelling popliteal nerve catheters for outpatient Charcot- MarieTooth surgery. _Foot Ankle Int_ . 2022;43(4):504–508.
+
+12.  Kessler J, Gray AT. Sonography of scalene muscle anomalies for brachial plexus block. _Reg Anesth Pain Med_ . 2007;32(2):172–173.
+
+13.  Orebaugh S, Carullo P, Gray A. Sciatic nerve blocks: more proximal may not mean more complete. _Reg Anesth Pain Med_ . 2020;45(4):320.
+
+14.  Hasenkam CS, Hoy GA, Soeding PF. Sensory distribution of the lateral cutaneous nerve of forearm after ultrasound- guided block: potential implications for thumb- base surgery. _Reg Anesth Pain Med_ . 2017;42(4):478–482.
+
+15.  Feigl GC, Schmid M, Zahn PK, et al. The posterior femoral cutaneous nerve contributes significantly to sensory innervation of the lower leg: an anatomical investigation. _Br J Anaesth_ . 2020;124(3):308–313.
+
+16.  Bondestam S, Kreula J. Needle tip echogenicity. A study with real time ultrasound. _Invest Radiol_ . 1989;24(7):555.
+
+17.  Hopkins RE, Bradley M. In- vitro visualization of biopsy needles with ultrasound: a comparative study of standard and echogenic needles using an ultrasound phantom. _Clin Radiol_ . 2001;56(6):499.
+
+18.  Schafhalter- Zoppoth I, McCulloch CE, Gray AT. Ultrasound visibility of needles used for regional nerve block: an in vitro study. _Reg Anesth Pain Med_ . 2004;29(5):480–488.
+
+19.  Maecken T, Zenz M, Grau T. Ultrasound characteristics of needles for regional anesthesia. _Reg Anesth Pain Med_ . 2007;32:440–447.
+
+20.  Hovgesen CH, Wilhjelm JE, Vilmann P, Kalaitzakis E. Echogenic surface enhancements for improving needle visualization in ultrasound: a PRISMA systematic review. _J Ultrasound Med_ . 2022;41(2):311– 325.
+
+21.  Kåsine T, Romundstad L, Rosseland LA, et al. The effect of needle tip tracking on procedural time of ultrasound- guided lumbar plexus block: a randomised controlled trial. _Anaesthesia_ . 2020;75(1):72–79.
+
+22.  Marhofer D, Karmakar MK, Marhofer P, et al. Does circumferential spread of local anaesthetic improve the success of peripheral nerve block? _Br J Anaesth_ . 2014;113(1):177–185.
+
+23.  Bowness JS, Pawa A, Tuurbitt L, et al. International consensus on anatomical structures to identify on ultrasound for the performance of basic blocks in ultrasound- guided regional anesthesia. _Reg Anesth Pain Med_ . 2022;47:106–112.
+
+24.  El- Boghdadly K, Wolmarans M, Stengel AD, et al. Standardizing nomenclature in regional anesthesia: an ASRA- ESRA Delphi consensus study of abdominal wall, paraspinal, and chest wall blocks. _Reg Anesth Pain Med_ . 2021;46:571–580.
+
+25.  Turbitt LR, Mariano ER, El- Boghdadly K. Future directions in regional anaesthesia: not just for the cognoscenti. _Anaesthesia_ . 2020;75:293– 297.
+
+26.  Ilfeld BM, Eisenach JC, Gabriel RA. Clinical effectiveness of liposomal bupivacaine administered by infiltration or peripheral nerve block to treat postoperative pain. _Anesthesiology_ . 2021;134:283–344.
+
+27.  Neal JM, Barrington MJ, Brull R, et al. The Second ASRA Practice Advisory on neurologic complications associated with regional anesthesia and pain medicine: executive summary 2015. _Reg Anesth Pain Med_ . 2015;40(5):401–430.
+
+28.  Sites BD, Taenzer AH, Herrick MD, et al. Incidence of local anesthetic systemic toxicity and postoperative neurologic symptoms associated with 12,668 ultrasound- guided nerve blocks: an analysis from a prospective clinical registry. _Reg Anesth Pain Med_ . 2012;37(5):478–482.
+
+29.  Neal JM, Barrington MJ, Brull R, et al. Asleep versus awake and standard of care. _Reg Anesth Pain Med_ . 2017;42(5):681–682.
+
+30.  Horlocker TT, Vandermeuelen E, Kopp SL, et al. Regional anesthesia in the patient receiving antithrombotic or thrombolytic therapy: American Society of Regional Anesthesia and Pain Medicine Evidence- Based Guidelines (fourth edition). _Reg Anesth Pain Med_ . 2018;43(3):263– 309.
+
+31.  Hebl JR. The importance and implications of aseptic techniques during regional anesthesia. _Reg Anesth Pain Med_ . 2006;31(4):311–323.
+
+32.  Provenzano DA, Liebert MA, Steen B, et al. Investigation of current infection- control practices for ultrasound coupling gel: a survey, microbiological analysis, and examination of practice patterns. _Reg Anesth Pain Med_ . 2013;38(5):415–424.
+
+33.  Alakkad H, Naeeni A, Chan VW, et al. Infection related to ultrasoundguided single- injection peripheral nerve blockade: a decade of experience at Toronto Western Hospital. _Reg Anesth Pain Med_ . 2015;40(1):82–84.
+
+34.  Barrington MJ, Kluger R. Ultrasound guidance reduces the risk of local anesthetic systemic toxicity following peripheral nerve blockade. _Reg Anesth Pain Med_ . 2013;38(4):289–299.
+
+35.  Neal JM, Barrington MJ, Fettiplace MR, et al. The Third American Society of Regional Anesthesia and Pain Medicine Practice Advisory on Local Anesthetic Systemic Toxicity: Executive Summary 2017. _Reg Anesth Pain Med_ . 2018;43(2):113–123.
+
+36.  Weinberg GL. Lipid emulsion infusion: resuscitation for local anesthetic and other drug overdose. _Anesthesiology_ . 2012;117(1):180– 187.
+
+37.  Neal JM, Neal EJ, Weinberg GL. American Society of Regional Anesthesia and Pain Medicine Local Anesthesia Systemic Toxicity Checklist: 2020 Version. _Reg Anesth Pain Med_ . 2021;46:81.
+
+38.  Urmey WF, Talts KH, Sharrock NE. One hundred percent incidence of hemidiaphragmatic paresis associated with interscalene brachial plexus anesthesia as diagnosed by ultrasonography. _Anesth Analg_ . 1991;72:498–503.
+
+39.  Urmey WF, McDonald M. Hemidiaphragmatic paresis during interscalene brachial plexus block: effects on pulmonary function and chest wall mechanics. _Anesth Analg_ . 1992;74:352–357.
+
+40.  Winnie AP. Interscalene brachial plexus block. _Anesth Analg_ . 1970;49(3):455–466.
+
+41.  Lanz E, Theiss D, Jankovic D. The extent of blockade following various techniques of brachial plexus block. _Anesth Analg_ . 1983;62(1):55–58.
+
+42.  Kapral S, Greher M, Huber G, et al. Ultrasonographic guidance improves the success rate of interscalene brachial plexus blockade. _Reg Anesth Pain Med_ . 2008;33(3):253–258.
+
+43.  Franco CD, Williams JM. Ultrasound- guided interscalene block: reevaluation of the “stoplight” sign and clinical implications. _Reg Anesth Pain Med_ . 2016;41(4):452–459.
+
+44.  Gautier P, Vandepitte C, Ramquet C, et al. The minimum effective anesthetic volume of 0.75% ropivacaine in ultrasound- guided interscalene brachial plexus block. _Anesth Analg_ . 2011;113(4):951–955.
+
+45.  Kessler J, Schafhalter- Zoppoth I, Gray AT. An ultrasound study of the phrenic nerve in the posterior cervical triangle: implications for the interscalene brachial plexus block. _Reg Anesth Pain Med_ . 2008;33(6):545–550.
+
+46.  Chan C, Peng PWH. Suprascapular nerve block: a narrative review. _Reg Anesth Pain Med_ . 2011;36:358–373.
+
+47.  Auyong DB, Hanson NA, Joseph RS, et al. Comparison of anterior suprascapular, supraclavicular, and interscalene nerve block approaches for major outpatient arthroscopic shoulder surgery: a randomized, double- blind, noninferiority trial. _Anesthesiology_ . 2018;129(1):47–57.
+
+<!-- PDF page 28 -->
+
+48.  Kim DH, Beathe JC, Liu J, et al. Superior trunk block; a phrenic- sparing alternative to the interscalene block: a randomized controlled trial. _Anesthesiology_ . 2019;131:521–533.
+
+49.  Rajpal G, Winger DG, Cortazzo M, et al. Neurologic outcomes after low- volume, ultrasound- guided interscalene block and ambulatory shoulder surgery. _Reg Anesth Pain Med_ . 2016;41:477–481.
+
+50.  Soares LG, Brull R, Lai J, Chan VW. Eight ball. Corner pocket: the optimal needle position for ultrasound- guided supraclavicular block. _Reg Anesth Pain Med_ . 2007;32(1):94–95.
+
+51.  Kang RA, Chung YH, Ko JS, et al. Reduced hemidiaphragmatic paresis with a “corner pocket” technique for supraclavicular brachial plexus block: single- center, observer- blinded, randomized controlled trial. _Reg Anesth Pain Med_ . 2018;43(7):720–724.
+
+52.  Bhatia A, Lai J, Chan VW, Brull R. Case report: pneumothorax as a complication of the ultrasound- guided supraclavicular approach for brachial plexus block. _Anesth Analg_ . 2010;111(3):817–819.
+
+53.  Raj PP, Montgomery SJ, Nettles D, Jenkins MT. Infraclavicular brachial plexus block: a new approach. _Anesth Analg_ . 1973;52:897–904.
+
+54.  Ootaki C, Hayashi H, Amano M. Ultrasound- guided infraclavicular brachial plexus block: an alternative technique to anatomical landmark- guided approaches. _Reg Anesth Pain Med_ . 2000;25(6):600– 604.
+
+55.  Sandhu NS, Capan LM. Ultrasound- guided infraclavicular brachial plexus block. _Br J Anaesth_ . 2002;89(2):254–259.
+
+56.  Songthamwat B, Karmakar MK, Samy W, Mok LYH. Ultrasoundguided infraclavicular brachial plexus block: prospective randomized comparison of the lateral sagittal and costoclavicular approach. _Reg Anesth Pain Med_ . 2018;43:825–831.
+
+57.  Gray AT. The conjoint tendon of the latissimus dorsi and teres major: an important landmark for ultrasound- guided axillary block. _Reg Anesth Pain Med_ . 2009;34(2):179–180.
+
+58.  Magazzeni P, Jochym D, Iohom G, et al. Ultrasound- guided selective versus conventional block of the medial brachial cutaneous and the intercostobrachial nerves: a randomized clinical trial. _Reg Anesth Pain Med_ . 2018;43:832–837.
+
+59.  Paraskeuopoulos T, Saranteas T, Kouladourous K, et al. Thoracic paravertebral spread using two different ultrasound- guided intercostal injection techniques in human cadavers. _Clin Anat_ . 2010;23:840– 847.
+
+60.  Niesen AD, Jacob AK, Law LA, et al. Complication rate of ultrasoundguided paravertebral block for breast surgery. _Reg Anesth Pain Med_ . 2020;45:813–817.
+
+61.  Forero M, Adhikary SD, Lopez H, et al. The erector spinae plane block: a novel analgesic technique in thoracic neuropathic pain. _Reg Anesth Pain Med_ . 2016;41:621–627.
+
+62.  Sharma S, Iorio R, Specht LM, et al. Complications of femoral nerve block for total knee arthroplasty. _Clin Orthop Relat Res_ . 2010;468:135– 140.
+
+63.  Johnson RL, Kopp SL, Hebl JR, Mantilla CB. Falls and major orthopaedic surgery with peripheral nerve blockade: a systematic review and meta- analysis. _Br J Anaesth_ . 2013;110:518–528.
+
+64.  Johnson RL, Duncan CM, Ahn KS, et al. Fall- prevention strategies and patient characteristics that impact fall rates after total knee arthroplasty. _Anesth Analg_ . 2014;119(5):1113–1118.
+
+65.  Dalens B, Vanneuville G, Tanguy A. Comparison of the fascia iliaca compartment block with the 3- in- 1 block in children. _Anesth Analg_ . 1989;69(6):705–713.
+
+66.  Guay J, Parker MJ, Griffiths R, Kopp SL. Peripheral nerve blocks for hip fractures: a Cochrane review. _Anesth Analg_ . 2018;126(5):1695– 1704.
+
+67.  Hebbard P, Ivanusic J, Sha S. Ultrasound- guided supra- inguinal fascia iliaca block: a cadaveric evaluation of a novel approach. _Anaesthesia_ . 2011;66(4):300–305.
+
+68.  Desmet M, Vermeylen K, Van Herreweghe I, et al. A longitudinal supra- inguinal fascia iliaca compartment block reduces morphine consumption after total hip arthroplasty. _Reg Anesth Pain Med_ . 2017;42(3):327–333.
+
+69.  Jæger P, Zaric D, Fomsgaard JS, et al. Adductor canal block versus femoral nerve block for analgesia after total knee arthroplasty: a randomized, double- blind study. _Reg Anesth Pain Med_ . 2013;38(6):526–532.
+
+70.  Kim DH, Lin Y, Goytizolo EA, et al. Adductor canal block versus femoral nerve block for total knee arthroplasty: a prospective, randomized, controlled trial. _Anesthesiology_ . 2014;120(3):540–550.
+
+71.  Macrinici GI, Murphy C, Christman L, et al. Prospective, double- blind, randomized study to evaluate single- injection adductor canal nerve block versus femoral nerve block: postoperative functional outcomes after total knee arthroplasty. _Reg Anesth Pain Med_ . 2017;42(1):10–16.
+
+72.  Wong WY, Bjørn S, Strid JM, et al. Defining the location of the adductor canal using ultrasound. _Reg Anesth Pain Med_ . 2017;42(2):241– 245.
+
+73.  Chen J, Lesser JB, Hadzic A, et al. Adductor canal block can result in motor block of the quadriceps muscle. _Reg Anesth Pain Med_ . 2014;39(2):170–171.
+
+74.  Neal JM, Salinas FV, Choi DS. Local anesthetic- induced myotoxicity after continuous adductor canal block. _Reg Anesth Pain Med_ . 2016;41(6):723–727.
+
+75.  Gray AT, Collins AB, Schafhalter- Zoppoth I. Sciatic nerve block in a child: a sonographic approach. _Anesth Analg_ . 2003;97(5):1300.
+
+76.  Chan VW, Nova H, Abbas S, et al. Ultrasound examination and localization of the sciatic nerve: a volunteer study. _Anesthesiology_ . 2006;104(2):309.
+
+77.  Karmakar MK, Kwok WH, Ho AM, et al. Ultrasound- guided sciatic nerve block: description of a new approach at the subgluteal space. _Br J Anaesth_ . 2007;98(3):390.
+
+78.  Fuzier R, Hoffreumont P, Bringuier- Branchereau S, et al. Does the sciatic nerve approach influence thigh tourniquet tolerance during below- knee surgery? _Anesth Analg_ . 2005;100(5):1511–1514.
+
+79.  Valade N, Ripart J, Nouvellon E, et al. Does sciatic parasacral injection spread to the obturator nerve? An anatomic study. _Anesth Analg_ . 2008;106(2):664–667.
+
+80.  Bendtsen TF, Lönnqvist PA, Jepsen KV, et al. Preliminary results of a new ultrasound- guided approach to block the sacral plexus: the parasacral parallel shift. _Br J Anaesth_ . 2011;107(2):278–2780.
+
+81.  Johnson CS, Johnson RL, Niesen AD, et al. Ultrasound- guided posterior femoral cutaneous nerve block: a cadaveric study. _J Ultrasound Med_ . 2018;37(4):897–903.
+
+82.  Yamamoto H, Sakura S, Wada M, Shido A. A prospective, randomized comparison between single- and multiple- injection techniques for ultrasound- guided subgluteal sciatic nerve block. _Anesth Analg_ . 2014;119(6):1442–1448.
+
+83.  Beck GP. Anterior approach to sciatic nerve block. _Anesthesiology_ . 1963;24:222–224.
+
+84.  Tsui BC, Ozelsel TJ. Ultrasound- guided anterior sciatic nerve block using a longitudinal approach: “expanding the view. _Reg Anesth Pain Med_ . 2008;33(3):275–276.
+
+85.  Ota J, Sakura S, Hara K, Saito Y. Ultrasound- guided anterior approach to sciatic nerve block: a comparison with the posterior approach. _Anesth Analg_ . 2009;108(2):660–665.
+
+86.  Gray AT, Huczko EL, Schafhalter- Zoppoth I. Lateral popliteal nerve block with ultrasound guidance. _Reg Anesth Pain Med_ . 2004;29(5):507–509.
+
+87.  Schafhalter- Zoppoth I, Younger SJ, Collins AB, Gray AT. The “seesaw” sign: improved sonographic identification of the sciatic nerve. _Anesthesiology_ . 2004;101(3):808–809.
+
+88.  Balius R, Susín A, Morros C, et al. Gemelli- obturator complex in the deep gluteal space: an anatomic and dynamic study. _Skeletal Radiol_ . 2018;47(6):763–770.
+
+89.  Sinha SK, Abrams JH, Arumugam S, et al. Femoral nerve block with selective tibial nerve block provides effective analgesia without foot drop after total knee arthroplasty: a prospective, randomized, observer- blinded study. _Anesth Analg_ . 2012;115:202–206.
+
+90.  Benzon HT, Sharma S, Calimaran A. Comparison of the different approaches to saphenous nerve block. _Anesthesiology_ . 2005;102(3):633–638.
+
+91.  Redborg KE, Antonakakis JG, Beach ML, et al. Ultrasound improves the success rate of a tibial nerve block at the ankle. _Reg Anesth Pain Med_ . 2009;34(3):256–260.
+
+92.  Benzon HT, Sekhadia M, Benzon HA, et al. Ultrasound- assisted and evoked motor response stimulation of the deep peroneal nerve. _Anesth Analg_ . 2009;109:2022–2024.
+
+93.  Swenson JD, Davis JJ, DeCou JA. A novel approach for assessing catheter position after ultrasound- guided placement of continuous interscalene block. _Anesth Analg_ . 2008;106(3):1015–1016.
+
+94.  Johns J, Harrison TK, Steffel L, et al. A pilot in vitro evaluation of the “air test” for perineural catheter tip localization by a novice regional anesthesiologist. _J Ultrasound Med_ . 2014;33(12):2197–2200.
+
+<!-- PDF page 29 -->
+
+95.  Kumar AH, MacLeod DB, Kumar KR, et al. Comparison of perineural catheter fixation methods: a volunteer study. _Anaesthesia_ . 2021;76(5):714–716.
+
+96.  Bomberg H, Bayer I, Wagenpfeil S, et al. Prolonged catheter use and infection in regional anesthesia: a retrospective registry analysis. _Anesthesiology_ . 2018;128(4):764–773.
+
+   98.  Ramlogan R, Niazi AU, Jin R, et al. A virtual reality simulation model of spinal ultrasound: role in teaching spinal sonoanatomy. _Reg Anesth Pain Med_ . 2017;42(2):217–222.
+
+   99.  Ramlogan RR, Chuan A, Mariano ER. Contemporary training methods in regional anaesthesia: fundamentals and innovations. _Anaesthesia_ . 2021;76:53–64.
+
+97.  Kessler J, Marhofer P, Rapp HJ, Hollmann MW. [Ultrasound- guided anaesthesia of peripheral nerves. The new challenge for anaesthesiologists]. _Anaesthesist_ . 2007;56(7):642–655.

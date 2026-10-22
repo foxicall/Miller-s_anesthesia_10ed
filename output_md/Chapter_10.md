@@ -1,0 +1,2790 @@
+---
+title: Cerebral Physiology and the Effects of Anesthetic Drugs
+chapter: 10
+book: Miller's Anesthesia, 10th Edition
+source_file: 10. Cerebral Physiology and the Effects of Anesthetic Drugs.pdf
+---
+
+# Cerebral Physiology and the Effects of Anesthetic Drugs
+
+<!-- PDF page 1 -->
+
+
+PIYUSH M. PATEL, JOHN C. DRUMMOND, and BRIAN P. LEMKUIL
+
+### KEY POINTS
+
+- The brain has a high metabolic rate and receives approximately 15% of cardiac output. Under normal circumstances, cerebral blood flow (CBF) is approximately 50 mL/100 g/min. Gray matter receives 80% and white matter receives 20% of this blood flow.
+
+- Approximately 60% of the brain’s energy consumption supports electrophysiologic function. The remainder of the energy consumed by the brain is involved in cellular homeostatic activities.
+
+- CBF is tightly coupled to local cerebral metabolism. When cerebral activity in a particular region of the brain increases, a corresponding increase in blood flow to that region takes place. Conversely, suppression of cerebral metabolism leads to a reduction in blood flow.
+
+- Cerebral autoregulation maintains a relatively stable CBF with varying mean arterial pressure (MAP). There is a substantial amount of inter- individual variability in this autoregulation, not only in the lower and upper limits but also in the width and slope of the plateau. With acknowledgment of this variability, the lower limit in most humans is not less than 70 mm Hg.
+
+- CBF is also under chemical regulation. CBF varies directly with arterial carbon dioxide tension in the arterial partial pressure of carbon dioxide (PaCO2) range of 25 to 70 mm Hg. When arterial partial pressure of oxygen (PaO2) decreases to less than 60 mm Hg, CBF dramatically increases. Reductions in body temperature influence CBF primarily by suppression of cerebral metabolism.
+
+- Systemic vasodilators (e.g., nitroglycerin, nitroprusside, hydralazine, calcium channel blockers) vasodilate the cerebral circulation and can, depending on the MAP, increase CBF. Vasopressors such as phenylephrine, norepinephrine, ephedrine, and dopamine do not directly affect global CBF; their effect on CBF is via their effect on arterial blood pressure. When the MAP is less than the lower limit of autoregulation, vasopressors increase the MAP and thereby increase CBF. If the MAP is within the limits of autoregulation, then vasopressor- induced increases in systemic pressure either have no effect or a modest effect on CBF depending upon the slope of the plateau.
+
+- All volatile anesthetics suppress the cerebral metabolic rate (CMR) and, except for halothane, can produce burst suppression of the electroencephalogram (EEG). At the level of EEG burst suppression, the CMR is reduced by approximately 60%. Volatile anesthetics have dosedependent effects on CBF. In doses less than the minimal alveolar concentration (MAC), CBF is modestly decreased. In doses larger than 1 MAC, direct cerebral vasodilation results in an increase in CBF and cerebral blood volume.
+
+- Barbiturates, etomidate, and propofol decrease the CMR and can produce burst suppression of the EEG; at that level, the CMR is reduced by approximately 60% and there is a corresponding reduction in CBF because blood flow and metabolism coupling are preserved. Opiates effect minor decreases in CBF and CMR. Sedative doses of benzodiazepines have only a minor effect on CMR and CBF; greater doses that can induce general anesthesia result in a significant reduction in CBF and CMR. In contrast, ketamine can increase the CMR with a corresponding modest increase in blood flow.
+
+- Brain stores of oxygen and substrates are limited, and the brain is extremely sensitive to decreases in CBF. Symptoms of cerebral ischemia are apparent when CBF is reduced by ∼ 40% from resting, basal flow in awake individuals. The difference between the basal flow and the level at which symptoms of cerebral ischemia occur is referred to as cerebrovascular flow reserve. Transient reductions in CBF that are of brief duration do not injure the brain given this reserve; sustained reduction in CBF, even within the reserve, can lead to cerebral injury. Severe decreases in CBF lead to rapid neuronal death.
+
+- Barbiturates, propofol, ketamine, volatile anesthetics, and xenon have neuroprotective efficacy and can reduce ischemic cerebral injury in experimental models. This anesthetic neuroprotection is sustained only when the severity of the ischemic insult is mild; with moderate to severe injury, long- term neuroprotection is not achieved. The neuroprotective efficacy of anesthetics in humans is limited.
+
+<!-- PDF page 2 -->
+
+This chapter reviews the effects of anesthetic drugs and techniques on cerebral physiology, particularly their effects on cerebral blood flow (CBF) and metabolism. The final section presents a brief discussion of pathophysiologic states, including cerebral ischemia and cerebral protection. Prime attention is directed to the immediate relevance of the rationale for use of anesthetic agents, anesthetic adjuncts, and vasoactive agents in the intraoperative and intensive care management of patients with intracranial pathologic conditions. Chapter 53 presents the clinical management of these patients in detail. Neurophysiologic monitoring, including the effects of anesthetics on the electroencephalogram (EEG) and evoked responses, is reviewed in Chapter 36.
+
+## Anatomy of the Cerebral Circulation
+
+The arterial blood supply to the brain is composed of paired right and left internal carotid arteries, which give rise to the anterior circulation, and paired right and left vertebral arteries, which give rise to the posterior circulation. The connection of the two vertebral arteries forms the basilar artery. The internal carotid arteries and the basilar artery connect to form a vascular loop called the circle of Willis that permits collateral circulation between both the right and left and the anterior and posterior perfusing arteries. Three paired arteries that originate from the circle of Willis perfuse the brain: anterior, middle, and posterior cerebral
+
+arteries. The posterior communicating arteries and the anterior communicating artery complete the loop.
+
+Under normal circumstances, blood from the anterior and posterior circulations does not admix because the pressures in the two systems are equal. Similarly, side- to- side admixing of blood across the circle is limited. The vessels that originate from the circle provide blood flow to welldelineated regions of the brain. However, in pathologic circumstances during which occlusion of one of the arterial branches occurs, the circle of Willis can act as an anteroposterior or side- to- side shunt to increase collateral blood flow to the region of the brain with reduced perfusion.
+
+A complete circle of Willis is shown in Fig. 10.1A. However, substantial variability exists in the anatomy of the circle of Willis, and a significant proportion of individuals may have an incomplete circular loop.<sup>1</sup> The variations in the circle and their prevalence are shown in Fig. 10.1B.
+
+There is considerable heterogeneity in the structure of the cerebral vessels, from the extracranial arteries, arteries that form the circle of Willis, brain surface pial arterioles, penetrating arterioles to brain capillaries. The structural components of the cerebral vascular tree are shown schematically in Fig. 10.1C.<sup>2</sup>
+
+Three sets of veins drain blood from the brain. The superficial cortical veins are within the pia mater on the brain surface. Deep cortical veins drain the deeper structures of the brain. These veins drain into dural sinuses, of which the superior and inferior sagittal sinuses and the straight, transverse, and sigmoid sinuses are the major dural sinuses. These ultimately drain into the right and left internal
+
+
+![](assets/chapter-10/10._Cerebral_Physiology_and_the_Effects_of_Anesthetic_Drugs.pdf-0002-10.png)
+
+
+ACA<br>ACom MCA<br>ICA<br>PCom<br>PCA<br>SCA<br>Basilar<br>Complete 7% 2%<br>AICA<br>Vertebral<br>PICA Anterior<br>spinal<br>A B 2% 27% 7%<br>artery<br>
+
+**Fig. 10.1 Vascular anatomy of the brain.** (A) Arterial input into a complete circle of Willis. _ACA_ , anterior cerebral artery; _ACom,_ anterior communicating artery; _AICA,_ anterior inferior cerebellar artery; _ICA,_ internal carotid artery; _MCA,_ middle cerebral artery; _PCA,_ posterior cerebral artery; _PCom,_ posterior communicating artery; _PICA,_ posterior inferior cerebellar artery; _SCA,_ superior cerebellar artery. (B) Variations in the structure of the circle of Willis. The prevalence of each of the variations is shown. (C) Structural heterogeneity in the structure of cerebral vessels. In the MCA and pial arterioles, the smooth muscle layer progressively becomes thinner. Vessels are ensheathed in nerves from autonomic ganglia (extrinsic innervation). In intraparenchymal arterioles, smooth muscle is much thinner, and innervation occurs from intrinsic pathways (interneurons and subcortical pathways). In capillaries, smooth muscle cells are replaced by pericytes. The relative adrenergic receptor type distribution in MCA and arterioles is shown. (D) Cerebral venous drainage. (C, Modified from Schaeffer S, Iadecola C. Revisiting the neurovascular unit. _Nat Neurosci_ . 2021;24:1198–1209 and Brassard P, Tymko MM, Ainslie PN. Sympathetic control of the brain circulation: Appreciating the complexities to better understand the controversy. _Auton Neurosci_ . 2017;207:37–47.)
+
+<!-- PDF page 3 -->
+
+![](assets/chapter-10/10._Cerebral_Physiology_and_the_Effects_of_Anesthetic_Drugs.pdf-0003-01.png)
+
+
+Penetrating arteriole (40–50 µm)<br>Intraparenchymal arteriole (20–30 µm) α1 > α2 > β<br>β >> α1 > α2<br>Glia<br>Neuropil<br>Neuropil<br>Smooth muscle<br>Perivascular space<br>Endothelium Astrocyte<br>Astrocyte Perivascular nerves<br>Intrinsic innervation<br>Capillary (6–7 µm) Pial arteriole (200–1000 µm)<br>α1 > α2 > β<br>Neuropil<br>Astrocyte Smooth muscle cells<br>Perivascular nerves<br>Neuron<br>Elastic lamina<br>Endothelium<br>Pericyte<br>Perivascular nerves<br>Extrinsic innervation<br>Subarachoid space<br>Middle cerebral artery (2–3 mm)<br>α1 >> α2 > β<br>Adventitial nerve bundle<br>Smooth muscle cells<br>Elastic lamina<br>Subarachoid space<br>Perivascular nerves<br>C Extrinsic innervation<br>Superior<br>sagittal sinus<br>Inferior<br>sagittal sinus<br>Internal<br>cerebral vein<br>Straight<br>sinus<br>Vein of Galen<br>Cavernous sinus<br>Petrosal sinus<br>Sinus<br>confluence<br>Transverse<br>sinus<br>Jugular vein<br>Sigmoid<br>D sinus<br>Fig. 10.1 Cont’d<br>
+
+<!-- PDF page 4 -->
+
+jugular veins. A schematic representation of the cerebral venous circulation is shown in Fig. 10.1D.
+
+There is considerable asymmetry in the blood flow between the right and left internal jugular veins (IJV). In approximately 65% of patients, flow in the right IJV is greater than in the left; in the remainder, the left IJV is dominant.<sup>3</sup> For measurement of jugular venous oxygen saturation (SjVO2), catheters are introduced into the internal jugular vein and advanced retrogradely until the tip of the catheter is near the jugular bulb. To ensure accurate measurement of SjVO2, it has been advocated that the catheter be inserted into the dominant jugular vein. The cross- sectional diameter of the IJV, which correlates with dominance, can be determined by ultrasound imaging.<sup>4</sup>
+
+### CEREBROSPINAL FLUID FORMATION AND CIRCULATION
+
+Cerebrospinal fluid (CSF) is produced primarily by the choroid plexus in the lateral, third, and fourth ventricles; there are small contributions from the endothelial cells and from fluid that is produced as a consequence of metabolic activity. CSF production is the result of hydrostatic efflux from capillaries into the perivascular space, and then active transport into the ventricles. CSF reabsorption occurs primarily via the arachnoid granulations present in the dural sinuses. A smaller proportion of CSF, which tracks along cranial and peripheral nerves, perivascular routes and along white matter tracts, gains access to the cerebral venous system by transependymal flow. The total CSF space is approximately 150 mL and total daily CSF production averages 450 mL. Therefore, there is a substantial turnover of CSF daily. CSF production is also under the influence of the circadian rhythm, with the peak production of CSF occurring during sleep.<sup>5</sup>
+
+Recently, the concept of the glymphatic pathway as a means by which waste products are removed from the brain has been advanced. Conceptually, the glymphatic pathway can be visualized as a system akin to the lymphatic system in the systemic circulation (note, however, that the brain does not contain lymphatics other than those present in the meninges). Functionally, CSF enters the periarterial space, a space that is bounded by the vessels and the end- feet of astrocytes. Aquaporin channels on the end- feet facilitate this water exchange. From the periarterial space, CSF is transported by convection bulk flow to the brain parenchyma and accumulates in the perivenous space. The CSF then drains into the meningeal and cervical lymphatic vessels as well as along cranial and spinal nerves.<sup>6</sup> As such, the glymphatic system serves as a waste disposal system.<sup>5</sup> Of considerable interest is the observation that the periarterial space increases significantly during sleep and during general anesthesia; hence, glymphatic transport and waste clearance is increased during these states. Among anesthetic agents, glymphatic transport is reduced by volatile agents but is less affected by dexmedetomidine.<sup>7</sup>
+
+### REGULATION OF CEREBRAL BLOOD FLOW
+
+Anesthetic drugs cause dose- related and reversible alterations in many aspects of cerebral physiology, including CBF, cerebral metabolic rate (CMR), and electrophysiologic
+
+### Box 10.1 Normal Cerebral Physiologic Values
+
+|CBF||
+|---|---|
+|Global|45–55 mL/100 g/min|
+|Cortical (mostly gray matter)|75–80 mL/100 g/min|
+|Subcortical (mostly white matter)|8–20 mL/100 g/min|
+|CMRO2|3–3.5 mL/100 g/min|
+|CVR|1.5–2.1 mm Hg/100<br>g/min/mL|
+|Cerebral venous PO2|32–44 mm Hg|
+|Cerebral venous SO2|55%–70%|
+|rSO2|55%–80%|
+|SjVO2|60%–70%|
+|ICP (supine)|8–12 mm Hg|
+
+
+_CBF,_ cerebral blood flow; _CMRO2,_ cerebral metabolic rate of oxygen; _CVR,_ cerebral vascular resistance; _ICP,_ intracranial pressure; _PO2,_ partial pressure of oxygen; _SO2,_ oxygen saturation; _rSO2_ , regional oxygen saturation measured by near- infrared spectroscopy; _SjVO2,_ jugular venous oxygen saturation.
+
+function (EEG, evoked responses). The effects of anesthetic drugs and techniques have the potential to adversely affect the diseased brain and are thus of clinical importance in patients with neurosurgical disease. Conversely, the effects of general anesthesia on CBF and CMR can be altered to improve both the surgical course and the clinical outcome of patients with neurologic disorders.
+
+The adult human brain weighs approximately 1350 g and therefore represents approximately 2% of total body weight. However, it receives 12% to 15% of cardiac output. This high flow rate is a reflection of the brain’s high metabolic rate. At rest, the brain consumes oxygen at an average rate of approximately 3.5 mL of oxygen per 100 g of brain tissue per minute. Whole- brain oxygen consumption (50 mL/min) represents approximately 20% of total body oxygen utilization. Normal values for CBF, CMR, and other physiologic variables are provided in Box 10.1.
+
+Approximately 60% of the brain’s energy consumption supports electrophysiologic function. The depolarization– repolarization activity that occurs, reflected in the EEG, requires expenditure of energy for the maintenance and restoration of ionic gradients and for the synthesis, transport, and reuptake of neurotransmitters. The remainder of the energy consumed by the brain is involved in cellular homeostatic activities (Fig. 10.2). Local CBF and CMR within the brain are very heterogeneous, and both are approximately four times greater in gray matter than in white matter. The cell population of the brain is also heterogeneous in its oxygen requirements. Glial cells make up approximately half of the brain’s volume and require less energy than neurons. Besides providing a physically supportive latticework for the brain, glial cells are important in the reuptake of neurotransmitters, in the delivery and removal of metabolic substrates and wastes, and in blood– brain barrier (BBB) function.
+
+The brain’s substantial demand for substrate must be met by adequate delivery of oxygen and glucose. However, the space constraints imposed by the noncompliant cranium and meninges require that blood flow not be excessive. Not surprisingly, elaborate mechanisms regulate CBF. These
+
+
+
+::: details 原始表格與符號（PDF 第 4 頁）
+
+![第 10 章，原始 PDF 第 4 頁](assets/chapter-10/source-page-0004.png)
+
+:::
+
+<!-- PDF page 5 -->
+
+![](assets/chapter-10/10._Cerebral_Physiology_and_the_Effects_of_Anesthetic_Drugs.pdf-0005-01.png)
+
+
+Awake, active EEG<br>Slowing EEG<br>Early burst suppression<br>Burst suppression<br>60% Suppression<br>40%<br>Cumulative Barbiturate Dose<br>function<br>Electrophysiologic<br>Cerebral Metabolic Rate<br>Basal<br>homeostasis<br>
+
+**Fig. 10.2 Interdependency of cerebral electrophysiologic function and cerebral metabolic rate (CMR).** Administration of various anesthetics, including barbiturates, results in a dose- related reduction in the CMR of oxygen (CMRO2) and cerebral blood flow (CBF). The maximum reduction occurs with the dose that results in electrophysiologic silence. At this point, the energy utilization associated with electrophysiologic activity has been reduced to zero, but the energy utilization for cellular homeostasis persists unchanged. Additional barbiturates cause no further decrease in CBF or CMRO2. _EEG,_ electroencephalogram.
+
+mechanisms, which include chemical, myogenic, and neurogenic factors, are listed in Table 10.1.
+
+### MYOGENIC REGULATION (AUTOREGULATION) OF CEREBRAL BLOOD FLOW
+
+Autoregulation refers to the capacity of the cerebral circulation to adjust its resistance to maintain a relatively constant CBF over a wide range of mean arterial pressure (MAP) values. The concept originally evolved from the classic review by Lassen.<sup>8</sup> Experimental work in animals, including subhuman primates,<sup>9</sup> subsequently confirmed the ability of the cerebral circulation to autoregulate over a wide range of MAP. The curve drawn by Lassen implied that CBF was held constant at 50 mL/100 g/min over a MAP range of 50 to 150 mm Hg (Fig. 10.3A). The MAP below which CBF becomes pressure passive and decreases gradually in parallel with reduction in MAP was defined as the lower limit of autoregulation (LLA). The upper limit of autoregulation (ULA) was originally not defined. However, because autoregulation serves to prevent CBF changes in the face of both increases and decreases in MAP, a ULA was subsequently added to the Lassen curve (Fig 10.3B).
+
+The classical view of autoregulation has been widely accepted and has been integrated into clinical management. However, critical analysis of the data that were used to generate the Lassen curve has led to questions about both its qualitative and quantitative accuracy.<sup>10–13</sup> Lassen presented CBF data from a heterogeneous sample of patients from seven separate investigations. The sample contained patients who were pregnant, who had a variety of clinical conditions, and who were given pharmacologic agents known to impact the cerebral circulation to modulate blood pressure (BP). Importantly, single time point measurements of CBF did not provide information about within- subject CBF over varying BP. Moreover, an analysis of autoregulation studies in humans<sup>11,12</sup> confirmed that the cerebral circulation has autoregulatory capacity
+
+**Table 10.1** Factors Influencing Cerebral Blood Flow
+
+|**Factor**|**Comment**|
+|---|---|
+|**CHEMICAL, METABOLIC, HUM**<br>|**ORAL**<br>l|
+|CMR<br>Anesthetics<br>Temperature|CMR influence assumes intact<br>flow–metabolism coupling, the<br>mechanism of which is not fully<br>understood.|
+|Arousal; seizures||
+|PaCO2||
+|PaO2||
+|Cardiac output||
+|Vasoactive drugs||
+|Anesthetics||
+|Vasodilators||
+|Vasopressors||
+|**MYOGENIC**||
+|Autoregulation; MAP|The autoregulation mechanism is<br>fragile; in many pathologic states,<br>CBF is regionally pressure passive.|
+|**RHEOLOGIC**<br>Blood viscosity||
+|**NEUROGENIC**||
+|Extracranial sympathetic and<br>parasympathetic pathways|Contribution and clinical significance<br>are poorly defined.|
+|Intra- axial pathways||
+
+
+_CBF,_ cerebral blood flow; _CMR,_ cerebral metabolic rate; _MAP,_ mean arterial pressure; _PaCO2,_ arterial partial pressure of carbon dioxide; _PaO2,_ arterial partial pressure of oxygen.
+
+(Fig. 10.4); however, in contrast with the original Lassen curve, those reviews suggest that the plateau encompasses a narrower range of MAPs and has a gentle upslope rather than being flat. This implies that the range of MAPs over which the cerebral circulation is predominantly pressure passive is greater than that has been appreciated.<sup>11</sup>
+
+It should be noted that in most of the studies just mentioned, the pressure ranges studied were relatively small and the time frame over which measurements were made was on the order of a few minutes, i.e., there was limited time for CBF equilibration. The assessment of autoregulatory parameters such as LLA and range of the plateau are heavily influenced by the rate at which blood pressure is changed. Measurement of CBF and MAP over a longer period of about 10 minutes allows the measured variables to achieve a steady state.<sup>14</sup> This minimizes the impact of more rapid hemodynamic changes. Such an evaluation of autoregulation is referred to as _static autoregulation_ (see Fig. 10.3B). By contrast, the MAP–CBF relationship that is measured with transient changes in blood pressure over the course of seconds to a few minutes is referred to as _dynamic autoregulation_ .<sup>13,15,16</sup> Such rapid, transient reductions in MAP (induced by thigh cuff deflation, for example) lead to a corresponding reduction in middle cerebral artery flow velocity (MCAfv) (see Fig. 10.4A). The magnitude of the changes in MAP are greater than those in CBF, indicating that the cerebral circulation has the capacity to buffer changes in CBF with transient changes in MAP.<sup>16</sup> The
+
+
+
+::: details 原始表格與符號（PDF 第 5 頁）
+
+![第 10 章，原始 PDF 第 5 頁](assets/chapter-10/source-page-0005.png)
+
+:::
+
+<!-- PDF page 6 -->
+
+![](assets/chapter-10/10._Cerebral_Physiology_and_the_Effects_of_Anesthetic_Drugs.pdf-0006-02.png)
+
+
+100<br>Plateau<br>3 4 9 10 11<br>50 LLA 5 6 7 8 75 Variation in<br>width and<br>Variation in slope of<br>lower limit plateau<br>50<br>2 Variation in<br>1 upper limit<br>25<br>Hypotension Hypertension<br>0<br>50 100 150 mm Hg 0 50 70 100 150 200<br>A Mean arterial blood pressure B Mean arterial pressure (mm Hg)<br>–1–1CBF (ml•100 g)•min<br>CBF cc / 100 g / min<br>
+
+**Fig. 10.3** (A) Depiction of the classical cerebral autoregulation curve. The original description by Lassen<sup>8</sup> implicated the presence of a lower limit of autoregulation (LLA) of 50 mm Hg and a plateau phase wherein CBF is maintained with varying blood pressure (BP). The upper limit of autoregulation at 150 mm Hg was added later. The numbers represent separate groups of subjects. (B) Within this conventional view of cerebral autoregulation, which has been widely adopted, CBF is maintained within the normal range in the face of widely varying BP as indicated by the plateau. Below the lower limit of autoregulation of 70 mm Hg in humans, and above the upper limit, approximately 150 mm Hg, the cerebral circulation is pressure passive and CBF decreases or increases, respectively, with corresponding changes in MAP. Note that there is considerable inter- subject variation in the limits of the autoregulatory plateau. _CBF_ , cerebral blood flow; _MAP_ , mean arterial pressure. (A, Redrawn from Lassen NA. Cerebral blood flow and oxygen consumption in man. _Physiol Rev_ . 1959;39:183–238.)
+
+extent of this buffering capacity (autoregulation) is dependent upon the rate of blood pressure change, as well as the time allowed for CBF to equilibrate. Therefore, the effect on CBF is attenuated with slower blood pressure changes. By contrast, with rapid changes, the buffering capacity is significantly reduced, such that blood pressure changes are directly reflected in CBF changes.<sup>17</sup> Measures of dynamic autoregulation result in the observation of a narrower width of the plateau and a greater slope (see Fig 10.4B). With changes in BP occurring over the course of seconds to a few minutes, the plateau may be as short as 10 mm Hg.<sup>18</sup> In the face of more rapid blood pressure changes, a plateau may not be observed at all. By contrast, when static autoregulation is evaluated under steady-state conditions, the plateau is apparent from a reduction of blood pressure of 20 mm Hg to an increase of 20 mm Hg (total 40 mm Hg).<sup>14,19,20</sup> Given that the range of blood pressure manipulation in these investigations was limited, it is plausible that the plateau may, in fact, be much wider. Assessment of autoregulation by static and dynamic measures, which differ in the temporal resolution of both blood pressure and CBF changes, can lead to very different conclusions about cerebral autoregulatory capacity.<sup>14</sup>
+
+The available data indicate that there is a range of blood pressures over which CBF is stable.<sup>14</sup> This range implies that there are upper and lower limits to autoregulation, with the plateau phase in between these limits. The limits of autoregulation are conceptual constructs for the purpose of analysis. They do not represent physiologic “all- or- none” responses. A continuum of vascular responsiveness in both the lower and upper limits probably exists as the ability of the arteriolar bed to dilate or constrict is exhausted. The numeric limits of this autoregulatory range are difficult to define given heterogeneity of patient populations studied, the methods utilized to measure CBF, how blood pressure is modulated (pharmacologic, postural, negative lower
+
+body pressure application), the range of blood pressure fluctuations achieved and, critically, the rate of blood pressure change. Drummond reviewed investigations in which autoregulation was assessed in awake, healthy, and nonanesthetized human subjects.<sup>10</sup> Across seven investigations, there was a wide range of mean LLA, from 57 to 91 mm Hg. More remarkable than this wide range was the enormous inter- subject variability in the LLA within each investigation. It is therefore difficult to define an average LLA that is applicable broadly to a diverse population.<sup>10</sup> Nonetheless, the available data suggest that the LLA in a majority of subjects is not less than 70 mm Hg, which, with the assumption of a normal intracranial pressure, translates to a cerebral perfusion pressure (CPP) of 60–65 mm Hg. While the capacity of autoregulation to moderate changes in CBF in response to varying blood pressure is widely accepted, given the substantial inter- individual variability, it is highly unlikely that a single autoregulation curve will represent cerebral hemodynamics for all subjects.<sup>21</sup> To reflect individual variation, cerebral autoregulation is better described as a family of autoregulatory curves. Such a representation is shown in Fig. 10.5.
+
+The upper limit of autoregulation (ULA) is less well studied, partly because of the ethics of significantly increasing blood pressure in human subjects. In anesthetized patients undergoing cardiopulmonary bypass, the ULA has been estimated to be about 90 mm Hg.<sup>22,23</sup> In hypertensive patients, autoregulation was preserved even when the baseline MAP, prior to the administration of anti- hypertensive agents, was approximately 140 mmHg.<sup>24</sup> This extends the possibility that the ULA is greater than 140 mm Hg under steady-state, long- term conditions. As is the case with the LLA and the plateau, there exists substantial variability amongst individuals.
+
+The precise mechanisms by which autoregulation is accomplished and its overlap with flow–metabolism
+
+<!-- PDF page 7 -->
+
+![](assets/chapter-10/10._Cerebral_Physiology_and_the_Effects_of_Anesthetic_Drugs.pdf-0007-01.png)
+
+
+Damping (gain) ~ 0.8 cm·s -1 /mm Hg<br>Phase shift<br>220 Systolic BP (mm Hg)<br>MCAfv (cm·s -1 )<br>200 80<br>180<br>160 60<br>140<br>120<br>40<br>Sit Stand<br>100<br>80<br>20<br>0 30 60 90<br>A Time (seconds)<br>50 Autoregulatory<br>plateau<br>40<br>30<br>20<br>10<br>0<br>-10<br>-20<br>-30<br>-40<br>-50<br>-30 -20 -10 0 10 20 30<br>B Percent Change MAP<br>Systolic BP (mm Hg)<br>MCA Flow Velocity (cm/s)<br>Percent Change CBF<br>
+
+**Fig. 10.4** (A) Relationship between systolic blood pressure (BP) and middle cerebral artery flow velocity (MCAfv) during repeated sitting ( _down arrow_ ) and standing positions ( _up arrow_ ) in humans. The change in body position led to significant changes in systolic blood pressure (SBP). The SBP and MCAfv are not synchronous, with the latter being shifted to the left (phase shift). Effective dynamic autoregulation results in damping wherein the cerebral blood flow (CBF) effects are smaller than the SBP effects with change in body position. (B) Relationship between MAP and CBF in multiple studies of cerebral autoregulation. Changes in mean arterial pressure (MAP) were produced by non-pharmacologic means. In contrast to the classical view of autoregulation, the autoregulatory plateau is relatively narrow over a range of ±10% change in MAP and has a positive slope. (Modified from Claassen et al. _Physiol Rev_ . 2021;101:1487–1559.)
+
+coupling are areas of active investigation. The available evidence indicates that smooth muscle cells in cerebral arteries and arterioles are the primary effector site for autoregulation.<sup>14</sup> With increasing blood pressure, smooth muscle cells undergo depolarization. The attendant influx of calcium across the plasmalemma (via voltage gated Ca<sup>2+</sup> channels) and from intracellular stores (sarcoplasmic reticulum) leads ultimately to smooth muscle contraction and an increase
+
+in transmural wall tension. Constriction of arterial vessels results in vasoconstriction, an increase in cerebrovascular resistance, and the relative maintenance of a stable CBF. The vascular tone is modulated by endothelium (nitric oxide, NO), extrinsic and intrinsic innervation, cerebral metabolism, PaO2, PaCO2 and pH. Although both large arteries and arterioles respond to changes in blood pressure, the tone in large vessels is less than in the pial arterioles, and
+
+<!-- PDF page 8 -->
+
+![](assets/chapter-10/10._Cerebral_Physiology_and_the_Effects_of_Anesthetic_Drugs.pdf-0008-02.png)
+
+
+100<br>75 c<br>a<br>b<br>50<br>CBF range at which symptoms<br>25 of ischemia occur<br>0<br>0 50 70 100 150 200<br>Mean Arterial Pressure (mm Hg)<br>-1•-1CBF (mL)min100 g•<br>
+
+**Fig. 10.5 Cerebral autoregulatory curves demonstrating the relationship between CBF and MAP.** The traditional curve, with a LLA of 70 mm Hg, a broad autoregulatory plateau with a gentle slope, and the ULA of 150 mm Hg is shown by the _red line_ (a). Curves b and c represent variations in autoregulation in the normal population, with some having shorter plateau (b) and some having limited autoregulatory capacity (c). The range of CBF that is associated with the development of ischemic symptoms is shown by the _black bar_ . Depending upon the state of autoregulation, CBF may enter this range at widely varying MAP in individuals. _CBF_ , cerebral blood flow; _LLA_ , lower limit of autoregulation; _MAP_ , mean arterial pressure; _ULA_ , upper limit of autoregulation. (Modified from Drummond JC. Blood pressure and the brain: how low can you go? _Anesth Analg_ . 2019;128:759–771.)
+
+the latter account for approximately half of the total cerebrovascular resistance.<sup>25</sup> Pre- capillary sphincters, located at the junction of penetrating arterioles and the capillaries, also modulate capillary flow.<sup>26</sup>
+
+### CHEMICAL REGULATION OF CEREBRAL BLOOD FLOW
+
+Several factors, including changes in CMR, arterial partial pressure of carbon dioxide (PaCO2), and arterial partial pressure of oxygen (PaO2), cause alterations in the cerebral biochemical environment that result in adjustments in CBF.
+
+### Cerebral Metabolic Rate
+
+Regional CBF and metabolism are tightly coupled. Flow– metabolism coupling within the brain is a complex physiologic process that is regulated, not by a single mechanism, but by a combination of metabolic, glial, neural, and vascular factors. The relationship between the brain and its vascular supply is regulated within the neurovascular unit (NVU). The NVU is composed of neurons, glia, microglia, pericytes, endothelial cells, and the basement membrane. Two major processes that are regulated by the NVU are the maintenance of local cerebral blood flow and blood–brain barrier function.<sup>27</sup> Increased neuronal activity results in increased local brain metabolism, and this increase in the CMR is associated with a proportional change in CBF that is referred to as neurovascular coupling. The traditional view of this coupling is increased neuronal activity resulting in a demand for energy; this demand is met by a local increase in CBF.<sup>28</sup> Although the precise mechanisms that mediate flow–metabolism coupling have not been defined, the
+
+data available implicate local by- products of metabolism (potassium ion [K<sup>+</sup> ], hydrogen ion [H<sup>+</sup> ], lactate, adeno sine, and adenosine triphosphate [ATP]). Increased synaptic activity with the attendant release of glutamate leads to the downstream generation of a variety of mediators that affect vascular tone (Fig. 10.6). Glutamate, released with increased neuronal activity, results in the synthesis and release of NO, a potent cerebral vasodilator that plays an important role in coupling of flow and metabolism. Glia and their processes make contact with neurons and with cerebral blood vessels. These processes may serve as conduits for the coupling of increased neuronal activity to increases in blood flow. Glutamate activation of metabotropic glutamate receptors (mGluR) in astrocytes leads to arachidonic acid (AA) metabolism and the subsequent generation of prostaglandins and epoxyeicosatrienoic acids (EETs). Local by- products of metabolism (K<sup>+</sup> , H<sup>+</sup> , lactate, adenosine, and ATP) can also directly modulate vascular tone. Oxygen modulates the relative contribution of these pathways, and in the setting of reduced oxygen tension at the tissue level, the release of adenosine can contribute to vascular dilation. The net result on vascular tone is therefore determined by the relative contribution of multiple signaling pathways. In addition, nerves that innervate cerebral vessels release peptide neurotransmitters such as vasoactive intestinal peptide (VIP), substance P, cholecystokinin, somatostatin, and calcitonin gene–related peptide.<sup>29</sup> These neurotransmitters may also potentially be involved in neurovascular coupling. Neuronal activity also leads to more upstream vasodilation that plays an important role in ensuring adequate local blood flow to meet metabolic demand. In response to neural activity, endothelial hyperpolarization, mediated by K<sup>+</sup> and
+
+<!-- PDF page 9 -->
+
+![](assets/chapter-10/10._Cerebral_Physiology_and_the_Effects_of_Anesthetic_Drugs.pdf-0009-01.png)
+
+
+Glucose<br>O2<br>A A AA<br>Glycolysis Adenosine<br>Lactate Lactate<br>20-HETE<br>ATP<br>Ca 2+ PLA2 AA EET Constriction<br>PGE2<br>Astrocyte EET<br>Dilation<br>P GE2<br>Neuron Lactate cGMP<br>PLA2 AA PG PG<br>Ca 2+<br>NO<br>nNOS NO NO<br>ATP Adenosine<br>Lactate Lactate<br>Glycolysis<br>O2 Glucose<br>mGluR<br>Endothelium<br>Pericyte<br>NMDAR<br>eNOS<br>Glutamate<br>Vascular smooth muscle<br>
+
+
+![](assets/chapter-10/10._Cerebral_Physiology_and_the_Effects_of_Anesthetic_Drugs.pdf-0009-02.png)
+
+
+**Fig. 10.6 Cerebral flow–metabolism coupling.** Synaptic activity leads to glutamate release, activation of glutamatergic receptors, and calcium entry in neurons. This results in a release of arachidonic acid (AA), prostaglandins (PGs), and nitric oxide (NO). Adenosine and lactate are generated from metabolic activity. These factors all lead to vascular dilation. Glutamate also activates metabotropic glutamate receptors (mGluR) in astrocytes, causing intracellular calcium entry, phospholipase A2 (PLA2) activation, release of AA and epoxyeicosatrienoic (EET) acid and prostaglandin E2 (PGE2). The latter two AA metabolites contribute to dilation. By contrast, AA can also be metabolized to 20- hydroxyl- eicosatetraenoic acid (20- HETE) in vascular smooth muscle. 20- HETE is a potent vascular constrictor. _cGMP,_ cyclic guanosine monophosphate; _eNOS,_ endothelial nitric oxide synthase; _NMDAR, N_ - methyl d- aspartate glutamate receptor; _nNOS,_ neuronal nitric oxide synthase. (Modified from Attwell D, Buchan AM, Charpak S, et al. Glial and neuronal control of brain blood flow. _Nature_ . 2010;468(7321):232–243.)
+
+Ca<sup>2+</sup> channels, is propagated retrogradely and transmitted to smooth muscle cells of proximal arterioles, thereby resulting in vasodilation.<sup>2</sup> Therefore, integrated local and more proximal responses ensure adequate blood supply to support the increased neuronal activity.
+
+CMR is influenced by several phenomena in the neurosurgical environment, including the functional state of the nervous system, anesthetic drugs, and temperature.
+
+**Functional State.** CMR decreases during sleep and increases during sensory stimulation, mental tasks, or arousal of any cause. During epileptic activity, increases in the CMR may be extreme, whereas regionally after brain injury and globally with coma, the CMR may be substantially reduced.
+
+**Anesthetic Drugs.** The effect of individual anesthetic drugs on the CMR is presented in greater detail in the second section of this chapter (see Effects of Anesthetics on Cerebral Blood Flow and Cerebral Metabolic Rate). In general, anesthetic drugs suppress the CMR, except for ketamine and nitrous oxide (N2O). The component of the CMR on which they act is electrophysiologic function. With several anesthetics, including barbiturates, isoflurane, sevoflurane, desflurane, propofol, and etomidate, increasing concentrations cause progressive suppression of EEG activity and a concomitant reduction in the CMR. However, increasing the dose beyond what is required to first achieve suppression of the EEG results in no further depression of the CMR. The component of the CMR required for the maintenance of
+
+cellular integrity, the “housekeeping” component, is unaltered by anesthetic drugs (see Fig. 10.2).
+
+When complete suppression of the EEG is achieved, the cerebral metabolic rate of oxygen (CMRO2) is similar irrespective of the anesthetic agent used to achieve EEG suppression. Yet, anesthetic- induced EEG suppression is not a single physiologic state and is influenced by the drug that is used to produce suppression. When barbiturates are administered to the point of EEG suppression, a uniform depression in the CBF and CMR occurs throughout the brain. When suppression occurs during the administration of isoflurane and sevoflurane, the relative reductions in the CMR and CBF are more intense in the neocortex than in other portions of the cerebrum. Electrophysiologic responsiveness also varies. Cortical somatosensory- evoked responses to median nerve stimulation can be readily recorded at doses of thiopental far in excess of those required to cause complete suppression of the EEG but are difficult to elicit at concentrations of isoflurane associated with a burstsuppression pattern (∼1.5 MAC).<sup>30,31</sup> In addition, the EEG characteristics of the burst- suppression states that occur just before complete suppression differ among anesthetic drugs. These differences may be of some relevance to the discussions of differences in the neuroprotective potential of drugs that can produce EEG suppression.
+
+**Temperature.** The effects of hypothermia on the brain have been well described.<sup>32</sup> The CMR decreases by 6% to 7% per degree Celsius of temperature reduction. Hypothermia can also cause complete suppression of the EEG (at
+
+<!-- PDF page 10 -->
+
+![](assets/chapter-10/10._Cerebral_Physiology_and_the_Effects_of_Anesthetic_Drugs.pdf-0010-01.png)
+
+
+EEG<br>6<br>60% Function: 3.3 mL•100 g -1 •min -1<br>37°C<br>40% Integrity: 2.2 mL•100 g -1 •min -1<br>5<br>4 Function: 1.4<br>Integrity: 0.9<br>3<br>25%<br>27°C<br>16%<br>2 Function: 0<br>Integrity: 0.4<br>1 0%<br>8%<br>17°C<br>0<br>40 35 30 25 20 15<br>Temperature (°C)<br>Fig. 10.7 Effect of temperature reduction on the cerebral meta-<br>bolic rate of oxygen (CMRO2) in the cortex.  Hypothermia reduces<br>both components of cerebral metabolic activity identified in Fig. 10.2<br>– that associated with neuronal electrophysiologic activity (Function)<br>and that associated with the maintenance of cellular homeostasis<br>(Integrity). This contrasts with anesthetics that alter only the functional<br>component. The ratio of cerebral metabolic rate (CMR) at 37°C to that<br>at 27°C, the Q10 ratio, is shown in the graph. Note that the CMRO2 in<br>the cortex (gray matter) is greater than global CMRO2, considering<br>the lower metabolic rate in white matter. (Modified from Michenfelder<br>JD.  Anesthesia and the Brain: Clinical, Functional, Metabolic, and Vascular<br>Correlates.  New York, 1988, Churchill Livingstone.)<br>approximately 18°C to 20°C). However, in contrast to anes-<br>thetic drugs, temperature reduction beyond that at which<br>EEG suppression first occurs  does  produce a further decrease<br>in the CMR (Fig. 10.7). This decrease occurs because anes-<br>thetic drugs reduce only the component of the CMR asso-<br>ciated with neuronal electrophysiologic function, whereas<br>hypothermia decreases the rate of energy utilization asso-<br>ciated with both electrophysiologic function and the basal<br>component associated with the maintenance of cellular<br>integrity. Mild hypothermia preferentially suppresses the<br>basal component of the CMR. The CMRO2 at 18°C is less<br>than 10% of normothermic control values, which may<br>explain the brain’s tolerance for moderate periods of circu-<br>latory arrest at these and cooler temperatures.<br>Q = 2.437–27°C<br>-1-1Cortical CMRO (mL)min100 g••2<br>
+
+Hyperthermia has an opposite influence on cerebral physiologic function. Between 37°C and 42°C, CBF and CMR increase. However, above 42°C, a dramatic reduction in cerebral oxygen consumption occurs, an indication of a threshold for a toxic effect of hyperthermia that may occur because of protein (enzyme) denaturation.
+
+**PaCO2.** CBF varies directly with PaCO2 (Fig. 10.8), especially within the range of physiologic variation of PaCO2. CBF changes 1 to 2 mL/100 g/min for every mm Hg change in PaCO2 around normal PaCO2 values. This response is attenuated at a PaCO2 less than 25 mm Hg. Under normal circumstances, the sensitivity of CBF to changes in PaCO2 (ΔCBF/ΔPaCO2) is positively correlated with resting levels of CBF. Accordingly, anesthetic drugs that alter resting CBF cause changes in the response of the cerebral circulation to CO2. The magnitude of the reduction in CBF caused by hypocapnia is more intense when basal CBF is increased (as might occur during anesthesia with volatile agents).
+
+
+![](assets/chapter-10/10._Cerebral_Physiology_and_the_Effects_of_Anesthetic_Drugs.pdf-0010-04.png)
+
+
+100<br>Normotension<br>Hypercapnia = 2.5% CBF mm Hg<br>90 Hypocapnia = 1.67% CBF mm Hg<br>80<br>70<br>60<br>Hypotension (&lt;33% reduction)<br>Hypercapnia = 1.3% CBF mm Hg<br>50<br>Hypocapnia = 1.3% CBF mm Hg<br>40<br>Hypotension (&lt;66% reduction)<br>Hypercapnia = 0% CBF mm Hg<br>30<br>Hypocapnia = 0% CBF mm Hg<br>20<br>0 20 40 60 80 100<br>A<br>PaCO2 (mm Hg)<br>Hypercapnia<br>Normocapnia<br>Hypocapnia<br>B Mean arterial pressure<br>-1-1CBF (mL • 100 mg) • min<br>Cerebral blood flow<br>
+
+**Fig. 10.8** (A) Relationship between CBF and PaCO2. CBF increases linearly with increases in PaCO2. Below a PaCO2 of 25 mm Hg, further reduction in CBF is limited. Similarly, the increase in CBF above a PaCO2 of approximately 75 to 80 mm Hg is also attenuated. The cerebrovascular responsiveness to PaCO2 is influenced by blood pressure. With moderate hypotension (MAP reduction of less than 33%), the cerebrovascular responsiveness to changes in PaCO2 is attenuated significantly. With severe hypotension (MAP reduction of approximately 66%), CO2 responsiveness is abolished. (B) The effect of PaCO2 variation on cerebral autoregulation. Hypercarbia induces cerebral vasodilation and consequently, the autoregulatory response to hypertension is less effective. By contrast, hypocapnia results in greater CBF autoregulation over a wider MAP variation. _CBF_ , cerebral blood flow; _MAP_ , mean arterial pressure; _PaCO2_ , arterial partial pressure of carbon dioxide. (Modified from Willie CK, Tzeng YC, Fisher JA, Ainslie PN. Integrative regulation of human brain blood flow. _J Physiol_ . 2014;592:841–859 and Rickards CA. Cerebral blood- flow regulation during hemorrhage. _Compr Physiol_ . 2015;5:1585–1621.)
+
+Conversely, when resting CBF is low, the magnitude of the hypocapnia- induced reduction in CBF is decreased. However, CO2 responsiveness has been observed in normal brain during anesthesia with all the anesthetic drugs that have been studied.
+
+<!-- PDF page 11 -->
+
+The role of MAP in the CO2 responsiveness of the cerebral circulation is further highlighted by the impact of modest and severe hypotension.<sup>33</sup> With the former, the increase in CBF attendant upon hypercarbia is significantly reduced whereas hypocapnia- induced vasoconstriction is only modestly affected. When hypotension is severe, a cerebrovascular response to changes in PaCO2 is not observed (see Fig. 10.8A). The level of PaCO2 also modulates cerebral autoregulation. With hypercarbia, cerebral autoregulatory response to hypertension is attenuated. By contrast, with the induction of hypocapnia, CBF is autoregulated over a wider MAP range<sup>34</sup> (see Fig. 10.8B). The changes in CBF caused by PaCO2 are dependent on pH alterations in the extracellular fluid of the brain. In addition, a variety of mediators including NO, adenosine, arachidonic acid metabolites, and reactive oxygen species contribute to the cerebrovascular responses to changes in PaCO2.<sup>35</sup> The changes in extracellular pH and CBF occur rapidly after PaCO2 adjustments because CO2 freely diffuses across the cerebrovascular endothelium. In contrast with respiratory acidosis, acute systemic metabolic acidosis has little immediate effect on CBF because the BBB excludes H<sup>+</sup> from the perivascular space. The CBF changes in response to alterations in PaCO2 occur rapidly but they are not sustained. Despite the maintenance of an increased arterial pH, CBF returns toward normal over a period of 6 to 8 hours because the pH of cerebrospinal fluid (CSF) gradually returns to normal levels as a result of extrusion of bicarbonate (see Fig. 53.6). Consequently, a patient who has had a sustained period of hyperventilation or hypoventilation deserves special consideration. Acute restoration of a normal PaCO2 value will result in a significant CSF acidosis (after hypocapnia) or alkalosis (after hypercapnia). The former results in increased CBF with a concomitant increase in intracranial pressure (ICP) that depends on the prevailing intracranial compliance. The latter conveys a theoretic risk for ischemia.
+
+**PaO2.** Changes in PaO2 from 60 to more than 300 mm Hg have little influence on CBF. A reduction in PaO2 below 60 mm Hg rapidly increases CBF (Fig. 10.9A). Below a PaO2 of 60 mm Hg, there is a rapid reduction in hemoglobin saturation. The relationship between hemoglobin saturation, as evaluated by pulse oximetry, and CBF is inversely linear (Fig. 10.9B). A reduction in arterial oxygen content, and therefore cerebral oxygen delivery, can be achieved either by a reduction in PaO2 (hypoxemic hypoxia) or by a reduction in hemoglobin concentration (anemia, hemodilution). Both hemodilution and hypoxemic hypoxia lead to cerebral vasodilation and an increase in CBF. Of the two variables, however, hypoxemic hypoxia is a far more potent variable in CBF augmentation than hemodilution. Cerebral oxygen delivery is better maintained during hypoxia than when arterial oxygen content is equivalently reduced by hemodilution (Fig. 10.9C). The impact of hypoxemia on CBF is also influenced by the prevailing PaCO2. The presence of hypercapnic acidosis will increase CBF in response to hypoxemia. Conversely, hypocarbia will limit the hypoxemia- induced CBF increase.<sup>14,36</sup>
+
+The mechanisms mediating cerebral vasodilation during hypoxia may include neurogenic effects initiated by peripheral and neuraxial chemoreceptors, as well as local
+
+humoral influences. Deoxyhemoglobin plays a central role in hypoxia- induced increases in CBF by causing the release of NO and its metabolites as well as ATP.<sup>36</sup> Hypoxia- induced opening of ATP- dependent K<sup>+</sup> channels in vascular smooth muscle leads to hyperpolarization and vasodilation. The rostral ventrolateral medulla (RVM) serves as an oxygen sensor within the brain. Stimulation of the RVM by hypoxia results in an increase in CBF (but not CMR), and lesions of the RVM suppress the magnitude of the CBF response to hypoxia. The response to hypoxia is synergistic with the hyperemia produced by hypercapnia and acidosis. At high PaO2 values, CBF modestly decreases. At 1 atmosphere of oxygen, CBF is reduced by 18%.<sup>37</sup>
+
+### NEUROGENIC REGULATION OF CEREBRAL BLOOD FLOW
+
+The cerebral vasculature is extensively innervated.<sup>38,39</sup> The density of innervation declines with vessel size, and the greatest neurogenic influence appears to be exerted on larger cerebral arteries (see Fig 10.1C). This innervation is composed of extrinsic and intrinsic fibers. Extrinsic innervation includes sympathetic fibers with neurotransmitters epinephrine, norepinephrine (NE) and dopamine, parasympathetic fibers with neurotransmitters acetylcholine and vasoactive intestinal peptide, and sensory fibers with neurotransmitters calcitonin gene–related peptide and substance P (reviewed by Claassen<sup>14</sup> ). These fibers originate from the superior cervical ganglion, sphenopalatine ganglion, and trigeminal nucleus, respectively. Extrinsic fibers do not accompany penetrating pial arteries. Intrinsic pathways originate from several nuclei including the locus coeruleus, the fastigial nucleus, the dorsal raphe nucleus, and the basal magnocellular nucleus of Meynert. They innervate parenchymal arterioles.<sup>39</sup> As reviewed by ter Laan,<sup>40</sup> evidence of the functional significance of neurogenic influences has been derived from studies of CBF autoregulation and ischemic injury. Excision<sup>41</sup> of or pharmacologic blockade<sup>42</sup> of the superior cervical ganglion generally increases CBF, indicating that sympathetic innervation prevents increases in CBF under resting conditions. It should be noted that, during resting conditions, the influence of other factors that impact CBF, such as MAP, PaCO2 and CMR, probably predominate. The increase in sympathetic nerve activity in response to acute increases in MAP<sup>43</sup> serves to limit downstream microvascular pressure and CBF,<sup>44,45</sup> thereby offering protection against hypertensive breakthrough of the BBB. With hypotension, there is some evidence that a high sympathetic tone can limit the expected increase in CBF. Hemorrhagic shock, a state of high sympathetic tone, results in less CBF at a given MAP than occurs when hypotension is produced with sympatholytic drugs. During shock, sympathetic denervation increases CBF, indicating that increased sympathetic tone during shock serves to reduce CBF. Although the sympathetic innervation plays a role during both increases and decreases in MAP, it is far more effective during the former.<sup>11</sup> Experimental interventions that alter these neurogenic control pathways influence outcome after standardized ischemic insults, presumably by influences on vascular tone and therefore CBF. The nature and influence of such pathways in humans are not
+
+<!-- PDF page 12 -->
+
+![](assets/chapter-10/10._Cerebral_Physiology_and_the_Effects_of_Anesthetic_Drugs.pdf-0012-02.png)
+
+
+90 90<br>80 80<br>70 70<br>60 60<br>50 50<br>40 40<br>0 50 100 150 200 60 70 80 90 100<br>PaO2 (mm Hg) O2 Saturation (%)<br>A B<br>250<br>Hypoxemic hypoxia<br>200 Hemodilution<br>150<br>100<br>50<br>0<br>10<br>0<br>-10<br>-20<br>-30<br>-40<br>-0 -20 -40 -60 -80<br>Percent Change CaO2<br>C<br>-1-1CBF (mL • min) • 100 g -1-1CBF mL • min • 100 g<br>Percent Change CBF<br>Percent Change CDO2<br>
+
+**Fig. 10.9** (A) Relationship between CBF and PaO2. Between the range of 60 and 200 mm Hg, PaO2 has little impact on CBF. A reduction in PaO2 to less than 60 mm Hg results in hemoglobin desaturation. There is significant cerebral vasodilation and a marked increase in CBF. (B) The relationship between hemoglobin saturation and CBF is inversely linear, with an increase in CBF as saturation is decreased. (C) Demonstration of the relationship between arterial O2 content (CaO2) reduction caused by either hypoxemic hypoxia ( _blue line_ ) or hemodilution ( _red line_ ) on cerebral blood flow ( _upper panel_ ) and cerebral oxygen delivery ( _lower panel_ ). Cerebral oxygen delivery is better maintained during hypoxia compared to hemodilution largely due to the greater increase in CBF. _CDO2_ , cerebral oxygen delivery; _CaO2_ , arterial oxygen content; _CBF_ , cerebral blood flow; _PaO2_ , arterial partial pressure of oxygen. (Modified from Hoiland RL, Bain AR, Rieger MG, et al. Hypoxemia, oxygen content, and the regulation of cerebral blood flow. _Am J Physiol Regul Integr Comp Physiol_ . 2016;310:R398–413; Todd MM. Cerebral blood flow during isovolemic hemodilution: mechanistic observations. _Adv Pharmacol_ . 1994;31:595–605; and Todd MM, Wu B, Maktabi M, et al. Cerebral blood flow and oxygen delivery during hypoxemia and hemodilution: role of arterial oxygen content. _Am J Physiol_ . 1994;267:H2025–2031.)
+
+known, and their manipulation for the purposes of clinical management remains to be systematically investigated.
+
+### EFFECTS OF BLOOD VISCOSITY ON CEREBRAL BLOOD FLOW
+
+Blood viscosity can influence CBF. Hematocrit is the single most important determinant of blood viscosity. In healthy humans, variation of the hematocrit within the normal range (33% to 45%) probably results in only modest alterations in CBF. Beyond this range, changes are more
+
+substantial. In anemic states, cerebral vascular resistance is reduced and CBF increases. However, this may result not only from a reduction in viscosity but also as a compensatory response to reduced oxygen delivery.<sup>46</sup> The effect of a reduction in viscosity on CBF is more important with focal cerebral ischemia, a condition in which vasodilation in response to impaired oxygen delivery is probably already maximal. In this situation, reducing viscosity by hemodilution increases CBF in the ischemic territory. In patients with focal cerebral ischemia, a hematocrit of 30% to 34% will result in optimal delivery of oxygen. However,
+
+<!-- PDF page 13 -->
+
+manipulation of viscosity in patients with acute ischemic stroke is not of benefit in reducing the extent of cerebral injury.<sup>47</sup> Therefore viscosity is not a target of manipulation in patients at risk as a result of cerebral ischemia, with the possible exception of those with hematocrit values higher than 55%.
+
+### EFFECT OF CARDIAC OUTPUT ON CEREBRAL BLOOD FLOW
+
+The traditional view of cerebral autoregulation (discussed above) is relative maintenance of CBF with varying blood pressure. Although intuitively apparent that cardiac output (CO) might influence CBF given that maintenance of MAP is a function of systemic vascular resistance and CO, its role is not widely acknowledged.<sup>48</sup> In part this may be due to the fact that a CO–CBF relationship is not always apparent. Nonetheless, there is a body of evidence that suggests that the contribution of CO to CBF exists and should be considered in attempts to maintain or augment CBF.
+
+A number of investigations in healthy human volunteers have been conducted in which the impact of reduction in preload<sup>49,50</sup> induced nonpharmacologically (postural changes, application of negative pressure to the lower body) or augmentation of preload<sup>51</sup> by administration of volume on CBF has been evaluated. Although changes in preload do impact MAP and PaCO2 modestly, multivariate analyses indicate that that CO does contribute to CBF independent of MAP and PaCO2. Meng et al. have estimated that a 30% reduction in CO effects a 10% reduction in CBF.<sup>52</sup> These results were corroborated in a recent investigation in which both CBF (MCAfv) and CO were measured simultaneously when preload was reduced (lower body negative pressure) or when afterload was increased (isometric hand grip).<sup>53</sup> Both MAP and CO were independently associated with CBF although the impact of MAP was greater: a 10% decrease in MAP and 20% decrease in CO resulted in an equivalent decrease in MCAfv of ∼5%. In several pathophysiologic states, including subarachnoid hemorrhage<sup>54</sup> and traumatic brain injury,<sup>55</sup> administration of dobutamine was associated with a significant increase in CBF even though the MAP was unchanged. Similarly, in sepsis<sup>56</sup> and stroke,<sup>57</sup> dobutamine increases CBF, albeit with a simultaneous modest increase in MAP.
+
+A fundamental concern in studies in which the impact of CO on CBF is evaluated is that the methods of manipulation of CO inevitably lead to changes in MAP and PaCO2. This makes the identification of the effect of CO _per se_ challenging and the contribution of CO to CBF is inferred by multivariate analyses. A recent meta- analysis of the studies of CO and CBF concluded that the current literature does not confirm an independent relationship between CO and CBF.<sup>58</sup>
+
+Intraoperative hypotension is a common occurrence and maintenance of adequate tissue perfusion often requires its treatment. In situations in which cardiac output is constrained, such as in preload reduction, rhythm disturbances and poor cardiac function, CBF will be reduced not only by low MAP but also possibly by the additive effect of low cardiac output. The sympathetic response to reduced tissue perfusion may also reduce CBF. The treatment of hypotension therefore requires attention to the maintenance of adequate circulating volume. In addition, the
+
+choice of vasopressors and the manner of their administration require consideration. Phenylephrine is an α1- agonist and it increases systemic vascular resistance. In the face of reduced CO, increases in cardiac afterload can further decrease CO, thereby compromising CBF. This effect is likely to be greater with bolus administration of phenylephrine. After volume optimization, administration of an agent that maintains or increases CO and MAP (such as ephedrine) might better maintain or increase CBF. Furthermore, administration of vasopressors by infusion may temper the increases in systemic vascular resistance attendant with bolus administration, thereby reducing their impact on CO.
+
+### AN INTEGRATED CONTEMPORARY VIEW OF CEREBRAL AUTOREGULATION
+
+The conventional view of cerebral autoregulation is that CBF is held constant as MAP increases between the lower limit and upper limit of autoregulation. The currently available data, however, indicate that this view is now outmoded and needs revision. As discussed above, CBF and the cerebral vasculature are influenced by a variety of variables. Clearly, MAP (perfusion pressure) is a major determinant of CBF. Cardiac output is increasingly being recognized as a potential determinant of CBF although it is difficult to identify the contribution of CO independent from the other factors that influence CBF. Cardiac output in turn is dependent upon adequate circulatory volume, cardiac preload, contractility, afterload, and heart rate and rhythm. Presence of cardiovascular disease, in particular congestive heart failure, will limit the capacity of autoregulatory mechanisms to maintain CBF in response to hypotension. Arterial blood gas tensions affect vasomotor tone, and both hypercarbia and hypoxia attenuate autoregulation. The contribution of the sympathetic nervous system is of importance in the cerebrovascular response to hypertension. At the same time, sympathetic nerves reduce the vasodilatory capacity of the cerebral vessels during hypotension. A variety of medications can impact autoregulation, either through modulation of sympathetic nervous system activity (β- antagonists, α2- agonists) or by direct reduction of vasomotor tone (calcium channel antagonists, nitrates, angiotensin receptor blockers, angiotensin-converting enzyme [ACE] inhibitors). Anesthetics modulate autoregulation by several means, including suppression of metabolism, alteration of neurovascular coupling to a higher flow–metabolism ratio, suppression of autonomic neural activity, and by direct effect on cerebral vasomotor tone, and alteration of cardiac function and systemic circulatory tone.
+
+Cerebrovascular tone and CBF are therefore under the control of a complex regulatory system (Fig. 10.10). Given the multitude of factors that determine the capacity of the cerebral circulation to respond to changes in perfusion pressure, the premise that cerebral autoregulation is static is now untenable. Rather, cerebral autoregulation should be viewed as a dynamic process and the morphologic form of the autoregulatory curve is the result of the integration of all the variables that affect cerebrovascular tone in an interdependent manner.<sup>33,52</sup> Therefore, a continuum of vascular responsiveness in both the lower and upper limits and in the plateau probably exists as the ability of the cerebrovascular bed to dilate or constrict is exhausted.
+
+<!-- PDF page 14 -->
+
+![](assets/chapter-10/10._Cerebral_Physiology_and_the_Effects_of_Anesthetic_Drugs.pdf-0014-02.png)
+
+
+Cardiac Arterial blood Metabolic<br>PaCO2 PaO2<br>output ? pressure activity<br>100<br>Neurogenic Cardiovascular Myogenic Neurovascular Vascular<br>control function autoregulation coupling reactivity<br>Vasoactive<br>75 Anesthetics Integrated Regulation of Cerebral Vessels agents<br>50<br>Variation in<br>lower limit<br>Variation in<br>Variation in upper limit<br>plateau<br>25<br>0<br>0 50 100 150 200<br>Mean Arterial Pressure (mm Hg)<br>CBF (mLmin-1)100 g-1•<br>
+
+**Fig. 10.10 Integrative regulation of cerebral blood flow.** The conventional view of cerebral autoregulation is that CBF is maintained constant with a variation in MAP of 70 to 150 mm Hg. A more contemporary view is that cerebral autoregulation is a dynamic process that is under the influence of several variables including myogenic autoregulation, neurovascular coupling, arterial CO2 and O2 tensions, autonomic (neurogenic) activity, and cardiovascular function. Anesthetic agents in particular affect autoregulation at multiple levels: suppression of metabolism, alteration in arterial blood gas tensions, direct cerebral vasodilation, suppression of autonomic activity, and modulation of cardiovascular function. Therefore, CBF at any given moment is a product of the composite of these variables. The conventional autoregulatory curve is depicted in _red_ . There is, however, considerable inter- individual variation in the autoregulatory curve (indicated by the _double headed arrows_ ). _CBF_ , cerebral blood flow; _MAP_ , mean arterial pressure; _PaCO2_ , arterial partial pressure of carbon dioxide; _PaO2_ , arterial partial pressure of oxygen. (Modified from Willie CK, Tzeng YC, Fisher JA, Ainslie PN. Integrative regulation of human brain blood flow. _J Physiol_ . 2014;592:841–859 and Meng L, Hou W, Chui J, et al. Cardiac output and cerebral blood flow: the integrated regulation of brain perfusion in adult humans. _Anesthesiology_ . 2015;123:1198–1208.)
+
+**Clinical implications.** The autoregulatory curves represented in Fig. 10.5 are based on population measurements. Based on the discussion above, it is apparent that there is a substantial variability in autoregulatory parameters, including the LLA, the width, and the slope of the autoregulatory plateau. Given this variability, the inevitable question for the practicing anesthesiologist is what would be the lower limits of MAP before central nervous system (CNS) injury occurs. Although there are insufficient data to provide a definitive threshold for all patients, Drummond has postulated, with support from a considerable number of investigations of autoregulation in humans, that the average LLA is not less than a MAP of 70 mm Hg.<sup>10</sup> With a normal CSF pressure of 5–10 mm Hg, the CPP is therefore 60–65 mm Hg. In some patients, such a limit may well be above their LLA; however, the primary goal is the prevention of brain injury, and in the absence of an autoregulation monitor, setting a threshold of 70 mm Hg seems prudent.
+
+CBF is pressure passive below the LLA and it will gradually decrease with further reduction in blood pressure. Symptoms of cerebral ischemia are not apparent until CBF
+
+decreases by 35%–40% below baseline in awake individuals. That CNS injury does not occur with transient reductions in blood pressure suggests that there is a substantial cerebrovascular reserve in the normal human brain. This reserve serves as a critical buffer against the adverse effects of transient hypotension. Nevertheless, persistent reduction in blood pressure and blood flow will ultimately result in cerebral injury. Given the substantial individual variability in autoregulation among patients, it is not surprising that such variability is also present with cerebrovascular reserve. In patients in whom the reserve is diminished, the capacity of the buffer to prevent injury is reduced significantly, and in such patients, even transient hypotension that under normal circumstances would not harm the normal brain may well be detrimental.
+
+There are several conditions in which cerebrovascular reserve is reduced and recognition of these conditions is key to the prevention of injury.
+
+1. _CNS injury_ : In many CNS injury states, such as traumatic brain injury, subarachnoid hemorrhage, stroke,
+
+<!-- PDF page 15 -->
+
+**Table 10.2** Current Recommended Blood Pressure Guidelines for Management of Patients with Cerebral Injury
+
+||**SBP**<br>**(mm Hg)**|**CPP**<br>**(mm Hg)**|**MAP**<br>**(mm Hg)**|**Comments**|
+|---|---|---|---|---|
+|**Traumatic brain injury**<sup>369</sup><br>15–49 (age)<br>50–69 (age)<br>>70 (age)|>110<br>>100<br>>110||||
+|**Traumatic brain injury**<br>>17 (age)<sup>369</sup><br>&lt;18 (age)<sup>442</sup>||60–70<br>40–50|||
+|Neonates<br>Adolescents||Closer to 40<br>Closer to 50|||
+|**Aneurysmal subarachnoid**<br>**hemorrhage**<sup>370</sup><br>Unsecured<br>Vasospasm|&lt;160<br>BP augmentation|||The magnitude of the blood pressure control<br>to reduce the risk of rebleeding has not been<br>established, but a decrease in systolic blood<br>pressure to &lt;160 mm Hg is reasonable.<br>Induction of hypertension is recommended for<br>patients with delayed cerebral ischemia unless<br>blood pressure is elevated at baseline or cardiac<br>status precludes it.|
+|**Acute ischemic stroke (attempted**<br>**revascularization)**<br>Pre- tPA/mechanical thrombectomy<sup>299</sup><br>24 h post tPA<sup>299</sup><br>During mechanical thrombectomy<sup>299</sup><br>Incomplete thrombectomy<sup>299</sup><br>Post successful mechanical<br>thrombectomy<sup>300</sup>|&lt;185/110<br>&lt;180/105<br>&lt;180/105<br>&lt;180/105<br>&lt;140|||The DAWN trial targeted SBP &lt;140 mm Hg if there<br>was successful mechanical revascularization<br>(defined as two-thirds vascular territory<br>reperfused)|
+|**Acute ischemic stroke (no**<br>**revascularization)**<sup>299</sup>|Up to 220/120|||Permissive hypertension up to 220/120 if no<br>comorbid conditions require urgent blood<br>pressure control. There are no data to support<br>augmentation of blood pressure.|
+|**Intracerebral hemorrhage**<sup>443</sup> **(mild to**<br>**moderate)**|130–150|||Recommendations based upon studies involving<br>mild to moderate ICH with majority of subjects<br>ICH volume &lt;20 mL<sup>3</sup>|
+|Post cardiac arrest|>90<sup>444</sup>||>65<sup>323,444</sup>||
+
+
+Represents minimum blood pressure targets, with the acknowledgment that the stated minimum may not be the optimal level for any given individual. _BP_ , Blood pressure; _CPP_ , cerebral perfusion pressure; _ICP_ , intracranial pressure; _MAP_ , mean arterial pressure; _SBP_ , systolic blood pressure; _tPA_ , tissue plasminogen activator.
+
+   - and spinal cord injury, autoregulation may be impaired. Microvascular blood flow can be reduced in the setting of cerebral edema, vascular occlusion, and raised ICP such that blood pressure limits that are appropriate for the normal brain may well be inadequate with CNS injury. Moreover, the injured brain is particularly vulnerable to subsequent insults (secondary injury). The cerebral circulation is impaired for about two weeks after the index event and there is a gradual restoration of autoregulation 1 to 3 months later (reviewed by Classen et al.<sup>14</sup> ). The assumption that blood pressure support is needed for this period is prudent. Current recommendations from subspecialty societies with respect to blood pressure management are listed in Table 10.2.
+
+2. _Raised local tissue pressure_ : Tissue perfusion is determined by perfusion pressure (PP). In peripheral tissues, the PP is the difference between MAP and venous pressure, or in the case of the brain, ICP. Under normal circumstances, venous pressure and ICP are low, and the MAP serves as a surrogate for perfusion pressure. In situations in which external pressure is exerted upon tissue, such as intracranial hypertension, cervical stenosis and disc herniation, and application of a surgical retractor, the perfusion pressure becomes a function of
+
+the difference between MAP and tissue pressure. In such tissue, tolerance for modest and transient reduction in MAP may not be well tolerated.<sup>59</sup>
+
+3. _Hypertension_ : The traditional view of chronic hypertension is that it leads to a “rightward” shift of the cerebral autoregulation curve such that the LLA is increased in comparison to normotensive individuals. If so, then the maintenance of blood flow may well require a higher MAP. There is some controversy with respect to autoregulation in chronic hypertension. Contemporary investigations have revealed that both dynamic and static autoregulation are preserved in hypertensive individuals and that treatment of hypertension does not reduce CBF when blood pressure is chronically restored to the normal range (&lt;140 mm Hg).<sup>14</sup> Even acute reduction in blood pressure to the high normal range in patients with hypertensive emergencies, including encephalopathy, does not reduce CBF. The question in the intraoperative period, however, is not restoration of normal blood pressure but hypotension. Given the demonstration of increased LLA in untreated hypertensive patients, it is prudent to limit the extent and duration of hypotensive episodes during surgery. In the authors’ practice, reduction of MAP is limited to no more than 20% below the
+
+
+
+::: details 原始表格與符號（PDF 第 15 頁）
+
+![第 10 章，原始 PDF 第 15 頁](assets/chapter-10/source-page-0015.png)
+
+:::
+
+<!-- PDF page 16 -->
+
+- baseline pressure as measured at or adjusted to the head level in the sitting position. This limit should be adjusted based on clinical circumstances in individual patients.
+
+4. _Collateral blood supply_ : Collateral blood flow serves to limit vulnerability to injury when perfusion by the primary vessel is compromised. When collateralization is reduced because of vascular disease, congenital variation, or surgical intervention, tissue vulnerability to hypoperfusion increases. The variability in collateral flow is of particular relevance in the following circumstances:
+
+   - a.  Circle of Willis. The internal carotid and basilar arteries at the base of the brain, together with anterior and posterior communicating arteries, comprise the circle of Willis (see Anatomy of the Cerebral Circulation). This circle is incomplete in about 35%–40% of patients; cerebrovascular reserve is likely to be reduced and the patients are more vulnerable to ischemia than those with an intact circle.
+
+   - b.  Anterior spinal artery. The anterior spinal artery receives blood supply from the intercostal and intervertebral vessels; this supply is highly variable and not all levels of the intercostal vessels contribute. The major arterial supply in the lower thoracic spine is the arteria radicularis magna (or artery of Adamkiewicz); this artery supplies blood to the conus medullaris and rarely supplies significant flow the cephalad portion of the anterior spinal artery. The consequence is that some individuals have limited collateral flow to the lower thoracic spinal cord and are vulnerable to ischemia when blood supply is compromised by hypotension and sacrifice of feeding intercostal and vertebral arteries.
+
+5. _Vertical hydrostatic gradients_ : An accurate measurement of cerebral perfusion pressures requires that the MAP be measured at the level of the circle of Willis. With patients in the supine position, blood pressure measured by arm cuff or a transducer that is at the same vertical level as the heart, will be approximately equivalent to that measured at the base of the brain. However, when the position of the head is higher than the heart level, a vertical gradient exists. The consequence of this gradient is that the blood pressure at the base of the brain will be lower than that at the heart; for a one- inch gradient, the pressure is reduced by 2 mm Hg. In a patient with an elevated head position in whom the vertical gradient is 12 inches, the blood pressure difference between the heart and the base of the brain will be lower by approximately 24 mm Hg. If the goal is to maintain a CPP of 60–65 mm Hg, then the corresponding MAP at the level of the heart or the arm should be greater (∼85 mm Hg).
+
+   - The relevance of a hydrostatic gradient on CPP has
+
+   - been questioned. It has been postulated that the cerebral circulation is a closed loop system, akin to a siphon, composed of a pump and efferent and afferent limbs. With head elevation, the workload of the pump is not increased on the arterial side because the venous return is also at a higher pressure.<sup>60</sup> A key assumption of the siphon model is that cerebral circulation consists of noncollapsible and rigid vessels. Given the exertion of tissue pressure, a substantial proportion of the cerebral circulation is collapsible, and the siphon model is therefore
+
+not applicable. A recent investigation of MCAfv changes in response to changes in gravity argues against the siphon model. In humans exposed to normal, 0G, and hypergravity at 1.8G,<sup>61</sup> stepwise changes in MCAfv (normal, increased, and decreased, respectively) were demonstrated and these changes correlated with a correction for the impact of gravity. The results were inconsistent with a closed loop/siphon system. Although the controversy has not been definitively resolved, given that the consequence of cerebral hypotension is potential CNS injury, it is prudent to assume that gravity does impact CPP until definitive evidence of the existence of a closed loop siphon system for the cerebral circulation is made available.
+
+**Summary.** The cerebral circulation is autoregulated to minimize fluctuations in CBF with varying MAP. There is substantial individual variability in the lower and upper limits of autoregulation and in the width and slope of the plateau phase. A reasonable argument can be made that, with normal CSF pressure, the average lower limit is not less than 70 mm Hg. The cerebral circulation has a substantial cerebrovascular reserve that allows the brain to tolerate transient periods of hypotension below this limit. In patients with reduced reserve, the vulnerability of the brain may be increased, and therefore, appropriate measures to ensure adequate perfusion pressures should be undertaken. Monitoring technologies that evaluate cerebral responses to changes in perfusion pressure are currently in use in research settings.<sup>62,63</sup> The eventual application of these technologies in the perioperative period may allow a more individualized approach to the determination of perfusion pressure targets in the future.
+
+### VASOACTIVE DRUGS
+
+Many drugs with intrinsic vascular effects are used in contemporary anesthetic practice, including both anesthetic drugs and numerous vasoactive drugs specifically used for hemodynamic manipulation. This section deals with the latter. The actions of anesthetics are discussed in the section titled Effects of Anesthetics on Cerebral Blood Flow and Cerebral Metabolic Rate. It should be noted at the outset that the impact of vasoactive agents will depend upon the rate at which the blood pressure change is effected. With rapid changes in blood pressure, on the order of about 2 to 5 min, vasoactive agents will impact CBF even when autoregulation is intact. When blood pressure is modulated over a longer period, there will either be no effect on CBF or the CBF response will be dampened, depending upon the status of autoregulation.
+
+### Systemic Vasodilators
+
+The cerebrovascular effects of a variety of pharmacologic agents employed to manipulate systemic blood pressure has recently been reviewed.<sup>64</sup> Most drugs used to induce hypotension, NO donors (sodium nitroprusside, nitroglycerin, glyceryl trinitrate),<sup>65</sup> hydralazine, and calcium channel blockers,<sup>66</sup> reduce cerebrovascular tone and cause cerebral vasodilation. As a result, CBF either increases or is maintained at pretreatment levels depending upon the extent of blood pressure reduction. In addition, when hypotension is induced with a cerebral vasodilator, CBF is maintained
+
+<!-- PDF page 17 -->
+
+at lower MAP values than when induced by either hemorrhage or a noncerebral vasodilator. In healthy volunteers, nimodipine acutely reduced MAP (∼20 mm Hg) and MCAfv was unchanged.<sup>67</sup> However, in acute stroke patients in whom MAP is reduced significantly with nicardipine administration, CBF decreased<sup>68</sup> ; these data suggest that systemic blood pressure reduction should be implemented with appropriate caution in patients with acute brain injury and risk of cerebral ischemia. In contrast to the direct vasodilators, mentioned above, administration of ACE inhibitors enalapril<sup>69</sup> and perindopril<sup>70</sup> does not have any significant impact on CBF.
+
+### Catecholamine Agonists and Antagonists
+
+Numerous drugs with agonist and antagonist activity at catecholamine receptors (α1, α2, β1, β2, and dopamine) are in common use. The effects of these vasoactive drugs on cerebral physiology are dependent on basal arterial blood pressure, the magnitude and rate of the drug- induced arterial blood pressure changes, the status of the autoregulation mechanism, and the status of the BBB. A drug may have direct effects on cerebral vascular smooth muscle or indirect effects mediated by the cerebral autoregulatory response to changes in systemic blood pressure (or both types of effects). When autoregulation is preserved, increases in systemic pressure should increase CBF if basal blood pressure is outside the limits of autoregulation. When basal pressure is within the normal autoregulation range, an increase in systemic pressure either does not affect CBF or increases CBF only modestly. When autoregulation is defective, CBF will vary in direct relation to arterial pressure. The information in the following paragraphs and in Table 10.3 emphasizes data obtained from investigations of vasopressors in intact preparations and gives priority to the results obtained in humans and higher primates.
+
+**Table 10.3** Best Estimates of the Influence of Pure Catecholamine Receptor Agonists and Specific Pressor Substances on Cerebral Blood Flow and Cerebral Metabolic Rate
+
+|**Agonist**|**Cerebral**<br>**Blood Flow**|**Cerebral**<br>**Metabolic Rate**|
+|---|---|---|
+|**PURE**|||
+|α1|0/−|0|
+|α2|−|−|
+|β|+|+|
+|β(BBB open)|+++|+++|
+|Dopamine|++|0|
+|Dopamine (high dose)|−|?0|
+|Fenoldopam|−|?0|
+|**MIXED**|||
+|Norepinephrine|0/−|0/+|
+|Norepinephrine (BBB open)|+|+|
+|Epinephrine|+|+|
+|Epinephrine (BBB open)|+++|+++|
+
+
+The number of symbols indicates the magnitude of the effect. _BBB,_ blood–brain barrier; +, increase; −, decrease; 0, no effect.
+
+**α1- Agonists.** The administration of α1- agonists (phenylephrine, norepinephrine) produces systemic vasoconstriction and an increase in blood pressure. A concern is that α1- mediated vasoconstriction might also reduce cerebral blood flow. Studies in humans and nonhuman primates do not confirm this concern. Intracarotid infusions of norepinephrine in doses that significantly increase the MAP result in no change in global CBF. Administration of phenylephrine to patients undergoing cardiopulmonary bypass does not decrease CBF.<sup>71</sup> In head- injured patients, phenylephrine did not increase CBF provided that autoregulatory mechanisms were intact.<sup>72,73</sup>
+
+A recent meta- analysis of studies of NE indicated that in humans, the administration of NE did not significantly modulate (increase or decrease) CBF. Similarly, in head- injured patients, NE did not impact CBF in most studies, although there was considerable heterogeneity between studies and between subjects.<sup>74</sup> Under some circumstances, NE can increase CBF. Such increases might occur if autoregulation were defective, or its limit exceeded. Abnormalities of the BBB can permit entry of NE into the brain parenchyma; β- mimetic drugs (norepinephrine has β1 activity) may cause activation of cerebral metabolism<sup>75</sup> with a coupled increase in CBF.
+
+The traditional view that CBF can be maintained by the administration of α1- agonists without any adverse effect on cerebral oxygenation has been challenged. In anesthetized patients,<sup>76–78</sup> phenylephrine administration by bolus modestly reduced cerebral oxygen saturation (SCO2), measured by near- infrared oximetry. Ephedrine, although increasing arterial blood pressure to a similar extent as phenylephrine, did not reduce SCO2, presumably because of its ability to maintain cardiac output. In healthy human volunteers, a norepinephrine- induced<sup>79</sup> and phenylephrine- induced<sup>80</sup> increase in arterial blood pressure slightly resulted in a reduction in MCAfv and SCO2. The concern with measurement of SCO2 with near- infrared spectroscopy (NIRS) is that extracranial contamination is a significant component of the SCO2 values reported by the currently available NIRS monitors.<sup>81</sup> This contamination is of greater magnitude than the slight reduction in SCO2 observed in these investigations. The reduction in SCO2 effected by phenylephrine is no longer apparent when an increase in the CMRO2 is concurrent.<sup>80</sup> Phenylephrine apparently does not prevent an increase in CBF when such an increase is warranted by increased brain metabolism.
+
+These studies were conducted in patients with a normal central nervous system (CNS). Although unlikely, the concern is that α1- agonists might reduce cerebral perfusion in the injured brain. In patients with a head injury, the administration of phenylephrine increased CPP and did not reduce regional CBF.<sup>54</sup> Transient changes may occur in CBF and regional oxygen saturation (rSO2), on the order of 2 to 5 minutes, in response to bolus doses of phenylephrine; however, with a continuous infusion, α1- agonists have little direct influence on CBF and cerebral oxygenation in humans.<sup>82</sup> Thus maintenance of CPP with these vasopressors does not have an adverse effect on the brain.
+
+In most studies of the impact of vasoactive agents on the cerebral circulation, the focus has been global and regional CBF and SCO2. Oxygen and substrate exchange occurs at the capillary level, and maintenance of MAP may not necessarily
+
+
+
+::: details 原始表格與符號（PDF 第 17 頁）
+
+![第 10 章，原始 PDF 第 17 頁](assets/chapter-10/source-page-0017.png)
+
+:::
+
+<!-- PDF page 18 -->
+
+imply adequate microcirculatory flow.<sup>83,84</sup> In an elegant study in patients with brain tumors, Koch and colleagues evaluated the impact of raising MAP with either an ephedrine or phenylephrine infusion on cerebral metabolism and blood flow in peritumoral and contralateral brain tissue.<sup>85</sup> Neither drug affected CMR. However, in the contralateral hemisphere, but not in the peritumoral tissue, local CBF was greater with ephedrine than with phenylephrine administration even though the increment in blood pressure was equivalent. A follow- up study in a similar patient population revealed that ephedrine, but not phenylephrine, increased local CBF and brain tissue oxygenation in the peritumoral and contralateral brain tissue.<sup>86</sup> Importantly, measures of the microcirculation were improved in the ephedrine group, suggesting that ephedrine may be superior in maintaining both macrocirculatory and microcirculatory hemodynamics in the brain. In both investigations, SCO2 between the two groups were comparable and were not reflected in the changes in local metabolism and blood flow. The mechanism by which ephedrine improved microcirculation in the contralateral hemisphere is not clear given that a normal BBB in that hemisphere would restrict its access to the brain parenchyma. Although it was suggested that the findings raise concerns about the utility of phenylephrine in patients with brain pathology,<sup>86</sup> outcome studies are needed before firm recommendations about the choice of vasopressor for blood pressure augmentation can be made.
+
+**α2- Agonists.** α2- Agonists have both analgesic and sedative effects. This class of drugs includes dexmedetomidine and clonidine, with the latter being a significantly less specific and less potent α2- agonist. Two investigations in human volunteers have confirmed the ability of dexmedetomidine to decrease CBF. Dexmedetomidine dose- dependently decreased MCAfv, with the maximum reduction being approximately 25%.<sup>87</sup> Dexmedetomidine (1 μg/kg loading dose and infusion at either 0.2 or 0.6 μg/kg/h) decreased CBF by approximately 30%<sup>88</sup> in healthy human volunteers. In both investigations, CMR was not measured; whether the reduction in CBF was due to a direct vasoconstrictor activity of dexmedetomidine or suppression of the CMR with a corresponding reduction in CBF is not clear. In a more recent study of dexmedetomidine during which both MCAfv and CMR were measured in healthy humans, dexmedetomidine decreased MCAfv in parallel with a reduction in CMR.<sup>89</sup> The effects of dexmedetomidine on CBF were primarily mediated by its ability to suppress CMR. The well- known effect of dexmedetomidine to decrease arterial blood pressure merits careful consideration in patients who are critically dependent on collateral perfusion pressure, especially in the recovery phase of an anesthetic.
+
+**β- Agonists.** β- Receptor agonists, in small doses, have little direct effect on the cerebral vasculature. In larger doses and in association with physiologic stress, they can cause an increase in the CMR with an accompanying increase in CBF.<sup>90</sup> The β1- receptor is probably the mediator of these effects. In doses that do not result in substantial changes in MAP, intracarotid epinephrine does not change CBF in unanesthetized humans. However, with larger doses that lead to an increase in the MAP, both CBF and CMRO2 can increase by approximately 20%.
+
+Evidence suggests that a defect in the BBB enhances the effect of β- agonists.<sup>91</sup> Intracarotid norepinephrine, which does not normally affect CBF and CMR, increases CBF and CMR when BBB permeability is increased. Epinephrine caused an elevation in the CMRO2, but only when the BBB was made permeable.<sup>28</sup> These observations beg the interpretation that β- agonists will increase CBF and CMR when the BBB is injured.
+
+**β- Blockers.** β- Adrenergic blockers either reduce or have no effect on CBF and CMR. In two investigations in humans, propranolol, 5 mg intravenously,<sup>92</sup> and labetalol, 0.75 mg/ kg intravenously,<sup>93</sup> had no effect on CBF and cerebral blood flow velocity (CBFV), respectively. Modest reductions in CBF occur after the administration of labetalol to patients undergoing craniotomy who become hypertensive during emergence from anesthesia. Esmolol shortens seizures induced by electroconvulsive therapy (ECT), which suggests that esmolol does cross the normal BBB. Catecholamine levels at the time of β- blocker administration or the status of the BBB (or both) may influence the effect of these drugs. β- Adrenergic blockers are unlikely to have adverse effects on patients with intracranial pathologic abnormalities, other than effects secondary to changes in perfusion pressure.
+
+**Dopamine.** Dopamine can treat hemodynamic dysfunction. It also augments the function of the normal cardiovascular system when an increase in the MAP is desired as an adjunct to the treatment of focal cerebral ischemia, especially in the setting of vasospasm. In patients with subarachnoid hemorrhage (SAH)- induced vasospasm, dopamine infusion increases MAP and increases regional flow in ischemic, but not infarcted, brain tissue.<sup>94</sup> Unexpectedly, regional CBF decreased in ischemia areas in a minority. Given that its effects on CBF and CMR have not been defined with certainty, its administration should be guided by CBF measurements if possible or close clinical evaluation. The likely predominant effect of dopamine in the normal cerebral vasculature, when administered in small doses, is probably slight vasodilation with a minimal change in the CMR.<sup>95</sup> Increased CMR in discrete regions of the brain, such as the choroid plexus and basal ganglia, can occur. However, overall cortical blood flow is not influenced.<sup>96</sup> Vasoconstriction of the cerebral circulation is not observed even when dopamine is administered in doses of up to 100 μg/kg/ min. In that same investigation, dobutamine increased CBF and CMR by 20% and 30%, respectively.<sup>95</sup> Fenoldopam is a dopamine agonist with activity at the DA1- receptor and α2- receptor. The administration of fenoldopam leads to systemic vasodilation and a decrease in arterial blood pressure. In humans, fenoldopam decreased systemic blood pressure to a level that was above the LLA; however, a modest (≈15%) reduction was observed in CBF that did not increase to normal levels when systemic blood pressure was supported.<sup>97</sup> This reduction in CBF was attributed to the α2-activity of fenoldopam; its effect on the injured brain is not known.
+
+**Angiotensin- Converting Enzyme Inhibitors and Angiotensin Receptor Antagonists.** Both ACE inhibitors and angiotensin- receptor antagonists (ARAs) are
+
+<!-- PDF page 19 -->
+
+commonly used to treat hypertension. In the surgical setting and in the neurocritical care unit, these drugs are administered to control arterial blood pressure acutely. ACE inhibitors and ARAs reduce arterial blood pressure when hypertension is present. However, they do not affect resting CBF, and autoregulation is maintained.<sup>98</sup> In patients with acute stroke, ACE inhibitors and ARAs reduce arterial blood pressure but do not acutely affect CBF.<sup>70,99,100</sup>
+
+### AGE
+
+The loss of neurons is progressive in the normally aging brain from young adulthood to advanced age. Initial studies showed a reduction in neuronal density of as much as 60%.<sup>101</sup> More recent investigations reveal neuronal loss of approximately 10%.<sup>102</sup> The loss of myelinated fibers results in reduced white matter volume.<sup>103</sup> By contrast, the loss of synapses in the aged brain is considerably greater. The majority of excitatory synapses in the brain are on dendritic spines. Dendrite branching and volume progressively decrease, and the number of dendritic spines is reduced by approximately 25% to 35%.<sup>103</sup> Attendant with the loss of neuropil, both CBF and CMRO2 decrease by 15% to 20% at the age of 80 years.<sup>104</sup> Dynamic autoregulation and CO2 reactivity are maintained in healthy aging<sup>105</sup> (also see Chapter 80).
+
+## Effects of Anesthetics on Cerebral Blood Flow and Cerebral Metabolic Rate
+
+This section discusses the effects of anesthetic drugs on CBF and CMR. It includes limited mentions of the influences on autoregulation, CO2 responsiveness, and cerebral blood volume (CBV).
+
+In the practice of neuroanesthesia, the way anesthetic drugs and techniques influence CBF receives prime attention. The rationale is twofold. First, the delivery of energy substrates is dependent on CBF, and modest alterations in CBF can substantially influence neuronal outcome in the setting of ischemia. Second, control and manipulation of CBF are central to the management of ICP because as CBF varies in response to vasoconstrictor–vasodilator influences, CBV varies with it.<sup>106</sup> With respect to ICP, CBV is the more critical variable. In the normal brain, CBV is approximately 5 mL/100 g of brain,<sup>107</sup> and over a PaCO2 range of approximately 25 to 70 mm Hg, CBV changes by approximately 0.049 mL/100 g for every mm Hg change in PaCO2. In an adult brain weighing approximately 1400 g, this change can amount to 20 mL in total CBV for a PaCO2 range of 25 to 55 mm Hg.
+
+Although CBV and CBF usually vary in parallel, the magnitude of change in CBV is less than the magnitude of change in CBF (Fig. 10.11). In addition, CBV and CBF independently vary under some circumstances. During cerebral ischemia, for example, CBV increases, whereas CBF is significantly reduced.<sup>108</sup> Autoregulation normally serves to prevent MAP- related increases in CBV. In fact, as the cerebral circulation constricts to maintain a constant CBF in the face of an increasing MAP, CBV actually decreases.<sup>109</sup> When
+
+
+![](assets/chapter-10/10._Cerebral_Physiology_and_the_Effects_of_Anesthetic_Drugs.pdf-0019-08.png)
+
+
+6<br>4<br>20%<br>2<br>50%<br>0<br>20 40 60 80 100<br>Cerebral Blood Flow (mL•100 g -1 •min -1 )<br>-1-1Cerebral Blood Volume (mL)min100 g•<br>
+
+**Fig. 10.11 Relationship between cerebral blood flow (CBF) and cerebral blood volume (CBV).** Although a linear relationship exists between CBF and CBV, the magnitude of the change in CBV for a given change in CBF is considerably less. An increase in CBF of 50% results in a change in CBV of only 20%.
+
+autoregulation is impaired, CBF and CBV then increase in parallel as arterial blood pressure increases. A decreasing MAP results in a progressive increase in CBV as the cerebral circulation dilates to maintain constant flow, and exaggerated increases in CBV occur as the MAP decreases to less than the LLA.<sup>109</sup> In normal subjects, the initial increases in CBV do not increase ICP because there is latitude for compensatory adjustments by other intracranial compartments (e.g., translocation of venous blood and CSF to extracerebral vessels and the spinal CSF space, respectively). When intracranial compliance* is reduced, an increase in CBV can cause herniation or sufficiently reduce CPP to cause ischemia.
+
+### INTRAVENOUS ANESTHETIC DRUGS
+
+The action of most intravenous anesthetics leads to parallel reductions in CMR and CBF. Ketamine, which causes an increase in the CMR and CBF, is the exception. The effects of selected intravenous anesthetic drugs on human CBF are compared in Fig. 10.12<sup>88,89,110–122</sup> (see also Chapter 21).
+
+Intravenous anesthetics maintain neurovascular coupling and, consequently, changes in CBF induced by intravenous anesthetics are largely the result of the effects on the CMR with parallel (coupled) changes in CBF. Intravenous anesthetics have direct effects on vascular tone. Barbiturates, for example, cause relaxation of isolated cerebral vessels _in vitro_ . However, _in vivo_ , barbiturates suppress CMR, and the net effect at the point of EEG suppression is vasoconstriction and a substantial decrease in CBF.<sup>123</sup> In general, autoregulation and CO2 responsiveness are preserved during the administration of intravenous anesthetic drugs.
+
+> *Note a well-entrenched misuse of terminology.<sup>206</sup> The “compliance” curve that is commonly drawn to describe the ICP–volume relationship (see Fig. 53.3) actually depicts the relationship ΔP/ΔV (elastance) and not ΔV/ΔP (compliance). The reference to “reduced compliance” in this text is more correctly described as “increased elastance.” However, because the existing literature most commonly uses the “compliance” terminology, the authors have left the misuse uncorrected herein.
+
+<!-- PDF page 20 -->
+
+![](assets/chapter-10/10._Cerebral_Physiology_and_the_Effects_of_Anesthetic_Drugs.pdf-0020-01.png)
+
+
+CMR<br>CBF<br>-80 -60 -40 -20 0 20 40<br>Dexmedetomidine 1.2 ng•mL -1<br>Ketamine 0.15 mg•kg -1 •min -1<br>Midazolam 0.15 mg•kg -1<br>Diazepam 0.20 mg•kg -1<br>Remifentanil 0.20 µg•kg -1 •min -1<br>Sufentanil 10 µg•kg -1<br>17 µg•kg -1<br>Fentanyl<br>50% N2O<br>1 mg•kg -1<br>Morphine<br>70% N2O<br>0.20 mg•kg -1  +<br>Etomidate<br>continuous infusion<br>2 mg•kg -1  +<br>Propofol continuous infusion<br>Thiopental 10–55 mg•kg -1<br>-80 -60 -40 -20 0 20 40<br>Percent Change from Baseline<br>
+
+**Fig. 10.12 Changes in cerebral blood flow (CBF) and the cerebral metabolic rate of oxygen (CMRO2) caused by intravenous anesthetic drugs.** The data are derived from human investigations and are presented as percent change from unanesthetized control values. Dexmedetomidine CMR values were determined on a background of 0.5% isoflurane anesthesia (see the text for details). No data for the CMRO2 effects of midazolam in humans are available. _CMR_ , cerebral metabolic rate. (Data from references 66, 70, 98, 99, 102, 386, 442–444.)
+
+### Barbiturates
+
+A dose- dependent reduction in CBF and CMR occurs with barbiturates. With the onset of anesthesia, both CBF and CMRO2 are reduced by approximately 30%. When large doses of thiopental cause complete EEG suppression, CBF and CMR are reduced by approximately 50%.<sup>123,124</sup> Further increases in the barbiturate dose have no additional effect on the CMR.<sup>123</sup> These observations suggest that the major effect of nontoxic doses of depressant anesthetics is a reduction in the component of cerebral metabolism that is linked to electrical brain function (e.g., neurophysiologic activity) with only minimal effects on the second component, which is related to cellular homeostasis (see Fig 10.2).
+
+Tolerance to the CBF and CMR effects of barbiturates may quickly develop.<sup>125</sup> In patients with severe head injury in whom _barbiturate coma_ was maintained for 72 hours, the blood concentration of thiamylal required to maintain EEG burst suppression was observed to be increased by the end of the first 24 hours and continued to increase over the next 48 hours.<sup>126</sup> During deep pentobarbital anesthesia, autoregulation and CO2 responsiveness are maintained.
+
+### Propofol
+
+The effects of propofol (2,6- diisopropylphenol) on CBF and CMR are similar to those of barbiturates. Both CBF and CMR decrease after the administration of propofol in humans.<sup>127</sup> In healthy volunteers, surgical levels of propofol reduced regional CBF by 53%–79% in comparison with the awake state.<sup>128,129</sup> Alkire and co- workers<sup>130</sup> assessed cerebral glucose metabolism in volunteers by positron emission tomography (PET) before and during infusion of propofol to the point of unresponsiveness. The whole- brain metabolic rate decreased by 48%–58%, with limited regional heterogeneity observed. When compared with isoflurane- fentanyl or sevoflurane- fentanyl anesthesia, a combination of propofol and fentanyl decreased subdural pressure in patients with intracranial tumors and decreased the arteriovenous oxygen content difference (AVDO2).<sup>131</sup> Collectively, these investigations in human subjects indicate that propofol effects reductions in the CMR and secondarily decreases CBF, CBV, and ICP.
+
+Both CO2 responsiveness and autoregulation are preserved in humans during the administration of propofol,<sup>132,133</sup> even when administered in doses that produce burst suppression of the EEG.<sup>134</sup> The magnitude of the reduction in CBF during hypocapnia is decreased during propofol administration. This effect is probably due to the cerebral vasoconstriction induced by suppression of CMR, which further limits hypocapnia- mediated vasoconstriction.
+
+### Etomidate
+
+The effects of etomidate on CBF and CMR are also similar to those of barbiturates. Roughly parallel reductions in CBF and CMR occur in humans,<sup>110,135</sup> and, in general, they are accompanied by progressive suppression of the EEG. Induction of anesthesia with either thiopental or etomidate resulted in a similar reduction in MCAfv of approximately 27%.<sup>136</sup> The changes in CBF and CMR are substantial. Etomidate, 0.2 mg/kg, reduced CBF and CMR by 34% and 45%, respectively, in adults.<sup>110</sup> As is the case with barbiturates, no further reduction in the CMR occurs when additional drug is administered beyond a dose sufficient to produce EEG suppression. Although this latter phenomenon has not been demonstrated in humans, etomidate has been shown to reduce ICP only when EEG activity is well preserved; etomidate is ineffective in reducing ICP when EEG activity is suppressed (due to the injury itself) in head-injured patients.<sup>137</sup> The global CMR suppression attainable with etomidate is slightly less profound than that achieved with isoflurane and barbiturates. This finding is consistent with the observation that, unlike barbiturates, which cause CMR suppression throughout the brain, the CMR suppression caused by etomidate is regionally variable and predominantly occurs in forebrain structures.
+
+Etomidate is effective in reducing ICP without causing a reduction in CPP in patients with intracranial tumors<sup>138</sup> and patients with head injuries.<sup>139</sup> However, the administration of etomidate resulted in an exacerbation of brain tissue hypoxia and acidosis in patients in whom the middle cerebral artery (MCA) was temporarily occluded during surgery.<sup>140</sup> Additional concerns regarding the occurrence of adrenocortical suppression caused by enzyme inhibition and renal injury caused by the propylene glycol vehicle<sup>141</sup> will probably preclude more than episodic use.
+
+<!-- PDF page 21 -->
+
+Reactivity to CO2 is preserved in humans during the administration of etomidate.<sup>110,135</sup> Autoregulation has not been evaluated. Myoclonus and epileptogenesis are discussed in the section titled Epileptogenesis.
+
+### Narcotics
+
+Inconsistencies can be found in the available information, but narcotics likely have relatively little effect on CBF and CMR in the normal, unstimulated nervous system. When changes do occur, the general pattern is one of modest reductions in both CBF and CMR. The inconsistencies in the literature may largely arise because the control states entailed paralysis and nominal sedation in many studies, often with N2O alone. In these studies, in which substantial reductions in CBF and CMR were frequently observed, the effect of the narcotic was probably a combination of the inherent effect of the drug plus a substantial component attributable to reduction of arousal. Comparable effects related to reduction of arousal may occur and can be clinically important. However, they should be viewed as nonspecific effects of sedation or pain control, or both, rather than specific properties of narcotics. The following discussion emphasizes investigations in which control measurements were unlikely to have been significantly influenced by arousal phenomena.
+
+**Morphine.** When morphine (∼1 mg/kg) was administered as the sole drug to humans,<sup>142</sup> no effect on global CBF and a 41% decrease in the CMRO2 were observed. The latter is a substantial reduction, and the absence of a simultaneous adjustment in CBF is surprising. Jobes and co- workers<sup>143</sup> gave morphine (1 and 3 mg/kg) with 70% N2O to patients and observed no significant change in CBF or CMR. The N2O that was used might be expected to have caused a tendency toward increases in CBF and CMR. The relative absence of _net_ changes in these variables from awake control measurements suggests a small- to- moderate depressive effect of morphine on CBF and CMR at this large dose. However, morphine can cause a substantial release of histamine in individual patients. Histamine is a cerebral vasodilator that will cause an increase in CBV and a CBF effect that will vary, depending on the systemic blood pressure response.
+
+Autoregulation was observed to be intact between MAP values of 60 and 120 mm Hg in human volunteers anesthetized with morphine, 2 mg/kg, and 70% N2O.<sup>143</sup>
+
+**Fentanyl.** Fentanyl, in a dose range of 12 to 30 (mean 16) μg/kg, in combination with 50% N2O, reduced CBF and CMR modestly, by 21% and 26%, respectively, in comparison to the awake control state. The data for fentanyl- N2O presented in Fig. 10.12 are derived from these patients. In combination with 0.4 mg/kg of diazepam, high-dose fentanyl (100 μg/kg) led to a reduction of CBF by 25%, although part of this effect may well have been a result of benzodiazepine (see later discussion in the section titled Benzodiazepines) rather than fentanyl _per se_ . In sedative doses of 1.5 μg/kg, fentanyl increased CBF in the frontal, temporal, and cerebellar areas simultaneously with decreases in discrete areas associated with pain- related processing. CO2 responsiveness and autoregulation are unaffected, and the hyperemic CBF response to hypoxia remains intact.
+
+In conclusion, fentanyl will cause a moderate global reduction in CBF and CMR in the normal quiescent brain and will, similar to morphine, cause larger reductions when administered during arousal.
+
+**Alfentanil.** Administration of alfentanil, 320 μg/kg, to pentobarbital- anesthetized dogs<sup>144</sup> did not affect CBF, CMR, CO2 responsiveness, autoregulation, or CBF response to hypoxia. No studies of the effects of alfentanil on the CMR in humans have been conducted. In patients in whom anesthesia was induced with thiopental, administration of 25 to 50 μg/kg of alfentanil transiently decreased MCAfv, indicating a slight reduction in CBF.<sup>145</sup> By contrast,<sup>146</sup> no change in MCAfv was observed in response to 25 to 50 μg/kg of alfentanil given to patients during maintenance of anesthesia with isoflurane- N2O. An evaluation of the surgical field in patients undergoing craniotomy to whom alfentanil was administered did not reveal any adverse events.<sup>147,148</sup>
+
+In general, alfentanil does not significantly impact the cerebral circulation provided that alfentanil- induced reduction in mean arterial pressure is prevented.
+
+**Sufentanil.** Studies in humans indicate that sufentanil causes, depending on the dose, either no change or a modest reduction in CBF and CMR. Induction of anesthesia with 10 μg/kg of sufentanil<sup>113</sup> resulted in a 29% reduction in CBF and a 22% reduction in CMRO2. In healthy human volunteers, 0.5 μg/kg of sufentanil<sup>149</sup> does not affect CBF. Sufentanil, at doses of 1.0 and 2.0 μg/kg, decreases MCAfv in head- injured patients with increased intracranial pressure.
+
+A logical conclusion is that no change and no reduction in ICP occurs as a result of the administration of either sufentanil or alfentanil. However, in some investigations in humans, sufentanil was associated with modest increases in ICP. The increase in ICP associated with sufentanil is likely the consequence, in part, of a normal autoregulatory response to the sudden reduction in MAP that can occur as a consequence of sufentanil administration.<sup>150</sup> Therefore, sufentanil and fentanyl should be administered in a manner that does not produce a sudden MAP reduction. Such a decrease will reduce CPP and may increase ICP, each of which, in sufficient extreme, may be deleterious. However, ICP increases attributed to sufentanil are small. Furthermore, conditions in the surgical field, including pressure under brain retractors<sup>147</sup> and the state of brain relaxation, revealed no adverse influences attributable to sufentanil. Accordingly, sufentanil need not be viewed as contraindicated in any way, although its effect on the MAP should be followed closely.
+
+**Remifentanil.** Investigations of moderate doses of remifentanil in patients have revealed similar effects to that of other synthetic narcotics (apart from its substantially shorter duration of action). In patients undergoing craniotomy for supratentorial space- occupying lesions, 1 μg/kg of remifentanil caused no change in ICP.<sup>151</sup> In a second investigation in patients undergoing craniotomies, approximately 0.35 μg/kg/min of remifentanil resulted in CBF values comparable to those observed with moderately deep anesthesia with either isoflurane- N2O or fentanyl- N2O,<sup>152</sup> and CO2 responsiveness was preserved. Greater doses of remifentanil may have more substantial effects. MCAfv
+
+<!-- PDF page 22 -->
+
+decreased by 30% in response to 5 μg/kg, followed by 3 μg/ kg/min of remifentanil at a constant MAP in patients being anesthetized for bypass surgery.<sup>114</sup> A lower dose of 2 μg/kg, followed by an infusion of 3 μg/kg/min, however, did not affect CBFV. Quantitatively similar observations were made after a large dose of sufentanil in patients undergoing cardiac anesthesia.<sup>113</sup>
+
+Remifentanil was administered with other drugs that might influence cerebral hemodynamics. More recent studies in human volunteers have demonstrated that the infusion of small (sedative) doses of remifentanil can increase CBF. A PET study in human subjects to whom remifentanil, 0.05 and 0.15 μg/kg/min, was administered revealed increases in CBF in the prefrontal, inferior parietal, and supplementary motor cortices; reductions in CBF were observed in the cerebellum, superior temporal lobe, and midbrain gray matter.<sup>151</sup> The relative increase in CBF was greater with the administration of the larger dose of remifentanil. Similar data were obtained by Lorenz and colleagues,<sup>153</sup> who used magnetic resonance imaging (MRI) to determine CBF.<sup>153</sup> In a PET investigation in human volunteers, Kofke and co- workers<sup>154</sup> observed remifentanilinduced increases in regional CBF within the limbic system. Although the underlying mechanisms of the increases in CBF are not clear, disinhibition produced by the small- dose remifentanil infusion, or perhaps the sensation of side effects (e.g., warmth, comfort, pruritus),<sup>153</sup> may have contributed. When combined with N2O, CBF and CO2 reactivity is similar in patients given remifentanil or fentanyl.<sup>152</sup> In conclusion, sedative doses of remifentanil alone can cause minor increases in CBF. With larger doses or with the concomitant administration of anesthetic adjuvants, CBF is either unaltered or modestly reduced.
+
+The administration of opioids for the purposes of sedation and analgesia in patients with head injury has been systematically reviewed.<sup>155</sup> When administered by infusion with maintenance of MAP, fentanyl, sufentanil, and alfentanil do not have substantial effects on CPP and ICP. However, when administered by bolus, MAP acutely decreases, and this is accompanied by increased ICP and reduced CPP. It was postulated that hypotension- induced autoregulatory cerebral vasodilation can increase CBV and ICP, thereby reducing CPP.
+
+### Benzodiazepines
+
+Benzodiazepines cause parallel reductions in CBF and CMR in humans. CBF and CMRO2 decreased by 25% when 15 mg of diazepam was given to patients with head injuries. The effects of midazolam on CBF (but not on CMR) have also been studied in humans. Administration of 0.15 mg/kg of midazolam to awake healthy human volunteers resulted in a 30%–34% reduction in CBF.<sup>116,156</sup> In an investigation using PET scanning, a similar dose of midazolam led to a global 12% reduction in CBF; the decreases occurred preferentially in the brain regions associated with arousal, attention, and memory.<sup>157</sup> CO2 responsiveness is preserved.<sup>158</sup>
+
+In conclusion, benzodiazepines cause a dose- dependent reduction in CBF in humans, which may be metabolically coupled. The extent of the maximal reductions of CBF and CMR produced by benzodiazepines is probably intermediate between the decreases caused by narcotics (modest) and barbiturates (substantial). It appears that benzodiazepines
+
+should be safe to administer to patients with intracranial hypertension, provided that respiratory depression and an associated increase in PaCO2, and hypotension do not occur.
+
+**Flumazenil.** Flumazenil is a highly specific, competitive benzodiazepine receptor antagonist. It had no effect on CBF when administered to unanesthetized human volunteers.<sup>156,159</sup> However, flumazenil reverses the CBF- , CMR- , and ICP- lowering effects of midazolam. Whereas Knudsen and colleagues<sup>160</sup> observed no change in either CBF or CMR when patients were aroused from midazolam anesthesia with flumazenil at the conclusion of craniotomy for brain tumor resection, Chiolero and coauthors<sup>161</sup> reported severe increases in ICP when flumazenil was given to patients with head injuries who were sedated with midazolam and in whom ICP was poorly controlled before the administration of flumazenil. These latter observations are consistent with animal investigations during which flumazenil not only reversed the CBF and CMR effects of midazolam, but it also caused a substantial, although short- lived, overshoot above pre-midazolam levels in both CBF and ICP by 44%–56% and 180%–217%, respectively. The CMR did not rise above control levels, thus indicating that the increase in CBF was not metabolically coupled. The CBF overshoot effect is unexplained, but it may be a neurogenically mediated arousal phenomenon with rapid reversal of benzodiazepine effect. It is therefore possible that slower administration of flumazenil, perhaps by infusion, can moderate the overshoot. Flumazenil should be very cautiously used to reverse benzodiazepine sedation in patients with impaired intracranial compliance.
+
+### Droperidol
+
+No human investigations have been conducted to evaluate the effects of droperidol on CBF and CMR in isolation. However, the information available from animal investigations and combination of drugs in humans,<sup>162,163</sup> taken together, suggest that droperidol is not a cerebral vasodilator and probably has little effect on CBF and CMR in humans. The occasional increases in ICP that have been observed<sup>162</sup> probably reflect normal autoregulation- mediated vasodilation in response to an abrupt decrease in the MAP, probably due to droperidol- induced α-receptor blockade. The dopamine antagonist haloperidol produces moderate increases in regional CBF in the basal ganglia but global CBF is unchanged.<sup>164</sup>
+
+### Ketamine
+
+Among the intravenous anesthetics, ketamine is unique in its ability to cause increases in both CBF and CMR.<sup>165</sup> Animal studies indicate that the changes in the CMR are regionally variable. In rats, substantial increases occur in limbic system structures with modest changes or small decreases in cortical structures.<sup>166</sup> PET studies in humans have demonstrated that subanesthetic doses of ketamine (0.2 to 0.3 mg/ kg) can increase global CMR by approximately 25%.<sup>167</sup> The greatest increase in the CMR occurred in the frontal and anterior cingulate cortex. A relative reduction in the CMR in the cerebellum was also observed. Commercially available formulations of ketamine contain both the ( _S_ )- and ( _R_ )- ketamine enantiomers. The ( _S_ )- ketamine enantiomer
+
+<!-- PDF page 23 -->
+
+substantially increases CMR, whereas the ( _R_ ) enantiomer tends to decrease CMR, particularly in the temporomedial cortex and in the cerebellum.<sup>168</sup> These changes in the CMR are accompanied by corresponding changes in CBF.<sup>169</sup> Global, as well as regional, increases in CBF in humans that were not accompanied by similar increases in the CMRO2 after the administration of ( _S_ )- ketamine enantiomer have been observed. Both subanesthetic and anesthetic doses of ketamine increased global CBF by approximately 14% and 36%, respectively, without altering global CMRO2. As expected, the oxygen extraction ratio was reduced, considering the unchanged CMR and increased CBF. CBV increased by approximately 50%.<sup>122</sup> The majority of investigations indicate that autoregulation is maintained during ketamine anesthesia,<sup>170</sup> and CO2 responsiveness is preserved.
+
+The ability of ketamine to increase CBF and CMR has led to a concern that its administration might increase ICP and compromise CPP, especially in patients with cerebral pathology. The consequence has been its limited use in such patients. There are, however, several lines of evidence to indicate that ketamine can be safely administered. A variety of anesthetic agents, including benzodiazepines, isoflurane and propofol, blunt or eliminate the increases in ICP or CBF associated with ketamine.<sup>165,171,172</sup> In fact, decreases in ICP occur when relatively large doses of ketamine (1.5 to 5 mg/kg) are administered to patients with head injuries who are sedated with propofol.<sup>173</sup> Systematic reviews have indicated that ketamine does not increase ICP in patients with head injury<sup>174,175</sup> and non- traumatic neurologic illness.<sup>176</sup> It is of substantial benefit in the treatment of refractory status epilepticus.<sup>177</sup> Accordingly, ketamine is probably best avoided as the sole anesthetic drug in patients with impaired intracranial compliance; it may be cautiously given to patients who are simultaneously receiving adjunctive sedative drugs.
+
+### Lidocaine
+
+In nonanesthetized human volunteers, reductions in CBF and CMR of 24% and 20%, respectively, were observed after the administration of 5 mg/kg of lidocaine over a 30- minute period, followed by an infusion of 45 μg/kg/ min.<sup>178</sup> When very large doses (160 mg/kg) were given to dogs maintained on cardiopulmonary bypass, the reduction in the CMRO2 was apparently more than that observed with large- dose barbiturates.<sup>179</sup> The membrane- stabilizing effect of lidocaine probably reduces the energy required for the maintenance of membrane integrity.
+
+The effectiveness of bolus doses of thiopental, 3 mg/kg, and lidocaine, 1.5 mg/kg, in controlling the acute increase in ICP that occurred after the application of a pin head holder or skin incision in patients undergoing craniotomies has been assessed.<sup>180</sup> The two regimens were equally effective in causing a reduction in ICP. However, the decrease in the MAP was greater with thiopental. Accordingly, a bolus dose of lidocaine is a reasonable adjunct to the prevention or treatment of acute increases in ICP and can prevent increases in ICP associated with endotracheal suctioning. Although large doses of lidocaine can produce seizures in humans, lidocaine- induced seizures have not been reported in anesthetized humans. Nonetheless, lidocaine doses should be adjusted to achieve serum levels less than
+
+the seizure threshold (>5 to 10 μg/mL) in awake humans. After a 2- mg/kg bolus, peak serum concentrations of 6.6 to 8.5 μg/mL are below the seizure threshold. Bolus doses of 1.5 to 2.0 mg/kg therefore seem appropriate.
+
+### INHALED ANESTHETICS
+
+### Volatile Anesthetics
+
+The pattern of volatile anesthetic effects on cerebral physiology is quite different than that of intravenous anesthetics, which generally cause parallel reductions in CMR and CBF. All volatile anesthetics, in a manner similar to intravenous sedative–hypnotic drugs, suppress cerebral metabolism in a dose- related fashion.<sup>181–184</sup> Volatile anesthetics also possess intrinsic cerebral vasodilatory activity as a result of direct effects on vascular smooth muscle. The net effect of volatile anesthetics on CBF is therefore a balance between a reduction in CBF caused by CMR suppression and an augmentation of CBF caused by the direct cerebral vasodilation. When administered at a dose of 0.5 MAC, CMR suppression–induced reduction in CBF predominates, and net CBF decreases in comparison with the awake state. At 1 MAC, concentrations of isoflurane, sevoflurane, or desflurane, CBF remains unchanged; at this concentration, CMR suppression and vasodilatory effects are in balance. Beyond 1 MAC, the vasodilatory activity predominates, and CBF significantly increases, even though the CMR is substantially reduced (Fig. 10.13).<sup>185</sup> Vasodilation with increasing doses of volatile agents leads to an attenuation of cerebral
+
+
+![](assets/chapter-10/10._Cerebral_Physiology_and_the_Effects_of_Anesthetic_Drugs.pdf-0023-10.png)
+
+
+250<br>CBF<br>CMRg<br>MAP<br>200<br>150<br>100<br>50<br>0<br>Control 0.5 1.0 1.5 2.0<br>Minimum Alveolar Concentration<br>MAP (mm Hg)<br>-1-1CBF (mL)min100 g•<br>-1-1CMRg (µmol)min100 g•<br>
+
+**Fig. 10.13 Relationship between changes in the cerebral metabolic rate of glucose (CMRg) and cerebral blood flow (CBF) in the motor- sensory cortex in rats during isoflurane anesthesia.** Most of the suppression in the CMR caused by isoflurane has occurred by 1 minimum alveolar concentration (MAC); CBF is not increased in this concentration range. Thereafter, additional isoflurane causes little further reduction in the CMR, and cerebral vasodilation occurs. These data (± standard deviation [SD]) from Maekawa and colleagues<sup>185</sup> suggest the importance of metabolic coupling in determining the effects of isoflurane on CBF. _MAP,_ mean arterial pressure.
+
+<!-- PDF page 24 -->
+
+![](assets/chapter-10/10._Cerebral_Physiology_and_the_Effects_of_Anesthetic_Drugs.pdf-0024-02.png)
+
+
+High dose<br>Moderate dose<br>Low dose<br>Awake<br>50 100 150 200<br>MAP (mm Hg)<br>Cerebral Blood Flow<br>
+
+**Fig. 10.14 Schematic representation of the effect of increasing concentrations of a typical volatile anesthetic drug on autoregulation of cerebral blood flow.** Dose- dependent cerebral vasodilation results in attenuation of autoregulatory capacity. Both the upper and lower thresholds are shifted to the left. _MAP,_ mean arterial pressure.
+
+autoregulation. With large doses, autoregulation is abolished, and cerebral perfusion becomes pressure passive (Fig. 10.14).
+
+The increase in CBF produced by volatile anesthetics at doses larger than 1 MAC has been referred to as reflecting a loss of neurovascular coupling. However, coupling (CBF adjustments paralleling changes in CMR) persists during anesthesia with volatile anesthetics.<sup>186–190</sup> Accordingly, the conclusion should be that the CBF/CMR ratio is altered (increased) by volatile anesthetics. This alteration is dose related, and, under steady- state conditions, increasing doses of volatile agents lead to greater CBF/CMRO2 ratios<sup>182,191</sup> ; that is, higher MAC levels cause greater luxury perfusion.
+
+The important clinical consequences of the administration of volatile anesthetics are derived from the increases in CBF and CBV—and consequently ICP—that can occur. Of the commonly used volatile anesthetics, the order of vasodilating potency is approximately halothane ≫ enflurane > desflurane ≈ isoflurane > sevoflurane.
+
+**Effects on Cerebral Blood Flow.** Volatile anesthetics possess intrinsic vasodilatory activity, and they not only modify cerebral autoregulation, but also produce a dosedependent decrease in arterial blood pressure. Hence, their effects on CBF and CMR are best evaluated when arterial blood pressure is maintained at a constant level. In addition, the cerebrovascular effects of volatile anesthetics are modulated by the simultaneous administration of other CNS- active drugs. The control state, awake, sedated, or anesthetized, against which the CBF and CMR effects of volatile anesthetics are compared, is important to recognize. The best information concerning the cerebrovascular effects of volatile anesthetics is obtained from studies in nonanesthetized (awake) individuals.
+
+
+![](assets/chapter-10/10._Cerebral_Physiology_and_the_Effects_of_Anesthetic_Drugs.pdf-0024-08.png)
+
+
+-100 -50 0 50 100 150 200<br>CMR<br>Xenon<br>CBF<br>Desflurane<br>Sevoflurane<br>Isoflurane<br>Enflurane<br>Halothane<br>-100 -50 0 50 100 150 200<br>Percent Change in CBF – CMR<br>
+
+**Fig. 10.15 Estimated changes in cerebral blood flow (CBF) and the cerebral metabolic rate of oxygen (CMRO2) caused by volatile anesthetics.** The CBF data for halothane, enflurane, and isoflurane were obtained during anesthesia (with blood pressure support) at 1.1 minimum alveolar concentration (MAC) in humans<sup>439</sup> and are expressed as percent change from awake control values. The CMRO2 data for halothane, enflurane, and isoflurane were obtained in cats<sup>192,272</sup> and are expressed as percent change from N2O- sedated control values. The data for sevoflurane were obtained during 1.1 MAC anesthesia in rabbits and are expressed as percent change from a morphine- N2O– anesthetized control state.<sup>184</sup> CBF values were obtained in patients who received 1 MAC sevoflurane anesthesia.<sup>195</sup> Desflurane data were obtained in patients to whom 1 MAC desflurane was administered.<sup>193</sup> _CMR_ , cerebral metabolic rate.
+
+Data on the cerebrovascular effects of halothane and enflurane are limited. Initial studies in humans demonstrated that the administration of 1 MAC halothane significantly increases CBF, even when systemic blood pressure is substantially reduced, in comparison with preanesthetic CBF. When the MAP is maintained at 80 mm Hg, 1.1 MAC levels of halothane increase CBF by as much as 191% and decrease the CMR by approximately 10% (Fig. 10.15).<sup>192,193</sup> When compared with awake values, 1.2 MAC enflurane also increased CBF and decreased CMR by 45% and 15%, respectively.<sup>194</sup> The dramatic increases in CBF with a simultaneous modest reduction in the CMR attest to the cerebral vasodilatory properties of halothane and enflurane. Isoflurane, by contrast, does not increase CBF as much as halothane or enflurane. At concentrations of 1.1 MAC, isoflurane increases CBF by approximately 19% when arterial blood pressure is maintained within the normal range. The CMR is reduced by approximately 45%.<sup>189</sup>
+
+Both sevoflurane and desflurane can reduce CBF significantly in humans when compared with CBF in awake, nonanesthetized patients. At 1 MAC concentrations, sevoflurane<sup>195</sup> and desflurane<sup>194</sup> decreased CBF by 38% and 22% and CMR by 39% and 35%, respectively. These results, which suggest that the cerebral vasodilation produced by
+
+<!-- PDF page 25 -->
+
+![](assets/chapter-10/10._Cerebral_Physiology_and_the_Effects_of_Anesthetic_Drugs.pdf-0025-01.png)
+
+
+50 3.5<br>Awake CMRO2<br>Awake CBF<br>45<br>3.0<br>40<br>2.5<br>35<br>2.0<br>30<br>Awake<br>Halothane Awake<br>Isoflurane 1.5 Halothane<br>25 Sevoflurane Isoflurane<br>Desflurane Sevoflurane<br>Xenon Desflurane<br>20 1.0<br>0 0.2 0.4 0.6 0.8 1.0 1.2 1.4 0 0.2 0.4 0.6 0.8 1.0<br>Minimum Alveolar Concentration Minimum Alveolar Concentration<br>A B<br>-1-1Cerebral Blood Flow (mL)min100 g•<br>-1-1Cerebral Metabolic Rate (mL O)min100 g••2<br>
+
+**Fig. 10.16** Effect of volatile anesthetics on cerebral blood flow (CBF) (A) and the cerebral metabolic rate of oxygen (CMRO2) (B) in humans. The results are a composite of CBF and CMRO2 values obtained from a number of separate investigations.<sup>117,182,183,187–189,191–198</sup> In these studies, arterial partial pressure of carbon dioxide (PaCO2) was maintained in the normocapnic range (∼35 to 40 mm Hg), and mean arterial pressure was supported. In most of the investigations, CBF was measured by the inert gas technique. This technique primarily measures cortical CBF and, as such, may underestimate global CBF. This, in addition to species differences, probably accounts for the disparities between the data on the CBF effects attributed to volatile agents in this figure and Fig. 10.15).
+
+isoflurane is greater than that produced by sevoflurane and desflurane, were obtained with CBF measured by the Kety– Schmidt technique. This technique primarily measures CBF within the cortex and therefore may have substantially underestimated global CBF. PET studies in healthy humans have shown that sevoflurane dose- dependently suppresses the CMRO2 and CBF; at 1 MAC levels, the reduction in CBF and CMRO2 is approximately 50% and 50%–60%, respectively.<sup>128,129</sup> Even with a significant reduction in CBF, the administration of sevoflurane does not cause a decrease in CBV. Other investigations in humans, most using the measurement of MCAfv by transcranial Doppler, indicate that differences in the effects of isoflurane, desflurane (Fig. 10.16A), and sevoflurane are modest.<sup>196–199</sup> Unfortunately, a strictly quantitative comparison among these volatile anesthetics is not possible because of the variations in arterial blood pressure among study group patients. In addition, some discrepancy exists among studies in the literature regarding the magnitude of the effects of volatile anesthetics on CBF. Much of this inconsistency may occur due to the interaction of regionally selective CBF methods with the heterogeneity within the cerebrum of the CBF effects of volatile anesthetics. (See the later section on Distribution of Changes in Cerebral Blood Flow and Cerebral Metabolic Rate.)
+
+The anesthetic properties of xenon were recognized several decades ago, but this anesthetic is only now being evaluated for possible use in patients. The MAC of xenon has been estimated to be 63% to 71%, with female patients having significantly lower MAC values (51%).<sup>199</sup> Xenon exerts its anesthetic effect via noncompetitive antagonism of the _N_ - methyl- d- aspartate receptor (NMDAR),<sup>200</sup> although activation of the TREK two- pore K<sup>+</sup> channel may also play a role.<sup>201</sup> In healthy humans, the administration of 1 MAC xenon resulted in a reduction in CBF by approximately 15%
+
+in the cortex and by 35% in the cerebellum. Interestingly, CBF in white matter increased by 22%.<sup>202</sup> This reduction in CBF is accompanied by a parallel reduction of the cerebral metabolic rate of glucose (CMRg) by 26%.<sup>203</sup> Cerebral autoregulation and CO2 reactivity are preserved during xenon anesthesia in animals.<sup>204</sup> Under background pentobarbital anesthesia in an experimental model of increased ICP, the administration of xenon did not increase ICP, and the response to both hypocapnia and hypercapnia was preserved.<sup>205</sup> Diffusion of xenon into air- containing spaces such as the bowel does occur, although the magnitude of air expansion is considerably less than that with N2O.<sup>206</sup> Nonetheless, caution will have to be exercised with the use of xenon in patients with intracranial air. These data indicate that xenon has a favorable profile for neuroanesthesia.
+
+There are limited data available for the effect of argon on the cerebral circulation. In patients anesthetized with fentanyl and midazolam, the administration of 70% argon in air did not impact CBF and CMR.<sup>207</sup> Since fentanyl–midazolam anesthesia would be expected to reduce CBF and CMR, these data suggest that argon does not produce cerebral vasodilation.
+
+**Effects on Cerebral Metabolic Rate.** All the volatile anesthetics cause reductions in CMR. The degree of reduction in CMRO2 that occurs at a given MAC is less with halothane than with the other four anesthetics. Sevoflurane’s effect on the CMRO2 is very similar to that of isoflurane. The available information, derived in separate investigations, suggests that desflurane causes slightly less suppression of the CMRO2 than isoflurane, especially at concentrations above 1 MAC.<sup>183</sup> Although a direct comparison of the CMRO2 effects of all of the volatile anesthetics has not been performed in humans, doses of 1 MAC isoflurane,
+
+<!-- PDF page 26 -->
+
+sevoflurane, and desflurane clearly reduce the CMRO2 by 25%,<sup>208</sup> 38%,<sup>193</sup> and 22%,<sup>209</sup> respectively. Halothane (0.9 MAC) and isoflurane (0.5 MAC) can decrease the CMRg by 40% and 46%, respectively, in PET studies.<sup>130,210</sup> The decrease in the CMRO2 is dose related. With isoflurane (and almost certainly desflurane and sevoflurane as well), the maximal reduction is simultaneously attained with the occurrence of EEG suppression,<sup>183</sup> which occurs at clinically relevant concentrations, in the range of 1.5 to 2 MAC in humans. Additional isoflurane up to 6% end- tidal volume results in no further reduction in the CMR and no indication of metabolic toxicity. Halothane presents a contrast to this pattern. Halothane concentrations more than 4 MAC are required to achieve EEG suppression in animals, and additional halothane causes a further reduction in the CMRO2 in concert with alterations in energy charge. The latter changes, which are reversible, suggest interference with oxidative phosphorylation by halothane.
+
+Some nonlinearity exists in the CBF and CMR doseresponse relationships for volatile anesthetics. The initial appearance of an EEG pattern associated with the onset of anesthesia with halothane, enflurane, and isoflurane is accompanied by a sharp decline in the CMRO2.<sup>183</sup> Thereafter, the CMRO2 declines in a slower dose- dependent manner. Such an effect has also been demonstrated for sevoflurane. In a dose escalation study in humans, the greatest reduction in entropy (i.e., a measure of anesthetic depth) was observed with 1 MAC sevoflurane anesthesia, with lesser reductions occurring at increasing concentrations.<sup>211</sup>
+
+**Distribution of Changes in Cerebral Blood Flow and Cerebral Metabolic Rate.** The regional distribution of anesthetic- induced changes in CBF and CMR differs significantly between halothane and isoflurane. Halothane produces relatively homogeneous changes throughout the brain. CBF is globally increased, and CMR is globally depressed. The changes caused by isoflurane are more heterogeneous. Increases in CBF are greater in subcortical areas and hindbrain structures than in the neocortex.<sup>188,212</sup> The converse is true for the CMR, with a larger reduction in the neocortex than in the subcortex.<sup>185</sup> In humans, 1 MAC sevoflurane (Fig. 10.17) results in a reduction in CBF within the cortex and the cerebellum. With an increase in sevoflurane dose, CBF within the cortex decreases further. By contrast, flow increases in the cerebellum with doses greater than 1.5 MAC.<sup>128</sup> These effects of sevoflurane are similar to those produced by isoflurane.<sup>128,212</sup> Desflurane has not been evaluated by local CBF studies. However, considering the similarity of its effects on the EEG (suggesting similar cortical CMR and CBF effects), an assumption of similar heterogeneity in CBF distribution seems reasonable, pending further investigation. These distribution differences may explain certain apparent contradictions in reported CBF effects in the existing literature for isoflurane. Methods that assess global hemodynamic effects reveal greater changes than those that emphasize the cortical compartment. For instance, when a xenon surface washout technique is employed (measurement of local cortical flow only), no increase in CBF occurred when isoflurane was administered to patients undergoing craniotomy.<sup>213</sup>
+
+**Time Dependence of Cerebral Blood Flow Effects.** The effects of volatile anesthetics on CBF are time dependent
+
+
+![](assets/chapter-10/10._Cerebral_Physiology_and_the_Effects_of_Anesthetic_Drugs.pdf-0026-06.png)
+
+
+**Fig. 10.17 Dose- dependent redistribution of cerebral blood flow (CBF) in humans.** Positron emission tomography (PET) scans demonstrate a dose- dependent reduction in CBF in both sevofluraneanesthetized ( _left_ ) and propofol- anesthetized ( _right_ ) subjects. During sevoflurane anesthesia, an increase in concentration from 1.5 to 2 minimum alveolar concentration (MAC) leads to an increase in CBF within the subcortex, particularly in the cerebellum. A gradual reduction in the mean arterial pressure (MAP) occurred with increasing concentrations of sevoflurane, and the MAP was not supported. The CBF values would be expected to be considerably greater had blood pressure been maintained within the normal range. Therefore, the CBF values represented in this figure probably underestimate true CBF during sevoflurane anesthesia. In propofol- anesthetized subjects, CBF was uniformly decreased and redistribution of CBF was not observed. _EC50_ , half- maximal effective concentration. (From Kaisti K, Metsähonkala L, Teräs M, et al. Effects of surgical levels of propofol and sevoflurane anesthesia on cerebral blood flow in healthy subjects studied with positron emission tomography. _Anesthesiology_ . 2002;96:1358–1370.)
+
+in animal investigations. After an initial increase, CBF decreases and reaches a steady state near pre–volatile agent levels between 2.5 and 5 hours after exposure.<sup>214–216</sup> The mechanism of this effect is not understood, and the phenomenon was not evident in humans studied during a 3- or 6- hour exposure to halothane, isoflurane, desflurane, or sevoflurane.<sup>198,217</sup>
+
+**Cerebral Blood Volume.** The extensive investigation of the influence of volatile anesthetics on CBF has been primarily based on the concern that the cerebral vasodilation produced by volatile anesthetics might increase ICP. However, it is CBV and not CBF, _per se_ , that influences ICP. Most of the intracranial blood is within the cerebral venous circulation; although a reasonable correlation exists between vasodilation- induced increases in CBF and CBV, the magnitude of changes in CBF is considerably greater than that in CBV (see Fig. 10.11). Hence, changes in CBF do not reliably predict changes in CBV and, by extension, in ICP. CBV is considerably greater during isoflurane anesthesia than
+
+<!-- PDF page 27 -->
+
+![](assets/chapter-10/10._Cerebral_Physiology_and_the_Effects_of_Anesthetic_Drugs.pdf-0027-01.png)
+
+
+Anesthetic Effects on CBF and CBV<br>180 3.5 15<br>CBF Sevoflurane Sevoflurane Propofol Propofol<br>160 CBV 3.0 N2O N2O<br>140<br>0<br>2.5<br>120<br>100 2.0<br>-15<br>80 1.5<br>60<br>1.0<br>-30<br>40<br>MAP<br>0.5<br>20 rCBF<br>rCBV<br>0 0 -45<br>Propofol Pentobarbital Isoflurane<br>A B<br>-1CBV (mL)100 g•<br>-1-1CBF (mL)min100 g•<br>Percent Change From Awake State<br>
+
+**Fig. 10.18 Effect of anesthetic drugs on cerebral blood flow (CBF) and cerebral blood volume (CBV).** (A) When compared with isoflurane, propofol and pentobarbital effected substantial reductions in CBF. However, reductions in CBV were more modest.<sup>203</sup> (B) Although sevoflurane effected a significant reduction in regional CBF (rCBF), regional CBV (rCBV) was unchanged; had blood pressure been supported to normal levels, rCBV may have been greater than the awake state. By contrast, propofol effected a significant reduction in both rCBF and rCBV. These data indicate that the magnitude of the effect of anesthetics on rCBF is substantially greater than on rCBV. Hence, decreases in rCBF may not lead to equivalent reductions in rCBV. _MAP,_ mean arterial pressure; _N2O,_ nitrous oxide.
+
+during propofol or pentobarbital anesthesia.<sup>106</sup> In human volunteers, 1 MAC sevoflurane reduced regional CBF but not regional CBV; by contrast, propofol reduced both regional CBF and regional CBV (Fig. 10.18).<sup>129</sup> In addition, CBV responds to changes in PaCO2 by a reduction in CBV with hypocapnia and an increase in CBV with hypercapnia. The magnitude of the change in CBV is, however, less than the change in CBF. In aggregate, although the effect of anesthetics and interventions on CBF may parallel the effect on CBV, substantial qualitative and quantitative differences may well be observed.
+
+**Carbon Dioxide Responsiveness and Autoregulation.** CO2 responsiveness is well maintained during anesthesia with all volatile anesthetics.<sup>197,218,219</sup> As with all vasodilators, CBF is preserved at lower MAP values during the administration of volatile anesthetics with no evidence of differences among the various anesthetics. Direct comparisons of CBF with isoflurane, desflurane, and sevoflurane anesthesia during hypotension are not available. By contrast, autoregulation of CBF in response to increasing arterial blood pressure is impaired; autoregulation impairment is most apparent with anesthetics that cause the most cerebral vasodilation and is dose dependent. Sevoflurane may cause less impairment of the autoregulatory response to increasing blood pressure than other volatile anesthetics. Recent studies report no change in CBFV in response to phenylephrine- induced increases in the MAP during anesthesia with 1.2 to 1.5 MAC sevoflurane<sup>220,221</sup> or in CBF during hemorrhagic hypotension.<sup>222</sup> The autoregulatory response to increasing blood pressure may be pertinent during acute episodes of hypertension, such as during laryngoscopy or mismatch of surgical stimulation to anesthetic depth.
+
+**Cerebral Vasodilation by Anesthetics – Clinical Implications.** Isoflurane, desflurane, and sevoflurane may have a modest cerebral vasodilating effect in the human
+
+cortex when administered at doses of 1 MAC or less. In fact, the administration of volatile anesthetics can effect net decreases in CBF (see Fig. 10.16A). These data, however, should be interpreted with the knowledge that the critical variable that is of interest in the clinical setting is CBV. Although a direct correlation exists between CBF and CBV, as noted earlier, the relationship is not strictly 1:1. The magnitude of the changes in CBV is significantly less than the magnitude of the changes in CBF, and modest reductions in CBF may not necessarily be accompanied by reductions in CBV. This finding is exemplified by clinical investigations in which a significant increase in ICP (and by extension, CBV) was observed in patients to whom isoflurane was administered at doses that should reduce CBF.<sup>223,224</sup> Although induction of hypocapnia mitigated the increase in ICP, hyperventilation may not be effective in blunting isoflurane- induced increases in ICP in patients with intracranial tumors.<sup>225</sup> In experimental investigations of cerebral injury, volatile anesthetics significantly increased ICP, which was not ameliorated by hypocapnia.<sup>226</sup> Collectively, these data suggest that volatile anesthetics have modest effects on cerebral hemodynamics in patients with normal intracranial compliance. Although the potential for volatile anesthetics to increase CBV and ICP exists, a recent meta- analysis indicated that there were only minor differences in ICP and CPP (∼5 mm) between volatile- maintained and propofol- maintained anesthesia.<sup>227</sup> Moreover, there were no differences in brain relaxation scores between the two anesthetic regimens. These data suggest that, in most patients, anesthesia can be safely administered either with a propofol- based intravenous technique or with a volatile agent–based technique. Nonetheless, volatile anesthetics should be used with caution in the setting of large or rapidly expanding mass lesions (especially with acute traumatic brain injury), unstable ICP, or other significant cerebral physiologic derangements in which CO2 responsiveness and neurovascular coupling may be impaired. When they occur (e.g., a somnolent, vomiting patient with papilledema; a
+
+<!-- PDF page 28 -->
+
+large mass; compressed basal cisterns), the clinician may well be advised to use a predominantly intravenous technique until such time as the cranium and dura are open and the effect of the anesthetic technique can be directly evaluated. Such circumstances will be relatively uncommon in elective neurosurgery.
+
+Situations in which the CMR has been decreased by drug administration or disease processes should also justify caution in the use of volatile anesthetics. As noted above, vasodilation- mediated increase in CBF induced by a volatile anesthetic is in part, and at low doses, offset by an opposing metabolically mediated vasoconstricting influence (see Fig. 10.13). In situations in which the CMR is already reduced, the vasodilatory activity will predominate and therefore the increase in CBF will be greater. For example, when CMR is only slightly reduced by morphine, isoflurane does not cause significant increase in CBF. However, under thiopental anesthesia, the introduction of isoflurane significantly increases CBF.<sup>187</sup> Similarly, prior propofol anesthesia produces near- maximal suppression of CMR; in this situation, introduction of any of the volatile agents leads to significant increases in CBF.<sup>134</sup> In essence, antecedent CMR suppression unmasks the vasodilatory action of volatile anesthetics. These data also suggest that caution must be exercised in the administration of volatile anesthetics in pathologic conditions, such as traumatic brain injury, in which metabolism is already reduced.
+
+### Nitrous Oxide
+
+N2O can cause increases in CBF, CMR, and ICP. At least a portion of the increases in CBF and CMR may be the result of a sympathoadrenal- stimulating effect of N2O. The magnitude of the effect considerably varies according to the presence or absence of other anesthetic drugs (Fig. 10.19).<sup>228,229</sup> When N2O is administered alone, very substantial increases in CBF and ICP can occur. In sharp contrast, when N2O is administered in combination with intravenous drugs, including barbiturates, benzodiazepines, narcotics, and propofol, its cerebral- vasodilating effect is attenuated or even completely inhibited. The addition of N2O to anesthesia established with a volatile anesthetic will result in moderate increases in CBF.
+
+
+![](assets/chapter-10/10._Cerebral_Physiology_and_the_Effects_of_Anesthetic_Drugs.pdf-0028-06.png)
+
+
+35<br>30<br>25<br>20<br>15<br>10<br>5<br>0<br>Awake Isoflurane Propofol<br>1.1 MAC 150 µg•kg -1 •min -1<br>O-Induced CBFV Increase (%)N2<br>
+
+**Fig. 10.19** Mean percent increases in cerebral blood flow velocity (CBFV) in the middle cerebral artery of normocapnic subjects exposed to 60% nitrous oxide (N2O) after control recording in three conditions: awake<sup>228</sup> ; 1.1 minimum alveolar concentration (MAC) of isoflurane<sup>233</sup> ; and propofol, 150 μg/kg/min.<sup>229</sup>
+
+The most dramatic increases in ICP or CBF in humans and experimental animals have occurred when N2O was administered alone or with minimal background anesthesia. For instance, before and during spontaneous breathing of 66% N2O by patients with intracranial tumors, mean ICP increased from 13 to 40 mm Hg.<sup>230</sup> The increases in CBF observed in humans are more modest than those observed in animals but are still substantial.<sup>228</sup> Whether these substantial increases represent the effects of N2O, _per se_ , or whether they reflect the nonspecific effects of a secondstage arousal phenomenon is not known.
+
+When N2O is administered in conjunction with certain intravenous anesthetics, its CBF effect may be considerably attenuated (see Fig. 10.19). In an investigation of patients with intracranial tumors and poor intracranial compliance (mean preinduction ICP, 27 mm Hg),<sup>231</sup> 50% N2O introduced during barbiturate anesthesia and after the induction of hypocapnia had a negligible effect on ICP. Benzodiazepines administered alone have been shown to blunt the CBF response to N2O in both animals and humans.<sup>153</sup> Narcotics appear to have a similar effect. Anesthesia with 1 mg/ kg morphine and 70% N2O resulted in no change in CBF from awake control values.<sup>111</sup> Because of the very minor effect of morphine on CBF, these data suggest that N2O did not cause substantial cerebral vasodilation. Although the addition of N2O to propofol anesthesia in children increased MCAfv in one study,<sup>232</sup> similar increases were not demonstrated by other investigators.<sup>229</sup>
+
+In most investigations, including several in humans, during which N2O has been added to a volatile anesthetic of 1 MAC or greater, substantial increases in CBF have been recorded.<sup>233,234</sup> A comparison of an approximately equipotent substitution of N2O for isoflurane revealed that CBF was greater by 43% with 0.75 MAC isoflurane and 65% N2O in comparison to 1.5 MAC isoflurane.<sup>235</sup> Several investigations have confirmed that CBF will be less with 1 MAC isoflurane than with a 1 MAC combination achieved with 50% to 65% N2O and isoflurane.<sup>233,235,236</sup> These observations are consistent with a substantial additive vasodilating effect of N2O in the presence of a volatile agent.
+
+This vasodilating effect of N2O may be positively correlated with the concentration of inhaled drug<sup>234</sup> and suggests that, in general, the increase in CBF caused by N2O is exaggerated at higher concentrations of both halothane and isoflurane. Of importance, however, is the observation that the administration of 50% N2O to healthy volunteers did not significantly alter CBV.<sup>237</sup> In support of this observation, N2O did not have any effect on CBV when added to a background of 1 MAC sevoflurane anesthesia.<sup>129</sup> Although N2O can increase CBF, these data indicate that its effect on CBV is modest.
+
+### Effects of Nitrous Oxide on Cerebral Metabolic Rate.
+
+No uniform agreement has been reached concerning the effect of N2O on the CMR. Parallel changes in CBF and CMR,<sup>238</sup> increases in CBF without alteration of the CMR,<sup>239</sup> and CMR alteration occurring without changes in CBF<sup>240</sup> have all been reported. These findings are, doubtless, the product of differences in species, methods, depth of background anesthesia, and interactions with simultaneously administered anesthetics. In a recent investigation in humans, the administration of 70% N2O on a background
+
+<!-- PDF page 29 -->
+
+of either sevoflurane or propofol anesthesia resulted in modest increases in the CMRO2, thus indicating that N2O does indeed increase cerebral metabolism.<sup>129</sup>
+
+The CBF response to CO2 is preserved during the administration of N2O.<sup>241</sup>
+
+**Clinical Implications.** Despite the inconsistencies that are evident, the vasodilatory action of N2O can be clinically significant in neurosurgical patients with reduced intracranial compliance. However, N2O- induced cerebral vasodilation can be considerably blunted by the simultaneous administration of intravenous anesthetics. By contrast, the addition of N2O to a volatile drug–based anesthetic can modestly increase cerebral metabolism and blood flow. N2O has been widely used in neurosurgery, and banishing it is inconsistent with the accumulated experience. Nonetheless, in circumstances wherein ICP is persistently elevated, or the surgical field is persistently tight, N2O should be viewed as a potential contributing factor. Because N2O rapidly enters a closed gas space, it should be avoided or omitted when a closed intracranial gas space may exist, or intravascular air is a concern.
+
+### MUSCLE RELAXANTS
+
+### Nondepolarizing Relaxants
+
+The only recognized effect of nondepolarizing muscle relaxants on the cerebral vasculature occurs via the release of histamine. Histamine can result in a reduction in CPP because of the simultaneous increase in ICP (caused by cerebral vasodilation) and a decrease in the MAP. It is not entirely clear whether histamine directly causes cerebral vasodilation or whether it is a secondary (autoregulatory) response to a reduction in the MAP. _d_ - Tubocurarine is the most potent histamine releaser among available muscle relaxants. Metocurine, atracurium, and mivacurium also release histamine in lesser quantities. This effect is likely to be clinically inconsequential unless these muscle relaxants are administered in the large doses necessary to achieve endotracheal intubating conditions rapidly. Of this group of drugs, cisatracurium has the least histamine- releasing effect. No evidence of histamine release was observed after the administration of 0.15 mg/kg of cisatracurium to neurosurgical patients in the intensive care unit (ICU).<sup>242</sup> Yet, cisatracurium’s slow onset of action makes it less useful for a rapid- sequence induction of anesthesia.
+
+Vecuronium, in relatively large doses, does not have a significant effect on cerebral physiology in patients with brain tumors. The other aminosteroids, pipecuronium and rocuronium, should be similarly without direct effect, and no adverse events have been reported.
+
+The indirect actions of relaxants may also have effects on cerebral physiology. Muscle relaxation may reduce ICP because coughing and straining are prevented, which decrease central venous pressure with a concomitant reduction in cerebral venous outflow impedance.
+
+A metabolite of atracurium, laudanosine, may be epileptogenic. However, although large doses of atracurium caused an EEG arousal pattern in dogs, CBF, CMR, and ICP were unaltered.<sup>243</sup> In rabbits, the administration of laudanosine did not increase the severity of the epileptoid activity caused by the direct application of a cephalosporin to the
+
+cortical surface.<sup>244</sup> It appears highly unlikely that epileptogenesis will occur in humans with modest atracurium administration.<sup>245</sup>
+
+In summary, vecuronium, pipecuronium, rocuronium, atracurium, mivacurium, cisatracurium, metocurine, and pancuronium (if acute MAP increases are prevented with the latter) are all reasonable muscle relaxants for use in patients with or at risk for intracranial hypertension. Doses of metocurine, atracurium, and mivacurium should be limited to ranges not associated with hypotension.
+
+Rocuronium is increasingly being used for the induction of anesthesia, as well as for intraoperative relaxation. It has the most rapid onset time of any nondepolarizing muscle relaxant. With sugammadex, even a profound neuromuscular blockade can be rapidly reversed (see Chapter 24). The cerebrovascular effects of sugammadex have not yet been evaluated.
+
+### Succinylcholine
+
+Succinylcholine can produce modest increases (∼5 mm Hg) in ICP in lightly anesthetized humans. This effect appears to be the result of cerebral activation (as evidenced by EEG changes and increases in CBF) caused by afferent activity from the muscle spindle apparatus.<sup>246</sup> As might be expected with what appears to be an arousal phenomenon, deep anesthesia prevents succinylcholine- induced increases in ICP. The increase in ICP is also blocked by paralysis with vecuronium and by defasciculation with metocurine, 0.03 mg/kg.<sup>247</sup> The efficacy of other defasciculating anesthetics has not been examined in humans.
+
+Although succinylcholine _can_ produce increases in ICP, it can still be used for a rapid- sequence induction of anesthesia. No change in ICP was observed after the administration of succinylcholine, 1 mg/kg, to 10 nonparalyzed, ventilated neurosurgical patients in the ICU, six of whom had sustained a head injury.<sup>248</sup> Their observations are relevant because it is in precisely this population of patients that the issue of the use of succinylcholine arises most frequently. Considering that the ICP effects of succinylcholine may be an arousal phenomenon caused by increased afferent traffic from muscle spindles,<sup>246</sup> it is not unreasonable to assume that disease processes that substantially blunt the level of consciousness might similarly blunt this response. As with many anesthetics, the concern should not be whether it is used but how it is used. When contraindications do not exist, with proper attention to the control of CO2 tension, arterial blood pressure, and depth of anesthesia and after defasciculation, then little hazard should attend succinylcholine administration.
+
+## Other Effects of Anesthetics on Cerebral Physiology
+
+### CEREBROSPINAL FLUID DYNAMIC S
+
+Anesthetics have been shown to influence both the rate of formation and the rate of reabsorption of CSF. Table 10.4 provides nonquantitative information about the direction of the influences of common anesthetic drugs. All the information has been derived from animals,<sup>249–255</sup> and these processes have not been examined in humans. Of the volatile
+
+<!-- PDF page 30 -->
+
+**Table 10.4** Effects of Anesthetic Agents on the Rate of CSF Secretion and Absorption
+
+||**Halothane**|**Enflurane**|**Isoflurane**|**Desflurane**|**Fentanyl**|**Etomidate**|
+|---|---|---|---|---|---|---|
+|Secretion|↓|↑|**–**|↑|**–**|↓|
+|Absorption|↓|↓|↑|**–**|↑|↑|
+
+
+_Upward arrows_ indicate an increase in the rate of cerebrospinal fluid (CSF) absorption or secretion, and _downward arrows_ indicate a decrease. The information is presented nonquantitatively, and effects may vary with dose.
+
+anesthetics, halothane decreases secretion of CSF, isoflurane has no effect, and enflurane and desflurane increase secretion. Absorption of CSF is reduced by halothane and enflurane, unchanged by desflurane, and increased by isoflurane. Although probably of minimal relevance to clinical practice, a theoretic concern might be in the setting of a prolonged closed- cranium procedure in a patient with poor intracranial compliance. The most deleterious potential combination of effects in a patient with poor intracranial compliance is increased CSF production and decreased reabsorption. Accordingly, should the administration of volatile agents be contemplated, an agent that has minimal impact on CSF dynamics (e.g., isoflurane) might be prudent.
+
+### BLOOD–BRAIN BARRIER
+
+In the majority of the body’s capillary beds, fenestrations between endothelial cells are approximately 65 Å in diameter. In the brain, with the exception of the choroid plexus, in the pituitary, and in the area postrema, tight junctions reduce this pore size to approximately 8 Å. As a result, large molecules and most ions are prevented from entering the brain’s interstitium (BBB). A limited number of studies of anesthetic effects on the BBB have been conducted. In experimental animals, 1% isoflurane leads to extravasation of albumin into the thalamus, indicating some compromise of the BBB integrity. At higher doses, isoflurane (3%) significantly increases protein extravasation, not only in the thalamus but also in the cortex.<sup>256</sup> This disruption of the BBB is quantitatively similar to that achieved by mannitol. In experimental models of brain injury, isoflurane has been reported to both exacerbate<sup>257</sup> and ameliorate<sup>258</sup> edema formation in the injured brain. Whether these effects are the result of isoflurane action at the BBB, _per se_ , or to hemodynamic perturbations attendant upon anesthesia is not known. The clinical relevance of the potential BBB modulation by anesthetics is not clear. To the authors’ knowledge, no peer- reviewed investigation has attempted a comparison of anesthetic effects on BBB function during anesthesia in normotensive humans.
+
+### EPILEPTOGENESIS
+
+An extensive review of the convulsant and anticonvulsant effects of anesthetics and adjuvants is available.<sup>259,260</sup> Several commonly used anesthetics have some epileptogenic potential, particularly in predisposed individuals. A concern is that seizure activity may go unrecognized in an anesthetized and paralyzed patient and may result in neuronal injury if substrate demand (CMR) exceeds supply for a prolonged period.<sup>261</sup> A second concern is that the epileptogenic effect will persist in the postanesthetic period when
+
+seizures may occur in less well- controlled circumstances than those exist in the surgical unit. In practice, it appears that spontaneous seizures during or after anesthesia are extremely rare. Nonetheless, in patients predisposed to seizures, the use of potentially epileptogenic drugs should be avoided when reasonable alternatives are available.
+
+### Volatile Anesthetics
+
+Enflurane is potentially epileptogenic in the clinical setting. Of particular relevance to neuroanesthesia is the observation that hypocapnia potentiates seizure- type discharges during enflurane anesthesia. A 50% decrease in the CMRO2 was noted in human volunteers anesthetized with 3% enflurane; however, with the onset of seizure activity, the CMRO2 returned to normal,<sup>262</sup> thus indicating preservation of neurovascular coupling. No evidence suggests that this type of EEG activity is deleterious when oxygen delivery is maintained during the event. However, because seizure activity can elevate brain metabolism by as much as 400%, the use of enflurane, especially at high doses and with hypocapnia, should probably be avoided in patients predisposed to seizures.
+
+The EEG- activating property of enflurane has been used intraoperatively to activate and to identify seizure foci that are to be surgically resected; and, in this situation, spike activity not preoperatively present has been observed to persist after surgery.<sup>263</sup> Adverse outcomes related to enflurane- induced seizures have not been reported.
+
+Isoflurane can cause EEG spiking and myoclonus, but it has not been associated in the experimental setting with the epileptic activity induced by enflurane. The clinical experience with isoflurane is extremely large, and unexplained seizure- like activity has been reported in only two patients. One occurrence was intraoperative,<sup>264</sup> and the other was immediately postoperative.<sup>265</sup> Therefore, epileptogenesis does not appear to be a clinical concern with isoflurane. In fact, isoflurane has been successfully used to control EEG seizure activity in refractory status epilepticus.<sup>266</sup>
+
+Seizures occur during the induction of anesthesia with high concentrations of sevoflurane in children, including those without a recognized seizure diathesis.<sup>267</sup> In two healthy volunteers, EEG burst suppression with 2 MAC sevoflurane was accompanied by epileptiform discharges that were observed during EEG monitoring.<sup>268</sup> These discharges were associated with a significant increase in CBF, thus demonstrating that neurovascular coupling was preserved. In patients with temporal lobe epilepsy, the administration of 1.5 MAC sevoflurane elicited widespread paroxysmal EEG activity. Of note was the observation that the paroxysmal activity was not restricted to the ictal focus and that the administration of sevoflurane did not provide any assistance in localizing the epileptogenic region of the
+
+
+
+::: details 原始表格與符號（PDF 第 30 頁）
+
+![第 10 章，原始 PDF 第 30 頁](assets/chapter-10/source-page-0030.png)
+
+:::
+
+<!-- PDF page 31 -->
+
+brain.<sup>269</sup> The development of tonic–clonic movements suggestive of seizure activity has also been reported in healthy patients on emergence from sevoflurane anesthesia.<sup>270,271</sup> In all of the reported cases of seizure activity attributable to sevoflurane anesthesia, untoward sequelae have not been documented. These reports highlight the ability of sevoflurane, albeit small, to evoke epileptiform activity. Accordingly, the use of sevoflurane in patients with epilepsy should be undertaken with appropriate caution.
+
+### Methohexital
+
+Myoclonic activity is sometimes observed with methohexital. Accordingly, this anesthetic has been used to activate seizure foci during cortical mapping.<sup>268</sup> In neurosurgical patients to whom larger doses of methohexital were administered to produce burst suppression of the EEG, refractory seizures have occurred.<sup>272</sup> Accordingly, it appears that patients with seizures of temporal lobe origin, typically of the psychomotor variety or those to whom large doses are administered, are at risk for seizure activation by methohexital. However, prolonged seizure activity after singledose methohexital administration has not been reported in patients who undergo ECT.
+
+### Ketamine
+
+Ketamine can elicit seizures in patients with an epileptic diathesis.<sup>273</sup> Depth electrode recordings in epileptic patients have revealed the occurrence of isolated subcortical seizure activity originating in the limbic and thalamic areas during ketamine anesthesia and demonstrated that this subcortical activation may not be reflected in surface EEG recordings.<sup>274</sup> Seizures have also been reported to occur after ketamine anesthesia in subjects who are neurologically normal on only two occasions<sup>275,276</sup> ; seizure thresholds may have been lowered by aminophylline in one of these instances. By contrast, ketamine has been administered for the treatment of refractory status epilepticus. A review of the literature indicates that ketamine is effective in controlling seizure activity in 56% of patients; its efficacy is greater in the pediatric population.<sup>177</sup>
+
+### Etomidate
+
+Etomidate frequently produces myoclonus that is not associated with epileptiform activity on the EEG.<sup>277</sup> A single instance of severe, sustained myoclonus immediately after anesthesia with etomidate by infusion has been reported.<sup>278</sup> Etomidate has also been shown to precipitate generalized epileptic EEG activity in epileptic patients,<sup>279</sup> and its use in this population should probably be avoided. However, it has been electively used in low doses to activate seizure foci for the purposes of intraoperative EEG localization.<sup>280</sup> In the experience of the authors (unpublished), selective activation of a quiescent focus can be achieved with 0.1 mg/kg etomidate. Larger doses are more likely to lead to generalized activation.
+
+Etomidate is also associated with longer seizures in response to ECT than seizures that occur after the administration of methohexital or propofol. Remarkably, etomidate, in the dose range of 0.15 to 0.3 mg/kg, does not cause dose- related seizure inhibition during ECT as is readily demonstrated with methohexital or propofol.
+
+The preceding information notwithstanding, no convincing reports indicate epileptogenesis in subjects who are
+
+neurologically normal, and the use of etomidate need not be restricted on this basis. In fact, etomidate has been used to control refractory status epilepticus.
+
+### Propofol
+
+Abnormal body movements and opisthotonos can occur after propofol anesthesia. Although systematic studies in humans<sup>281</sup> identified the occurrence of occasional dystonic and choreiform movements, they have failed to confirm propofol as a proconvulsant. Furthermore, ECT seizures were shorter after induction with propofol than after induction with methohexital,<sup>282</sup> which is more consistent with an anticonvulsant effect. In addition, propofol sedation has been widely used during awake resection of seizure foci and other intracranial lesions. Although pronounced high- amplitude beta- frequency activity in the EEG has been observed,<sup>283</sup> unexpected incidences of seizures have not been reported.
+
+### Narcotics
+
+Seizures or limbic system hypermetabolism (or both) can be readily elicited in some animal species with narcotics. Although an increase in CBF in deep brain structures associated with pain processing has been observed in human volunteers,<sup>284</sup> humans do not have a clinically apparent correlate of the hypermetabolism effect observed in animals. Several anecdotal accounts, unaccompanied by EEG recordings, have reported the occurrence of grand mal convulsions in patients who received both high and low doses of fentanyl. However, systematic investigations of EEG changes during the administration of relatively large doses of fentanyl, sufentanil, and alfentanil in humans have not documented neuroexcitatory activity<sup>285</sup> and the seizures may have been an exaggerated rigidity phenomenon. There are exceptions. Increased seizure activity on the induction of anesthesia with fentanyl in patients with partial complex seizures undergoing anterior temporal lobectomy have been observed.<sup>286</sup> Eight of the nine patients displayed electrical seizure activity at a range of clinically relevant fentanyl doses (mean, 26 μg/kg).<sup>286</sup> Another study found that alfentanil, 50 μg/kg, augmented temporal lobe spike activity in patients with temporal lobe epilepsy.<sup>287</sup> Untreated rigidity may itself also have important CNS consequences. ICP elevation can occur during narcotic- induced rigidity, probably because of cerebral venous congestion.
+
+### NEONATAL ANESTHETIC NEUROTOXICITY
+
+This subject is discussed in detail in Chapter 72.
+
+## Cerebral Physiology in Pathologic States
+
+### CEREBRAL ISCHEMIA – PATHOPHYSIOLOGIC CONSIDERATIONS
+
+### Critical Cerebral Blood Flow Thresholds
+
+The brain has a high rate of energy utilization and very limited energy storage capacity. The brain is therefore extremely vulnerable in the event of interruption of substrate (e.g., oxygen, glucose) supply. Under normal
+
+<!-- PDF page 32 -->
+
+![](assets/chapter-10/10._Cerebral_Physiology_and_the_Effects_of_Anesthetic_Drugs.pdf-0032-02.png)
+
+
+50<br>Normal neuronal function<br>Clinical signs of ischemia<br>EEG slowing 20<br>Dysfunction – Neurons viable<br>EEG flat 12<br>Delayed neuronal death<br>6<br>Membrane failure<br>Rapid neuronal death<br>0 10 20 30 40 50 60 70 80<br>Cerebral Perfusion Pressure (mm Hg)<br>100 gCBF (mL)min•-1•-1<br>
+
+**Fig. 10.20 Relationships between cerebral perfusion, cerebral blood flow (CBF), the electroencephalogram (EEG), and the functional status and viability of neurons.** Note that in the approximate CBF range of 6 to 12 mL/100 g/min, the energy supply is insufficient to support electrophysiologic activity (i.e., flat EEG) but can prevent complete membrane failure and neuronal death for extended periods. These areas are referred to as the _ischemic penumbra._<sup>288</sup> The data are derived from studies on the cerebral cortex of barbiturate- anesthetized baboons<sup>288,440</sup> and unanesthetized monkeys.<sup>441</sup> The CBF and mean arterial pressure thresholds may vary with anesthetic and species.<sup>290</sup>
+
+circumstances, global CBF is maintained at approximately 50 mL/100 g/min. In the face of a declining CBF and therefore oxygen supply, neuronal function deteriorates in a progressive manner rather than in an all- or- none fashion (Fig. 10.20). There is substantial reserve below normal CBF levels, and symptoms of cerebral hypoperfusion are not apparent in awake humans until CBF is reduced to ∼30 mL/100 g/ min. EEG evidence of ischemia begins to appear when CBF decreases to approximately 20 mL/100 g/min. At a CBF level of approximately 15 mL/100 g/min, the cortical EEG is isoelectric. The brain regions falling in the CBF range of 10 to 20 mL/100 g/min encompass tissue in which neuronal dysfunction is temporarily reversible but within which neuronal death will occur if flow is not restored; such regions are referred to as the ischemic penumbra.<sup>288,289</sup> Only when CBF is reduced to approximately 6 to 10 mL/100 g/min are indications of potentially irreversible membrane failure, such as increased extracellular potassium<sup>288</sup> and a loss of the direct cortical response, rapidly evident. Studies defining progression to cerebral infarction within the penumbra have been performed principally in the cerebral cortex of primates, and the actual CBF levels at which the various decrements in function occur may vary with both anesthetic<sup>290</sup> and species. However, in humans anesthetized with halothane and N2O, the CBF threshold for the initial EEG change<sup>291</sup> is similar to that observed in the animal investigations.
+
+### Models of Cerebral Ischemia
+
+How different is complete cerebral ischemia, as occurs during cardiac arrest, and incomplete cerebral ischemia, as may occur during occlusion of a major cerebral vessel or severe hypotension? From the clinician’s vantage, the important
+
+difference is that the residual (i.e., collateral) blood flow during incomplete ischemia may result in enough delivery of oxygen to allow some generation of ATP and thereby stave off the catastrophic irreversible membrane failure that occurs within minutes during normothermic complete cerebral ischemia.<sup>292</sup> This difference in the rate of failure of the energy supply<sup>292,293</sup> (Fig. 10.21) can result in significantly greater apparent tolerance for focal or incomplete ischemia than for complete global ischemia (e.g., cardiac arrest).
+
+### Energy Failure and Excitotoxicity
+
+Energy failure is the central event that occurs during cerebral ischemia.<sup>294</sup> ATP is required for the maintenance of the normal membrane ionic gradient, and energy failure is rapidly attended by membrane depolarization and influx of sodium (Na<sup>+</sup> ) and calcium (Ca<sup>2+</sup> ) into the neuron. Voltagedependent Ca<sup>2+</sup> channels are then activated, and Ca<sup>2+</sup> enters the cytosol. Depolarization of presynaptic terminals also results in the release of massive quantities of excitatory neurotransmitters, particularly glutamate, into the synaptic cleft. Activation of glutamatergic receptors, the NMDAR, and the α- amino- 3- hydroxy- 5- methyl- 4- isoxazopropionic acid receptors (AMPAR) adds to the influx of Na<sup>+</sup> and Ca<sup>2+</sup> (Fig. 10.22). Initiation of cellular signaling by the activation of mGluR leads to the release of stored Ca<sup>2+</sup> from the endoplasmic reticulum (ER) via inositol 1,4,5- triphosphate (IP3) receptors. Ionic influx is accompanied by an influx of water, and neuronal swelling rapidly occurs after membrane depolarization. The injury that is initiated by excessive glutamatergic activity is referred to as _excitotoxicity_ .
+
+Ca<sup>2+</sup> is a ubiquitous second messenger in cells and is a cofactor required for the activation of multiple enzyme
+
+<!-- PDF page 33 -->
+
+![](assets/chapter-10/10._Cerebral_Physiology_and_the_Effects_of_Anesthetic_Drugs.pdf-0033-01.png)
+
+
+2.5<br>Decapitation Ca 2+ Ca 2+<br>VGCC<br>2.0 MCA occlusion<br>Ca 2+<br>1.5<br>Ca 2+<br>1.0 Na + , Ca 2+ Na + , Ca 2+<br>mGluR<br>AMPAR<br>VGCC NMDAR<br>0.5<br>IP3<br>Focal ischemia Ca 2+<br>Global ischemia<br>0 Cyt c release Proteases<br>0 20 40 60 80 100 120 ROS NOS<br>Energy failure<br>Time (minutes) Cytoskeleton<br>NO breakdown<br> Comparison of rates of failure of energy supply (adenosine<br>triphosphate [ATP]) in complete global ischemia in dogs (produced by  ONOO• Lipases Nucleases<br>decapitation 293 ) and in incomplete focal ischemia in monkeys (middle<br>cerebral artery [MCA] occlusion 163 ). In the presence of residual cerebral<br>blood flow (CBF) energy supply failure is substantially delayed. Ca 2+ Membrane<br>damage<br>systems. The rapid, uncontrolled increase in cytosolic Ca 2+ EicosanoidsROS<br>level initiates the activation of several cellular processes that<br>contribute to injury. Cytoskeletal proteins such as actin are  PARP<br>cleaved by activated proteases. These enzymes also degrade  NAD +<br>multiple protein constituents of the neuron. Lipases attack<br>cellular lipids and produce membrane damage. An impor-<br>-1ATP (µmol)g•<br>
+
+**Fig. 10.21** Comparison of rates of failure of energy supply (adenosine triphosphate [ATP]) in complete global ischemia in dogs (produced by decapitation<sup>293</sup> ) and in incomplete focal ischemia in monkeys (middle cerebral artery [MCA] occlusion<sup>163</sup> ). In the presence of residual cerebral blood flow (CBF) energy supply failure is substantially delayed.
+
+systems. The rapid, uncontrolled increase in cytosolic Ca<sup>2+</sup> level initiates the activation of several cellular processes that contribute to injury. Cytoskeletal proteins such as actin are cleaved by activated proteases. These enzymes also degrade multiple protein constituents of the neuron. Lipases attack cellular lipids and produce membrane damage. An important lipase, phospholipase A2, releases fatty acids such as AA from membranes. Metabolism of AA to prostaglandins and leukotrienes by cyclooxygenase and lipoxygenase is accompanied by the generation of superoxide free radicals. The latter, in combination with other free radicals generated in response to mitochondrial injury, can lead to lipid peroxidation and membrane injury. Prostaglandins and leukotrienes also evoke an inflammatory response and are powerful chemotactic drugs. Activation of platelets within cerebral microvessels, as well as an influx of white blood cells into damaged areas, aggravate the ischemic injury by occluding the vasculature.
+
+**Fig. 10.22** During ischemia, depletion of adenosine triphosphate (ATP) leads to neuronal depolarization and the subsequent release of supranormal quantities of neurotransmitters, especially glutamate. Excessive stimulation of ligand- gated channels and the simultaneous opening of voltage- dependent calcium (Ca<sup>2+</sup> ) channels permit rapid entry of Ca<sup>2+</sup> into neurons. Stimulation of metabotropic glutamate receptors (mGluRs) generates inositol 1,4,5- triphosphate (IP3), which causes the release of Ca<sup>2+</sup> from the endoplasmic reticulum (ER) and mitochondria. Activation of the α- amino- 3- hydroxy- 5- methyl- 4- isoxazopropionic acid receptor (AMPAR)–gated subset of glutamate receptors also permits excessive entry of sodium (Na<sup>+</sup> ). Excessive free Ca<sup>2+</sup> results in the activation of numerous enzymes: protease activation causes the breakdown of the cytoskeleton of the neuron; lipases damage plasma membrane lipids and release arachidonic acid (AA), which is metabolized by cyclooxygenases and lipoxygenases to yield free radicals and other mediators of cell injury; activation of nitric oxide synthase (NOS) leads to the release of nitric oxide (NO) and, in turn, the generation of peroxynitrite (ONOO), a highly reactive free radical; and activated endonucleases damage DNA, thereby rendering the neuron susceptible to apoptosis. Injury to the mitochondria leads to energy failure, generation of free radicals, and the release of cytochrome _c_ (cyt c) from the mitochondria; the latter is how neuronal apoptosis is initiated. _mGluR,_ metabotropic glutamate receptor; _NAD_<sup>&#95;+&#95;</sup> _,_ oxidized form of nicotinamide adenine dinucleotide; _NMDAR, N_ - methyl- d- aspartate receptor; _PARP,_ poly- ADP- ribose polymerase; _ROS,_ reactive oxygen species; _VGCC,_ voltage- gated calcium channel.
+
+DNA damage is also an important event during ischemic neuronal injury. Generation of free radicals from AA metabolism, from injured mitochondria, and from the production of peroxynitrite from NO leads to oxidative injury to DNA. Activation of endonucleases also produces DNA strand breaks. Under normal circumstances, DNA injury results in the activation of poly–adenosine diphosphate [ADP]–ribose polymerase (PARP), an enzyme that participates in DNA repair. With excessive DNA injury, PARP activity dramatically increases, which can lead to the depletion of nicotinamide adenine dinucleotide (NAD<sup>+</sup> ), a substrate of PARP. NAD<sup>+</sup> is also an important coenzyme in energy metabolism, and its depletion further exacerbates energy failure.
+
+this process by providing additional substrate for anaerobic glycolysis.
+
+NO, which has emerged as a probable mediator of CBF changes in many normal physiologic states (see the earlier section, Cerebral Metabolic Rate), is also of relevance to pathophysiologic ischemia. NO is, in fact, a weak free radical that in turn leads to the generation of a more reactive species (peroxynitrite), and it is the killer substance used
+
+Lactate formation is an additional element of the pathophysiologic process. Lactic acid is formed as a result of the anaerobic glycolysis that takes place after failure of the supply of oxygen. The associated decrease in pH contributes to the deterioration of the intracellular environment. An increased preischemic serum glucose level may accelerate
+
+<!-- PDF page 34 -->
+
+by macrophages. In cerebral ischemia, NO is probably both friend and foe. During a period of focal ischemia, the vasodilating effect of NO (constitutively elaborated NO of endothelial origin) probably serves to augment collateral CBF. However, in the postischemic phase, NO (derived from neurons or macrophages) contributes to neuronal injury.
+
+Collectively, the simultaneous and unregulated activation of several cellular pathways overwhelms the reparative and restorative processes within the neuron and ultimately leads to neuronal death.
+
+### Nature of Neuronal Death
+
+The neuronal death that occurs in response to these processes has been categorized as necrotic or apoptotic in nature. Necrotic death mediated by excitotoxic injury, is characterized by rapid cellular swelling, condensation and pyknosis of the nucleus, and swelling of the mitochondria and ER. A characteristic of these necrotic neurons is the presence of acidophilic cytoplasm.<sup>295</sup> Necrotic neuronal death results in local infiltration of the brain by inflammatory cells. A considerable amount of collateral damage occurs as a consequence of this inflammation.
+
+Neuronal apoptosis, a form of _cellular suicide_ , has also been demonstrated in a variety of models of cerebral ischemia. Apoptosis is characterized by chromatin condensation, involution of the cell membrane, swelling of mitochondria, and cellular shrinkage. In the later stages of apoptosis, neurons fragment into several apoptotic bodies, which are then cleared from the brain.<sup>295</sup> The lack of a substantial inflammatory response to apoptotic death limits injury to surrounding neurons that have survived the initial ischemic insult.
+
+Several biochemical pathways that lead to apoptosis have been described. Initiation of apoptosis by the release of cytochrome _c_ from injured mitochondria has been studied extensively (Fig. 10.23). Cytochrome _c_ is restricted from the cytoplasm by the outer mitochondrial membrane.<sup>296</sup> When mitochondria are injured, pores within the outer membrane allow cytochrome _c_ to be released into the cytoplasm, where it interacts with procaspase- 9 and apoptosis- activating factor (APAF) to produce an apoptosome. Procaspase- 9 undergoes activation by proteolytic cleavage. Activated caspase- 9 then activates caspase- 3. The latter serves as an executor of apoptosis by cleaving several protein substrates that are essential in DNA repair (such as PARP). Activation of caspase- 3 can also occur by inflammatory signaling via tumor necrosis factor alpha (TNF- α) and the activation of caspase- 8.<sup>297</sup> It should be noted that the neuronal injury that occurs in response to ischemia cannot be easily divided into necrosis or apoptosis. The nature of neuronal death probably encompasses a spectrum in which some neurons undergo either necrosis or apoptosis whereas others undergo cell death that has features of both necrosis and apoptosis.
+
+### Timing of Neuronal Death
+
+The traditional concept of ischemic injury was that neuronal death was restricted to the time of ischemia and during the early reperfusion period. However, more recent data indicate that postischemic neuronal injury is a dynamic process during which neurons continue to die for a long period after the initiating ischemic insult.<sup>298</sup> This delayed
+
+
+![](assets/chapter-10/10._Cerebral_Physiology_and_the_Effects_of_Anesthetic_Drugs.pdf-0034-10.png)
+
+
+TNF<br>receptor<br>Intrinsic<br>pathway Caspase 8<br>Bax<br>Bid<br>cyt c Extrinsic<br>c APAF 9 pathway<br>c<br>Bcl<br>Caspase 9<br>3 Caspase<br>Apoptosis<br>
+
+**Fig. 10.23 Cellular processes that lead to neuronal apoptosis.** Cytochrome _c_ (cyt c), which is normally restricted to the space between the inner and outer mitochondrial membranes, is released in response to mitochondrial injury. Cyt c, in combination with apoptosisactivating factor (APAF), activates caspase- 9 by proteolytic cleavage. Activated caspase- 9 then leads to the activation of caspase- 3. This enzyme cleaves several substrates, including those necessary for DNA repair. Within the mitochondria, Bax augments and Bcl prevents the release of cyt c. The release of cyt c can also be initiated by Bid, a substance that is activated by caspase- 8 via tumor necrosis factor (TNF) signaling. In addition, caspase- 8 can directly activate caspase- 3. Excessive activation of poly- ADP- ribose polymerase (PARP), an enzyme integral to DNA repair, depletes cellular stores of oxidized nicotinamide adenine dinucleotide (NAD<sup>+</sup> ). Depletion of NAD<sup>+</sup> further exacerbates the energy failure because of its critical role in energy metabolism.
+
+neuronal death, which was first demonstrated in models of global cerebral ischemia, has been demonstrated during focal ischemia as well. The extent of delayed neuronal death depends on the severity of the ischemic insult. With severe ischemia, most neurons undergo rapid death. With more moderate insults, neurons that survive the initial insult undergo delayed death. This ongoing neuronal loss contributes to the gradual expansion of cerebral infarction after focal ischemia. In experimental studies, evidence of cerebral inflammation, which can theoretically contribute to further injury, has been demonstrated even 6 to 8 months after the primary ischemia (Fig. 10.24).
+
+The occurrence of delayed neuronal death has important implications for the evaluation of studies in which neuroprotective strategies are being investigated. A wide variety of interventions have shown neuroprotective efficacy in studies in which the extent of injury is evaluated within 3 to 4 days after ischemia. However, this neuroprotective efficacy may not be sustained. Recent data indicate that cerebral infarction undergoes gradual expansion and that a reduction in injury attributed to a particular therapeutic intervention is no longer apparent when the injury is evaluated after a long postischemic recovery period.<sup>298</sup>
+
+<!-- PDF page 35 -->
+
+![](assets/chapter-10/10._Cerebral_Physiology_and_the_Effects_of_Anesthetic_Drugs.pdf-0035-01.png)
+
+
+Excitotoxicity Inflammation<br>Apoptosis<br>Glutamate IL-1<br>Ca 2+ Caspases<br>ROS<br>Minutes Hours Days Weeks – Months<br>Scar formation<br>Vasculogenesis<br>GABAA IL-10 Neurogenesis<br>Adenosine Bcl<br>K ATP EPO<br>Antiexcitotoxicity Anti-inflammation Repair<br>Survival Regeneration<br>Injury<br>Protection – Repair<br>
+
+**Fig. 10.24 Time course of neuronal death.** Excitotoxic (glutamate- mediated) injury results in neuronal death within the first few hours after the onset of ischemia. Brain tissue injury elicits an inflammatory response—an important process in the removal of injured tissue and in healing—that leads to a substantial amount of collateral damage. Inflammation- mediated neuronal death can continue for several days. Neuronal apoptosis can occur in injured neurons that survived the initial insult. Apoptotic neuronal death has been demonstrated to occur for many days after the initiating ischemic insult. It is now apparent that ischemic neuronal death is a dynamic process during which neurons continue to die for a long period. _Ca_<sup>&#95;2+&#95;</sup> _,_ calcium; _EPO,_ erythropoietin; _GABAA,_ gamma- aminobutyric acid A; _K_<sup>&#95;ATP&#95;</sup> _,_ adenosine triphosphate–regulated potassium; _IL- 1,_ interleukin 1; _IL- 10,_ interleukin 10; _ROS,_ reactive oxygen species. (Adapted from Dirnagl U, Iadecola C, Moskowitz MA. Pathobiology of ischaemic stroke: an integrated view. _Trends Neurosci_ . 1999;22:391–397.)
+
+Long- term (>1 month) evaluation of the efficacy of a par-
+
+ticular intervention is therefore important.
+
+Much of the literature on the pathophysiologic process of cerebral ischemia has primarily been focused on neuronal injury. However, recent work has highlighted the importance of the contribution of astrocytes, microglia, vascular cells (e.g., endothelium, smooth muscle cells, pericytes), basement membranes, and extracellular matrix to stroke. These individual components, in aggregate, form the neurovascular unit. A detailed understanding of the contribution of each component of the neurovascular unit is a prerequisite, not only for the protection of the brain against ischemic and traumatic injury, but also for therapeutic approaches for the regeneration of the CNS.
+
+### BRAIN PROTECTION
+
+Despite intense investigative efforts, pharmacologic agents that can protect the brain against ischemic injury have not been identified. The mainstay in the reduction of brain injury in the setting of acute ischemic stroke is thrombolysis. Management of thrombolysis has been reviewed in guidelines for the early management of patients with acute ischemic stroke.<sup>299</sup> Intravenous alteplase is recommended for patients in whom the time from onset of symptoms to treatment is less than three hours. Contraindications to thrombolysis include inability to identify onset of symptoms, intracranial hemorrhage, previous stroke or head trauma within 3 months, recent intracranial or spinal surgery, gastrointestinal malignancy or bleeding, and coagulopathy.<sup>299</sup> The window of thrombolysis may be extended to 4.5 hours in selected patients.
+
+The narrow window for thrombolysis has limited the number of patients who may benefit from clot removal. Mechanical thrombectomy has recently been shown to have considerably expanded this window. Previously, endovascular treatment of acute ischemic stroke with evidence of large vessel occlusion was restricted to a period of no more than 6 hours from the time that the patients were last known to be well. Two subsequent trials demonstrated improved neurologic outcome following internal carotid or proximal middle cerebral artery thrombectomy in patients up to 16 and 24 hours from time last known to be well.<sup>299</sup> A key enrollment requirement was the presence of a substantial volume of ischemic, but not yet infarcted, tissue that might be amenable to salvage (substantial mismatch between ischemic and infarcted tissue, indicating that noninfarcted tissue could be salvageable).
+
+The DAWN ( _D_ WI or CTP _A_ ssessment with Clinical Mismatch in the Triage of _W_ ake- Up and Late Presenting Strokes Undergoing _N_ eurointervention with Trevo) trial used strictly defined mismatch criteria based upon discrepancy between the clinical neurologic deficit (National Institutes of Health Stroke Scale score) and the volume of infarcted tissue.<sup>300</sup> DEFUSE 3 (Endovascular Therapy Following Imaging Evaluation for Ischemic Stroke) trial utilized imaging (computed tomography (CT) perfusion or MRI diffusion–perfusion) to identify mismatch between ischemic and infarcted tissue volume.<sup>301</sup> In both studies, the outcome was more favorable in patients who underwent thrombectomy. These studies increased the number of patients that are eligible for endovascular treatment following acute ischemic stroke. Consequently, the frequency of involvement of the anesthesiologist in the care of these
+
+<!-- PDF page 36 -->
+
+patients has also increased. Guidelines for the early management of stroke, including indications for thrombolysis and mechanical thrombectomy, are available.<sup>299</sup>
+
+The literature on cerebral ischemia and brain protection is vast, and a detailed discourse on this topic is beyond the scope of the present discussion. Several excellent recent reviews on the subject are available.<sup>302–310</sup>
+
+### Considerations Relevant to Complete Global Ischemia (Cardiac Arrest)
+
+Maintaining adequate perfusion pressure after cardiac arrest is of considerable importance. Hypotension developing after resuscitation from cardiac arrest may aggravate the microcirculatory and vasospastic processes occurring at this time and may increase brain damage. A late phase of intracranial hypertension may occur and is due to the development of extensive cerebral edema (probably both vasogenic and cytotoxic edema) associated with brain necrosis. Attempts to control this type of intracranial hypertension with osmotherapy usually fail. ICP monitoring is not generally used because the patients in whom these delayed increases in ICP develop have sustained massive tissue damage.
+
+Both barbiturates and calcium channel blockers have been administered after cardiac arrest. The former are ineffective.<sup>311</sup> In a small cohort (51 patients) of patients after cardiac arrest, nimodipine was shown to improve CBF but not neurologic outcome.<sup>312</sup> In a second trial with approximately 150 patients after cardiac arrest, no overall benefit in neurologic outcome was observed.<sup>313</sup> However, a subset of patients in whom the initiation of advanced life support was delayed for longer than 10 minutes demonstrated improved survival. This single study cannot serve as justification for the administration of nimodipine after cardiac arrest, especially in the face of the unequivocally negative results of the multicenter lidoflazine cardiac arrest study.<sup>314</sup> Once again, the important therapeutic objectives are the maintenance of normocapnia and normotension, normalization of systemic pH, avoidance of hyperthermia, and identification and treatment of seizures.
+
+Initial studies demonstrated improved survival and neurologic outcome following induced mild hypothermia in patients who sustain a cardiac arrest that is followed by altered mental status with a Glasgow coma scale of 7 or less. Induction of mild hypothermia in the range of 32°C to 34°C for a period of approximately 24 hours<sup>315</sup> or 12 hours<sup>316</sup> improved neurologic outcome at discharge and at 6 months after cardiac arrest in comparison with a normothermic group. Mild hypothermia was induced without difficulty. Passive rewarming of patients was slowly accomplished over a period of 8 hours. In neonates who sustained hypoxic–ischemic encephalopathy, induction of wholebody hypothermia (33.5°C) for 72 hours resulted in a reduced rate of mortality.<sup>317</sup> Long- term follow- up of patients enrolled in the study confirmed the potentially beneficial effects of mild hypothermia.<sup>318</sup> Together, these studies led to the widespread implementation of targeted temperature management in patients who had sustained cardiac arrest. However, subsequent studies did not demonstrate a salutary effect of hypothermia. The first Targeted Temperature Management (TTM) trial, in which a targeted temperature of 33°C was compared to 36°C, did not show improvement in outcome in the lower temperature group.<sup>319</sup> A second
+
+trial, TTM2,which utilized a normothermic control group (less than 37.8°C), also did not show efficacy of moderate hypothermia in survivors of out- of- hospital cardiac arrest.<sup>320</sup> Despite these recent trials, targeted temperature management remains an integral component of critical care management of such patients, with the caveat being that the temperature target should be individualized for each patient.<sup>321</sup> In many institutions, targeted temperature management, including the induction of hypothermia to a range of 32–36°C,<sup>322,323</sup> remains in the armamentarium for the treatment of cerebral complications of cardiac arrest or global neonatal hypoxic–ischemic encephalopathy. For the present, established guidelines continue to advocate for the utilization of moderate hypothermia in the range of 32–36°C. At a minimum, targeted temperature management involves the strict prevention of hyperthermia following cardiac arrest.<sup>322,323</sup>
+
+### Considerations Relevant to Focal (Incomplete) Ischemia
+
+Before discussing individual anesthetics, it should be noted that anesthesia, _per se_ , is protective. For undefined reasons, reducing the level of systemic stress associated with a standardized experimental insult results in an improved outcome.<sup>324,325</sup> In reviewing the protection- by- anesthetics literature, readers should be conscious of the possibility that the protective benefit ascribed to an intervention with an anesthetic drug may, in fact, be the product of exaggeration of the injury in a high- stress control state, such as N2O sedation.
+
+**Barbiturates.** Numerous demonstrations have revealed the protective efficacy of barbiturates in focal cerebral ischemia in animals,<sup>326–328</sup> and a single demonstration confirmed the effectiveness in a human.<sup>329</sup> The effect has been principally attributed to suppression of the CMR. However, the effects of CBF redistribution and free radical scavenging<sup>330</sup> have been suggested to contribute, and evidence indicates that CMR suppression is not the sole mechanism.<sup>331</sup> Suppression of the CMR might logically be expected to be of benefit to brain regions in which oxygen delivery is inadequate to meet normal demands but is sufficient to allow energy consumption by some ongoing electrophysiologic activity (i.e., in which the EEG was abnormal but not flat). Such regions are likely to be limited in size in the setting of focal ischemia, yet several of the animal investigations suggest a very substantial protective effect.<sup>326,327</sup> Review of these experiments reveals that the methods used to monitor and maintain temperature, although accepted at the time, were below the standards that have evolved from a more recent understanding of the effects of both deliberate<sup>332,333</sup> and inadvertent hypothermia. Unrecognized cerebral hypothermia may well have been a factor in some of the cited investigations, and it is therefore possible that the protective efficacy of barbiturates may have been overestimated. Although more recent publications involving suitable temperature control methods do, in fact, indicate a protective effect of barbiturates,<sup>331,334,335</sup> the magnitude of that effect was modest when compared with the results of earlier studies. Barbiturate- induced EEG suppression in an already anesthetized patient may still be logical therapy when it can be applied before or early during a period of
+
+<!-- PDF page 37 -->
+
+temporary focal ischemia (e.g., temporary occlusion during aneurysm surgery). However, the decision to institute such therapy should be made only after considering the risk of the occlusive event, the patient’s cardiovascular status, and the physician’s willingness to accept the possibility of delayed emergence, together with an objective view of the probable magnitude of the protective effect.
+
+Because CMR suppression has been the presumed mechanism of effect, barbiturates have traditionally been administered to produce maximal reduction of the CMR (which is nearly complete when EEG burst suppression has been achieved). However, data presented by Warner and colleagues<sup>331</sup> demonstrated that the same protective benefit (expressed as a reduction of infarct volume) could be achieved with a third of the burst- suppression dose, which raises a clinically important issue. The various barbiturates (e.g., thiopental, thiamylal, methohexital, pentobarbital) have similar effects on the CMR and have generally been assumed to have equal protective efficacy. However, if the mechanism of protection is a pharmacologic effect other than a reduction in the CMR, then is it reasonable to assume equivalence among the barbiturates? Recent data suggest that the neuroprotective efficacy of barbiturates is not similar. In a direct comparison of three clinically used barbiturates, methohexital and thiopental, but not pentobarbital, reduced injury in an animal model of focal ischemia.<sup>336</sup> These data suggest that mechanisms other than, or at least in addition to, metabolic suppression may contribute to the protective effect of barbiturates.
+
+In the Intraoperative Hypothermia for Aneurysm Surgery Trial (IHAST), in which the efficacy of mild hypothermia to prevent neurologic injury in the setting of clipping of intracranial aneurysms was evaluated, the administration of thiopental to suppress the EEG and to reduce metabolic demand did not improve short- or long- term outcomes.<sup>337</sup> The available data therefore do not support the use of barbiturates for the express purpose of brain protection in the setting of focal ischemia.
+
+**Volatile Anesthetics.** Isoflurane is also a potent suppressant of the CMR in the cerebral cortex, and EEG evidence suggestive of a protective effect in humans has been reported.<sup>290</sup> In comparison with the awake or N2Ofentanyl–anesthetized state, isoflurane is neuroprotective in models of hemispheric,<sup>338</sup> focal,<sup>339</sup> and nearly complete ischemia.<sup>340,341</sup> Of interest is the recent observation that isoflurane’s neuroprotective efficacy is not sustained.<sup>342</sup> When injury is evaluated 2 days after ischemia, a robust reduction in injury is observed with isoflurane anesthesia. However, by 14 days this reduction in injury was not apparent. These data indicate that neuronal injury continues well into the postischemic recovery period and that the neuroprotective benefit that is evident shortly after ischemia may not persist for the long term. More recent data have shown that isoflurane treatment can improve neuronal survival when the severity of ischemia is limited and the restoration of blood flow after ischemia is complete.<sup>343</sup> The neuroprotective effect of isoflurane is not substantially different from that of other volatile anesthetics. Sevoflurane reduces ischemic injury in animal models of focal<sup>344</sup> and hemispheric ischemia<sup>345</sup> ; its efficacy is not different from that of halothane. Desflurane also reduces neuronal injury
+
+to the same extent that isoflurane does.<sup>346</sup> The available data therefore suggest that adequate anesthesia, _per se_ , may have a protective effect<sup>324,325</sup> versus the awake state, but there does not appear to be any difference in neuroprotective efficacy among the volatile anesthetics.
+
+**Xenon.** The inert gas xenon exerts its anesthetic action by noncompetitive blockade of NMDAR. As such, it is logical to suspect that it might provide neuroprotection against excitotoxic injury. The neuroprotective efficacy of xenon has been demonstrated against oxygen- glucose deprivation _in vitro_ ,<sup>347</sup> focal ischemia _in vivo_ in mice,<sup>348</sup> and cardiopulmonary bypass–induced cognitive dysfunction in rats.<sup>349</sup> Of interest are observations that simultaneous administration of _subanesthetic_ doses of xenon in combination with either hypothermia or isoflurane<sup>350</sup> significantly reduces neuronal injury and improves neurologic function in a neonatal rodent model of hypoxia–ischemia; this protective effect was apparent as late as 30 days after injury. Moreover, the administration of xenon has been shown to have a preconditioning effect on the brain<sup>351</sup> ; previous exposure reduces the vulnerability of the brain to ischemic injury. Anesthetic drugs that have activity at NMDAR (ketamine) and γ- aminobutyric acid A (GABAA) receptors (e.g., volatile anesthetics, barbiturates, benzodiazepines, propofol) have been shown to cause neuronal injury in rodent neonatal pups during the critical period of synaptogenesis.<sup>352</sup> Although xenon has antagonist activity at NMDAR, the evidence to date suggests that it does not lead to apoptosis in the developing brain.<sup>353</sup>
+
+In addition to xenon, the noble gas argon has shown neuroprotective efficacy in experimental studies. Investigations in models of stroke, traumatic brain injury, and cardiopulmonary bypass have demonstrated efficacy in reducing injury (reviewed by Liang).<sup>354,355</sup> Argon is particularly attractive for application in neuroprotection because of its abundance, limited expense and lack of toxicity.<sup>355</sup> Of the two noble gases, xenon appears to reduce neuronal injury to a greater extent than argon. Note should be made, however, that long- term neuroprotection with xenon has not yet been demonstrated in experimental adult subjects. The specific use of xenon and argon for the purpose of neuroprotection awaits results from outcome studies in humans.
+
+**Propofol.** EEG suppression can also be achieved with clinical doses of propofol. Anecdotal information suggests that it is being used to provide _protection_ during both aneurysm surgery<sup>356</sup> and carotid endarterectomy (CEA). In experimental models of cerebral ischemia, the extent of neurologic injury in propofol- anesthetized animals was similar to that in halothane- anesthetized animals.<sup>357</sup> Given the previous demonstration that halothane can reduce injury, these data provide indirect evidence of propofol’s neuroprotective efficacy. In a more recent investigation, cerebral infarction was significantly reduced in propofol- anesthetized animals in comparison with awake animals.<sup>358</sup> Direct comparison of propofol to pentobarbital has also demonstrated that cerebral injury after focal ischemia is similar in animals anesthetized with the two drugs.<sup>359</sup> Similar to the situation with volatile anesthetics, initial investigations revealed that propofol protection is not sustained.<sup>360</sup> Durable protection with propofol is achievable if the severity of the ischemic
+
+<!-- PDF page 38 -->
+
+insult is mild.<sup>346</sup> Collectively, these data are consistent with the premise that propofol can reduce ischemic cerebral injury.
+
+**Etomidate.** Etomidate was proposed as a potential protective anesthetic in the setting of aneurysm surgery.<sup>361</sup> It, too, produces CMR suppression to an extent equivalent to barbiturates, and, similar to the barbiturates, etomidate is an agonist at the (inhibitory) GABAA receptor. To the contrary, in an experimental model of focal ischemia, the volume of injury was not reduced by etomidate relative to a 1.2 MAC halothane- anesthetized control group. In fact, the volume of injury with etomidate was significantly larger than that in the control group. In patients subjected to temporary intracranial vessel occlusion, the administration of etomidate results in greater tissue hypoxia and acidosis than does equivalent desflurane anesthesia. The aggravation of injury produced by etomidate (an imidazole) may be related to direct binding of NO as a consequence of etomidateinduced hemolysis<sup>362</sup> combined with direct inhibition of the NO synthase enzyme by etomidate. In the IHAST study of impact of intraoperative hypothermia for patients undergoing aneurysm clipping surgery, supplemental administration of etomidate for the purposes of neuroprotection did not show efficacy.<sup>337</sup> Therefore no scientific studies support the current use of etomidate for cerebral protection.
+
+**Calcium Channel Antagonists.** Orally administering nimodipine (the intravenous preparation is not approved for clinical use in North America) for 21 days beginning as soon as possible after SAH is now established clinical practice.<sup>363</sup> Other calcium channel blockers have reduced vasospasm after SAH but have not improved patient outcome, suggesting that nimodipine’s benefit is a cellular rather than a vascular effect. However, routinely administering nimodipine or any other calcium channel blocker after neurologic stroke that has occurred in the surgical unit or in any other environment has not yet become standard practice. Despite favorable results in small trials, not all investigations of those who sustain stroke have confirmed the benefits of nimodipine.<sup>364</sup>
+
+**Other Anesthetics.** A remarkable number of anesthetics have shown neuroprotective efficacy in animal studies. However, to date, large- scale randomized trials of a variety of anesthetics in patients with stroke have not demonstrated neuroprotection for any drug. Except for tissue plasminogen activator (tPA) for thrombolysis, mechanical thrombectomy and the calcium channel blockers nimodipine and nicardipine for the management of SAH, pharmacologic neuroprotective anesthetics are not available for the treatment of patients with cerebral ischemia. Details about drugs that have undergone clinical trials and those that are currently being investigated in humans can be found at the Stroke Trials Registry (stroke.wustl.edu/research/clinicaltrials/) of Washington University in St. Louis.
+
+### Cerebral Ischemia: Influence of Physiologic Variables
+
+**Cerebral Perfusion Pressure.** Measures designed to augment CBF (an important determinant of energy supply) are also important. In the ischemic penumbra (described in the
+
+section titled Critical Cerebral Blood Flow Thresholds), small improvements in CBF have the potential to prolong neuronal survival substantially. Maintenance of high–normal CPP can augment collateral perfusion pressure and maintain CBF<sup>365</sup> and has been shown to result in improvement in various neurophysiologic parameters, including neurologic function.<sup>366</sup> By contrast, hypotension can reduce CBF and exacerbate injury. In trials of nimodipine in patients with acute stroke, a reduction in blood pressure of 10% to 20% increased the probability of an adverse outcome (either death or dependency) fourfold,<sup>367</sup> thus emphasizing the adverse impact of blood pressure reduction on an injured brain. Therefore, in patients with cerebral ischemia, reduction in blood pressure from basal levels should be promptly treated and normotension restored.
+
+The target MAP should obviously be based on knowledge of a patient’s preexisting blood pressure. There are, however, insufficient data to date to provide specific guidelines. An association between intraoperative hypotension and perioperative stroke has been demonstrated. Although the etiology is not known, it is possible that severity of intraoperative subclinical strokes might be exacerbated by hypotension. In the majority of patients who do not have acute cerebral ischemia, and in whom blood pressure is either normal or well controlled, intraoperative maintenance of the MAP at approximately 75 mm Hg range should be adequate.<sup>21</sup>
+
+In patients with acute ischemic stroke,<sup>299,368</sup> traumatic brain injury,<sup>369</sup> subarachnoid hemorrhage,<sup>370</sup> and intracranial hemorrhage, specific subspecialty society recommendations for management of blood pressure are available. These are listed in Table 10.2.
+
+**Carbon Dioxide Tension.** Hypercapnia has the potential to cause intracerebral steal and may worsen intracellular pH. Despite some support for the occurrence of a favorable so- called Robin Hood or inverse steal,<sup>371</sup> hypocapnia has not generally proved effective in either laboratory or clinical settings.<sup>372–374</sup> Pending further information and in the absence of a means of verifying the perfusion response to the manipulation of PaCO2, normocapnia remains standard practice.
+
+**Hyperoxia.** Hypoxia has repeatedly been shown to adversely affect outcome in patients with brain injury from a variety of causes. To prevent hypoxia, administration of supplemental oxygen often leads to relative hyperoxia, with PaO2 well in excess of normal values. Hyperoxia is associated with vasoconstriction and reduction in microvascular tissue flow, generation of reactive oxygen species, and augmentation of inflammation.<sup>375</sup> This has led to concerns about the potential adverse effects of excess oxygen in the injured brain.<sup>376</sup>
+
+In patients who had sustained cardiac arrest and who were admitted to an intensive care unit after successful recovery of circulation, hyperoxia increased mortality.<sup>377</sup> The threshold PaO2 that leads to this increase in mortality is greater than 300 mm Hg; PaO2 in the range of 100– 300 mm Hg was not associated with increased mortality.<sup>378</sup> By contrast, no adverse effect of hyperoxia on long- term outcome (12 months) was apparent amongst survivors of cardiac arrest.<sup>379</sup> In the setting of head injury, endothelial
+
+<!-- PDF page 39 -->
+
+and tissue edema can reduce diffusion of oxygen to neurons. Hyperoxia improves cerebral metabolism but only in regions of the brain wherein metabolism has been significantly reduced.<sup>380</sup> Other investigations, however, have shown either worse outcomes in hyperoxic patients,<sup>381</sup> and especially in those in whom PaO2 was excessive (greater than 487 mm Hg), or no effect on long- term outcome.<sup>382</sup> In acute stroke, oxygen administration by nasal cannula, oxygen mask, and by endotracheal tube is not associated with adverse outcomes.<sup>383</sup> Similarly, supplemental oxygen administration to patients with subarachnoid hemorrhage does not impact outcomes.<sup>384</sup>
+
+With these conflicting data, it is difficult to draw firm conclusions that can inform clinical decisions. The ongoing EXACT trial of oxygen titration in the intensive care management of patients who have sustained out- of- hospital cardiac arrest should provide guidance upon study completion.<sup>385</sup> Currently, the available data do not allow for the determination of a target PaO2, and this is not surprising given the heterogeneous nature of cerebral injury. Oxygen administration should therefore be customized in each patient, with the goal being the aggressive treatment of hypoxemia and avoidance of hyperoxia (greater than 300 mm Hg) in patients in whom oxygenation is within normal limits.
+
+**Temperature.** Hypothermia is the principal cerebral protective technique for circulatory arrest procedures (see also Chapter 50). It unequivocally enhances cerebral tolerance for episodes of ischemia. For deep hypothermia, this effect is largely a function of the reduction in the CMR. Although barbiturates reduce only the component of the CMR associated with electrophysiologic work (approximately 60% of the CMRO2 in the awake state), hypothermia causes a reduction in both electrophysiologic energy consumption and energy utilization related to the maintenance of cellular integrity; mild hypothermia may preferentially suppress the latter.<sup>386,387</sup> A substantial number of laboratory studies have demonstrated that mild degrees of hypothermia (2–4°C) during an episode of ischemia can confer substantial protection as histologically measured.<sup>332,333</sup> In addition, evidence from animal studies suggests that hypothermia initiated in the immediate postischemic period confers a protective benefit.<sup>388,389</sup>
+
+Considering this dramatic protective effect of mild hypothermia in the laboratory, its use in the surgical setting may be advocated. Proponents of its use argue that hypothermia is readily achieved and not accompanied by significant myocardial depression or arrhythmias. In addition, the patient can be easily rewarmed in the surgical unit after the risk of ischemia has subsided. Results of a pilot study clearly demonstrated a trend toward improved neurologic outcome in hypothermic patients undergoing intracranial aneurysm clipping.<sup>390</sup> Unfortunately, the subsequent definitive trial did not demonstrate any improvement in outcome that could be attributable to hypothermia.<sup>391</sup> However, it should be noted that the majority of the patients in that study had SAH of grades I, II, and III. In addition, the number of patients who had temporary clips applied in excess of 20 minutes was quite small (5 and 6 patients in the hypothermia and normothermia groups, respectively). Consequently, an argument has been made that mild hypothermia may well be of benefit in patients with high- grade
+
+aneurysms or in those in whom the complexity of the aneurysm clipping is such that prolonged temporary clipping may be required.<sup>370</sup> Considering that temperature reduction takes time, the decision to induce hypothermia must be made in advance. Therefore, the therapeutic use of hypothermia may be considered in such high- risk patients.
+
+The application of mild hypothermia after head injury reduced ICP<sup>392</sup> and improved neurologic outcome<sup>393</sup> in pilot trials. Of note is the finding that complications attributable to hypothermia were not observed. A subsequent multicenter trial of hypothermia in patients with head injuries, however, failed to confirm the findings of the pilot studies.<sup>394</sup> Induction of mild hypothermia did not improve long- term neurologic outcome, and consequently, its induction is not recommended in current guidelines.<sup>369</sup>
+
+Several clinical trials of induced hypothermia in a limited number of patients with stroke have been conducted. To date, these trials have demonstrated the feasibility of inducing hypothermia in the range of 33–35°C, even in patients who are not subjected to endotracheal intubation and mechanical ventilation.<sup>395</sup> Hypothermia was associated with improved ICP and CPP. However, complications, particularly thrombocytopenia, bradycardia, ventricular ectopy, hypotension, and infection, are frequent. In addition, an intractable increase in ICP can occur during rewarming, even if the elevation in temperature is gradual and accomplished over a period of several hours. Therefore, the utility of induced hypothermia in acute stroke patients is uncertain.<sup>299</sup> There is a need to conduct randomized trials to evaluate properly the efficacy of mild hypothermia in patients with stroke. Such trials are currently under way.
+
+By contrast, increases in brain temperature during and after ischemia aggravate injury.<sup>396</sup> An increase of as little as 1°C can dramatically increase injury. Ischemia that normally results in scattered neuronal necrosis produces cerebral infarction when body temperature is elevated. Therefore, avoiding hyperthermia in patients who have suffered an ischemic insult or in those who are at risk for cerebral ischemia is prudent.<sup>299</sup> In the surgical setting, hyperthermia is seldom a problem (witness the authors’ efforts to prevent hypothermia). One situation in which body temperature is often allowed to increase is during rewarming after hypothermic cardiopulmonary bypass. In this situation, hyperthermia (core body temperature above 38°C) is not uncommon. The suggestion that increases in temperature in excess of 37–38°C are detrimental has some merit, considering the recent information regarding the deleterious effect of hyperthermia.
+
+**Glucose.** Withholding glucose- containing solutions in situations during which cerebral ischemia may occur is now an established practice. The practice is based on numerous demonstrations in animal models of brain and spinal cord ischemia that elevation of plasma glucose before episodes of either complete or incomplete ischemia results in aggravation of neurologic injury. However, it should be noted that the majority of investigations involved adult animals and that certainty concerning the adverse effects of hyperglycemia in immature subjects, such as neonates, is less.<sup>397</sup> In long- term outcome studies, diabetic and nondiabetic hyperglycemia has been shown to be an independent predictor of poor outcome.<sup>398</sup> In
+
+<!-- PDF page 40 -->
+
+the National Institutes of Health–sponsored recombinant tPA stroke trial, hyperglycemia was associated with significantly lower odds for desirable clinical outcomes and a higher incidence of intracranial hemorrhage.<sup>399</sup> These data prompted a randomized clinical trial of the efficacy of insulin administration to patients with acute stroke. Although the trial was underpowered, the results showed that the administration of insulin to control blood glucose levels in patients with stroke did not improve outcome 3 months after stroke.<sup>400</sup> These results were corroborated by a more recent trial in which there were no differences in outcome in acute stroke patients with hyperglycemia subjected to either an intensive (target 80–130 mg/dL) or standard (target 80–179 mg/dL) glucose management regimen.<sup>401,402</sup> Episodes of hypoglycemia occurred only in the insulin- treated group, highlighting the need to monitor blood glucose levels closely if administration of insulin is planned. A recurrent theme in the discussion of these studies is that glucose elevation may be the result of the stress associated with a severe insult, either ischemic or traumatic, rather than its cause. In addition, the inevitable questions of whether and how quickly immediate pre- risk treatment of an elevated plasma glucose level with insulin reduces risk to normoglycemic levels have not been thoroughly examined. The current recommendations are that glucose be maintained within 140–180 mg/dL. It is the opinion of the authors that, at this juncture, acute insulin administration (with its attendant risk of hypoglycemia) in patients with modest glucose elevation less than 180 mg/dL in the surgical setting is not yet justified.
+
+By contrast, hypoglycemia is also associated with cerebral injury. With a gradual reduction in blood glucose values to approximately 40 mg/dL, a shift in EEG frequencies occurs from alpha and beta toward delta and theta.<sup>403</sup> Below a blood glucose level of 20 mg/dL, suppression of the EEG (flat) is observed. Persistence of this level of hypoglycemia results in seizure activity and neuronal injury, particularly to the hippocampus.
+
+**Seizures.** Seizures cause dramatic increases in CMR and CBF. Sustained seizure activity can significantly augment injury in the damaged brain. Accordingly, seizures should be promptly treated with appropriate antiepileptics in the setting of acute stroke.<sup>299</sup> Prophylactic administration of antiepileptics is, however, not recommended.
+
+### Intravascular Volume and Hematocrit Manipula-
+
+**tion.** Although hemodilution has not proved effective in studies of human stroke, both laboratory and human data support the practice. However, the data do not currently justify routine hemodilution (a hematocrit of 30% to 35% is the theoretic optimum) in patients in whom focal ischemia might occur in the surgical unit.<sup>404</sup> On the other hand, the potentially deleterious effects of hemoconcentration should help further suppress the out- of- date notion that neurosurgical patients should be run dry. An increased hematocrit, because of viscosity effects, reduces CBF.<sup>405</sup> In anticipation of a procedure wherein incomplete ischemia might occur, such as CEA, a hematocrit in excess of 55% should be considered for decrease by preoperative phlebotomy.
+
+### Summary of Anesthetics and Neuroprotection
+
+In comparison to the awake or lightly sedated state, the vulnerability of the brain to ischemic injury is reduced under anesthesia. Volatile anesthetics, barbiturates, propofol, xenon, and ketamine reduce injury in experimental models and probably reduce injury in comparison with a pure N2O–narcotic anesthetic. However, direct comparison has not demonstrated the superiority of any one anesthetic (or combination of anesthetics) over another. Therefore, based on the available data, the use of a specific anesthetic or anesthetic regimen for the purpose of brain protection in the clinical setting cannot be recommended.
+
+There is a paucity of information about anesthetic neuroprotection in humans and the lack of clinical trials is understandable, considering the low frequency of stroke and ischemic injury in the perioperative setting. There are, however, a few clinical investigations from which inferences about anesthetic neuroprotection can be made. In IHAST, a subset of patients received supplemental doses of thiopental, etomidate, or propofol for the purposes of neuroprotection. The neurologic outcome in these patients was no different from those who did not receive these anesthetics.<sup>337</sup> In the general anesthesia versus local anesthesia (GALA) trial,<sup>406</sup> patients undergoing CEA were randomized to receive either general anesthesia or local anesthesia; in the latter group, patients were lightly sedated but were arousable during surgery. The outcome between the two groups was not different, indicating that the general anesthetic state did not provide any protective benefit.<sup>406</sup> In aggregate, these data suggest that supplemental drugs that produce burst suppression of the EEG do not provide protection in anesthetized patients and that the state of general anesthesia does not improve neurologic outcome.
+
+The neuroprotective efficacy of anesthetic drugs in experimental studies is achieved only by strict attention to the maintenance of physiologic homeostasis; in fact, the potential for exacerbation of cerebral injury, either traumatic or ischemic, with physiologic mismanagement is significantly more likely than the modest protection afforded by pharmacologic drugs. These are important observations. Accordingly, with respect to brain protection, efforts should be focused on the maintenance of physiologic parameters (e.g., perfusion pressure, oxygenation, normocapnia, temperature management, control of excessive hyperglycemia, seizure prophylaxis) within the appropriate ranges and less on pharmacologic or anesthetic drugs to reduce cerebral injury.
+
+### Deferring Elective Procedures After Stroke
+
+The risk of extension of cerebral infarction in the event of subsequent anesthesia and surgery has not been systematically studied. In patients who have suffered a stroke, CBF undergoes significant changes. Areas of both high and low CBF occur, and stabilization of regional CBF and CMR is apparent after approximately 2 weeks.<sup>407</sup> Loss of normal vasomotor responses (e.g., CO2 responsiveness, autoregulation) in the early post- insult period is very common,<sup>408–410</sup> and these changes persist beyond 2 weeks in a small percentage of patients with stroke.<sup>409,410</sup> BBB abnormalities, as reflected by the accumulation of CT contrast material or brain scan isotopes, are still present 4 weeks after the insult,<sup>411</sup> and the histologic resolution of large infarcts is
+
+<!-- PDF page 41 -->
+
+not complete for several months. Early CEA after stroke in patients with large strokes and neurologic disability was accompanied by an increased risk of intracerebral hemorrhage.<sup>412</sup> In a large retrospective analysis, in patients with a history of stroke, the risk of death within 30 days of surgery was the greatest for the first 3 months after the stroke.<sup>413</sup> Importantly, the increased risk did not stabilize until 9 months post stroke. It therefore seems prudent to defer elective surgery for 9 months.<sup>414</sup>
+
+A delay in surgery, especially for CEA after stroke, however, poses risks. In patients who have sustained a stroke, the incidence of a second stroke within 4 weeks is approximately 12%.<sup>415</sup> The risk of a complete carotid occlusion is considerable with delayed surgery. In addition, early CEA can restore cerebral perfusion to the ischemic penumbra, possibly improving long- term functional recovery.<sup>416</sup> However, the size and location of the infarction should be weighed. A small infarction in silent cortex may offer wider latitudes than a large lesion that has resulted in a paresis that is still resolving. A small prospective study suggests that in patients with non- disabling stroke, early CEA can be safely performed within 2 weeks of the stroke.<sup>417</sup> Candidates for early CEA after stroke may include patients with relatively small cerebral infarctions, resolution (either complete or near complete) of neurologic symptoms, and ipsilateral carotid artery stenosis.<sup>418</sup>
+
+There is limited information about the impact of emergency surgery in patients with a recent acute stroke. In a retrospective analysis, Christensen showed that the risk of major adverse cardiac events was greater when surgery was performed between 3 and 14 days post stroke.<sup>419</sup> Of interest is the finding that risk was less if the surgery was performed within 3 days of stroke, suggesting that if emergency surgery is necessary, then there may be no advantage to a delay.
+
+### CHRONIC ARTERIAL HYPERTENSION
+
+A recurrent concern is that of acceptable levels of arterial blood pressure reduction in patients who are chronically hypertensive. In chronic hypertension, both the lower and upper limits of autoregulation are shifted to the right with apparently little distortion.<sup>420</sup> The implication of this rightward shift of the autoregulation curve is that hypertensive patients require a higher arterial pressure to maintain CBF. This notion has recently been challenged. Dynamic autoregulation in response to a change in blood pressure effected by nonpharmacologic means in normotensive and hypertensive patients was preserved and there were no differences between the two groups.<sup>421</sup> Static autoregulation is also preserved in hypertensive patients who have undergone treatment; in these studies, the reduction in systolic blood pressure was on the order of about 30 mm Hg, bringing the treated blood pressure to the normal range.<sup>422</sup> Even with acute reduction in systolic blood pressure from 220 to 150 mm Hg over an hour, there was no change in CBF.<sup>423</sup> These studies suggest that both dynamic and static autoregulation are preserved in hypertensive patients, before and after treatment (reviewed by Claassan<sup>14</sup> ).
+
+The conflicting points of view with respect to either a rightward shift of autoregulation or preservation of autoregulation inevitably leads to the question of the magnitude of acute blood pressure reduction in the perioperative
+
+setting that is permissible in hypertensive patients. From the vantage point of cerebral well- being, limiting the reduction in MAP to 30%–35% from baseline seems appropriate. The rationale for a limit of 30% to 35% is as follows. MAP reductions of 50% in nonanesthetized patients, both normotensive and hypertensive, will commonly produce reversible symptoms of cerebral hypoperfusion.<sup>420,424,425</sup> Although even greater reductions will probably be tolerated provided that exposures are brief, the hematocrit is reasonable, and the cerebral vasculature is patent, the authors counsel against it. A reduction in the MAP of this magnitude will significantly increase the probability of CPP being close to or below the LLA, thereby reducing cerebrovascular reserve. It has been demonstrated that a 25% reduction in the MAP will bring both normotensive and hypertensive patients to the LLA.<sup>420</sup> As the reduction in the MAP exceeds 25% of baseline, CBF values will be below normal, albeit in patients free of occlusive vascular disease, but above the threshold for neurophysiologic dysfunction or injury. However, physiologic reserve is being encroached upon, thereby leaving little margin for error or for other causes of impaired cerebral oxygen delivery such as low hematocrit or unrecognized cerebrovascular disease.
+
+In animals, treatment of chronic hypertension can restore the LLA to normal.<sup>426,427</sup> A similar phenomenon has been observed in humans by Strandgaard, although restoration was incomplete and had failed to occur after as long as 12 months of treatment in some patients.<sup>420</sup> It is an unexplored possibility that the extent of restoration of the LLA with antihypertensive therapy is agent dependent. Some may restore the LLA more effectively than others. In particular, ACE inhibitors have been shown to decrease the LLA acutely in both normotensive and hypertensive subjects.<sup>428,429</sup>
+
+### Intracranial Hypertension
+
+Control of intracranial hypertension is discussed in detail in Chapter 80.
+
+### BRAIN TUMORS
+
+There are few data regarding the physiologic function of intracranial tumors. Arbit and colleagues<sup>430</sup> measured CBF in cerebral tumors with laser Doppler technology. In general, they found that tumors had lower CBF than the normal brain. Autoregulation was occasionally apparent. Vascular responsiveness to changes in PaO2<sup>431</sup> and PaCO2<sup>432</sup> are generally preserved in patients with gliomas. However, in some circumstances, hyperventilation can at times be associated with paradoxical increases in MCAfv ipsilateral to the tumor.<sup>433</sup> Measurement of regional CBF in the area of the tumor might also be a useful predictor of the grade of intracranial gliomas; both regional CBF and regional CBV are greater with high- grade gliomas.<sup>434</sup> Considerable edema is often associated with intracranial tumors, and the radiologic extent of the edema, which presumably represents the extent of abnormal vessel leakiness, correlates with the severity of the elevation in ICP that occurs in association with intubation- related hypertension.<sup>435</sup> Edema formation in the peritumoral region can be characterized as vasogenic with leakage of plasma proteins from the vascular space, hydrocephalic secondary to obstruction of CSF flow, or static
+
+<!-- PDF page 42 -->
+
+as a result of venous obstruction by tumor.<sup>436</sup> Although the precise mechanisms by which edema formation occurs are not clear, the loss of integrity of the tight junctions of components of the BBB, an increased permeability induced by vascular endothelial growth factor expressed by tumors, and an increased expression of leukotriene C4 in peritumoral fluid probably play a role.<sup>437</sup> Osmotherapy with mannitol will effect a reduction in edema; however, with a permeable BBB, mannitol can diffuse into the peritumoral space and lead to rebound edema formation.<sup>436</sup> For acute reduction of ICP in the surgical unit, this concern is not significant. Dexamethasone remains the mainstay of treatment of tumor edema; it causes a reduction in edema formation with little effect on edema reabsorption, a reduction in permeability of the BBB that can be recognized as rapidly as 1 hour after administration,<sup>438</sup> and a modest reduction in tumor size. See Chapter 80 for a complete discussion.
+
+45.  Heistad DD. _Physiologist_ . 1980;23:44.
+
+46.  Cole DJ, et al. _J Neurol Sci_ . 1994;124:15.
+
+47.  Aichner FT, et al. _Stroke_ . 1998;29:743.
+
+48.  Drummond JC. _J Neurosurg Anesthesiol_ . 2020;32:93.
+
+49.  Brown CM, et al. _J Neurol Sci_ . 2003;208:71.
+
+50.  Ogoh S, et al. _J Physiol_ . 2005;569:697.
+
+51.  Ogawa Y, et al. _Anesth Analg_ . 2007;105:1389.
+
+52.  Meng L, et al. _Anesthesiology_ . 2015;123:1198.
+
+53.  Lie SL, et al. _Eur J Appl Physiol_ . 2021;121:2207.
+
+54.  Joseph M, et al. _Neurosurgery_ . 2003;53:1044.
+
+55.  Haenggi M, et al. _J Neurotrauma_ . 2012;29:1779.
+
+56.  Berre J, et al. _J Crit Care_ . 1994;9:1.
+
+57.  Treib J, et al. _J Neurol_ . 1996;243:575.
+
+58.  Castle- Kirszbaum M, et al. _J Neurosurg Anesthesiol_ . 2022;34:352.
+
+59.  Hindman BJ, et al. _Anesthesiology_ . 2011;114:782.
+
+60.  Munis JR, et al. _J Neurosurg Anesthesiol_ . 2000;12:290.
+
+61.  Klein T, et al. _Life Sci Space Res (Amst)_ . 2020;25:66.
+
+62.  Brady KM, et al. _Anesthesiology_ . 2020;132:170.
+
+63.  Lazaridis C, et al. _Neurol Res_ . 2013;35:138.
+
+64.  Llwyd O, et al. _J Cerebr Blood Flow Metab_ . 2022;42:471.
+
+65.  Appleton JP, et al. _CNS Drugs_ . 2017;31:1.
+
+66.  Schmidt JF, et al. _Acta Neurochir (Wien)_ . 1991;111:49.
+
+### Complete references available online at expertconsult.com.
+
+67.  Canova D, et al. _Funct Neurol_ . 2012;27:169.
+
+68.  Lisk DR, et al. _Arch Neurol_ . 1993;50:855.
+
+69.  Akopov SE, et al. _J Cardiovasc Pharmacol_ . 1997;30:562.
+
+70.  Nazir FS, et al. _Cerebrovasc Dis_ . 2005;19:77.
+
+### References
+
+1.  Hartkamp MJ, et al. _Stroke_ . 1999;30:2671.
+
+2.  Schaeffer S, Iadecola C. _Nat Neurosci_ . 2021;24:1198.
+
+3.  Beards SC, et al. _Anaesthesia_ . 1998;53:627.
+
+4.  Wilson MH. _J Cerebr Blood Flow Metab_ . 2016;36:1338.
+
+5.  Benveniste H, et al. _Neuroscientist_ . 2017;23:454.
+
+6.  Mestre H, et al. _Trends Neurosci_ . 2020;43:458.
+
+7.  Zhang N, et al. _Neurosci Biobehav Rev_ . 2017;72:168.
+
+8.  Lassen NA. _Physiol Rev_ . 1959;39:183.
+
+9.  Strandgaard S, et al. _Circ Res_ . 1974;34:435.
+
+10.  Drummond JC. _Anesthesiology_ . 1997;86:1431.
+
+11.  Numan T, et al. _Med Eng Phys_ . 2014;36:1487.
+
+12.  Brassard P, et al. _Physiol Rep_ . 2021;9:e14982.
+
+13.  Tzeng YC, et al. _Eur J Appl Physiol_ . 2014;114:545.
+
+14.  Claassen J, et al. _Physiol Rev_ . 2021;101:1487.
+
+15.  Tiecks FP, et al. _Stroke_ . 1995;26:1014.
+
+16.  Aaslid R, et al. _Stroke_ . 1989;20:45.
+
+17.  Birch AA, et al. _Stroke_ . 1995;26:834.
+
+18.  Tan CO. _J Appl Physiol_ . 2012;113:1194.
+
+19.  Zhang R, et al. _Hypertension_ . 2007;49:1149.
+
+20.  Foster- Dingley JC, et al. _Hypertension_ . 2015;66:954.
+
+21.  Drummond JC. _Anesth Analg_ . 2019;128:759.
+
+22.  Hori D, et al. _Br J Anaesth_ . 2014;113:1009.
+
+23.  Brown CH, et al. _JAMA Surg_ . 2019;154:819.
+
+24.  Griffith DN, et al. _Br J Clin Pharmacol_ . 1979;7:491.
+
+25.  Faraci FM, et al. _Circ Res_ . 1990;66:8.
+
+26.  Grubb S, et al. _Nat Commun_ . 2020;11:395.
+
+27.  Bell AH, et al. _Front Neurosci_ . 2019;13:1452.
+
+28.  Attwell D, et al. _Nature_ . 2010;468:232.
+
+29.  Kaplan L, et al. _Nat Rev Neurosci_ . 2020;21:416.
+
+30.  Drummond JC, et al. _Anesthesiology_ . 1985;63:249.
+
+31.  Peterson DO, et al. _Anesthesiology_ . 1986;65:35.
+
+32.  Michenfelder JD. _Anesthesia and the Brain: Clinical, Functional, Metabolic, and Vascular Correlates_ . New York: Churchill Livingstone; 1988.
+
+33.  Willie CK, et al. _J Physiol_ . 2014;592:841.
+
+34.  Rickards CA. _Compr Physiol_ . 2015;5:1585.
+
+35.  Hoiland RL, et al. _Compr Physiol_ . 2019;9:1101.
+
+36.  Hoiland RL, et al. _Am J Physiol Regul Integr Comp Physiol_ . 2016;310:R398.
+
+37.  Damato EG, et al. _J Physiol_ . 2020;598:3941.
+
+38.  Branston NM. _Cerebrovasc Brain Metab Rev_ . 1995;7:338.
+
+39.  Hamel E. _J Appl Physiol (1985)_ . 2006;100:1059.
+
+40.  ter Laan M, et al. _Br J Anaesth_ . 2013;111:361.
+
+41.  Jeng JS, et al. _J Neurosurg_ . 1999;90:463.
+
+42.  Ohta S, et al. _J Neurosurg Anesthesiol_ . 1990;2:272.
+
+43.  Cassaglia PA, et al. _Am J Physiol Regul Integr Comp Physiol_ . 2008;294:R1255.
+
+44.  Cassaglia PA, et al. _J Appl Physiol (1985)_ . 2009;106:1050.
+
+71.  Rogers AT, et al. _Anesthesiology_ . 1988;69:547.
+
+72.  Bouma GJ, et al. _J Neurosurg_ . 1990;73:368.
+
+73.  Peterson E, et al. _J Trauma_ . 2009;67:944.
+
+74.  Froese L, et al. _Pharmacol Res Perspect_ . 2020;8:e00655.
+
+75.  Nemoto EM, et al. _Anesth Analg_ . 1996;83:1262.
+
+76.  Meng L, et al. _Anesth Analg_ . 2011;113:751.
+
+77.  Meng L, et al. _Br J Anaesth_ . 2011;107:209.
+
+78.  Nissen P, et al. _Neurocrit Care_ . 2010;12:17.
+
+79.  Brassard P, et al. _Br J Anaesth_ . 2009;102:800.
+
+80.  Brassard P, et al. _J Appl Physiol (1985)_ . 2010;108:1472.
+
+81.  Davie SN, et al. _Anesthesiology_ . 2012;116:834.
+
+82.  Drummond JC. _Anesth Analg_ . 2012;114:478. ; author reply 479.
+
+83.  Jespersen SN, et al. _J Cerebr Blood Flow Metab_ . 2012;32:264.
+
+84.  Ostergaard L, et al. _J Cerebr Blood Flow Metab_ . 2013;33:1825.
+
+85.  Koch KU, et al. _Anesthesiology_ . 2020;133:304.
+
+86.  Koch KU, et al. _Anesthesiology_ . 2021;135:788.
+
+87.  Zornow MH, et al. _J Cerebr Blood Flow Metab_ . 1993;13:350.
+
+88.  Prielipp RC, et al. _Anesth Analg_ . 2002;95:1052.
+
+89.  Drummond JC, et al. _Anesthesiology_ . 2008;108:225.
+
+90.  Bryan Jr RM. _Am J Physiol_ . 1990;259:H269.
+
+91.  Artru AA, et al. _J Neurochem_ . 1981;36:1941.
+
+92.  Madsen PL, et al. _Eur J Clin Pharmacol_ . 1990;39:295.
+
+93.  Schroeder T, et al. _Neurol Res_ . 1991;13:10.
+
+94.  Darby JM, et al. _J Neurosurg_ . 1994;80:857.
+
+95.  Bandres J, et al. _J Neurosurg Anesthesiol_ . 1992;4:250.
+
+96.  Townsend JB, et al. _Brain Res_ . 1984;290:165.
+
+97.  Prielipp RC, et al. _Anesth Analg_ . 2001;93:45.
+
+98.  Estrup TM, et al. _J Renin Angiotensin Aldosterone Syst_ . 2001;2:188.
+
+99.  Sare GM, et al. _J Hypertens_ . 2008;26:1058.
+
+100.  Wright JW, et al. _Prog Neurobiol_ . 2011;95:49.
+
+101.  Coleman PD, et al. _Neurobiol Aging_ . 1987;8:521.
+
+102.  Pakkenberg B, et al. _J Comp Neurol_ . 1997;384:312.
+
+103.  Morrison JH, et al. _Nat Rev Neurosci_ . 2012;13:240.
+
+104.  Aanerud J, et al. _J Cerebr Blood Flow Metab_ . 2012;32:1177.
+
+105.  Oudegeest- Sander MH, et al. _Exp Physiol_ . 2014;99:586. 106.  Todd MM, et al. _J Neurosurg Anesthesiol_ . 1996;8:296.
+
+107.  Powers WJ, et al. _Stroke_ . 1985;16:361.
+
+108.  Gibbs JM, et al. _Lancet_ . 1984;1:310.
+
+109.  Ferrari M, et al. _Am J Physiol_ . 1992;262:H1908.
+
+110.  Renou AM, et al. _Br J Anaesth_ . 1978;50:1047. 111.  Jobes DR, et al. _Anesthesiology_ . 1977;47:16. 112.  Vernhiet J, et al. _Ann Anesthesiol Fr_ . 1977;18:803. 113.  Stephan H, et al. _Anaesthesist_ . 1991;40:153.
+
+114.  Paris A, et al. _Anesth Analg_ . 1998;87:569.
+
+115.  Cotev S, et al. _Anesthesiology_ . 1975;43:117. 116.  Forster A, et al. _Anesthesiology_ . 1982;56:453. 117.  Pierce EC, et al. _J Clin Invest_ . 1962;41:1664.
+
+118.  Takeshita H, et al. _Anesthesiology_ . 1972;36:69.
+
+119.  Stephan H, et al. _Anaesthesist_ . 1987;36:60.
+
+120.  Kofke WA, et al. _Anesth Analg_ . 2002;94:1229.
+
+<!-- PDF page 43 -->
+
+121.  Zornow MH, et al. _Anesth Analg_ . 1990;70:624.
+
+122.  Langsjo JW, et al. _Anesthesiology_ . 2005;103:258.
+
+123.  Michenfelder JD. _Anesthesiology_ . 1974;41:231.
+
+124.  Astrup J, et al. _Acta Anaesthesiol Scand_ . 1984;28:478.
+
+125.  Gronert GA, et al. _Anesthesiology_ . 1981;55:110.
+
+126.  Sawada Y, et al. _Anesthesiology_ . 1982;56:53.
+
+127.  Vandesteene A, et al. _Anaesthesia_ . 1988;43(Suppl):42.
+
+128.  Kaisti KK, et al. _Anesthesiology_ . 2002;96:1358.
+
+129.  Kaisti KK, et al. _Anesthesiology_ . 2003;99:603.
+
+130.  Alkire MT, et al. _Anesthesiology_ . 1995;82:393.
+
+131.  Petersen KD, et al. _Anesthesiology_ . 2003;98:329.
+
+132.  Fox J, et al. _Anesthesiology_ . 1992;77:453.
+
+133.  Craen RA, et al. _J Neurosurg Anesthesiol_ . 1992;4:298.
+
+134.  Matta BF, et al. _Anesthesiology_ . 1995;83:980.
+
+135.  Cold GE, et al. _Acta Anaesthesiol Scand_ . 1985;29:490.
+
+136.  Kofke WA, et al. _J Neurosurg Anesthesiol_ . 1994;6:89.
+
+137.  Bingham RM, et al. _Br J Anaesth_ . 1985;57:843.
+
+138.  Modica PA, et al. _Can J Anaesth_ . 1992;39:236.
+
+139.  Dearden NM, et al. _Br J Anaesth_ . 1985;57:361.
+
+140.  Hoffman WE, et al. _Anesthesiology_ . 1998;88:1188.
+
+141.  Levy ML, et al. _Neurosurgery_ . 1995;37:363.
+
+142.  Moyer JH, et al. _Circulation_ . 1957;15:379.
+
+143.  Jobes DR, et al. _Anesthesiology_ . 1975;42:30.
+
+144.  McPherson RW, et al. _Br J Anaesth_ . 1985;57:1232.
+
+145.  Schregel W, et al. _Anaesthesist_ . 1992;41:21.
+
+146.  Mayberg TS, et al. _Anesthesiology_ . 1993;78:288.
+
+147.  Herrick IA, et al. _Anesth Analg_ . 1991;72:359.
+
+148.  From RP, et al. _Anesthesiology_ . 1990;73:896.
+
+149.  Mayer N, et al. _Anesthesiology_ . 1990;73:240.
+
+150.  Werner C, et al. _Anesthesiology_ . 1995;83:721.
+
+151.  Wagner KJ, et al. _Anesthesiology_ . 2001;94:732.
+
+152.  Ostapkovich ND, et al. _Anesthesiology_ . 1998;89:358.
+
+153.  Lorenz IH, et al. _Neuroimage_ . 2002;17:1056.
+
+154.  Kofke WA, et al. _Anesth Analg_ . 2007;105:167.
+
+155.  Wiener J, et al. _Brain Inj_ . 2019;33:559.
+
+156.  Forster A, et al. _Anesth Analg_ . 1987;66:309.
+
+157.  Veselis RA, et al. _Anesthesiology_ . 1997;87:1106.
+
+158.  Forster A, et al. _J Cerebr Blood Flow Metab_ . 1983;3:246. 159.  Wolf J, et al. _Acta Anaesthesiol Scand_ . 1990;34:628.
+
+160.  Knudsen L, et al. _Br J Anaesth_ . 1991;67:277.
+
+161.  Chiolero RL, et al. _Intensive Care Med_ . 1988;14:196.
+
+162.  Misfeldt BB, et al. _Br J Anaesth_ . 1976;48:963.
+
+163.  Michenfelder JD. _Br J Anaesth_ . 1971;43:630.
+
+164.  Hawkins PCT, et al. _Hum Brain Mapp_ . 2018;39:319.
+
+165.  Strebel S, et al. _Anaesthesia_ . 1995;50:223.
+
+166.  Cavazzuti M, et al. _J Cerebr Blood Flow Metab_ . 1987;7:806.
+
+167.  Vollenweider FX, et al. _Eur Neuropsychopharmacol_ . 1997;7:25.
+
+168.  Vollenweider FX, et al. _Eur Neuropsychopharmacol_ . 1997;7:9.
+
+169.  Holcomb HH, et al. _Neuropsychopharmacology_ . 2001;25:165.
+
+170.  Schmidt A, et al. _Acta Anaesthesiol Scand_ . 2003;47:569.
+
+171.  Mayberg TS, et al. _Anesth Analg_ . 1995;81:84.
+
+172.  Sakai K, et al. _Anesth Analg_ . 2000;90:377.
+
+173.  Albanese J, et al. _Anesthesiology_ . 1997;87:1328.
+
+174.  Zeiler FA, et al. _Neurocrit Care_ . 2014;21:163.
+
+175.  Zeiler FA, et al. _J Neurosurg Anesthesiol_ . 2016;28:123.
+
+176.  Zeiler FA, et al. _J Crit Care_ . 2014;29:1096.
+
+177.  Zeiler FA, et al. _Neurocrit Care_ . 2014;20:502.
+
+178.  Lam AM, et al. _Anesthesiology_ . 1993;79:A202.
+
+179.  Astrup J, et al. _Anesthesiology_ . 1981;55:263.
+
+180.  Bedford RF, et al. _Anesth Analg_ . 1980;59:435.
+
+181.  Michenfelder JD, et al. _Stroke_ . 1975;6:405.
+
+182.  Todd MM, et al. _Anesthesiology_ . 1984;60:276.
+
+183.  Lutz LJ, et al. _Anesthesiology_ . 1990;73:125.
+
+184.  Scheller MS, et al. _Anesthesiology_ . 1988;68:548.
+
+185.  Maekawa T, et al. _Anesthesiology_ . 1986;65:144. 186.  Michenfelder JD, et al. _Anesthesiology_ . 1974;40:575.
+
+187.  Drummond JC, et al. _Anesthesiology_ . 1986;65:462.
+
+188.  Hansen TD, et al. _Anesthesiology_ . 1988;69:332.
+
+189.  Lenz C, et al. _Anesthesiology_ . 1998;89:1480.
+
+190.  Drummond JC. _Anesthesiology_ . 2018;129:187.
+
+191.  Heath KJ, et al. _Anesth Analg_ . 1997;85:1284.
+
+192.  Todd MM, et al. _Anesthesiology_ . 1982;57:A332.
+
+193.  Mielck F, et al. _Br J Anaesth_ . 1998;81:155.
+
+194.  Sakabe T, et al. _Anesthesiology_ . 1983;59:532.
+
+195.  Mielck F, et al. _Anesth Analg_ . 1999;89:364.
+
+196.  Johnson J, et al. _Anesth Analg_ . 1995;80(Supplj):S214.
+
+197.  Ornstein E, et al. _Anesthesiology_ . 1993;79:498.
+
+198.  Kuroda Y, et al. _Anesthesiology_ . 1997;87:527.
+
+199.  Sanders RD, et al. _Curr Opin Anaesthesiol_ . 2005;18:405.
+
+200.  Franks NP, et al. _Nature_ . 1998;396:324.
+
+201.  Gruss M, et al. _Mol Pharmacol_ . 2004;65:443.
+
+202.  Laitio RM, et al. _Anesthesiology_ . 2007;106:1128.
+
+203.  Rex S, et al. _Anesthesiology_ . 2006;105:936.
+
+204.  Schmidt M, et al. _Anaesthesia_ . 2002;57:960.
+
+205.  Schmidt M, et al. _Acta Anaesthesiol Scand_ . 2005;49:494.
+
+206.  Reinelt H, et al. _Anesthesiology_ . 2001;94:475.
+
+207.  Grune F, et al. _PLoS One_ . 2017;12:e0171962.
+
+208.  Fraga M, et al. _Anesthesiology_ . 2003;98:1085.
+
+209.  Milde LN, et al. _Anesth Analg_ . 1989;68(Suppl):S196. 210.  Alkire MT, et al. _Anesthesiology_ . 1997;86:549. 211.  Maksimow A, et al. _Anaesthesia_ . 2005;60:862.
+
+212.  Reinstrup P. _Anesthesiology_ . 1995;82:359.
+
+213.  Eintrei C, et al. _Anesthesiology_ . 1985;63:391.
+
+214.  Boarini DJ, et al. _Neurosurgery_ . 1984;15:400. 215.  Warner DS, et al. _Anesthesiology_ . 1985;63:243.
+
+216.  Albrecht RF, et al. _Anesthesiology_ . 1983;58:26.
+
+217.  Fleischer LH, et al. _Anesthesiology_ . 1992;77:A167. 218.  Madsen JB, et al. _Anesthesiology_ . 1987;66:332.
+
+219.  Drummond JC, et al. _Anesthesiology_ . 1985;62:268. 220.  Gupta S, et al. _Br J Anaesth_ . 1997;79:469.
+
+221.  Vavilala MS, et al. _Br J Anaesth_ . 2003;90:636.
+
+222.  Lu H, et al. _Anesth Analg_ . 1998;87:854. 223.  Adams RW, et al. _Anesthesiology_ . 1981;54:97. 224.  Campkin TV, et al. _Anaesthesia_ . 1989;44:50. 225.  Grosslight K, et al. _Anesthesiology_ . 1985;63:533. 226.  Scheller MS, et al. _Anesthesiology_ . 1987;67:507.
+
+227.  Chui J, et al. _Can J Anaesth_ . 2014;61:347. 228.  Field LM, et al. _Br J Anaesth_ . 1993;70:154.
+
+229.  Eng C, et al. _Anesthesiology_ . 1992;77:872.
+
+230.  Henriksen HT, et al. _Br J Anaesth_ . 1973;45:486. 231.  Misfeldt BB, et al. _Br J Anaesth_ . 1974;46:853.
+
+232.  Wilson- Smith E, et al. _Acta Anaesthesiol Scand_ . 2003;47:307. 233.  Lam AM, et al. _Anesth Analg_ . 1994;78:462. 234.  Strebel S, et al. _Acta Anaesthesiol Scand_ . 1995;39:653. 235.  Algotsson L, et al. _Acta Anaesthesiol Scand_ . 1992;36:46. 236.  Reinstrup P. _Br J Anaesth_ . 1997;78:407.
+
+237.  Reinstrup P, et al. _Anesthesiology_ . 2001;95:1079. 238.  Pelligrino DA, et al. _Anesthesiology_ . 1984;60:405. 239.  Baughman VL. _Anesthesiology_ . 1990;73:269.
+
+240.  Wollman H, et al. _Anesthesiology_ . 1964;25:180. 241.  Drummond JC, et al. _Anesth Analg_ . 1987;66:1083. 242.  Schramm WM, et al. _Anesth Analg_ . 1998;86:123. 243.  Lanier WL, et al. _Anesthesiology_ . 1985;63:589. 244.  Tateishi A, et al. _Stroke_ . 1989;20:1044. 245.  Standaert FG. _Anesthesiology_ . 1985;63:577. 246.  Lanier WL, et al. _Anesthesiology_ . 1994;80:392. 247.  Stirt JA, et al. _Anesthesiology_ . 1987;67:50. 248.  Kovarik WD, et al. _Anesth Analg_ . 1994;78:469. 249.  Artru AA. _Anesthesiology_ . 1984;60:575.
+
+250.  Artru AA. _Anesthesiology_ . 1983;58:533.
+
+251.  Artru AA. _Anesthesiology_ . 1984;60:193.
+
+252.  Artru AA. _J Neurosurg_ . 1984;60:252.
+
+253.  Artru AA, et al. _Anesthesiology_ . 1982;57:255. 254.  Maktabi MA, et al. _Anesthesiology_ . 1993;78:72. 255.  Artru AA. _J Neurosurg Anesthesiol_ . 1993;5:178. 256.  Tetrault S, et al. _Eur J Neurosci_ . 2008;28:1330.
+
+257.  Thal SC, et al. _PLoS One_ . 2012;7:e50752.
+
+258.  Altay O, et al. _Stroke_ . 2012;43:2513.
+
+259.  Modica PA, et al. _Anesth Analg_ . 1990;70:303.
+
+260.  Modica PA, et al. _Anesth Analg_ . 1990;70:433. 261.  Kreisman NR, et al. _J Cerebr Blood Flow Metab_ . 1991;11:77.
+
+262.  Wollman H, et al. _Fed Proc_ . 1967;28:356.
+
+263.  Flemming DC, et al. _Anesthesiology_ . 1980;52:431.
+
+264.  Hymes JA. _Anesth Analg_ . 1985;64:367.
+
+265.  Harrison JL. _Anesth Analg_ . 1986;65:1235.
+
+266.  Kofke WA, et al. _Anesthesiology_ . 1989;71:653.
+
+267.  Komatsu H, et al. _Ann Acad Med Singap_ . 1994;23:130.
+
+268.  Kaisti KK, et al. _Anesthesiology_ . 1999;91:1952.
+
+269.  Hisada K, et al. _J Neurosurg Anesthesiol_ . 2001;13:333.
+
+270.  Hilty CA, et al. _Anesthesiology_ . 2000;93:1357.
+
+271.  Terasako K, et al. _Anesth Analg_ . 2003;96:1239. 272.  Todd MM, et al. _Anesthesiology_ . 1984;61:495.
+
+<!-- PDF page 44 -->
+
+273.  Bennett DR, et al. _Neurology_ . 1973;23:449.
+
+274.  Ferrer- Allado T, et al. _Anesthesiology_ . 1973;38:333.
+
+275.  Steen PA, et al. _Anesthesiology_ . 1979;50:437.
+
+276.  Hirshman CA, et al. _Anesthesiology_ . 1982;56:464.
+
+277.  Ghoneim MM, et al. _Anesth Analg_ . 1977;56:479.
+
+278.  Laughlin TP, et al. _Anesth Analg_ . 1985;64:80. 279.  Ebrahim ZY, et al. _Anesth Analg_ . 1986;65:1004.
+
+280.  Gancher S, et al. _Anesthesiology_ . 1984;61:616.
+
+281.  Samra SK, et al. _Anesthesiology_ . 1995;82:843. 282.  Rampton AJ, et al. _Anesthesiology_ . 1989;70:412. 283.  Drummond JC, et al. _Anesthesiology_ . 1992;76:652.
+
+284.  Firestone LL, et al. _Anesth Analg_ . 1996;82:1247.
+
+285.  Smith NT, et al. _J Clin Monit_ . 1985;1:236. 286.  Tempelhoff R, et al. _J Neurosurg_ . 1992;77:201.
+
+287.  Cascino GD. _J Clin Neurophysiol_ . 1993;10:520.
+
+288.  Astrup J, et al. _Stroke_ . 1977;8:51.
+
+289.  Hossmann KA. _Ann Neurol_ . 1994;36:557.
+
+290.  Michenfelder JD, et al. _Anesthesiology_ . 1987;67:336.
+
+291.  Sundt TM, et al. _Mayo Clin Proc_ . 1981;56:533.
+
+292.  Michenfelder JD, et al. _Stroke_ . 1971;2:319.
+
+293.  Michenfelder JD, et al. _Anesthesiology_ . 1970;33:430.
+
+294.  Siesjo BK. _J Neurosurg_ . 1992;77:169.
+
+295.  Lipton P. _Physiol Rev_ . 1999;79:1431.
+
+296.  Fiskum G, et al. _J Cerebr Blood Flow Metab_ . 1999;19:351.
+
+297.  Velier JJ, et al. _J Neurosci_ . 1999;19:5932.
+
+298.  Kawaguchi M, et al. _Anesthesiology_ . 2000;92:1335.
+
+299.  Powers WJ, et al. _Stroke_ . 2019;50:e344.
+
+300.  Nogueira RG, et al. _N Engl J Med_ . 2018;378:11.
+
+301.  Albers GW, et al. _N Engl J Med_ . 2018;378:708.
+
+302.  Zauner A, et al. _Neurosurgery_ . 2002;51:289.
+
+303.  Mattson MP, et al. _Apoptosis_ . 2001;6:69.
+
+304.  Dirnagl U, et al. _Trends Neurosci_ . 1999;22:391.
+
+305.  del Zoppo GJ. _Ann N Y Acad Sci_ . 2012;1268:127.
+
+306.  Del Zoppo GJ. _Stroke_ . 2013;44:263.
+
+307.  Dirnagl U. _Ann N Y Acad Sci_ . 2012;1268:21.
+
+308.  Heiss WD. _Ann N Y Acad Sci_ . 2012;1268:26.
+
+309.  Hossmann KA. _J Cerebr Blood Flow Metab_ . 2012;32:1310.
+
+310.  van der Spuy WJ, et al. _Rev Neurosci_ . 2012;23:269.
+
+311.  Abramson NA. _N Engl J Med_ . 1986;314:397.
+
+312.  Forsman M, et al. _Anesth Analg_ . 1989;68:436.
+
+313.  Roine RO, et al. _JAMA_ . 1990;264:3171. 314.  Brain Resuscitation Clinical Trial II Study Group. _N Engl J Med_ . 1991;324:1225.
+
+315.  Hypothermia after Cardiac Arrest Study Group. _N Engl J Med_ . 2002;346:549.
+
+316.  Bernard SA, et al. _N Engl J Med_ . 2002;346:557.
+
+317.  Shankaran S, et al. _N Engl J Med_ . 2005;353:1574.
+
+318.  Shankaran S, et al. _N Engl J Med_ . 2012;366:2085.
+
+319.  Nielsen N, et al. _N Engl J Med_ . 2013;369:2197.
+
+320.  Dankiewicz J, et al. _N Engl J Med_ . 2021;384:2283.
+
+321.  Morrison LJ, et al. _N Engl J Med_ . 2021;384:2344.
+
+322.  Donnino MW, et al. _Resuscitation_ . 2016;98:97.
+
+323.  Nolan JP, et al. _Resuscitation_ . 2021;161:220.
+
+324.  Hoffman WE, et al. _Anesth Analg_ . 1991;73:460.
+
+325.  Hoffman WE, et al. _Anesth Analg_ . 1993;76:279.
+
+326.  Smith AL, et al. _Stroke_ . 1974;5:1.
+
+327.  Michenfelder JD, et al. _Arch Neurol_ . 1976;33:345.
+
+328.  Nehls DG, et al. _Anesthesiology_ . 1987;66:453.
+
+329.  Nussmeier NA, et al. _Anesthesiology_ . 1986;64:165.
+
+330.  Shapiro HM. _Br J Anaesth_ . 1985;57:82.
+
+331.  Warner DS, et al. _Anesthesiology_ . 1996;84:1475.
+
+332.  Busto R, et al. _J Cerebr Blood Flow Metab_ . 1987;7:729.
+
+333.  Sano T, et al. _Anesthesiology_ . 1992;76:221.
+
+334.  Warner DS, et al. _J Cerebr Blood Flow Metab_ . 1991;11:794.
+
+335.  Drummond JC, et al. _Neurosurgery_ . 1995;37:742.
+
+336.  Cole DJ, et al. _Can J Anaesth_ . 2001;48:807.
+
+337.  Hindman BJ, et al. _Anesthesiology_ . 2010;112:86.
+
+338.  Baughman VL, et al. _Anesthesiology_ . 1988;69:192.
+
+339.  Soonthon- Brant V, et al. _Anesth Analg_ . 1999;88:49.
+
+340.  Mackensen GB, et al. _Anesthesiology_ . 2000;93:1102.
+
+341.  Nellgard B, et al. _Anesthesiology_ . 2000;93:431.
+
+342.  Kawaguchi M, et al. _Anesth Analg_ . 2004;98(3):798.
+
+343.  Sakai H, et al. _Anesthesiology_ . 2007;106:92.
+
+344.  Warner DS, et al. _Anesthesiology_ . 1993;79:985.
+
+345.  Werner C, et al. _Br J Anaesth_ . 1995;75:756.
+
+346.  Engelhard K, et al. _Br J Anaesth_ . 1999;83:415.
+
+347.  Wilhelm S, et al. _Anesthesiology_ . 2002;96:1485.
+
+348.  Homi HM, et al. _Anesthesiology_ . 2003;99:876.
+
+349.  Ma D, et al. _Anesthesiology_ . 2003;98:690.
+
+350.  Ma D, et al. _Ann Neurol_ . 2005;58:182.
+
+351.  Ma D, et al. _J Cerebr Blood Flow Metab_ . 2006;26:199.
+
+352.  Jevtovic- Todorovic V, et al. _Neuroscience_ . 2003;122:609.
+
+353.  Williamson P, et al. _J Neurosurg Anesthesiol_ . 2004;16:356.
+
+354.  Liang M, et al. _Br J Anaesth_ . 2022;129:200.
+
+355.  Gardner AJ, et al. _Br J Anaesth_ . 2018;120:453.
+
+356.  Ravussin P, et al. _Neurosurgery_ . 1993;32:236.
+
+357.  Ridenour TR, et al. _Anesthesiology_ . 1992;76:807.
+
+358.  Gelb AW, et al. _Anesthesiology_ . 2002;96:1183.
+
+359.  Pittman JE, et al. _Anesthesiology_ . 1997;87:1139.
+
+360.  Bayona NA, et al. _Anesthesiology_ . 2004;100:1151.
+
+361.  Batjer HH, et al. _J Neurosurg_ . 1988;68:234.
+
+362.  Nebauer AE, et al. _Br J Anaesth_ . 1992;69:58.
+
+363.  Pickard JD, et al. _BMJ_ . 1989;298:636.
+
+364.  Trust Study Group. _Lancet_ . 1990;336:1205.
+
+365.  Drummond JC, et al. _Stroke_ . 1989;20:1538.
+
+366.  Young WL, et al. _Anesthesiology_ . 1989;71:794. 367.  Ahmed N, et al. _Stroke_ . 2000;31:1250.
+
+368.  Steiner T, et al. _Cerebrovasc Dis_ . 2013;35:93.
+
+369.  Carney N, et al. _Neurosurgery_ . 2017;80:6.
+
+370.  Connolly ES, et al. _Stroke_ . 2012;43:1711.
+
+371.  Artru AA, et al. _Anesthesiology_ . 1989;70:1016.
+
+372.  Waltz AG, et al. _Circulation_ . 1972;45:1091.
+
+373.  Christensen MS, et al. _Stroke_ . 1973;4:568. 374.  Ruta TS, et al. _Anesthesiology_ . 1993;78:134. 375.  Dell’Anna AM, et al. _Crit Care_ . 2014;18:555.
+
+376.  de Jonge E, et al. _Crit Care_ . 2008;12:R156.
+
+377.  Kilgannon JH, et al. _JAMA_ . 2010;303:2165.
+
+378.  Elmer J, et al. _Intensive Care Med_ . 2015;41:49.
+
+379.  Vaahersalo J, et al. _Crit Care Med_ . 2014;42:1463.
+
+380.  Vilalta A, et al. _J Neurotrauma_ . 2011;28:1139.
+
+381.  Davis DP, et al. _J Neurotrauma_ . 2009;26:2217.
+
+382.  Brenner M, et al. _Arch Surg_ . 2012;147:1042.
+
+383.  Roffe C, et al. _PLoS One_ . 2011;6:e19113.
+
+384.  Lång M, et al. _Neurosurgery_ . 2016;78:540.
+
+385.  Bray JE, et al. _Resuscitation_ . 2019;139:208.
+
+386.  Nemoto EM, et al. _J Neurosurg Anesthesiol_ . 1996;8:52.
+
+387.  Klementavicius R, et al. _J Neurosurg_ . 1996;85:482. 388.  Boris- Moller F, et al. _Neurosci Res Comm_ . 1989;10:311.
+
+389.  Buchan A, et al. _J Neurosci_ . 1990;10:311.
+
+390.  Hindman BJ, et al. _Neurosurgery_ . 1999;44:23.
+
+391.  Todd MM, et al. _N Engl J Med_ . 2005;352:135.
+
+392.  Shiozaki T, et al. _J Neurosurg_ . 1993;79:363.
+
+393.  Clifton GL, et al. _J Neurotrauma_ . 1993;10:263.
+
+394.  Clifton GL, et al. _N Engl J Med_ . 2001;344:556.
+
+395.  Kammersgaard LP, et al. _Stroke_ . 2000;31:2251.
+
+396.  Wass CT, et al. _Anesthesiology_ . 1995;83:325.
+
+397.  Vannucci RC, et al. _J Cereb Blood Flow Metab_ . 1996;16(5):1026. 398.  Weir CJ, et al. _BMJ_ . 1997;314:1303.
+
+399.  Bruno A, et al. _Neurology_ . 2002;59:669.
+
+400.  Gray CS, et al. _Lancet Neurol_ . 2007;6:397.
+
+401.  Johnston KC, et al. _JAMA_ . 2019;322:326.
+
+402.  Asaithambi G, et al. _J Neurosurg Anesthesiol_ . 2022;34:415.
+
+403.  Auer RN. _Forensic Sci Int_ . 2004;146:105.
+
+404.  Archer DP. _J Neurosurg Anesthesiol_ . 1994;6:51.
+
+405.  Harrison MJ. _Cerebrovasc Brain Metab Rev_ . 1989;1:55.
+
+406.  GALA Trial Collaborative Group. _Lancet_ . 2008;372:2132. 407.  Lenzi GL, et al. _J Cerebr Blood Flow Metab_ . 1982;2:321.
+
+408.  Paulson OB. _Neurology_ . 1970;20:63.
+
+409.  Agnoli A, et al. _Circulation_ . 1968;38:800.
+
+410.  Fieschi C, et al. _Eur Neurol_ . 1969;2:13.
+
+411.  Olsen TS. _Acta Neurol Scand_ . 1986;73:321.
+
+412.  Rockman CB, et al. _J Vasc Surg_ . 2006;44:480.
+
+413.  Jorgensen ME, et al. _JAMA_ . 2014;312:269.
+
+414.  Vlisides PE, et al. _J Neurosurg Anesthesiol_ . 2020;32:210.
+
+415.  Rantner B, et al. _Eur J Vasc Endovasc Surg_ . 2005;30:36.
+
+416.  Blaser T, et al. _Stroke_ . 2002;33:1057.
+
+417.  Ballotta E, et al. _Surgery_ . 2002;131:287.
+
+418.  Keldahl ML, et al. _Expert Rev Cardiovasc Ther_ . 2010;8:1399. 419.  Christiansen MN, et al. _Anesthesiology_ . 2017;127:9. 420.  Strandgaard S. _Circulation_ . 1976;53:720.
+
+<!-- PDF page 45 -->
+
+421.  Eames PJ, et al. _Am J Hypertens_ . 2003;16:746.
+
+422.  Lipsitz LA, et al. _Hypertension_ . 2005;45:216.
+
+423.  Conen D, et al. _J Cardiovasc Pharmacol_ . 1988;12(suppl 4):S64. 424.  Finnerty FA, et al. _J Clin Invest_ . 1954;33:1227.
+
+425.  Njemanze PC. _Stroke_ . 1992;23:1743.
+
+426.  Vorstrup S, et al. _Stroke_ . 1984;15:312.
+
+427.  Toyoda K, et al. _J Cerebr Blood Flow Metab_ . 1998;18:305.
+
+428.  Larsen FS, et al. _Stroke_ . 1994;25:1985.
+
+429.  Waldemar G, et al. _J Hypertens_ . 1989;7:229.
+
+430.  Arbit E, et al. _Neurosurgery_ . 1989;24:166.
+
+431.  Julien C, et al. _Br J Cancer_ . 2004;91:374.
+
+432.  Packard SD, et al. _Neoplasia (New York NY)_ . 2003;5:330. 433.  Schregel W, et al. _J Neurosurg Anesthesiol_ . 1993;5:86.
+
+434.  Shin JH, et al. _AJR Am J Roentgenol_ . 2002;179:783.
+
+435.  Bedford RF, et al. _Anesth Analg_ . 1982;61:430.
+
+436.  Kaal EC, et al. _Curr Opin Oncol_ . 2004;16:593.
+
+437.  Stummer W. _Neurosurg Focus_ . 2007;22:E8.
+
+438.  Shapiro WR, et al. _J Neuro Oncol_ . 1990;8:197.
+
+439.  Murphy FL, et al. _Abstracts of the Annual Meeting of the American Society of Anesthesiologists_ . 1974;1974:62.
+
+440.  Branston NM, et al. _Exp Neurol_ . 1974;45:195.
+
+441.  Jones TH. _J Neurosurg_ . 1981;54:773.
+
+442.  Kochanek PM, et al. _Pediatr Crit Care Med_ . 2019;20:269.
+
+443.  Greenberg SM, et al. _Stroke_ . 2022;53:e282.
+
+444.  Callaway CW, et al. _Circulation_ . 2015;132:S465.
+
+<!-- PDF page 46 -->
+
+### References
+
+1.  Hartkamp MJ, van Der Grond J, van Everdingen KJ, et al. Circle of Willis collateral flow investigated by magnetic resonance angiography. _Stroke_ . 1999;30:2671–2678.
+
+2.  Schaeffer S, Iadecola C. Revisiting the neurovascular unit. _Nat Neurosci_ . 2021;24:1198–1209.
+
+3.  Beards SC, Yule S, Kassner A, Jackson A. Anatomical variation of cerebral venous drainage: the theoretical effect on jugular bulb blood samples. _Anaesthesia_ . 1998;53:627–633.
+
+4.  Wilson MH. Monro- Kellie 2.0: the dynamic vascular and venous pathophysiological components of intracranial pressure. _J Cerebr Blood Flow Metab_ . 2016;36:1338–1350.
+
+5.  Benveniste H, Lee H, Volkow ND. The glymphatic pathway: waste removal from the CNS via cerebrospinal fluid transport. _Neuroscientist_ . 2017;23:454–465.
+
+6.  Mestre H, Mori Y, Nedergaard M. The brain’s glymphatic system: current controversies. _Trends Neurosci_ . 2020;43:458–466.
+
+7.  Zhang N, Gordon ML, Goldberg TE. Cerebral blood flow measured by arterial spin labeling MRI at resting state in normal aging and Alzheimer’s disease. _Neurosci Biobehav Rev_ . 2017;72:168–175.
+
+8.  Lassen NA. Cerebral blood flow and oxygen consumption in man. _Physiol Rev_ . 1959;39:183–238.
+
+9.  Strandgaard S, MacKenzie ET, Sengupta D, et al. Upper limit of autoregulation of cerebral blood flow in the baboon. _Circ Res_ . 1974;34:435–440.
+
+10.  Drummond JC. The lower limit of autoregulation: time to revise our thinking? _Anesthesiology_ . 1997;86:1431–1433.
+
+11.  Numan T, Bain AR, Hoiland RL, et al. Static autoregulation in humans: a review and reanalysis. _Med Eng Phys_ . 2014;36:1487– 1495.
+
+12.  Brassard P, Labrecque L, Smirl JD, et al. Losing the dogmatic view of cerebral autoregulation. _Physiol Rep_ . 2021;9:e14982.
+
+13.  Tzeng YC, Ainslie PN. Blood pressure regulation IX: cerebral autoregulation under blood pressure challenges. _Eur J Appl Physiol_ . 2014;114:545–559.
+
+14.  Claassen J, Thijssen DHJ, Panerai RB, Faraci FM. Regulation of cerebral blood flow in humans: physiology and clinical implications of autoregulation. _Physiol Rev_ . 2021;101:1487–1559.
+
+15.  Tiecks FP, Lam AM, Aaslid R, Newell DW. Comparison of static and dynamic cerebral autoregulation measurements. _Stroke_ . 1995;26:1014–1019.
+
+16.  Aaslid R, Lindegaard KF, Sorteberg W, Nornes H. Cerebral autoregulation dynamics in humans. _Stroke_ . 1989;20:45–52.
+
+17.  Birch AA, Dirnhuber MJ, Hartley- Davies R, et al. Assessment of autoregulation by means of periodic changes in blood pressure. _Stroke_ . 1995;26:834–837.
+
+18.  Tan CO. Defining the characteristic relationship between arterial pressure and cerebral flow. _J Appl Physiol (1985)_ . 2012;113:1194– 1200.
+
+19.  Zhang R, Witkowski S, Fu Q, et al. Cerebral hemodynamics after short- and long- term reduction in blood pressure in mild and moderate hypertension. _Hypertension_ . 2007;49:1149–1155.
+
+20.  Foster- Dingley JC, Moonen JE, de Craen AJ, et al. Blood pressure is not associated with cerebral blood flow in older persons. _Hypertension_ . 2015;66:954–960.
+
+21.  Drummond JC. Blood pressure and the brain: how low can you go? _Anesth Analg_ . 2019;128:759–771.
+
+22.  Hori D, Brown C, Ono M, et al. Arterial pressure above the upper cerebral autoregulation limit during cardiopulmonary bypass is associated with postoperative delirium. _Br J Anaesth_ . 2014;113:1009–1017.
+
+23.  Brown CH, Neufeld KJ, Tian J, et al. Effect of targeting mean arterial pressure during cardiopulmonary bypass by monitoring cerebral autoregulation on postsurgical delirium among older patients: a nested randomized clinical trial. _JAMA Surg_ . 2019;154:819–826.
+
+24.  Griffith DN, James IM, Newbury PA, Woollard ML. The effect of betaadrenergic receptor blocking drugs on cerebral blood flow. _Br J Clin Pharmacol_ . 1979;7:491–494.
+
+25.  Faraci FM, Heistad DD. Regulation of large cerebral arteries and cerebral microvascular pressure. _Circ Res_ . 1990;66:8–17.
+
+26.  Grubb S, Cai C, Hald BO, et al. Precapillary sphincters maintain perfusion in the cerebral cortex. _Nat Commun_ . 2020;11:395.
+
+27.  Bell AH, Miller SL, Castillo- Melendez M, Malhotra A. The neurovascular unit: effects of brain insults during the perinatal period. _Front Neurosci_ . 2019;13:1452.
+
+28.  Attwell D, Buchan AM, Charpak S, et al. Glial and neuronal control of brain blood flow. _Nature_ . 2010;468:232–243.
+
+29.  Kaplan L, Chow BW, Gu C. Neuronal regulation of the bloodbrain barrier and neurovascular coupling. _Nat Rev Neurosci_ . 2020;21:416–432.
+
+30.  Drummond JC, Todd MM, U HS. The effect of high dose sodium thiopental on brain stem auditory and median nerve somatosensory evoked responses in humans. _Anesthesiology_ . 1985;63:249–254.
+
+31.  Peterson DO, Drummond JC, Todd MM. Effects of halothane, enflurane, isoflurane, and nitrous oxide on somatosensory evoked potentials in humans. _Anesthesiology_ . 1986;65:35–40.
+
+32.  Michenfelder JD. _Anesthesia and the Brain: Clinical, Functional, Metabolic, and Vascular Correlates_ . New York: Churchill Livingstone; 1988.
+
+33.  Willie CK, Tzeng YC, Fisher JA, Ainslie PN. Integrative regulation of human brain blood flow. _J Physiol_ . 2014;592:841–859.
+
+34.  Rickards CA. Cerebral blood- flow regulation during hemorrhage. _Compr Physiol_ . 2015;5:1585–1621.
+
+35.  Hoiland RL, Fisher JA, Ainslie PN. Regulation of the cerebral circulation by arterial carbon dioxide. _Compr Physiol_ . 2019;9:1101–1154.
+
+36.  Hoiland RL, Bain AR, Rieger MG, et al. Hypoxemia, oxygen content, and the regulation of cerebral blood flow. _Am J Physiol Regul Integr Comp Physiol_ . 2016;310:R398–R413.
+
+37.  Damato EG, Flak TA, Mayes RS, et al. Neurovascular and cortical responses to hyperoxia: enhanced cognition and electroencephalographic activity despite reduced perfusion. _J Physiol_ . 2020;598:3941–3956.
+
+38.  Branston NM. Neurogenic control of the cerebral circulation. _Cerebrovasc Brain Metab Rev_ . 1995;7:338–349.
+
+39.  Hamel E. Perivascular nerves and the regulation of cerebrovascular tone. _J Appl Physiol (1985)_ . 2006;100:1059–1064.
+
+40.  ter Laan M, van Dijk JM, Elting JW, et al. Sympathetic regulation of cerebral blood flow in humans: a review. _Br J Anaesth_ . 2013;111:361–367.
+
+41.  Jeng JS, Yip PK, Huang SJ, Kao MC. Changes in hemodynamics of the carotid and middle cerebral arteries before and after endoscopic sympathectomy in patients with palmar hyperhidrosis: preliminary results. _J Neurosurg_ . 1999;90:463–467.
+
+42.  Ohta S, Hadeishi H, Suzuki M. Effect of stellate ganglion block on cerebral blood flow in normoxemic and hyperoxemic states. _J Neurosurg Anesthesiol_ . 1990;2:272–279.
+
+43.  Cassaglia PA, Griffiths RI, Walker AM. Sympathetic nerve activity in the superior cervical ganglia increases in response to imposed increases in arterial pressure. _Am J Physiol Regul Integr Comp Physiol_ . 2008;294:R1255–R1261.
+
+44.  Cassaglia PA, Griffiths RI, Walker AM. Cerebral sympathetic nerve activity has a major regulatory role in the cerebral circulation in REM sleep. _J Appl Physiol (1985)_ . 2009;106:1050–1056.
+
+45.  Heistad DD. Protection of cerebral vessels by sympathetic nerves. _Physiologist_ . 1980;23:44–49.
+
+46.  Cole DJ, Drummond JC, Patel PM, Marcantonio S. Effects of viscosity and oxygen content on cerebral blood flow in ischemic and normal rat brain. _J Neurol Sci_ . 1994;124:15–20.
+
+47.  Aichner FT, Fazekas F, Brainin M, et al. Hypervolemic hemodilution in acute ischemic stroke: the multicenter Austrian hemodilution stroke trial (MAHST). _Stroke_ . 1998;29:743–749.
+
+48.  Drummond JC. Cardiac output: the neglected stepchild of the cerebral blood flow physiology family. _J Neurosurg Anesthesiol_ . 2020;32:93–94.
+
+49.  Brown CM, Dutsch M, Hecht MJ, et al. Assessment of cerebrovascular and cardiovascular responses to lower body negative pressure as a test of cerebral autoregulation. _J Neurol Sci_ . 2003;208:71–78.
+
+50.  Ogoh S, Brothers RM, Barnes Q, et al. The effect of changes in cardiac output on middle cerebral artery mean blood velocity at rest and during exercise. _J Physiol_ . 2005;569:697–704.
+
+51.  Ogawa Y, Iwasaki K, Aoki K, et al. Central hypervolemia with hemodilution impairs dynamic cerebral autoregulation. _Anesth Analg_ . 2007;105:1389–1396.
+
+52.  Meng L, Hou W, Chui J, et al. Cardiac output and cerebral blood flow: the integrated regulation of brain perfusion in adult humans. _Anesthesiology_ . 2015;123:1198–1208.
+
+53.  Lie SL, Hisdal J, Hoiseth LO. Cerebral blood flow velocity during simultaneous changes in mean arterial pressure and cardiac output in healthy volunteers. _Eur J Appl Physiol_ . 2021;121:2207–2217.
+
+54.  Joseph M, Ziadi S, Nates J, et al. Increases in cardiac output can reverse flow deficits from vasospasm independent of blood pressure:
+
+<!-- PDF page 47 -->
+
+a study using xenon computed tomographic measurement of cerebral blood flow. _Neurosurgery_ . 2003;53:1044–1051. discussion 1051–1052.
+
+55.  Haenggi M, Andermatt A, Anthamatten C, et al. CO(2)- Dependent vasomotor reactivity of cerebral arteries in patients with severe traumatic brain injury: time course and effect of augmentation of cardiac output with dobutamine. _J Neurotrauma_ . 2012;29:1779–1784.
+
+56.  Berre J, De Backer D, Moraine JJ, et al. Effects of dobutamine and prostacyclin on cerebral blood flow velocity in septic patients. _J Crit Care_ . 1994;9:1–6.
+
+57.  Treib J, Haass A, Krammer I, et al. Cardiac output in patients with acute stroke. _J Neurol_ . 1996;243:575–578.
+
+58.  Castle- Kirszbaum M, Parkin WG, Goldschlager T, Lewis PM. Cardiac output and cerebral blood flow: a systematic review of cardiocerebral coupling. _J Neurosurg Anesthesiol_ . 2022;34:352–363.
+
+59.  Hindman BJ, Palecek JP, Posner KL, et al. Cervical spinal cord, root, and bony spine injuries: a closed claims analysis. _Anesthesiology_ . 2011;114:782–795.
+
+60.  Munis JR, Lozada LJ. Giraffes, siphons, and starling resistors. Cerebral perfusion pressure revisited. _J Neurosurg Anesthesiol_ . 2000;12:290– 296.
+
+61.  Klein T, Sanders M, Wollseiffen P, et al. Transient cerebral blood flow responses during microgravity. _Life Sci Space Res (Amst)_ . 2020;25:66–71.
+
+62.  Brady KM, Hudson A, Hood R, et al. Personalizing the definition of hypotension to protect the brain. _Anesthesiology_ . 2020;132:170– 179.
+
+63.  Lazaridis C, Smielewski P, Steiner LA, et al. Optimal cerebral perfusion pressure: are we ready for it? _Neurol Res_ . 2013;35:138–148.
+
+64.  Llwyd O, Fan JL, Muller M. Effect of drug interventions on cerebral hemodynamics in ischemic stroke patients. _J Cerebr Blood Flow Metab_ . 2022;42:471–485.
+
+65.  Appleton JP, Sprigg N, Bath PM. Therapeutic potential of transdermal glyceryl trinitrate in the management of acute stroke. _CNS Drugs_ . 2017;31:1–9.
+
+66.  Schmidt JF, Waldemar G, Paulson OB. The acute effect of nimodipine on cerebral blood flow, its CO2 reactivity, and cerebral oxygen metabolism in human volunteers. _Acta Neurochir (Wien)_ . 1991;111: 49–53.
+
+67.  Canova D, Roatta S, Micieli G, Bosone D. Cerebral oxygenation and haemodynamic effects induced by nimodipine in healthy subjects. _Funct Neurol_ . 2012;27:169–176.
+
+68.  Lisk DR, Grotta JC, Lamki LM, et al. Should hypertension be treated after acute stroke? A randomized controlled trial using single photon emission computed tomography. _Arch Neurol_ . 1993;50:855–862.
+
+69.  Akopov SE, Simonian NA. Comparison of isradipine and enalapril effects on regional carotid circulation in patients with hypertension with unilateral internal carotid artery stenosis. _J Cardiovasc Pharmacol_ . 1997;30:562–570.
+
+70.  Nazir FS, Overell JR, Bolster A, et al. Effect of perindopril on cerebral and renal perfusion on normotensives in mild early ischaemic stroke: a randomized controlled trial. _Cerebrovasc Dis_ . 2005;19:77–83.
+
+71.  Rogers AT, Stump DA, Gravlee GP, et al. Response of cerebral blood flow to phenylephrine infusion during hypothermic cardiopulmonary bypass: influence of PaCO2 management. _Anesthesiology_ . 1988;69:547–551.
+
+72.  Bouma GJ, Muizelaar JP. Relationship between cardiac output and cerebral blood flow in patients with intact and with impaired autoregulation. _J Neurosurg_ . 1990;73:368–374.
+
+73.  Peterson E, Chesnut RM. Static autoregulation is intact in majority of patients with severe traumatic brain injury. _J Trauma_ . 2009;67:944–949.
+
+74.  Froese L, Dian J, Gomez A, et al. The cerebrovascular response to norepinephrine: a scoping systematic review of the animal and human literature. _Pharmacol Res Perspect_ . 2020;8:e00655.
+
+75.  Nemoto EM, Klementavicius R, Melick JA, Yonas H. Norepinephrine activation of basal cerebral metabolic rate for oxygen (CMRO2) during hypothermia in rats. _Anesth Analg_ . 1996;83:1262–1267.
+
+76.  Meng L, Tran NP, Alexander BS, et al. The impact of phenylephrine, ephedrine, and increased preload on third- generation VigileoFloTrac and esophageal Doppler cardiac output measurements. _Anesth Analg_ . 2011;113:751–757.
+
+77.  Meng L, Cannesson M, Alexander BS, et al. Effect of phenylephrine and ephedrine bolus treatment on cerebral oxygenation in anaesthetized patients. _Br J Anaesth_ . 2011;107:209–217.
+
+78.  Nissen P, Brassard P, Jorgensen TB, Secher NH. Phenylephrine but not ephedrine reduces frontal lobe oxygenation following anesthesia- induced hypotension. _Neurocritic Care_ . 2010;12:17–23.
+
+79.  Brassard P, Seifert T, Secher NH. Is cerebral oxygenation negatively affected by infusion of norepinephrine in healthy subjects? _Br J Anaesth_ . 2009;102:800–805.
+
+80.  Brassard P, Seifert T, Wissenberg M, et al. Phenylephrine decreases frontal lobe oxygenation at rest but not during moderately intense exercise. _J Appl Physiol (1985)_ . 2010;108:1472–1478.
+
+81.  Davie SN, Grocott HP. Impact of extracranial contamination on regional cerebral oxygen saturation: a comparison of three cerebral oximetry technologies. _Anesthesiology_ . 2012;116:834–840.
+
+82.  Drummond JC. Cerebral blood flow and the alpha- 1 agonist bogeyman. _Anesth Analg_ . 2012;114:478–479. author reply 479.
+
+83.  Jespersen SN, Ostergaard L. The roles of cerebral blood flow, capillary transit time heterogeneity, and oxygen tension in brain oxygenation and metabolism. _J Cerebr Blood Flow Metab_ . 2012;32:264–277.
+
+84.  Ostergaard L, Aamand R, Karabegovic S, et al. The role of the microcirculation in delayed cerebral ischemia and chronic degenerative changes after subarachnoid hemorrhage. _J Cerebr Blood Flow Metab_ . 2013;33:1825–1837.
+
+85.  Koch KU, Mikkelsen IK, Aanerud J, et al. Ephedrine versus phenylephrine effect on cerebral blood flow and oxygen consumption in anesthetized brain tumor patients: a randomized clinical trial. _Anesthesiology_ . 2020;133:304–317.
+
+86.  Koch KU, Mikkelsen IK, Espelund US, et al. Cerebral macro- and microcirculation during ephedrine versus phenylephrine treatment in anesthetized brain tumor patients: a randomized clinical trial using magnetic resonance imaging. _Anesthesiology_ . 2021;135:788– 803.
+
+87.  Zornow MH, Maze M, Dyck JB, Shafer SL. Dexmedetomidine decreases cerebral blood flow velocity in humans. _J Cerebr Blood Flow Metab_ . 1993;13:350–353.
+
+88.  Prielipp RC, Wall MH, Tobin JR, et al. Dexmedetomidine- induced sedation in volunteers decreases regional and global cerebral blood flow. _Anesth Analg_ . 2002;95:1052–1059.
+
+89.  Drummond JC, Dao AV, Roth DM, et al. Effect of dexmedetomidine on cerebral blood flow velocity, cerebral metabolic rate, and carbon dioxide response in normal humans. _Anesthesiology_ . 2008;108:225– 232.
+
+90.  Bryan Jr RM. Cerebral blood flow and energy metabolism during stress. _Am J Physiol_ . 1990;259:H269–H280.
+
+91.  Artru AA, Nugent M, Michenfelder JD. Anesthetics affect the cerebral metabolic response to circulatory catecholamines. _J Neurochem_ . 1981;36:1941–1946.
+
+92.  Madsen PL, Vorstrup S, Schmidt JF, Paulson OB. Effect of acute and prolonged treatment with propranolol on cerebral blood flow and cerebral oxygen metabolism in healthy volunteers. _Eur J Clin Pharmacol_ . 1990;39:295–297.
+
+93.  Schroeder T, Schierbeck J, Howardy P, et al. Effect of labetalol on cerebral blood flow and middle cerebral arterial flow velocity in healthy volunteers. _Neurol Res_ . 1991;13:10–12.
+
+94.  Darby JM, Yonas H, Marks EC, et al. Acute cerebral blood flow response to dopamine- induced hypertension after subarachnoid hemorrhage. _J Neurosurg_ . 1994;80:857–864.
+
+95.  Bandres J, Yao L, Nemoto EM, et al. Effects of dobutamine and dopamine on whole brain blood flow and metabolism in unanesthetized monkeys. _J Neurosurg Anesthesiol_ . 1992;4:250–256.
+
+96.  Townsend JB, Ziedonis DM, Bryan RM, et al. Choroid plexus blood flow: evidence for dopaminergic influence. _Brain Res_ . 1984;290:165–169.
+
+97.  Prielipp RC, Wall MH, Groban L, et al. Reduced regional and global cerebral blood flow during fenoldopam- induced hypotension in volunteers. _Anesth Analg_ . 2001;93:45–52.
+
+98.  Estrup TM, Paulson OB, Strandgaard S. No effect of angiotensin II AT(2)- receptor antagonist PD 123319 on cerebral blood flow autoregulation. _J Renin Angiotensin Aldosterone Syst_ . 2001;2:188–192.
+
+99.  Sare GM, Gray LJ, Bath PM. Effect of antihypertensive agents on cerebral blood flow and flow velocity in acute ischaemic stroke: systematic review of controlled studies. _J Hypertens_ . 2008;26:1058–1064.
+
+100.  Wright JW, Harding JW. Brain renin- angiotensin— a new look at an old system. _Prog Neurobiol_ . 2011;95:49–67.
+
+101.  Coleman PD, Flood DG. Neuron numbers and dendritic extent in normal aging and Alzheimer’s disease. _Neurobiol Aging_ . 1987;8:521– 545.
+
+<!-- PDF page 48 -->
+
+102.  Pakkenberg B, Gundersen HJ. Neocortical neuron number in humans: effect of sex and age. _J Comp Neurol_ . 1997;384:312–320.
+
+103.  Morrison JH, Baxter MG. The ageing cortical synapse: hallmarks and implications for cognitive decline. _Nat Rev Neurosci_ . 2012;13:240– 250.
+
+104.  Aanerud J, Borghammer P, Chakravarty MM, et al. Brain energy metabolism and blood flow differences in healthy aging. _J Cerebr Blood Flow Metab_ . 2012;32:1177–1187.
+
+105.  Oudegeest- Sander MH, van Beek AH, Abbink K, et al. Assessment of dynamic cerebral autoregulation and cerebrovascular CO2 reactivity in ageing by measurements of cerebral blood flow and cortical oxygenation. _Exp Physiol_ . 2014;99:586–598.
+
+106.  Todd MM, Weeks J. Comparative effects of propofol, pentobarbital, and isoflurane on cerebral blood flow and blood volume. _J Neurosurg Anesthesiol_ . 1996;8:296–303.
+
+107.  Powers WJ, Raichle ME. Positron emission tomography and its application to the study of cerebrovascular disease in man. _Stroke_ . 1985;16:361–376.
+
+108.  Gibbs JM, Wise RJ, Leenders KL, Jones T. Evaluation of cerebral perfusion reserve in patients with carotid- artery occlusion. _Lancet_ . 1984;1:310–314.
+
+109.  Ferrari M, Wilson DA, Hanley DF, Traystman RJ. Effects of graded hypotension on cerebral blood flow, blood volume, and mean transit time in dogs. _Am J Physiol_ . 1992;262:H1908–H1914.
+
+110.  Renou AM, Vernhiet J, Macrez P, et al. Cerebral blood flow and metabolism during etomidate anaesthesia in man. _Br J Anaesth_ . 1978;50:1047–1051.
+
+111.  Jobes DR, Kennell EM, Bush GL, et al. Cerebral blood flow and metabolism during morphine–nitrous oxide anesthesia in man. _Anesthesiology_ . 1977;47:16–18.
+
+112.  Vernhiet J, Macrez P, Renou AM, et al. [Effects of high doses of morphinomimetics (fentanyl and fentathienyl) on the cerebral circulation in normal subjects]. _Ann Anesthesiol Fr_ . 1977;18:803–810.
+
+113.  Stephan H, Groger P, Weyland A, et al. [The effect of sufentanil on cerebral blood flow, cerebral metabolism and the CO2 reactivity of the cerebral vessels in man]. _Anaesthesist_ . 1991;40:153–160.
+
+114.  Paris A, Scholz J, von Knobelsdorff G, et al. The effect of remifentanil on cerebral blood flow velocity. _Anesth Analg_ . 1998;87:569–573.
+
+115.  Cotev S, Shalit MN. Effects on diazepam on cerebral blood flow and oxygen uptake after head injury. _Anesthesiology_ . 1975;43:117–122.
+
+116.  Forster A, Juge O, Morel D. Effects of midazolam on cerebral blood flow in human volunteers. _Anesthesiology_ . 1982;56:453–455.
+
+117.  Pierce Jr EC, Lambertsen CJ, Deutsch S, et al. Cerebral circulation and metabolism during thiopental anesthesia and hyper- ventilation in man. _J Clin Invest_ . 1962;41:1664–1671.
+
+118.  Takeshita H, Okuda Y, Sari A. The effects of ketamine on cerebral circulation and metabolism in man. _Anesthesiology_ . 1972;36:69–75.
+
+119.  Stephan H, Sonntag H, Schenk HD, Kohlhausen S. [Effect of Disoprivan (propofol) on the circulation and oxygen consumption of the brain and CO2 reactivity of brain vessels in the human]. _Anaesthesist_ . 1987;36:60–65.
+
+120.  Kofke WA, Attaallah AF, Kuwabara H, et al. The neuropathologic effects in rats and neurometabolic effects in humans of large- dose remifentanil. _Anesth Analg_ . 2002;94:1229–1236.
+
+121.  Zornow MH, Fleischer JE, Scheller MS, et al. Dexmedetomidine, an alpha 2- adrenergic agonist, decreases cerebral blood flow in the isoflurane- anesthetized dog. _Anesth Analg_ . 1990;70:624–630.
+
+122.  Langsjo JW, Maksimow A, Salmi E, et al. S- ketamine anesthesia increases cerebral blood flow in excess of the metabolic needs in humans. _Anesthesiology_ . 2005;103:258–268.
+
+123.  Michenfelder JD. The interdependency of cerebral functional and metabolic effects following massive doses of thiopental in the dog. _Anesthesiology_ . 1974;41:231–236.
+
+124.  Astrup J, Rosenorn J, Cold GE, et al. Minimum cerebral blood flow and metabolism during craniotomy. Effect of thiopental loading. _Acta Anaesthesiol Scand_ . 1984;28:478–481.
+
+125.  Gronert GA, Michenfelder JD, Sharbrough FW, Milde JH. Canine cerebral metabolic tolerance during 24 hours deep pentobarbital anesthesia. _Anesthesiology_ . 1981;55:110–113.
+
+126.  Sawada Y, Sugimoto H, Kobayashi H, et al. Acute tolerance to highdose barbiturate treatment in patients with severe head injuries. _Anesthesiology_ . 1982;56:53–54.
+
+127.  Vandesteene A, Trempont V, Engelman E, et al. Effect of propofol on cerebral blood flow and metabolism in man. _Anaesthesia_ . 1988;43(Suppl):42–43.
+
+128.  Kaisti KK, Metsahonkala L, Teras M, et al. Effects of surgical levels of propofol and sevoflurane anesthesia on cerebral blood flow in healthy subjects studied with positron emission tomography. _Anesthesiology_ . 2002;96:1358–1370.
+
+129.  Kaisti KK, Langsjo JW, Aalto S, et al. Effects of sevoflurane, propofol, and adjunct nitrous oxide on regional cerebral blood flow, oxygen consumption, and blood volume in humans. _Anesthesiology_ . 2003;99:603–613.
+
+130.  Alkire MT, Haier RJ, Barker SJ, et al. Cerebral metabolism during propofol anesthesia in humans studied with positron emission tomography. _Anesthesiology_ . 1995;82:393–403. discussion 327A.
+
+131.  Petersen KD, Landsfeldt U, Cold GE, et al. Intracranial pressure and cerebral hemodynamic in patients with cerebral tumors: a randomized prospective study of patients subjected to craniotomy in propofol- fentanyl, isoflurane- fentanyl, or sevoflurane- fentanyl anesthesia. _Anesthesiology_ . 2003;98:329–336.
+
+132.  Fox J, Gelb AW, Enns J, et al. The responsiveness of cerebral blood flow to changes in arterial carbon dioxide is maintained during propofol- nitrous oxide anesthesia in humans. _Anesthesiology_ . 1992;77:453–456.
+
+133.  Craen RA, Gelb A, Murkin JM, Chong KY. Human cerebral autoregulation is maintained during propofol air/O2 anesthesia [abstract]. _J Neurosurg Anesthesiol_ . 1992;4:298.
+
+134.  Matta BF, Mayberg TS, Lam AM. Direct cerebrovasodilatory effects of halothane, isoflurane, and desflurane during propofol- induced isoelectric electroencephalogram in humans. _Anesthesiology_ . 1995;83:980–985. discussion 927A.
+
+135.  Cold GE, Eskesen V, Eriksen H, et al. CBF and CMRO2 during continuous etomidate infusion supplemented with N2O and fentanyl in patients with supratentorial cerebral tumour. A dose- response study. _Acta Anaesthesiol Scand_ . 1985;29:490–494.
+
+136.  Kofke WA, Dong ML, Bloom M, et al. Transcranial Doppler ultrasonography with induction of anesthesia for neurosurgery. _J Neurosurg Anesthesiol_ . 1994;6:89–97.
+
+137.  Bingham RM, Procaccio F, Prior PF, Hinds CJ. Cerebral electrical activity influences the effects of etomidate on cerebral perfusion pressure in traumatic coma. _Br J Anaesth_ . 1985;57:843–848.
+
+138.  Modica PA, Tempelhoff R. Intracranial pressure during induction of anaesthesia and tracheal intubation with etomidate- induced EEG burst suppression. _Can J Anaesth_ . 1992;39:236–241.
+
+139.  Dearden NM, McDowall DG. Comparison of etomidate and althesin in the reduction of increased intracranial pressure after head injury. _Br J Anaesth_ . 1985;57:361–368.
+
+140.  Hoffman WE, Charbel FT, Edelman G, et al. Comparison of the effect of etomidate and desflurane on brain tissue gases and pH during prolonged middle cerebral artery occlusion. _Anesthesiology_ . 1998;88:1188–1194.
+
+141.  Levy ML, Aranda M, Zelman V, Giannotta SL. Propylene glycol toxicity following continuous etomidate infusion for the control of refractory cerebral edema. _Neurosurgery_ . 1995;37:363–369. discussion 369–371.
+
+142.  Moyer JH, Pontius R, Morris G, Hershberger R. Effect of morphine and n- allylnormorphine on cerebral hemodynamics and oxygen metabolism. _Circulation_ . 1957;15:379–384.
+
+143.  Jobes DR, Kennell E, Bitner R, et al. Effects of morphine- nitrous oxide anesthesia on cerebral autoregulation. _Anesthesiology_ . 1975;42:30–34.
+
+144.  McPherson RW, Krempasanka E, Eimerl D, Traystman RJ. Effects of alfentanil on cerebral vascular reactivity in dogs. _Br J Anaesth_ . 1985;57:1232–1238.
+
+145.  Schregel W, Schafermeyer H, Muller C, et al. [The effect of halothane, alfentanil and propofol on blood flow velocity, blood vessel cross section and blood volume flow in the middle cerebral artery]. _Anaesthesist_ . 1992;41:21–26.
+
+146.  Mayberg TS, Lam AM, Eng CC, et al. The effect of alfentanil on cerebral blood flow velocity and intracranial pressure during isoflurane- nitrous oxide anesthesia in humans. _Anesthesiology_ . 1993;78:288–294.
+
+147.  Herrick IA, Gelb AW, Manninen PH, et al. Effects of fentanyl, sufentanil, and alfentanil on brain retractor pressure. _Anesth Analg_ . 1991;72:359–363.
+
+148.  From RP, Warner DS, Todd MM, Sokoll MD. Anesthesia for craniotomy: a double- blind comparison of alfentanil, fentanyl, and sufentanil. _Anesthesiology_ . 1990;73:896–904.
+
+149.  Mayer N, Weinstabl C, Podreka I, Spiss CK. Sufentanil does not increase cerebral blood flow in healthy human volunteers. _Anesthesiology_ . 1990;73:240–243.
+
+<!-- PDF page 49 -->
+
+150.  Werner C, Kochs E, Bause H, et al. Effects of sufentanil on cerebral hemodynamics and intracranial pressure in patients with brain injury. _Anesthesiology_ . 1995;83:721–726.
+
+151.  Wagner KJ, Willoch F, Kochs EF, et al. Dose- dependent regional cerebral blood flow changes during remifentanil infusion in humans: a positron emission tomography study. _Anesthesiology_ . 2001;94:732– 739.
+
+152.  Ostapkovich ND, Baker KZ, Fogarty- Mack P, et al. Cerebral blood flow and CO2 reactivity is similar during remifentanil/N2O and fentanyl/N2O anesthesia. _Anesthesiology_ . 1998;89:358–363.
+
+153.  Lorenz IH, Kolbitsch C, Hormann C, et al. The influence of nitrous oxide and remifentanil on cerebral hemodynamics in conscious human volunteers. _Neuroimage_ . 2002;17:1056–1064.
+
+154.  Kofke WA, Blissitt PA, Rao H, et al. Remifentanil- induced cerebral blood flow effects in normal humans: dose and ApoE genotype. _Anesth Analg_ . 2007;105:167–175.
+
+155.  Wiener J, McIntyre A, Janzen S, et al. Opioids and cerebral physiology in the acute management of traumatic brain injury: a systematic review. _Brain Inj_ . 2019;33:559–566.
+
+156.  Forster A, Juge O, Louis M, Nahory A. Effects of a specific benzodiazepine antagonist (RO 15- 1788) on cerebral blood flow. _Anesth Analg_ . 1987;66:309–313.
+
+157.  Veselis RA, Reinsel RA, Beattie BJ, et al. Midazolam changes cerebral blood flow in discrete brain regions: an H2(15)O positron emission tomography study. _Anesthesiology_ . 1997;87:1106–1117.
+
+158.  Forster A, Juge O, Morel D. Effects of midazolam on cerebral hemodynamics and cerebral vasomotor responsiveness to carbon dioxide. _J Cerebr Blood Flow Metab_ . 1983;3:246–249.
+
+159.  Wolf J, Friberg L, Jensen J, et al. The effect of the benzodiazepine antagonist flumazenil on regional cerebral blood flow in human volunteers. _Acta Anaesthesiol Scand_ . 1990;34:628–631.
+
+160.  Knudsen L, Cold GE, Holdgard HO, et al. Effects of flumazenil on cerebral blood flow and oxygen consumption after midazolam anaesthesia for craniotomy. _Br J Anaesth_ . 1991;67:277–280.
+
+161.  Chiolero RL, Ravussin P, Anderes JP, et al. The effects of midazolam reversal by RO 15- 1788 on cerebral perfusion pressure in patients with severe head injury. _Intensive Care Med_ . 1988;14:196–200.
+
+162.  Misfeldt BB, Jorgensen PB, Spotoft H, Ronde F. The effects of droperidol and fentanyl on intracranial pressure and cerebral perfusion pressure in neurosurgical patients. _Br J Anaesth_ . 1976;48:963–968.
+
+163.  Michenfelder JD, Theye RA. Effects of fentanyl, droperidol, and innovar on canine cerebral metabolism and blood flow. _Br J Anaesth_ . 1971;43:630–636.
+
+164.  Hawkins PCT, Wood TC, Vernon AC, et al. An investigation of regional cerebral blood flow and tissue structure changes after acute administration of antipsychotics in healthy male volunteers. _Hum Brain Mapp_ . 2018;39:319–331.
+
+165.  Strebel S, Kaufmann M, Maitre L, Schaefer HG. Effects of ketamine on cerebral blood flow velocity in humans. Influence of pretreatment with midazolam or esmolol. _Anaesthesia_ . 1995;50:223–228.
+
+166.  Cavazzuti M, Porro CA, Biral GP, et al. Ketamine effects on local cerebral blood flow and metabolism in the rat. _J Cerebr Blood Flow Metab_ . 1987;7:806–811.
+
+167.  Vollenweider FX, Leenders KL, Oye I, et al. Differential psychopathology and patterns of cerebral glucose utilisation produced by (S)- and (R)- ketamine in healthy volunteers using positron emission tomography (PET). _Eur Neuropsychopharmacol_ . 1997;7:25–38.
+
+168.  Vollenweider FX, Leenders KL, Scharfetter C, et al. Metabolic hyperfrontality and psychopathology in the ketamine model of psychosis using positron emission tomography (PET) and [18F]fluorodeoxyglucose (FDG). _Eur Neuropsychopharmacol_ . 1997;7:9–24.
+
+169.  Holcomb HH, Lahti AC, Medoff DR, et al. Sequential regional cerebral blood flow brain scans using PET with H2(15)O demonstrate ketamine actions in CNS dynamically. _Neuropsychopharmacology_ . 2001;25:165–172.
+
+170.  Schmidt A, Ryding E, Akeson J. Racemic ketamine does not abolish cerebrovascular autoregulation in the pig. _Acta Anaesthesiol Scand_ . 2003;47:569–575.
+
+171.  Mayberg TS, Lam AM, Matta BF, et al. Ketamine does not increase cerebral blood flow velocity or intracranial pressure during isoflurane/nitrous oxide anesthesia in patients undergoing craniotomy. _Anesth Analg_ . 1995;81:84–89.
+
+172.  Sakai K, Cho S, Fukusaki M, et al. The effects of propofol with and without ketamine on human cerebral blood flow velocity and CO(2) response. _Anesth Analg_ . 2000;90:377–382.
+
+173.  Albanese J, Arnaud S, Rey M, et al. Ketamine decreases intracranial pressure and electroencephalographic activity in traumatic brain injury patients during propofol sedation. _Anesthesiology_ . 1997;87:1328–1334.
+
+174.  Zeiler FA, Teitelbaum J, West M, Gillman LM. The ketamine effect on ICP in traumatic brain injury. _Neurocrit Care_ . 2014;21:163–173.
+
+175.  Zeiler FA, Sader N, Gillman LM, et al. The cerebrovascular response to ketamine: a systematic review of the animal and human literature. _J Neurosurg Anesthesiol_ . 2016;28:123–140.
+
+176.  Zeiler FA, Teitelbaum J, West M, Gillman LM. The ketamine effect on intracranial pressure in nontraumatic neurological illness. _J Crit Care_ . 2014;29:1096–1106.
+
+177.  Zeiler FA, Teitelbaum J, Gillman LM, West M. NMDA antagonists for refractory seizures. _Neurocrit Care_ . 2014;20:502–513.
+
+178.  Lam AM, Donlon E, Eng CC. The effect of lidocaine on cerebral blood flow and metabolism during normocapnia and hypocapnia in humans [abstract]. _Anesthesiology_ . 1993;79:A202.
+
+179.  Astrup J, Sorensen PM, Sorensen HR. Inhibition of cerebral oxygen and glucose consumption in the dog by hypothermia, pentobarbital, and lidocaine. _Anesthesiology_ . 1981;55:263–268.
+
+180.  Bedford RF, Persing JA, Pobereskin L, Butler A. Lidocaine or thiopental for rapid control of intracranial hypertension? _Anesth Analg_ . 1980;59:435–437.
+
+181.  Michenfelder JD, Milde JH. Influence of anesthetics on metabolic, functional and pathological responses to regional cerebral ischemia. _Stroke_ . 1975;6:405–410.
+
+182.  Todd MM, Drummond JC. A comparison of the cerebrovascular and metabolic effects of halothane and isoflurane in the cat. _Anesthesiology_ . 1984;60:276–282.
+
+183.  Lutz LJ, Milde JH, Milde LN. The cerebral functional, metabolic, and hemodynamic effects of desflurane in dogs. _Anesthesiology_ . 1990;73:125–131.
+
+184.  Scheller MS, Tateishi A, Drummond JC, Zornow MH. The effects of sevoflurane on cerebral blood flow, cerebral metabolic rate for oxygen, intracranial pressure, and the electroencephalogram are similar to those of isoflurane in the rabbit. _Anesthesiology_ . 1988;68:548– 551.
+
+185.  Maekawa T, Tommasino C, Shapiro HM, et al. Local cerebral blood flow and glucose utilization during isoflurane anesthesia in the rat. _Anesthesiology_ . 1986;65:144–151.
+
+186.  Michenfelder JD, Cucchiara RF. Canine cerebral oxygen consumption during enflurane anesthesia and its modification during induced seizures. _Anesthesiology_ . 1974;40:575–580.
+
+187.  Drummond JC, Todd MM, Scheller MS, Shapiro HM. A comparison of the direct cerebral vasodilating potencies of halothane and isoflurane in the New Zealand white rabbit. _Anesthesiology_ . 1986;65:462–467.
+
+188.  Hansen TD, Warner DS, Todd MM, et al. Distribution of cerebral blood flow during halothane versus isoflurane anesthesia in rats. _Anesthesiology_ . 1988;69:332–337.
+
+189.  Lenz C, Rebel A, van Ackern K, et al. Local cerebral blood flow, local cerebral glucose utilization, and flow- metabolism coupling during sevoflurane versus isoflurane anesthesia in rats. _Anesthesiology_ . 1998;89:1480–1488.
+
+190.  Drummond JC. Baseline cerebral metabolic rate is a critical determinant of the cerebral vasodilating potency of volatile anesthetic agents. _Anesthesiology_ . 2018;129:187–189.
+
+191.  Heath KJ, Gupta S, Matta BF. The effects of sevoflurane on cerebral hemodynamics during propofol anesthesia. _Anesth Analg_ . 1997;85:1284–1287.
+
+192.  Todd MM, Drummond JC, Shapiro HM. Comparative cerebrovascular and metabolic effects of halothane, enflurane and isoflurane [abstract]. _Anesthesiology_ . 1982;57:A332.
+
+193.  Mielck F, Stephan H, Buhre W, et al. Effects of 1 MAC desflurane on cerebral metabolism, blood flow and carbon dioxide reactivity in humans. _Br J Anaesth_ . 1998;81:155–160.
+
+194.  Sakabe T, Maekawa T, Fujii S, et al. Cerebral circulation and metabolism during enflurane anesthesia in humans. _Anesthesiology_ . 1983;59:532–536.
+
+195.  Mielck F, Stephan H, Weyland A, Sonntag H. Effects of one minimum alveolar anesthetic concentration sevoflurane on cerebral metabolism, blood flow, and CO2 reactivity in cardiac patients. _Anesth Analg_ . 1999;89:364–369.
+
+196.  Johnson J, Sperry RJ, Lam AM, Artru AA. A phase III, randomized, open- label study to compare sevoflurane and isoflurane in neurosurgical patients. _Anesth Analg_ . 1995;80(Supplj):S214.
+
+<!-- PDF page 50 -->
+
+197.  Ornstein E, Young WL, Fleischer LH, Ostapkovich N. Desflurane and isoflurane have similar effects on cerebral blood flow in patients with intracranial mass lesions. _Anesthesiology_ . 1993;79:498–502.
+
+198.  Kuroda Y, Murakami M, Tsuruta J, et al. Blood flow velocity of middle cerebral artery during prolonged anesthesia with halothane, isoflurane, and sevoflurane in humans. _Anesthesiology_ . 1997;87:527– 532.
+
+199.  Sanders RD, Maze M. Xenon: from stranger to guardian. _Curr Opin Anaesthesiol_ . 2005;18:405–411.
+
+200.  Franks NP, Dickinson R, de Sousa SL, et al. How does xenon produce anaesthesia? _Nature_ . 1998;396:324.
+
+201.  Gruss M, Bushell TJ, Bright DP, et al. Two- pore- domain K<sup>+</sup> channels are a novel target for the anesthetic gases xenon, nitrous oxide, and cyclopropane. _Mol Pharmacol_ . 2004;65:443–452.
+
+202.  Laitio RM, Kaisti KK, Laangsjo JW, et al. Effects of xenon anesthesia on cerebral blood flow in humans: a positron emission tomography study. _Anesthesiology_ . 2007;106:1128–1133.
+
+203.  Rex S, Schaefer W, Meyer PH, et al. Positron emission tomography study of regional cerebral metabolism during general anesthesia with xenon in humans. _Anesthesiology_ . 2006;105:936–943.
+
+204.  Schmidt M, Marx T, Papp- Jambor C, et al. Effect of xenon on cerebral autoregulation in pigs. _Anaesthesia_ . 2002;57:960–966.
+
+205.  Schmidt M, Marx T, Armbruster S, et al. Effect of Xenon on elevated intracranial pressure as compared with nitrous oxide and total intravenous anesthesia in pigs. _Acta Anaesthesiol Scand_ . 2005;49:494–501.
+
+206.  Reinelt H, Schirmer U, Marx T, et al. Diffusion of xenon and nitrous oxide into the bowel. _Anesthesiology_ . 2001;94:475–477. discussion 476A.
+
+207.  Grune F, Kazmaier S, Hoeks SE, et al. Argon does not affect cerebral circulation or metabolism in male humans. _PLoS One_ . 2017;12:e0171962.
+
+208.  Fraga M, Rama- Maceiras P, Rodino S, et al. The effects of isoflurane and desflurane on intracranial pressure, cerebral perfusion pressure, and cerebral arteriovenous oxygen content difference in normocapnic patients with supratentorial brain tumors. _Anesthesiology_ . 2003;98:1085–1090.
+
+209.  Milde LN, Milde JH. Cerebral effects of sufentanil in dogs with reduced intracranial compliance. _Anesth Analg_ . 1989;68(Suppl):S196.
+
+210.  Alkire MT, Haier RJ, Shah NK, Anderson CT. Positron emission tomography study of regional cerebral metabolism in humans during isoflurane anesthesia. _Anesthesiology_ . 1997;86:549–557.
+
+211.  Maksimow A, Kaisti K, Aalto S, et al. Correlation of EEG spectral entropy with regional cerebral blood flow during sevoflurane and propofol anaesthesia. _Anaesthesia_ . 2005;60:862–869.
+
+212.  Reinstrup P, Ryding E, Algotsson L, et al. Distribution of cerebral blood flow during anesthesia with isoflurane or halothane in humans. _Anesthesiology_ . 1995;82:359–366.
+
+213.  Eintrei C, Leszniewski W, Carlsson C. Local application of 133Xenon for measurement of regional cerebral blood flow (rCBF) during halothane, enflurane, and isoflurane anesthesia in humans. _Anesthesiology_ . 1985;63:391–394.
+
+214.  Boarini DJ, Kassell NF, Coester HC, et al. Comparison of systemic and cerebrovascular effects of isoflurane and halothane. _Neurosurgery_ . 1984;15:400–409.
+
+215.  Warner DS, Boarini DJ, Kassell NF. Cerebrovascular adaptation to prolonged halothane anesthesia is not related to cerebrospinal fluid pH. _Anesthesiology_ . 1985;63:243–248.
+
+216.  Albrecht RF, Miletich DJ, Madala LR. Normalization of cerebral blood flow during prolonged halothane anesthesia. _Anesthesiology_ . 1983;58:26–31.
+
+217.  Fleischer LH, Young WL, Ornstein E, Ostapkovich N. Cerebral blood flow in humans does not decline over time during isoflurane or desflurane anesthesia [abstract]. _Anesthesiology_ . 1992;77:A167.
+
+218.  Madsen JB, Cold GE, Hansen ES, Bardrum B. The effect of isoflurane on cerebral blood flow and metabolism in humans during craniotomy for small supratentorial cerebral tumors. _Anesthesiology_ . 1987;66:332–336.
+
+219.  Drummond JC, Todd MM. The response of the feline cerebral circulation to PaCO2 during anesthesia with isoflurane and halothane and during sedation with nitrous oxide. _Anesthesiology_ . 1985;62:268– 273.
+
+220.  Gupta S, Heath K, Matta BF. Effect of incremental doses of sevoflurane on cerebral pressure autoregulation in humans. _Br J Anaesth_ . 1997;79:469–472.
+
+221.  Vavilala MS, Lee LA, Lee M, et al. Cerebral autoregulation in children during sevoflurane anaesthesia. _Br J Anaesth_ . 2003;90:636–641.
+
+222.  Lu H, Werner C, Engelhard K, et al. The effects of sevoflurane on cerebral blood flow autoregulation in rats. _Anesth Analg_ . 1998;87:854–858.
+
+223.  Adams RW, Cucchiara RF, Gronert GA, et al. Isoflurane and cerebrospinal fluid pressure in neurosurgical patients. _Anesthesiology_ . 1981;54:97–99.
+
+224.  Campkin TV, Flinn RM. Isoflurane and cerebrospinal fluid pressure— a study in neurosurgical patients undergoing intracranial shunt procedures. _Anaesthesia_ . 1989;44:50–54.
+
+225.  Grosslight K, Foster R, Colohan AR, Bedford RF. Isoflurane for neuroanesthesia: risk factors for increases in intracranial pressure. _Anesthesiology_ . 1985;63:533–536.
+
+226.  Scheller MS, Todd MM, Drummond JC, Zornow MH. The intracranial pressure effects of isoflurane and halothane administered following cryogenic brain injury in rabbits. _Anesthiology_ . 1987;67:507–512.
+
+227.  Chui J, Mariappan R, Mehta J, et al. Comparison of propofol and volatile agents for maintenance of anesthesia during elective craniotomy procedures: systematic review and meta- analysis. _Can J Anaesth_ . 2014;61:347–356.
+
+228.  Field LM, Dorrance DE, Krzeminska EK, Barsoum LZ. Effect of nitrous oxide on cerebral blood flow in normal humans. _Br J Anaesth_ . 1993;70:154–159.
+
+229.  Eng C, Lam AM, Mayberg TS, et al. The influence of propofol with and without nitrous oxide on cerebral blood flow velocity and CO2 reactivity in humans. _Anesthesiology_ . 1992;77:872–879.
+
+230.  Henriksen HT, Jorgensen PB. The effect of nitrous oxide on intracranial pressure in patients with intracranial disorders. _Br J Anaesth_ . 1973;45:486–492.
+
+231.  Misfeldt BB, Jorgensen PB, Rishoj M. The effect of nitrous oxide and halothane upon the intracranial pressure in hypocapnic patients with intracranial disorders. _Br J Anaesth_ . 1974;46:853–858.
+
+232.  Wilson- Smith E, Karsli C, Luginbuehl IA, Bissonnette B. The effect of nitrous oxide on cerebral blood flow velocity in children anesthetized with propofol. _Acta Anaesthesiol Scand_ . 2003;47:307–311.
+
+233.  Lam AM, Mayberg TS, Eng CC, et al. Nitrous oxide- isoflurane anesthesia causes more cerebral vasodilation than an equipotent dose of isoflurane in humans. _Anesth Analg_ . 1994;78:462–468.
+
+234.  Strebel S, Kaufmann M, Anselmi L, Schaefer HG. Nitrous oxide is a potent cerebrovasodilator in humans when added to isoflurane. A trans cranial Doppler study. _Acta Anaesthesiol Scand_ . 1995;39:653–658.
+
+235.  Algotsson L, Messeter K, Rosen I, Holmin T. Effects of nitrous oxide on cerebral haemodynamics and metabolism during isoflurane anaesthesia in man. _Acta Anaesthesiol Scand_ . 1992;36:46–52.
+
+236.  Reinstrup P, Ryding E, Algotsson L, et al. Regional cerebral blood flow (SPECT) during anaesthesia with isoflurane and nitrous oxide in humans. _Br J Anaesth_ . 1997;78:407–411.
+
+237.  Reinstrup P, Ryding E, Ohlsson T, et al. Cerebral blood volume (CBV) in humans during normo- and hypocapnia: influence of nitrous oxide (N(2)O). _Anesthesiology_ . 2001;95:1079–1082.
+
+238.  Pelligrino DA, Miletich DJ, Hoffman WE, Albrecht RF. Nitrous oxide markedly increases cerebral cortical metabolic rate and blood flow in the goat. _Anesthesiology_ . 1984;60:405–412.
+
+239.  Baughman VL, Hoffman WE, Miletich DJ, Albrecht RF. Cerebrovascular and cerebral metabolic effects of N2O in unrestrained rats. _Anesthesiology_ . 1990;73:269–272.
+
+240.  Wollman H, Alexander SC, Cohen PJ, et al. Cerebral circulation of man during halothane anesthesia: effects of hypocarbia and of D- tubocurarine. _Anesthesiology_ . 1964;25:180–184.
+
+241.  Drummond JC, Scheller MS, Todd MM. The effect of nitrous oxide on cortical cerebral blood flow during anesthesia with halothane and isoflurane, with and without morphine, in the rabbit. _Anesth Analg_ . 1987;66:1083–1089.
+
+242.  Schramm WM, Papousek A, Michalek- Sauberer A, et al. The cerebral and cardiovascular effects of cisatracurium and atracurium in neurosurgical patients. _Anesth Analg_ . 1998;86:123–127.
+
+243.  Lanier WL, Milde JH, Michenfelder JD. The cerebral effects of pancuronium and atracurium in halothane- anesthetized dogs. _Anesthesiology_ . 1985;63:589–597.
+
+244.  Tateishi A, Fleischer JE, Drummond JC, et al. Nimodipine does not improve neurologic outcome after 14 minutes of cardiac arrest in cats. _Stroke_ . 1989;20:1044–1050.
+
+245.  Standaert FG. Magic bullets, science, and medicine. _Anesthesiology_ . 1985;63:577–578.
+
+<!-- PDF page 51 -->
+
+246.  Lanier WL, Iaizzo PA, Milde JH, Sharbrough FW. The cerebral and systemic effects of movement in response to a noxious stimulus in lightly anesthetized dogs. Possible modulation of cerebral function by muscle afferents. _Anesthesiology_ . 1994;80:392–401.
+
+247.  Stirt JA, Grosslight KR, Bedford RF, Vollmer D. “Defasciculation” with metocurine prevents succinylcholine- induced increases in intracranial pressure. _Anesthesiology_ . 1987;67:50–53.
+
+248.  Kovarik WD, Mayberg TS, Lam AM, et al. Succinylcholine does not change intracranial pressure, cerebral blood flow velocity, or the electroencephalogram in patients with neurologic injury. _Anesth Analg_ . 1994;78:469–473.
+
+249.  Artru AA. Relationship between cerebral blood volume and CSF pressure during anesthesia with isoflurane or fentanyl in dogs. _Anesthesiology_ . 1984;60:575–579.
+
+250.  Artru AA. Relationship between cerebral blood volume and CSF pressure during anesthesia with halothane or enflurane in dogs. _Anesthesiology_ . 1983;58:533–539.
+
+251.  Artru AA. Isoflurane does not increase the rate of CSF production in the dog. _Anesthesiology_ . 1984;60:193–197.
+
+252.  Artru AA. Effects of halothane and fentanyl anesthesia on resistance to reabsorption of CSF. _J Neurosurg_ . 1984;60:252–256.
+
+253.  Artru AA, Nugent M, Michenfelder JD. Enflurane causes a prolonged and reversible increase in the rate of CSF production in the dog. _Anesthesiology_ . 1982;57:255–260.
+
+254.  Maktabi MA, Elbokl FF, Faraci FM, Todd MM. Halothane decreases the rate of production of cerebrospinal fluid. Possible role of vasopressin V1 receptors. _Anesthesiology_ . 1993;78:72–82.
+
+255.  Artru AA. Rate of cerebrospinal fluid formation, resistance to reabsorption of cerebrospinal fluid, brain tissue water content, and electroencephalogram during desflurane anesthesia in dogs. _J Neurosurg Anesthesiol_ . 1993;5:178–186.
+
+256.  Tetrault S, Chever O, Sik A, Amzica F. Opening of the blood- brain barrier during isoflurane anaesthesia. _Eur J Neurosci_ . 2008;28:1330– 1341.
+
+257.  Thal SC, Luh C, Schaible EV, et al. Volatile anesthetics influence blood- brain barrier integrity by modulation of tight junction protein expression in traumatic brain injury. _PLoS One_ . 2012;7:e50752.
+
+258.  Altay O, Suzuki H, Hasegawa Y, et al. Isoflurane attenuates bloodbrain barrier disruption in ipsilateral hemisphere after subarachnoid hemorrhage in mice. _Stroke_ . 2012;43:2513–2516.
+
+259.  Modica PA, Tempelhoff R, White PF. Pro- and anticonvulsant effects of anesthetics (Part I). _Anesth Analg_ . 1990;70:303–315.
+
+260.  Modica PA, Tempelhoff R, White PF. Pro- and anticonvulsant effects of anesthetics (Part II). _Anesth Analg_ . 1990;70:433–444.
+
+261.  Kreisman NR, Magee JC, Brizzee BL. Relative hypoperfusion in rat cerebral cortex during recurrent seizures. _J Cerebr Blood Flow Metab_ . 1991;11:77–87.
+
+262.  Wollman H, Smith AL, Hoffman JC. Cerebral blood flow and oxygen consumption in man during electroencephalographic seizure patterns induced by anesthesia wth Ethrane [abstract]. _Fed Proc_ . 1967;28:356.
+
+263.  Flemming DC, Fitzpatrick J, Fariello RG. Diagnostic activation of epileptogenic foci by enflurane. _Anesthesiology_ . 1980;52:431–433.
+
+264.  Hymes JA. Seizure activity during isoflurane anesthesia. _Anesth Analg_ . 1985;64:367–368.
+
+265.  Harrison JL. Postoperative seizures after isoflurane anesthesia. _Anesth Analg_ . 1986;65:1235–1236.
+
+266.  Kofke WA, Young RS, Davis P, et al. Isoflurane for refractory status epilepticus: a clinical series. _Anesthesiology_ . 1989;71:653–659.
+
+267.  Komatsu H, Nogaya J, Ogli K. Volatile anaesthetics as central nervous system excitants. _Ann Acad Med Singap_ . 1994;23:130–138.
+
+268.  Kaisti KK, Jaaskelainen SK, Rinne JO, et al. Epileptiform discharges during 2 MAC sevoflurane anesthesia in two healthy volunteers. _Anesthesiology_ . 1999;91:1952–1955.
+
+269.  Hisada K, Morioka T, Fukui K, et al. Effects of sevoflurane and isoflurane on electrocorticographic activities in patients with temporal lobe epilepsy. _J Neurosurg Anesthesiol_ . 2001;13:333–337.
+
+270.  Hilty CA, Drummond JC. Seizure- like activity on emergence from sevoflurane anesthesia. _Anesthesiology_ . 2000;93:1357–1359.
+
+271.  Terasako K, Ishii S. Postoperative seizure- like activity following sevoflurane anesthesia. _Anesth Analg_ . 2003;96:1239–1240.
+
+272.  Todd MM, Drummond JC, U HS. The hemodynamic consequences of high- dose methohexital anesthesia in humans. _Anesthesiology_ . 1984;61:495–501.
+
+273.  Bennett DR, Madsen JA, Jordan WS, Wiser WC. Ketamine anesthesia in brain- damaged epileptics. Electroencephalographic and clinical observations. _Neurology_ . 1973;23:449–460.
+
+274.  Ferrer- Allado T, Brechner VL, Dymond A, et al. Ketamine- induced electroconvulsive phenomena in the human limbic and thalamic regions. _Anesthesiology_ . 1973;38:333–344.
+
+275.  Steen PA, Michenfelder JD. Neurotoxicity of anesthetics. _Anesthesiology_ . 1979;50:437–453.
+
+276.  Hirshman CA, Krieger W, Littlejohn G, et al. Ketamineaminophylline- induced decrease in seizure threshold. _Anesthesiology_ . 1982;56:464–467.
+
+277.  Ghoneim MM, Yamada T. Etomidate: a clinical and electroencephalographic comparison with thiopental. _Anesth Analg_ . 1977;56:479– 485.
+
+278.  Laughlin TP, Newberg LA. Prolonged myoclonus after etomidate anesthesia. _Anesth Analg_ . 1985;64:80–82.
+
+279.  Ebrahim ZY, DeBoer GE, Luders H, et al. Effect of etomidate on the electroencephalogram of patients with epilepsy. _Anesth Analg_ . 1986;65:1004–1006.
+
+280.  Gancher S, Laxer KD, Krieger W. Activation of epileptogenic activity by etomidate. _Anesthesiology_ . 1984;61:616–618.
+
+281.  Samra SK, Sneyd JR, Ross DA, Henry TR. Effects of propofol sedation on seizures and intracranially recorded epileptiform activity in patients with partial epilepsy. _Anesthesiology_ . 1995;82:843–851.
+
+282.  Rampton AJ, Griffin RM, Stuart CS, et al. Comparison of methohexital and propofol for electroconvulsive therapy: effects on hemodynamic responses and seizure duration. _Anesthesiology_ . 1989;70:412–417.
+
+283.  Drummond JC, Iragui- Madoz VJ, Alksne JF, Kalkman CJ. Masking of epileptiform activity by propofol during seizure surgery. _Anesthesiology_ . 1992;76:652–654.
+
+284.  Firestone LL, Gyulai F, Mintun M, et al. Human brain activity response to fentanyl imaged by positron emission tomography. _Anesth Analg_ . 1996;82:1247–1251.
+
+285.  Smith NT, Westover Jr CJ, Quinn M, et al. An electroencephalographic comparison of alfentanil with other narcotics and with thiopental. _J Clin Monit_ . 1985;1:236–244.
+
+286.  Tempelhoff R, Modica PA, Bernardo KL, Edwards I. Fentanylinduced electrocorticographic seizures in patients with complex partial epilepsy. _J Neurosurg_ . 1992;77:201–208.
+
+287.  Cascino GD, So EL, Sharbrough FW, et al. Alfentanil- induced epileptiform activity in patients with partial epilepsy. _J Clin Neurophysiol_ . 1993;10:520–525.
+
+288.  Astrup J, Symon L, Branston NM, Lassen NA. Cortical evoked potential and extracellular K<sup>+</sup> and H<sup>+</sup> at critical levels of brain ischemia. _Stroke_ . 1977;8:51–57.
+
+289.  Hossmann KA. Viability thresholds and the penumbra of focal ischemia. _Ann Neurol_ . 1994;36:557–565.
+
+290.  Michenfelder JD, Sundt TM, Fode N, Sharbrough FW. Isoflurane when compared to enflurane and halothane decreases the frequency of cerebral ischemia during carotid endarterectomy. _Anesthesiology_ . 1987;67:336–340.
+
+291.  Sundt Jr TM, Sharbrough FW, Piepgras DG, et al. Correlation of cerebral blood flow and electroencephalographic changes during carotid endarterectomy: with results of surgery and hemodynamics of cerebral ischemia. _Mayo Clin Proc_ . 1981;56:533–543.
+
+292.  Michenfelder JD, Sundt Jr TM. Cerebral ATP and lactate levels in the squirrel monkey following occlusion of the middle cerebral artery. _Stroke_ . 1971;2:319–326.
+
+293.  Michenfelder JD, Theye RA. The effects of anesthesia and hypothermia on canine cerebral ATP and lactate during anoxia produced by decapitation. _Anesthesiology_ . 1970;33:430–439.
+
+294.  Siesjo BK. Pathophysiology and treatment of focal cerebral ischemia. Part I: pathophysiology. _J Neurosurg_ . 1992;77:169–184.
+
+295.  Lipton P. Ischemic cell death in brain neurons. _Physiol Rev_ . 1999;79:1431–1568.
+
+296.  Fiskum G, Murphy AN, Beal MF. Mitochondria in neurodegeneration: acute ischemia and chronic neurodegenerative diseases. _J Cerebr Blood Flow Metab_ . 1999;19:351–369.
+
+297.  Velier JJ, Ellison JA, Kikly KK, et al. Caspase- 8 and caspase- 3 are expressed by different populations of cortical neurons undergoing delayed cell death after focal stroke in the rat. _J Neurosci_ . 1999;19:5932–5941.
+
+298.  Kawaguchi M, Kimbro JR, Drummond JC, et al. Isoflurane delays but does not prevent cerebral infarction in rats subjected to focal ischemia. _Anesthesiology_ . 2000;92:1335–1342.
+
+299.  Powers WJ, Rabinstein AA, Ackerson T, et al. Guidelines for the early management of patients with acute ischemic stroke: 2019 update to the 2018 guidelines for the early management of acute ischemic stroke: a guideline for healthcare professionals from the
+
+<!-- PDF page 52 -->
+
+American Heart Association/American Stroke Association. _Stroke_ . 2019;50:e344–e418.
+
+300.  Nogueira RG, Jadhav AP, Haussen DC, et al. DAWN Trial Investigators. Thrombectomy 6 to 24 hours after stroke with a mismatch between deficit and infarct. _N Engl J Med_ . 2018;378:11–21.
+
+301.  Albers GW, Marks MP, Kemp S, et al. For the DEFUSE 3 Investigators. Thrombectomy for stroke at 6 to 16 hours with selection by perfusion imaging. _N Engl J Med_ . 2018;378:708–718.
+
+302.  Zauner A, Daugherty WP, Bullock MR, Warner DS. Brain oxygenation and energy metabolism: part I— biological function and pathophysiology. _Neurosurgery_ . 2002;51:289–301. discussion 302.
+
+303.  Mattson MP, Duan W, Pedersen WA, Culmsee C. Neurodegenerative disorders and ischemic brain diseases. _Apoptosis_ . 2001;6:69–81.
+
+304.  Dirnagl U, Iadecola C, Moskowitz MA. Pathobiology of ischaemic stroke: an integrated view. _Trends Neurosci_ . 1999;22:391–397.
+
+305.  del Zoppo GJ. Aging and the neurovascular unit. _Ann N Y Acad Sci_ . 2012;1268:127–133.
+
+306.  Del Zoppo GJ. Toward the neurovascular unit. A journey in clinical translation: 2012 Thomas Willis Lecture. _Stroke_ . 2013;44:263– 269.
+
+307.  Dirnagl U. Pathobiology of injury after stroke: the neurovascular unit and beyond. _Ann N Y Acad Sci_ . 2012;1268:21–25.
+
+308.  Heiss WD. The ischemic penumbra: how does tissue injury evolve? _Ann N Y Acad Sci_ . 2012;1268:26–34.
+
+309.  Hossmann KA. The two pathophysiologies of focal brain ischemia: implications for translational stroke research. _J Cerebr Blood Flow Metab_ . 2012;32:1310–1316.
+
+310.  van der Spuy WJ, Pretorius E. Interrelation between inflammation, thrombosis, and neuroprotection in cerebral ischemia. _Rev Neurosci_ . 2012;23:269–278.
+
+311.  Abramson NA. Randomized clinical study of thiopental loading in comatose survivors of cardiac arrest. _N Engl J Med_ . 1986;314:397– 403.
+
+312.  Forsman M, Aarseth HP, Nordby HK, et al. Effects of nimodipine on cerebral blood flow and cerebrospinal fluid pressure after cardiac arrest: correlation with neurologic outcome. _Anesth Analg_ . 1989;68:436–443.
+
+313.  Roine RO, Kaste M, Kinnunen A, et al. Nimodipine after resuscitation from out- of- hospital ventricular fibrillation. A placebocontrolled, double- blind, randomized trial. _JAMA_ . 1990;264: 3171–3177.
+
+314.  Brain Resuscitation Clinical Trial II Study Group. A randomized clinical study of a calcium- entry blocker (lidoflazine) in the treatment of comatose survivors of cardiac arrest. _N Engl J Med_ . 1991;324:1225– 1231.
+
+315.  Hypothermia after Cardiac Arrest Study Group. Mild therapeutic hypothermia to improve the neurologic outcome after cardiac arrest. _N Engl J Med_ . 2002;346:549–556.
+
+316.  Bernard SA, Gray TW, Buist MD, et al. Treatment of comatose survivors of out- of- hospital cardiac arrest with induced hypothermia. _N Engl J Med_ . 2002;346:557–563.
+
+317.  Shankaran S, Laptook AR, Ehrenkranz RA, et al. Whole- body hypothermia for neonates with hypoxic- ischemic encephalopathy. _N Engl J Med_ . 2005;353:1574–1584.
+
+318.  Shankaran S, Pappas A, McDonald SA, et al. Childhood outcomes after hypothermia for neonatal encephalopathy. _N Engl J Med_ . 2012;366:2085–2092.
+
+319.  Nielsen N, Wetterslev J, Cronberg T, et al. Targeted temperature management at 33 degrees C versus 36 degrees C after cardiac arrest. _N Engl J Med_ . 2013;369:2197–2206.
+
+320.  Dankiewicz J, Cronberg T, Lilja G, et al. Hypothermia versus normothermia after out- of- hospital cardiac arrest. _N Engl J Med_ . 2021;384:2283–2294.
+
+321.  Morrison LJ, Thoma B. Translating targeted temperature management trials into postarrest care. _N Engl J Med_ . 2021;384:2344– 2345.
+
+322.  Donnino MW, Andersen LW, Berg KM, et al. Temperature management after cardiac arrest: an Advisory Statement by the Advanced Life Support Task Force of the International Liaison Committee on Resuscitation and the American Heart Association Emergency Cardiovascular Care Committee and the Council on Cardiopulmonary, Critical Care, Perioperative and Resuscitation. _Resuscitation_ . 2016;98:97–104.
+
+323.  Nolan JP, Sandroni C, Bottiger BW, et al. European Resuscitation Council and European Society of Intensive Care Medicine guidelines 2021: post- resuscitation care. _Resuscitation_ . 2021;161:220–269.
+
+324.  Hoffman WE, Cheng MA, Thomas C, et al. Clonidine decreases plasma catecholamines and improves outcome from incomplete ischemia in the rat. _Anesth Analg_ . 1991;73:460–464.
+
+325.  Hoffman WE, Thomas C, Albrecht RF. The effect of halothane and isoflurane on neurologic outcome following incomplete cerebral ischemia in the rat. _Anesth Analg_ . 1993;76:279–283.
+
+326.  Smith AL, Hoff JT, Nielsen SL, Larson CP. Barbiturate protection in acute focal cerebral ischemia. _Stroke_ . 1974;5:1–7.
+
+327.  Michenfelder JD, Milde JH, Sundt Jr TM. Cerebral protection by barbiturate anesthesia. Use after middle cerebral artery occlusion in Java monkeys. _Arch Neurol_ . 1976;33:345–350.
+
+328.  Nehls DG, Todd MM, Spetzler RF, et al. A comparison of the cerebral protective effects of isoflurane and barbiturates during temporary focal ischemia in primates. _Anesthesiology_ . 1987;66:453–464.
+
+329.  Nussmeier NA, Arlund C, Slogoff S. Neuropsychiatric complications after cardiopulmonary bypass: cerebral protection by a barbiturate. _Anesthesiology_ . 1986;64:165–170.
+
+330.  Shapiro HM. Barbiturates in brain ischaemia. _Br J Anaesth_ . 1985;57:82–95.
+
+331.  Warner DS, Takaoka S, Wu B, et al. Electroencephalographic burst suppression is not required to elicit maximal neuroprotection from pentobarbital in a rat model of focal cerebral ischemia. _Anesthesiology_ . 1996;84:1475–1484.
+
+332.  Busto R, Dietrich WD, Globus MY, et al. Small differences in intraischemic brain temperature critically determine the extent of ischemic neuronal injury. _J Cerebr Blood Flow Metab_ . 1987;7:729–738.
+
+333.  Sano T, Drummond JC, Patel PM, et al. A comparison of the cerebral protective effects of isoflurane and mild hypothermia in a model of incomplete forebrain ischemia in the rat. _Anesthesiology_ . 1992;76:221–228.
+
+334.  Warner DS, Zhou JG, Ramani R, Todd MM. Reversible focal ischemia in the rat: effects of halothane, isoflurane, and methohexital anesthesia. _J Cerebr Blood Flow Metab_ . 1991;11:794–802.
+
+335.  Drummond JC, Cole DJ, Patel PM, Reynolds LW. Focal cerebral ischemia during anesthesia with etomidate, isoflurane, or thiopental: a comparison of the extent of cerebral injury. _Neurosurgery_ . 1995;37:742–748. discussion 748–749.
+
+336.  Cole DJ, Cross LM, Drummond JC, et al. Thiopentone and methohexital, but not pentobarbitone, reduce early focal cerebral ischemic injury in rats. _Can J Anaesth_ . 2001;48:807–814.
+
+337.  Hindman BJ, Bayman EO, Pfisterer WK, et al. No association between intraoperative hypothermia or supplemental protective drug and neurologic outcomes in patients undergoing temporary clipping during cerebral aneurysm surgery: findings from the Intraoperative Hypothermia for Aneurysm Surgery Trial. _Anesthesiology_ . 2010;112:86–101.
+
+338.  Baughman VL, Hoffman WE, Miletich DJ, et al. Neurologic outcome in rats following incomplete cerebral ischemia during halothane, isoflurane, or N2O. _Anesthesiology_ . 1988;69:192–198.
+
+339.  Soonthon- Brant V, Patel PM, Drummond JC, et al. Fentanyl does not increase brain injury after focal cerebral ischemia in rats. _Anesth Analg_ . 1999;88:49–55.
+
+340.  Mackensen GB, Nellgard B, Kudo M, et al. Periischemic cerebral blood flow (CBF) does not explain beneficial effects of isoflurane on outcome from near- complete forebrain ischemia in rats. _Anesthesiology_ . 2000;93:1102–1106.
+
+341.  Nellgard B, Mackensen GB, Pineda J, et al. Anesthetic effects on cerebral metabolic rate predict histologic outcome from near- complete forebrain ischemia in the rat. _Anesthesiology_ . 2000;93:431–436.
+
+342.  Kawaguchi M, Drummond J, Cole DJ, et al. Effect of isoflurane on neuronal apoptosis in rats subjected to focal cerebral ischemia. _Anesth Analg_ . 2004;98(3):798–805.
+
+343.  Sakai H, Sheng H, Yates RB, et al. Isoflurane provides long- term protection against focal cerebral ischemia in the rat. _Anesthesiology_ . 2007;106:92–99. discussion 98–100.
+
+344.  Warner DS, McFarlane C, Todd MM, et al. Sevoflurane and halothane reduce focal ischemic brain damage in the rat. Possible influence on thermoregulation. _Anesthesiology_ . 1993;79:985–992.
+
+345.  Werner C, Mollenberg O, Kochs E, Schulte JE. Sevoflurane improves neurological outcome after incomplete cerebral ischaemia in rats. _Br J Anaesth_ . 1995;75:756–760.
+
+346.  Engelhard K, Werner C, Reeker W, et al. Desflurane and isoflurane improve neurological outcome after incomplete cerebral ischaemia in rats. _Br J Anaesth_ . 1999;83:415–421.
+
+<!-- PDF page 53 -->
+
+347.  Wilhelm S, Ma D, Maze M, Franks NP. Effects of xenon on in vitro and in vivo models of neuronal injury. _Anesthesiology_ . 2002;96:1485– 1491.
+
+348.  Homi HM, Yokoo N, Ma D, et al. The neuroprotective effect of xenon administration during transient middle cerebral artery occlusion in mice. _Anesthesiology_ . 2003;99:876–881.
+
+349.  Ma D, Yang H, Lynch J, et al. Xenon attenuates cardiopulmonary bypass- induced neurologic and neurocognitive dysfunction in the rat. _Anesthesiology_ . 2003;98:690–698.
+
+350.  Ma D, Hossain M, Chow A, et al. Xenon and hypothermia combine to provide neuroprotection from neonatal asphyxia. _Ann Neurol_ . 2005;58:182–193.
+
+351.  Ma D, Hossain M, Pettet GK, et al. Xenon preconditioning reduces brain damage from neonatal asphyxia in rats. _J Cerebr Blood Flow Metab_ . 2006;26:199–208.
+
+352.  Jevtovic- Todorovic V, Beals J, Benshoff N, Olney JW. Prolonged exposure to inhalational anesthetic nitrous oxide kills neurons in adult rat brain. _Neuroscience_ . 2003;122:609–616.
+
+353.  Williamson P, Ma D, Hossain M. Xenon does not cause apoptotic neurodegeneration in the neonatal rat, and protects agains isoflurane- induced apoptosis [abstract]. _J Neurosurg Anesthesiol_ . 2004;16:356.
+
+354.  Liang M, Ahmad F, Dickinson R. Neuroprotection by the noble gases argon and xenon as treatments for acquired brain injury: a preclinical systematic review and meta- analysis. _Br J Anaesth_ . 2022;129:200–218.
+
+355.  Gardner AJ, Menon DK. Moving to human trials for argon neuroprotection in neurological injury: a narrative review. _Br J Anaesth_ . 2018;120:453–468.
+
+356.  Ravussin P, de Tribolet N. Total intravenous anesthesia with propofol for burst suppression in cerebral aneurysm surgery: preliminary report of 42 patients. _Neurosurgery_ . 1993;32:236–240. discussion 240.
+
+357.  Ridenour TR, Warner DS, Todd MM, Gionet TX. Comparative effects of propofol and halothane on outcome from temporary middle cerebral artery occlusion in the rat. _Anesthesiology_ . 1992;76:807–812.
+
+358.  Gelb AW, Bayona NA, Wilson JX, Cechetto DF. Propofol anesthesia compared to awake reduces infarct size in rats. _Anesthesiology_ . 2002;96:1183–1190.
+
+359.  Pittman JE, Sheng H, Pearlstein R, et al. Comparison of the effects of propofol and pentobarbital on neurologic outcome and cerebral infarct size after temporary focal ischemia in the rat. _Anesthesiology_ . 1997;87:1139–1144.
+
+360.  Bayona NA, Gelb AW, Jiang Z, et al. Propofol neuroprotection in cerebral ischemia and its effects on low- molecular- weight antioxidants and skilled motor tasks. _Anesthesiology_ . 2004;100:1151–1159.
+
+361.  Batjer HH, Frankfurt AI, Purdy PD, et al. Use of etomidate, temporary arterial occlusion, and intraoperative angiography in surgical treatment of large and giant cerebral aneurysms. _J Neurosurg_ . 1988;68:234–240.
+
+362.  Nebauer AE, Doenicke A, Hoernecke R, et al. Does etomidate cause haemolysis? _Br J Anaesth_ . 1992;69:58–60.
+
+363.  Pickard JD, Murray GD, Illingworth R, et al. Effect of oral nimodipine on cerebral infarction and outcome after subarachnoid haemorrhage: British aneurysm nimodipine trial. _BMJ_ . 1989;298:636–642.
+
+364.  Trust Study Group. Randomised, double- blind, placebo- controlled trial of nimodipine in acute stroke. _Lancet_ . 1990;336:1205–1209.
+
+365.  Drummond JC, Oh YS, Cole DJ, Shapiro HM. Phenylephrine- induced hypertension reduces ischemia following middle cerebral artery occlusion in rats. _Stroke_ . 1989;20:1538–1544.
+
+366.  Young WL, Solomon RA, Pedley TA, et al. Direct cortical EEG monitoring during temporary vascular occlusion for cerebral aneurysm surgery. _Anesthesiology_ . 1989;71:794–799.
+
+367.  Ahmed N, Nasman P, Wahlgren NG. Effect of intravenous nimodipine on blood pressure and outcome after acute stroke. _Stroke_ . 2000;31:1250–1255.
+
+368.  Steiner T, Juvela S, Unterberg A, et al.; European Stroke Organization. European Stroke Organization guidelines for the management of intracranial aneurysms and subarachnoid haemorrhage. _Cerebrovasc Dis_ . 2013;35:93–112.
+
+369.  Carney N, Totten AM, O’Reilly C, et al. Guidelines for the management of severe traumatic brain injury, fourth edition. _Neurosurgery_ . 2017;80:6–15.
+
+370.  Connolly Jr ES, Rabinstein AA, Carhuapoma JR, et al. Guidelines for the management of aneurysmal subarachnoid hemorrhage:
+
+a guideline for healthcare professionals from the American Heart Association/American Stroke Association. _Stroke_ . 2012;43:1711– 1737.
+
+371.  Artru AA, Merriman HG. Hypocapnia added to hypertension to reverse EEG changes during carotid endarterectomy. _Anesthesiology_ . 1989;70:1016–1018.
+
+372.  Waltz AG, Sundt Jr TM, Michenfelder JD. Cerebral blood flow during carotid endarterectomy. _Circulation_ . 1972;45:1091–1096.
+
+373.  Christensen MS, Paulson OB, Olesen J, et al. Cerebral apoplexy (stroke) treated with or without prolonged artificial hyperventilation. 1. Cerebral circulation, clinical course, and cause of death. _Stroke_ . 1973;4:568–631.
+
+374.  Ruta TS, Drummond JC, Cole DJ. The effect of acute hypocapnia on local cerebral blood flow during middle cerebral artery occlusion in isoflurane anesthetized rats. _Anesthesiology_ . 1993;78:134–140.
+
+375.  Dell’Anna AM, Lamanna I, Vincent JL, Taccone FS. How much oxygen in adult cardiac arrest? _Crit Care_ . 2014;18:555.
+
+376.  de Jonge E, Peelen L, Keijzers PJ, et al. Association between administered oxygen, arterial partial oxygen pressure and mortality in mechanically ventilated intensive care unit patients. _Crit Care_ . 2008;12:R156.
+
+377.  Kilgannon JH, Jones AE, Shapiro NI, et al. Association between arterial hyperoxia following resuscitation from cardiac arrest and inhospital mortality. _JAMA_ . 2010;303:2165–2171.
+
+378.  Elmer J, Scutella M, Pullalarevu R, et al. The association between hyperoxia and patient outcomes after cardiac arrest: analysis of a high- resolution database. _Intensive Care Med_ . 2015;41:49–57.
+
+379.  Vaahersalo J, Bendel S, Reinikainen M, et al. Arterial blood gas tensions after resuscitation from out- of- hospital cardiac arrest: associations with long- term neurologic outcome. _Crit Care Med_ . 2014;42:1463–1470.
+
+380.  Vilalta A, Sahuquillo J, Merino MA, et al. Normobaric hyperoxia in traumatic brain injury: does brain metabolic state influence the response to hyperoxic challenge? _J Neurotrauma_ . 2011;28:1139– 1148.
+
+381.  Davis DP, Meade W, Sise MJ, et al. Both hypoxemia and extreme hyperoxemia may be detrimental in patients with severe traumatic brain injury. _J Neurotrauma_ . 2009;26:2217–2223.
+
+382.  Brenner M, Stein D, Hu P, et al. Association between early hyperoxia and worse outcomes after traumatic brain injury. _Arch Surg_ . 2012;147:1042–1046.
+
+383.  Roffe C, Ali K, Warusevitane A, et al. The SOS pilot study: a RCT of routine oxygen supplementation early after acute stroke— effect on recovery of neurological function at one week. _PLoS One_ . 2011;6:e19113.
+
+384.  Lång M, Raj R, Skrifvars MB, et al. Early moderate hyperoxemia does not predict outcome after aneurysmal subarachnoid hemorrhage. _Neurosurgery_ . 2016;78:540–545.
+
+385.  Bray JE, Smith K, Hein C, et al. The EXACT protocol: a multi- centre, single- blind, randomised, parallel- group, controlled trial to determine whether early oxygen titration improves survival to hospital discharge in adult OHCA patients. _Resuscitation_ . 2019;139:208–213.
+
+386.  Nemoto EM, Klementavicius R, Melick JA, Yonas H. Suppression of cerebral metabolic rate for oxygen (CMRO2) by mild hypothermia compared with thiopental. _J Neurosurg Anesthesiol_ . 1996;8:52–59.
+
+387.  Klementavicius R, Nemoto EM, Yonas H. The Q10 ratio for basal cerebral metabolic rate for oxygen in rats. _J Neurosurg_ . 1996;85:482– 487.
+
+388.  Boris- Moller F, Smith ML, Siesjo BK. Effects of hypothermia on ischemic brain damage: a comparison between preischemic and postischemia cooling. _Neurosci Res Comm_ . 1989;10:311–316.
+
+389.  Buchan A, Pulsinelli WA. Hypothermia but not the N- methylD- aspartate antagonist, MK- 801, attenuates neuronal damage in gerbils subjected to transient global ischemia. _J Neurosci_ . 1990;10:311–316.
+
+390.  Hindman BJ, Todd MM, Gelb AW, et al. Mild hypothermia as a protective therapy during intracranial aneurysm surgery: a randomized prospective pilot trial. _Neurosurgery_ . 1999;44:23–32. discussion 32–23.
+
+391.  Todd MM, Hindman BJ, Clarke WR, Torner JC. Mild intraoperative hypothermia during surgery for intracranial aneurysm. _N Engl J Med_ . 2005;352:135–145.
+
+392.  Shiozaki T, Sugimoto H, Taneda M, et al. Effect of mild hypothermia on uncontrollable intracranial hypertension after severe head injury. _J Neurosurg_ . 1993;79:363–368.
+
+<!-- PDF page 54 -->
+
+393.  Clifton GL, Allen S, Barrodale P, et al. A phase II study of moderate hypothermia in severe brain injury. _J Neurotrauma_ . 1993;10:263– 271. discussion 273.
+
+394.  Clifton GL, Miller ER, Choi SC, et al. Lack of effect of induction of hypothermia after acute brain injury. _N Engl J Med_ . 2001;344:556– 563.
+
+395.  Kammersgaard LP, Rasmussen BH, Jorgensen HS, et al. Feasibility and safety of inducing modest hypothermia in awake patients with acute stroke through surface cooling: a case- control study: the Copenhagen Stroke Study. _Stroke_ . 2000;31:2251–2256.
+
+396.  Wass CT, Lanier WL, Hofer RE, et al. Temperature changes of > or = 1 degree C alter functional neurologic outcome and histopathology in a canine model of complete cerebral ischemia. _Anesthesiology_ . 1995;83:325–335.
+
+397.  Vannucci RC, Brucklacher RM, Vannucci SJ, Vannucci SJ. The effect of hyperglycemia on cerebral metabolism during hypoxia- ischemia in the immature rat. _J Cereb Blood Flow Metab_ . 1996;16(5):1026– 1033.
+
+398.  Weir CJ, Murray GD, Dyker AG, Lees KR. Is hyperglycaemia an independent predictor of poor outcome after acute stroke? Results of a long- term follow up study. _BMJ_ . 1997;314:1303–1306.
+
+399.  Bruno A, Levine SR, Frankel MR, et al. Admission glucose level and clinical outcomes in the NINDS rt- PA Stroke Trial. _Neurology_ . 2002;59:669–674.
+
+400.  Gray CS, Hildreth AJ, Sandercock PA, et al. Glucose- potassiuminsulin infusions in the management of post- stroke hyperglycaemia: the UK Glucose Insulin in Stroke Trial (GIST- UK). _Lancet Neurol_ . 2007;6:397–406.
+
+401.  Johnston KC, Bruno A, Pauls Q, et al. Intensive vs standard treatment of hyperglycemia and functional outcome in patients with acute ischemic stroke: the SHINE Randomized Clinical Trial. _JAMA_ . 2019;322:326–335.
+
+402.  Asaithambi G, Tipps ME. Effect of intensive glucose control on outcomes of hyperglycemic stroke patients receiving mechanical thrombectomy: secondary analysis of the SHINE trial. _J Neurosurg Anesthesiol_ . 2022;34:415–418.
+
+403.  Auer RN. Hypoglycemic brain damage. _Forensic Sci Int_ . 2004;146:105–110.
+
+404.  Archer DP. The role of bloodletting in the prevention and treatment of asthenic apoplexy. _J Neurosurg Anesthesiol_ . 1994;6:51–53.
+
+405.  Harrison MJ. Influence of haematocrit in the cerebral circulation. _Cerebrovasc Brain Metab Rev_ . 1989;1:55–67.
+
+406.  GALA Trial Collaborative Group; Lewis SC, Warlow CP, Bodenham AR, et al. General anaesthesia versus local anaesthesia for carotid surgery (GALA): a multicentre, randomised controlled trial. _Lancet_ . 2008;372:2132–2142.
+
+407.  Lenzi GL, Frackowiak RS, Jones T. Cerebral oxygen metabolism and blood flow in human cerebral ischemic infarction. _J Cerebr Blood Flow Metab_ . 1982;2:321–335.
+
+408.  Paulson OB. Regional cerebral blood flow in apoplexy due to occlusion of the middle cerebral artery. _Neurology_ . 1970;20:63–77.
+
+409.  Agnoli A, Fieschi C, Bozzao L, et al. Autoregulation of cerebral blood flow. Studies during drug- induced hypertension in normal subjects and in patients with cerebral vascular diseases. _Circulation_ . 1968;38:800–812.
+
+410.  Fieschi C, Agnoli A, Prencipe M, et al. Impairment of the regional vasomotor response of cerebral vessels to hypercarbia in vascular diseases. _Eur Neurol_ . 1969;2:13–30.
+
+411.  Olsen TS. Regional cerebral blood flow after occlusion of the middle cerebral artery. _Acta Neurol Scand_ . 1986;73:321–337.
+
+412.  Rockman CB, Maldonado TS, Jacobowitz GR, et al. Early carotid endarterectomy in symptomatic patients is associated with poorer perioperative outcomes. _J Vasc Surg_ . 2006;44:480–487.
+
+413.  Jorgensen ME, Torp- Pedersen C, Gislason GH, et al. Time elapsed after ischemic stroke and risk of adverse cardiovascular events and mortality following elective noncardiac surgery. _JAMA_ . 2014;312:269– 277.
+
+414.  Vlisides PE, Moore LE, Whalin MK, et al. Perioperative care of patients at high risk for stroke during or after non- cardiac, nonneurological surgery: 2020 Guidelines from the Society for Neuroscience in Anesthesiology and Critical Care. _J Neurosurg Anesthesiol_ . 2020;32:210–226.
+
+415.  Rantner B, Pavelka M, Posch L, et al. Carotid endarterectomy after ischemic stroke— is there a justification for delayed surgery? _Eur J Vasc Endovasc Surg_ . 2005;30:36–40.
+
+416.  Blaser T, Hofmann K, Buerger T, et al. Risk of stroke, transient ischemic attack, and vessel occlusion before endarterectomy in patients with symptomatic severe carotid stenosis. _Stroke_ . 2002;33:1057– 1062.
+
+417.  Ballotta E, Da Giau G, Baracchini C, et al. Early versus delayed carotid endarterectomy after a nondisabling ischemic stroke: a prospective randomized study. _Surgery_ . 2002;131:287–293.
+
+418.  Keldahl ML, Eskandari MK. Timing of carotid surgery after acute stroke. _Expert Rev Cardiovasc Ther_ . 2010;8:1399–1403.
+
+419.  Christiansen MN, Andersson C, Gislason GH, et al. Risks of cardiovascular adverse events and death in patients with previous stroke undergoing emergency noncardiac, nonintracranial surgery: the importance of operative timing. _Anesthesiology_ . 2017;127:9–19.
+
+420.  Strandgaard S. Autoregulation of cerebral blood flow in hypertensive patients. The modifying influence of prolonged antihypertensive treatment on the tolerance to acute, drug- induced hypotension. _Circulation_ . 1976;53:720–727.
+
+421.  Eames PJ, Blake MJ, Panerai RB, Potter JF. Cerebral autoregulation indices are unimpaired by hypertension in middle aged and older people. _Am J Hypertens_ . 2003;16:746–753.
+
+422.  Lipsitz LA, Gagnon M, Vyas M, et al. Antihypertensive therapy increases cerebral blood flow and carotid distensibility in hypertensive elderly subjects. _Hypertension_ . 2005;45:216–221.
+
+423.  Conen D, Ruttimann S, Noll G, et al. Short- and long- term cerebrovascular effects of nitrendipine in hypertensive patients. _J Cardiovasc Pharmacol_ . 1988;12(suppl 4):S64–S68.
+
+424.  Finnerty Jr FA, Witkin L, Fazekas JF. Cerebral hemodynamics during cerebral ischemia induced by acute hypotension. _J Clin Invest_ . 1954;33:1227–1232.
+
+425.  Njemanze PC. Critical limits of pressure- flow relation in the human brain. _Stroke_ . 1992;23:1743–1747.
+
+426.  Vorstrup S, Barry DI, Jarden JO, et al. Chronic antihypertensive treatment in the rat reverses hypertension- induced changes in cerebral blood flow autoregulation. _Stroke_ . 1984;15:312–318.
+
+427.  Toyoda K, Fujii K, Ibayashi S, et al. Attenuation and recovery of brain stem autoregulation in spontaneously hypertensive rats. _J Cerebr Blood Flow Metab_ . 1998;18:305–310.
+
+428.  Larsen FS, Olsen KS, Hansen BA, et al. Transcranial Doppler is valid for determination of the lower limit of cerebral blood flow autoregulation. _Stroke_ . 1994;25:1985.
+
+429.  Waldemar G, Schmidt JF, Andersen AR, et al. Angiotensin converting enzyme inhibition and cerebral blood flow autoregulation in normotensive and hypertensive man. _J Hypertens_ . 1989;7:229–235.
+
+430.  Arbit E, DiResta GR, Bedford RF, et al. Intraoperative measurement of cerebral and tumor blood flow with laser- Doppler flowmetry. _Neurosurgery_ . 1989;24:166–170.
+
+431.  Julien C, Payen JF, Tropres I, et al. Assessment of vascular reactivity in rat brain glioma by measuring regional blood volume during graded hypoxic hypoxia. _Br J Cancer_ . 2004;91:374–380.
+
+432.  Packard SD, Mandeville JB, Ichikawa T, et al. Functional response of tumor vasculature to PaCO2: determination of total and microvascular blood volume by MRI. _Neoplasia (New Yark NY)_ . 2003;5:330– 338.
+
+433.  Schregel W, Geissler C, Winking M, et al. Transcranial Doppler monitoring during induction of anesthesia: effects of propofol, thiopental, and hyperventilation in patients with large malignant brain tumors. _J Neurosurg Anesthesiol_ . 1993;5:86–93.
+
+434.  Shin JH, Lee HK, Kwun BD, et al. Using relative cerebral blood flow and volume to evaluate the histopathologic grade of cerebral gliomas: preliminary results. _AJR Am J Roentgenol_ . 2002;179:783–789.
+
+435.  Bedford RF, Morris L, Jane JA. Intracranial hypertension during surgery for supratentorial tumor: correlation with preoperative computed tomography scans. _Anesth Analg_ . 1982;61:430–433.
+
+436.  Kaal EC, Vecht CJ. The management of brain edema in brain tumors. _Curr Opin Oncol_ . 2004;16:593–600.
+
+437.  Stummer W. Mechanisms of tumor- related brain edema. _Neurosurg Focus_ . 2007;22:E8.
+
+438.  Shapiro WR, Hiesiger EM, Cooney GA, et al. Temporal effects of dexamethasone on blood- to- brain and blood- to- tumor transport of 14C- alpha- aminoisobutyric acid in rat C6 glioma. _J Neuro Oncol_ . 1990;8:197–204.
+
+439.  Murphy FL, Kennell EM, Johnstone RE. The effects of enflurane, isoflurane, and halothane on cerebral blood flow and metabolism in man [abstract]. _Abstracts of the Annual Meeting of the American Society of Anesthesiologists_ . 1974;1974:62–63.
+
+<!-- PDF page 55 -->
+
+440.  Branston NM, Symon L, Crockard HA, Pasztor E. Relationship between the cortical evoked potential and local cortical blood flow following acute middle cerebral artery occlusion in the baboon. _Exp Neurol_ . 1974;45:195–208.
+
+441.  Jones TH, Morawetz RB, Crowell RM, et al. Thresholds of focal cerebral ischemia in awake monkeys. _J Neurosurg_ . 1981;54:773–782.
+
+442.  Kochanek PM, Tasker RC, Bell MJ, et al. Management of pediatric severe traumatic brain injury: 2019 consensus and guidelines- based algorithm for first and second tier therapies. _Pediatr Crit Care Med_ . 2019;20:269–279.
+
+443.  Greenberg SM, Ziai WC, Cordonnier C, et al. 2022 guideline for the management of patients with spontaneous intracerebral hemorrhage: a guideline from the American Heart Association/American Stroke Association. _Stroke_ . 2022;53:e282–e361.
+
+444.  Callaway CW, Donnino MW, Fink EL, et al. Part 8: post- cardiac arrest care: 2015 American Heart Association guidelines update for cardiopulmonary resuscitation and emergency cardiovascular care. _Circulation_ . 2015;132:S465–S482.

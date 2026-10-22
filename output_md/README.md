@@ -1,9 +1,9 @@
-# 章節來源位置
+# 章節原文與附件
 
-此資料夾在雲端工作區存放 `Chapter_01.md` 到 `Chapter_87.md` 及 `assets/` 圖片。
+此資料夾包含重新從指定 Google Drive 資料夾下載並轉換的 `Chapter_01.md` 至 `Chapter_87.md`，以及 `assets/` 圖片附件。
 
-公開 GitHub 儲存庫目前只上傳網站程式、摘要腳本與操作說明；章節全文與圖片保留在 `/workspace/Miller-s_anesthesia_10ed/output_md/`，不隨本次程式上傳公開。
+這些檔案是 PDF 擷取的英文原文，尚未加入 Gemini 繁體中文摘要。共 3,249 頁、2,231 張圖片；缺字符號已標示並附原始頁面影像供核對。
 
-自行建置時，請將已有的原始 Markdown 和附件放入此資料夾，再執行 `npm run build:complete`。尚未加入內容時，`npm run build` 可產生含明確待匯入標示的網站。
+檔案已取消 Git 忽略，供本次上傳 GitHub 使用。轉換與逐章驗證紀錄見 `../reports/drive-ingestion-current.json` 及 `../reports/markdown-validation.json`。
 
-摘要批次操作見 [SUMMARIES.md](../SUMMARIES.md)，PDF 下載與轉換見 [INGESTION.md](../INGESTION.md)。
+網站匯入：`npm run build:complete`。摘要生成方式見 `../SUMMARIES.md`。

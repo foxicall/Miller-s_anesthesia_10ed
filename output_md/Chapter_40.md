@@ -1,0 +1,2335 @@
+---
+title: Airway Management in the Adult
+chapter: 40
+book: Miller's Anesthesia, 10th Edition
+source_file: 40. Airway Management in the Adult.pdf
+---
+
+# Airway Management in the Adult
+
+<!-- PDF page 1 -->
+
+
+CARLOS A. ARTIME, MATTEO PAROTTO, and CARIN A. HAGBERG
+
+|**KEY POINTS**|ᑏOne of the fundamental responsibilities of the anesthesiologist is to mitigate the adverse<br>effects of anesthesia on the respiratory system by maintaining airway patency and ensuring<br>adequate ventilation and oxygenation. The term_airway management_refers to this practice and<br>is a cornerstone of anesthesia.<br>ᑏSuccessful airway management requires a range of knowledge and skill sets – specifically, the<br>ability to predict difficulty with airway management and to formulate an airway management<br>strategy, as well as the skills to execute that strategy using the wide array of airway devices<br>available.<br>ᑏThe American Society of Anesthesiologists’ (ASA)_Practice Guidelines for Management of_<br>_the Difficult Airway_and the accompanying difficult airway algorithm provide guidelines for<br>evaluating the airway and preparing for difficult airway management and can guide clinical<br>decision- making when an anesthesiologist is faced with a known or potentially difficult airway.<br>Cognitive aids, such as the Vortex Approach and the new ASA Difficult Airway infographics<br>that accompany the ASA adult and pediatric difficult airway algorithms, are useful to help<br>implement airway algorithms in an emergency.<br>ᑏA detailed understanding of airway anatomy is essential for successful airway management.<br>ᑏA complete evaluation of the airway and knowledge of difficult airway predictors can alert<br>the anesthesiologist to the potential for difficulty with airway management and allow for<br>appropriate planning.<br>ᑏApneic oxygenation can be used to prolong the duration of apnea without desaturation and is<br>increasingly being adopted during the management of both difficult and routine airways.<br>ᑏApplication of local anesthesia to the airway or induction of general anesthesia is usually<br>required to facilitate airway management, to provide comfort for the patient, and to blunt<br>airway reflexes and the hemodynamic response to airway instrumentation.<br>ᑏOver the past 40 years, supraglottic airways (SGAs) have been one of the most important<br>developments in airway devices.<br>ᑏTracheal intubation establishes a definitive airway, provides maximal protection against<br>aspiration of gastric contents, and allows for positive- pressure ventilation with higher airway<br>pressures than via a face mask or SGA.<br>ᑏFlexible scope intubation of the trachea in an awake, spontaneously ventilating, and<br>cooperative patient is the gold standard for the management of the anticipated difficult airway.<br>ᑏInvasive airway interventions are indicated when attempts at establishing a noninvasive airway<br>fail. The anesthesiologist should become proficient with techniques for cricothyrotomy.<br>ᑏExtubation is a critical component of airway management with the potential for significant<br>complications. Extubation of the trachea must be planned in advance and includes a strategy<br>for reintubation should the patient be unable to maintain an adequate airway after extubation.|
+|---|---|
+
+
+## Introduction
+
+General anesthesia is associated with various effects on the respiratory system, including the loss of airway patency, loss of protective airway reflexes, and hypoventilation or apnea. Therefore, one of the fundamental responsibilities of the anesthesiologist is to establish airway patency and to ensure adequate ventilation and oxygenation. The term _airway management_ refers to the practice of establishing and securing a patent airway and is a cornerstone of anesthetic
+
+practice. Traditionally, ventilation via a mask and tracheal intubation have been the foundations of airway management; however, in the past 40 years, supraglottic airways (SGAs) have emerged as one of the most important developments in airway devices.
+
+Because failure to secure a patent airway can result in hypoxic brain injury or death in only a few minutes, difficulty with airway management has potentially grave implications. Analysis of the American Society of Anesthesiologists’ (ASA) Closed Claims Project database
+
+
+
+::: details 原始表格與符號（PDF 第 1 頁）
+
+![第 40 章，原始 PDF 第 1 頁](assets/chapter-40/source-page-0001.png)
+
+:::
+
+<!-- PDF page 2 -->
+
+demonstrated that the development of an airway emergency increases the odds of death or brain damage by 15- fold.<sup>1,2</sup> Although the proportion of claims attributable to airwayrelated complications has decreased over the past three decades, airway complications remain associated with high mortality rates.<sup>2,3</sup> In 2011, the Royal College of Anaesthetists and the Difficult Airway Society (DAS) of the United Kingdom reported the results of the 4th National Audit Project (NAP4), a one- year audit aimed at determining the incidence of major complications of airway management in anesthesia. NAP4 identified 133 major airway- related events in the perioperative period resulting in 16 deaths—a mortality incidence of 1 per 180,000 anesthetics—a number that could be as high as 1 per 50,000 anesthetics when considering underreporting.<sup>4</sup> The most common airway problems in the NAP4 study were failure, delay, or difficulty in securing the airway; aspiration of gastric contents; and extubation- related complications. Inadequate assessment of the airway, poor planning, and a lack of personal and/or institutional preparedness for difficult airway management were the most common contributing factors.<sup>5</sup>
+
+Studies such as these highlight the importance of successful airway management, which requires a range of knowledge and skill sets – specifically, the ability to predict difficulty with airway management, to formulate an airway management strategy, and to have the skills necessary to execute that strategy using the wide array of available airway devices.<sup>6</sup> Development of these skills should be an ongoing endeavor for all anesthesiologists. As with any manual skill, continued practice improves performance and may reduce the likelihood of complications. New airway devices are continually being introduced, each with unique properties that may be advantageous in certain situations. Becoming familiar with new devices under controlled conditions is important – a patient’s difficult airway is not an appropriate setting during which to experiment with a new technique.
+
+## Algorithms for Management of the Difficult Airway
+
+### THE AMERICAN SOCIETY OF ANESTHESIOLOGISTS’ ALGORITHM
+
+In 1993, the ASA published the first _Practice Guidelines for Management of the Difficult Airway_ , which was written with the intent to “facilitate the management of the difficult airway and to reduce the likelihood of adverse outcomes.”<sup>7</sup> The most recent update to this report, published in 2022, defines the difficult airway as “the clinical situation in which anticipated or unanticipated difficulty or failure is experienced by a physician trained in anesthesia care, including, but not limited to one or more of the following: face mask ventilation, laryngoscopy, ventilation using a supraglottic airway, tracheal intubation, extubation, or invasive airway access,” and provides guidelines for the evaluation of the airway and preparation for difficult airway management, including a Difficult Airway Algorithm (DAA) intended to guide clinical decision- making when an anesthesiologist is faced with a known or potential difficult airway (Fig. 40.1).<sup>8</sup> The ASA DAA begins with a decision- making tool guiding
+
+consideration of the relative clinical merits and feasibility of awake intubation versus intubation after induction of general anesthesia. The remainder of the algorithm is structured into three separate scenarios: (1) predicted difficult airway (awake intubation); (2) difficult intubation with adequate oxygenation/ventilation (the “ _non- emergency_ ” pathway); and (3) difficult intubation without adequate oxygenation/ ventilation (the “cannot intubate, cannot ventilate” [CICV] scenario or the “ _emergency_ ” pathway).
+
+### OTHER DIFFICULT AIRWAY ALGORITHMS
+
+Many other national anesthesia societies have published guidelines for management of the difficult airway, including the Difficult Airway Society (DAS) from the United Kingdom,<sup>9</sup> the Canadian Airway Focus Group (CAFG),<sup>10,11</sup> the French Society of Anesthesia and Intensive Care (SFAR),<sup>12</sup> the German Society of Anesthesiology and Intensive Care Medicine (DGAI),<sup>13</sup> the Italian Society for Anesthesia and Intensive Care (SIAARTI),<sup>14</sup> the Japanese Society of Anesthesiologists,<sup>15</sup> and the All India Airway Association (AIDAA).<sup>16</sup> All these guidelines include recommendations for predicting the difficult airway, suggest awake intubation as a management strategy for the anticipated difficult airway, and incorporate algorithms for both unanticipated difficult intubation with adequate oxygenation and the CICV scenario. Common elements include a focus on awakening the patient in the setting of a difficult intubation with adequate ventilation, the use of SGAs as a rescue for difficult mask ventilation, and emergency invasive airway access in the CICV scenario. The primary differences in these algorithms are in specific details, such as the number of intubation attempts suggested, the specific initial and alternate devices recommended for difficult intubation, and the organization of the algorithm.<sup>17</sup>
+
+### HUMAN FACTORS AND COGNITIVE AIDS
+
+There has been growing attention to the influence of “human factors” on difficult airway management – namely, human behaviors, abilities, shortcomings, and biases as well as individual and team performance. Studies such as NAP4 have shown that these human factors contribute to an adverse airway outcome in over 40% of cases.<sup>4</sup> The use of airway checklists, preprocedural team briefings, and cognitive aids are all strategies for addressing human factor challenges.<sup>18</sup> The 2022 ASA Difficult Airway Guidelines now take human factors into consideration, including environmental factors, team behaviors, and individual performance. Practitioners may consider these factors before, during, and/or after the course of difficult airway management.<sup>8</sup>
+
+The Vortex approach is one such cognitive aid designed to facilitate management of the unanticipated difficult airway.<sup>19</sup> Rather than relying on complex algorithms that are based on decision trees, the Vortex model utilizes a visual aid in the shape of a funnel or vortex (Fig. 40.2) to guide the anesthesiologists through the three basic nonsurgical airway techniques (face mask ventilation, SGA, and tracheal intubation). If after an “optimal attempt” at each of these nonsurgical modalities adequate oxygenation has not been achieved, then one “travels down the vortex,” and an
+
+<!-- PDF page 3 -->
+
+### ASA DIFFICULT AIRWAY ALGORITHM: ADULT PATIENTS
+
+**Pre-intubation:** Before attempting intubation, choose between either an awake or post-induction airway strategy. Choice of strategy and technique should be made by the clinician managing the airway.<sup>1</sup>
+
+
+![](assets/chapter-40/40._Airway_Management_in_the_Adult.pdf-0003-02.png)
+
+
+No<br>Suspected difficult laryngoscopy?<br>Yes Any one factor alone<br>Yes<br>Suspected difficult ventilation with face mask/supraglottic airway? (assessed difficulty with<br>intubation, ventilation, or<br>Yes No aspiration or desaturation<br>Significant increased risk of aspiration? risk) may be clinically<br>important enough to warrant<br>Yes No an awake intubation<br>Increased risk of rapid desaturation?<br>No Other patient factors may<br>Yes<br>require an alternative<br>Suspected difficult emergency invasive airway<br>strategy<br>Always evaluate for emergency invasive airway<br>Proceed with intubation attempt Proceed with intubation attempt<br>OPTIMIZE<br>OXYGENATION<br>INTUBATION ATTEMPT WITH PATIENT AWAKE THROUGHOUT 2<br>INTUBATION ATTEMPT AFTER<br>INDUCTION OF GENERAL ANESTHESIA<br>Awake Airway electively secured by<br>Intubation 3 invasive access 5<br>FAIL SUCCESS<br>SUCCESS FAIL<br>LIMIT ATTEMPTS<br>Consider calling for help<br>Consider other options 4<br>FAIL<br>Postpone the case<br>MASK VENTILATION ADEQUATE MASK VENTILATION NOT ADEQUATE<br>AS CONFIRMED BY CO2<br>CONSIDER/ATTEMPT SUPRAGLOTTIC AIRWAY 6<br>NON-EMERGENCY PATHWAY SUPRAGLOTTIC SUPRAGLOTTIC AIRWAY<br>AIRWAY NOT ADEQUATE<br>Ventilation adequate/Intubation unsuccessful VENTILATION (Cannot intubate, cannot ventilate)<br>LIMIT ATTEMPTS AND CONSIDER ADEQUATE<br>AWAKENING 8  THE PATIENT EMERGENCY PATHWAY<br>LIMIT ATTEMPTS AND BE AWARE<br>OF THE PASSAGE OF TIME<br>Consider alternative intubation approaches, 7 CALL FOR HELP / FOR INVASIVE ACCESS<br>invasive access, 4  or the feasibility of other options 9<br>Attempt alternative intubation<br>approaches 7  as you prepare<br>for emergency invasive airway 5<br>SUCCESS FAIL or deteriorating ventilation<br>FAIL SUCCESS<br>Emergency invasive airway 5<br>
+
+**Fig. 40.1 The American Society of Anesthesiologists’ Difficult Airway Algorithm for Adult Patients.** The airway manager’s choice of airway strategy and techniques should be based on their previous experience; available resources, including equipment, availability and competency of help; and the context in which airway management will occur. Low- or high- flow nasal cannula, head elevated position throughout procedure. Noninvasive ventilation during preoxygenation. Awake intubation techniques include flexible bronchoscope, videolaryngoscopy, direct laryngoscopy, combined techniques, and retrograde wire–aided intubation. Other options include, but are not limited to, alternative awake technique, awake elective invasive airway, alternative anesthetic techniques, induction of anesthesia (if unstable or cannot be postponed) with preparations for emergency invasive airway, and postponing the case without attempting the above options. Invasive airway techniques include surgical cricothyrotomy, needle cricothyrotomy with a pressure- regulated device, large- bore cannula cricothyrotomy, or surgical tracheostomy. Elective invasive airway techniques include the above and retrograde wire–guided intubation and percutaneous tracheostomy. Also consider rigid bronchoscopy and ECMO. Consideration of size, design, positioning, and first- versus second-generation supraglottic airways may improve the ability to ventilate. Alternative difficult intubation approaches include but are not limited to videoassisted laryngoscopy, alternative laryngoscope blades, combined techniques, intubating supraglottic airway (with or without flexible bronchoscopic guidance), flexible bronchoscopy, introducer, and lighted stylet or lightwand. Adjuncts that may be employed during intubation attempts include tracheal tube introducers, rigid stylets, intubating stylets, or tube changers and external laryngeal manipulation. Includes postponing the case or postponing the intubation and returning with appropriate resources (e.g., personnel, equipment, patient preparation, awake intubation). Other options include, but are not limited to, proceeding with procedure utilizing face mask or supraglottic airway ventilation. Pursuit of these options usually implies that ventilation will not be problematic. (From Apfelbaum JL, Hagberg CA, Caplan RA, et al. Practice guidelines for management of the difficult airway: an updated report by the American Society of Anesthesiologists Task Force on Management of the Difficult Airway. _Anesthesiology._ 2013;118:251–270.)
+
+<!-- PDF page 4 -->
+
+![](assets/chapter-40/40._Airway_Management_in_the_Adult.pdf-0004-01.png)
+
+
+T H E V O R T E X<br>FOR EACH LIFELINE CONSIDER:<br>MANIPULATIONS:<br>HEAD & NECK<br>LARYNX<br>DEVICE<br>ADJUNCTS<br>SIZE/TYPE<br>SUCTION/O2 FLOW<br>MUSCLE TONE<br>© Copyright Nicholas Chrimes 2016<br>MAXIMUM THREE ATTEMPTS AT EACH LIFELINE (UNLESS GAMECHANGER)<br>AT LEAST ONE ATTEMPT SHOULD BE BY MOST EXPERIENCED CLINICIAN<br>CICO STATUS ESCALATES WITH UNSUCCESSFUL  VortextApproach.org<br>BEST EFFORT AT ANY LIFELINE<br>A B<br>
+
+**Fig. 40.2** (A) The Vortex implementation tool. (B) Lateral aspect of the Vortex in three dimensions, demonstrating the funnel concept. (From Chrimes N. The Vortex: a universal ‘high- acuity implementation tool’ for emergency airway management. _Br J Anaesth_ . 2016;117:i20–i27.)
+
+emergency surgical airway is indicated. Because this strategic approach is more conceptual, it is simple enough to be utilized and recalled during a stressful airway emergency.
+
+## Functional Airway Anatomy
+
+A detailed understanding of airway anatomy is essential for the anesthesiologist. Various aspects of airway management depend on a working knowledge of the anatomy involved, including airway assessment, preparation of the airway for awake intubation, and the proper use of airway devices. Knowledge of normal anatomy and anatomic variations that may render airway management more difficult helps with formulating an airway management plan. Because some critical anatomic structures may be obscured during airway management, the anesthesiologist must be familiar with the interrelationship between different airway structures.
+
+The airway can be divided into the upper airway, which includes the nasal cavity, the oral cavity, the pharynx, and the larynx; and the lower airway, which consists of the tracheobronchial tree.
+
+### NASAL CAVITY
+
+The airway begins functionally at the naris, the external opening of the nasal passages. The nasal cavity is divided into the right and left nasal passages (or fossae) by the nasal septum, which forms the medial wall of each passage. The septum is formed by the septal cartilage anteriorly and by two bones posteriorly: the ethmoid (superiorly) and the vomer (inferiorly). Nasal septal deviation is common in the adult population<sup>20</sup> ; therefore, the more patent side should be determined before passing any device through the nasal passages. The lateral walls of the nasal passages are characterized by the presence of three turbinates (or conchae) that
+
+
+![](assets/chapter-40/40._Airway_Management_in_the_Adult.pdf-0004-09.png)
+
+
+Superior<br>turbinate<br>Supreme<br>Middle turbinate<br>turbinate<br>Inferior<br>turbinate<br>
+
+**Fig. 40.3 Lateral wall of the nasal cavity.** (From Redden RJ. Anatomic considerations in anesthesia. In: Hagberg CA, ed. _Handbook of Difficult Airway Management_ . Philadelphia: Churchill Livingstone; 2000, p. 3, Fig. 1.2.)
+
+divide the nasal passage into three scroll- shaped meatuses (Fig. 40.3). The inferior meatus, between the inferior turbinate and the floor of the nasal cavity, is the preferred pathway for passage of nasal airway devices<sup>21</sup> ; improper placement of devices anywhere in the nose can result in avulsion of a turbinate.<sup>22,23</sup> The roof of the nasal cavity is formed by the cribriform plate, part of the ethmoid bone. This fragile structure, if fractured, can result in communication between the nasal and intracranial cavities and a resultant leakage of cerebrospinal fluid. Because the mucosal lining of the nasal cavity is highly vascular, vasoconstrictor should be applied, usually topically, before instrumentation of the nose to minimize epistaxis. The posterior openings of the nasal passages are the choanae, which lead into the nasopharynx.
+
+### ORAL CAVITY
+
+Because of the relatively small size of the nasal passages and the significant risk of trauma, the mouth is often used as a conduit for airway devices. Many airway procedures require adequate mouth opening, which is accomplished
+
+<!-- PDF page 5 -->
+
+by rotation within the temporomandibular joint (TMJ) and subsequent opening by sliding (also known as _protrusion_ or _subluxation_ ) of the condyles of the mandible within the TMJ.<sup>24</sup>
+
+The oral cavity leads to the oropharynx and is inferiorly bounded by the tongue and superiorly by the hard and soft palates. The hard palate, formed by parts of the maxilla and the palatine bone, makes up the anterior two-thirds of the roof of the mouth; the soft palate (velum palatinum), a fibromuscular fold of tissue attached to the hard palate, forms the posterior one-third of the roof of the mouth.
+
+The tongue is anchored to various structures by its extrinsic musculature; of these, the most clinically relevant to the anesthesiologist is the genioglossus, which connects the tongue to the mandible. The jaw- thrust maneuver uses the sliding component of the TMJ to move the mandible and the attached tongue anteriorly, thereby relieving airway obstruction caused by the posterior displacement of the tongue into the oropharynx.<sup>24</sup>
+
+Beneath the tongue, the mylohyoid muscles separate the floor of the mouth into the sublingual space superiorly and the submental space inferiorly. Infection or hematoma formation in these spaces can cause elevation and posterior displacement of the tongue and resultant airway obstruction.<sup>25</sup>
+
+
+![](assets/chapter-40/40._Airway_Management_in_the_Adult.pdf-0005-05.png)
+
+
+Nasopharynx<br>Oropharynx<br>Hypopharynx<br>
+
+**Fig. 40.4 Sagittal section through the head and neck showing the subdivisions of the pharynx.** (From Redden RJ. Anatomic considerations in anesthesia. In: Hagberg CA, ed. _Handbook of Difficult Airway Management_ . Philadelphia: Churchill Livingstone; 2000, p. 7, Fig. 1.6.)
+
+### PHARYNX
+
+The pharynx is a muscular tube that extends from the base of the skull down to the level of the cricoid cartilage and connects the nasal and oral cavities with the larynx and esophagus. The posterior wall of the pharynx is made up of the buccopharyngeal fascia, which separates the pharynx from the retropharyngeal space. Improper placement of a gastric or tracheal tube can result in laceration of this fascia and retropharyngeal dissection.<sup>26,27</sup> The pharyngeal musculature in the awake patient helps maintain airway patency; loss of pharyngeal muscle tone is one of the primary causes of upper airway obstruction during anesthesia.<sup>28,29</sup> A chin lift with mouth closure increases longitudinal tension in the pharyngeal muscles, counteracting the tendency of the pharyngeal airway to collapse.<sup>30</sup>
+
+The pharynx can be divided into the nasopharynx, the oropharynx, and the hypopharynx (Fig. 40.4). Along the superior and posterior walls of the nasopharynx are the adenoid tonsils, which can cause chronic nasal obstruction and, when enlarged, can cause difficulty when passing airway devices. The nasopharynx ends at the soft palate; this region is termed the _velopharynx_ and is a common site of airway obstruction in both awake and anesthetized patients.<sup>28</sup> The oropharynx begins at the soft palate and extends inferiorly to the level of the epiglottis. The lateral walls contain the palatoglossal folds and the palatopharyngeal folds, also termed the _anterior_ and _posterior faucial_ (tonsillar) _pillars_ , respectively; these folds contain the palatine tonsils, which can hypertrophy and cause airway obstruction (Fig. 40.5). The base of the tongue lies in the anterior aspect of the oropharynx, connected to the epiglottis by the glossoepiglottic folds, which bound paired spaces known as the _valleculae_ (although these are frequently referred to as a single space called the _vallecula_ ). The hypopharynx begins at the level of the epiglottis and terminates at the level of the cricoid
+
+
+![](assets/chapter-40/40._Airway_Management_in_the_Adult.pdf-0005-10.png)
+
+
+Palatopharyngeal fold Hard<br>(posterior pillar) palate<br>Soft<br>palate<br>Palatoglossal fold<br>(anterior pillar) Uvula<br>Tonsil<br>
+
+**Fig. 40.5 Oral cavity and oropharynx.** (From Redden RJ. Anatomic considerations in anesthesia. In: Hagberg CA, ed. _Handbook of Difficult Airway Management_ . Philadelphia: Churchill Livingstone; 2000, p. 8, Fig. 1.7.)
+
+cartilage, where it is continuous with the esophagus. The larynx protrudes into the hypopharynx, creating two piriform recesses on either side (Fig. 40.6).
+
+### LARYNX
+
+The larynx is a complex structure of cartilage, muscles, and ligaments that serves as the inlet to the trachea and performs various functions, including phonation and airway protection. The cartilaginous framework of the larynx is made up of nine separate cartilages: the thyroid and cricoid cartilages; the paired arytenoid, corniculate, and cuneiform cartilages; and the epiglottis. They are joined by ligaments, membranes, and synovial joints, and are suspended by the hyoid bone via the thyrohyoid ligaments and membrane (Fig. 40.7).
+
+The thyroid cartilage is the largest of these cartilages and supports most of the soft tissues of the larynx. The superior
+
+<!-- PDF page 6 -->
+
+![](assets/chapter-40/40._Airway_Management_in_the_Adult.pdf-0006-01.png)
+
+
+Median<br>glossoepiglottic<br>fold<br>Lateral<br>Vallecula glossoepiglottic<br>fold<br>Epiglottis<br>Tubercle of Aryepiglottic<br>epiglottis fold<br>Piriform recess Ventricular fold<br>Cuneiform Vocal fold<br>cartilage<br>Trachea<br>Corniculate<br>cartilage<br>
+
+**Fig. 40.6 Larynx as visualized from the hypopharynx.** (From Redden RJ. Anatomic considerations in anesthesia. In: Hagberg CA, ed. _Handbook of Difficult Airway Management_ . Philadelphia: Churchill Livingstone; 2000, p. 8, Fig. 1.8.)
+
+
+![](assets/chapter-40/40._Airway_Management_in_the_Adult.pdf-0006-03.png)
+
+
+Lesser<br>horn Hyoid<br>Greater bone<br>horn<br>Thyrohyoid<br>ligament<br>Thyrohyoid<br>membrane<br>Laryngeal<br>prominence Thyroid<br>cartilage<br>Cricothyroid<br>ligament Cricothyroid<br>ligament<br>Cricoid<br>cartilage<br>
+
+**Fig. 40.7 Cartilaginous and membranous components of the larynx.** (From Redden RJ. Anatomic considerations in anesthesia. In: Hagberg CA, ed. _Handbook of Difficult Airway Management_ . Philadelphia: Churchill Livingstone; 2000, p. 10, Fig. 1.9.)
+
+thyroid notch and the associated laryngeal prominence ( _Adam’s apple_ ) are appreciable from the anterior neck and serve as important landmarks for percutaneous airway techniques and laryngeal nerve blocks. The cricoid cartilage, at the level of the sixth cervical vertebra, is the inferior limit of the larynx and is anteriorly connected to the thyroid cartilage by the cricothyroid membrane (CTM). It is the only complete cartilaginous ring in the airway. The arytenoid cartilages articulate with the posterior cricoid and are the posterior attachments for the vocal cords.
+
+When viewed from the pharynx, as during direct laryngoscopy (DL), the larynx begins at the epiglottis, which is a cartilaginous flap that serves as the anterior border of the laryngeal inlet. It functions to divert food away from the larynx during the act of swallowing, although its role in this regard is not essential to prevent tracheal aspiration.<sup>31</sup> The anterior surface of the epiglottis is attached to the upper
+
+border of the hyoid bone by the hyoepiglottic ligament. The laryngeal inlet is bound laterally by the aryepiglottic folds, and posteriorly by the corniculate cartilages and the interarytenoid notch (see Fig. 40.6).
+
+The space inferior to the laryngeal inlet down to the inferior border of the cricoid cartilage is the laryngeal cavity. The ventricular folds (also referred to as the _vestibular folds_ or _false vocal cords_ ) are the most superior structure within the laryngeal cavity. Beneath these are the true vocal cords, which attach to the arytenoids posteriorly and the thyroid cartilage anteriorly, where they join to form the anterior commissure. The space between the vocal cords is termed the _glottis_ , the portion of the laryngeal cavity above the glottis is known as the _vestibule_ , and the portion inferior to the vocal cords is known as the _subglottis_ .
+
+### TRACHEA AND BRONCHI
+
+The trachea begins at the level of the cricoid cartilage and extends to the carina at the level of the fifth thoracic vertebra; this length is 10 to 15 cm in the adult. It consists of 16 to 20 C- shaped cartilaginous rings that open posteriorly and are joined by fibroelastic tissue; the trachealis muscle forms the posterior wall of the trachea. At the carina, the trachea bifurcates into the right and left mainstem bronchi. In the adult, the right mainstem bronchus branches off at a more vertical angle than the left mainstem bronchus, resulting in a greater likelihood of foreign bodies and endotracheal tubes (ETTs) entering the right bronchial lumen.<sup>32</sup>
+
+## Airway Assessment
+
+Although the anesthesiologist should always be prepared for potential difficulty with airway management, the ability to predict the difficult airway in advance is obviously desirable. Certain details from the patient’s history or physical findings can be prognostic of difficulty with mask ventilation, SGA placement, laryngoscopy, tracheal intubation, or the need for a surgical airway. No single test has been devised to predict a difficult airway accurately 100% of the time; however, a complete evaluation of the airway and knowledge of the difficult airway predictors can alert the anesthesiologist to the potential for difficulty and allow for appropriate planning.
+
+### TRADITIONAL METRICS
+
+Airway assessment should begin with a directed patient history whenever possible.<sup>8</sup> One of the most predictive factors for difficult intubation is a history of previous difficulty with intubation.<sup>33</sup> On the other hand, a history of a previously easy airway does not rule out the possibility of difficulty with ventilation or intubation. In either case, the patient interview should specifically address changes in weight, symptoms, and pathologic conditions since the last general anesthetic (if there was one), and attempts should be made to obtain prior anesthetic records as they may yield useful information concerning airway management. The patient should be questioned about the presence of pathologic states that increase the risk of a difficult airway. A focused systems review can alert the anesthesiologist to other
+
+<!-- PDF page 7 -->
+
+### Box 40.1 Components of the Physical Examination of the Airway
+
+- Visual inspection of the face and neck
+
+- Assessment of mouth opening
+
+- Evaluation of oropharyngeal anatomy and dentition
+
+- Assessment of neck range of motion (ability of the patient to assume the sniffing position)
+
+- Assessment of the submandibular space
+
+- Assessment of the patient’s ability to slide the mandible anteriorly (test of mandibular prognathism)
+
+potential factors that may predict difficult airway management; for example, a history of snoring has been shown to be predictive of difficult mask ventilation.<sup>34,35</sup>
+
+A physical examination of the airway should be performed to detect any physical characteristics that may suggest a difficult airway.<sup>8</sup> The specific characteristics that should be evaluated in this examination are listed in Box 40.1.
+
+The visual inspection of the face and neck should focus on physical characteristics that may indicate the potential for difficulty with airway management. These include obvious facial deformities, neoplasms involving the face or neck, facial burns, a large goiter, a short or thick neck, or a receding mandible. The presence of a beard has been shown to be associated with difficult ventilation attributable to the difficulty in obtaining a mask seal.<sup>34,35</sup> Cervical collars or cervical traction devices can interfere with both mask ventilation and DL. A neck circumference greater than 43 cm (17 inches) is associated with difficulty with tracheal intubation<sup>36</sup> ; a large neck circumference is, in fact, more predictive of difficulty with tracheal intubation than a high body mass index (BMI).<sup>37</sup>
+
+Assessment of mouth opening and inspection of the oropharyngeal anatomy is achieved by instructing the patient to open their mouth as wide as possible. An interincisor distance of less than 3 cm (or 2 fingerbreadths), as measured from the upper to the lower incisors with maximal mouth opening, can suggest the possibility of difficult intubation<sup>7</sup> ; some studies have used 4 or 4.5 cm as the cutoff.<sup>38</sup> A thorough inspection of the oropharynx can help identify pathologic characteristics that may result in difficulty with intubation, such as neoplasm, a high arched palate, or macroglossia. In 1983, Mallampati and associates described a clinical sign to predict difficult tracheal intubation based on the size of the base of the tongue.<sup>39</sup> A Mallampati classification of I to III is assigned, based on the visibility of the faucial pillars, uvula, and soft palate when the patient is seated upright with the head neutral, the mouth open, the tongue protruded, and no phonation.<sup>40</sup> Higher scores on the Mallampati classification indicate poor visibility of the oropharyngeal structures attributable to a large tongue relative to the size of the oropharyngeal space, and, subsequently, a more difficult DL/VL. The modified Mallampati classification described by Samsoon and Young,<sup>41</sup> which adds a fourth classification, is defined as follows (Fig. 40.8):
+
+- Class I: Faucial pillars, uvula, and soft palate are visualized.
+
+- Class II: Base of the uvula and soft palate are visualized.
+
+
+![](assets/chapter-40/40._Airway_Management_in_the_Adult.pdf-0007-15.png)
+
+
+![](assets/chapter-40/40._Airway_Management_in_the_Adult.pdf-0007-16.png)
+
+
+Class I Class II Class III Class IV<br>
+
+**Fig. 40.8 Modified Mallampati classification as described by Samsoon and Young.** Classes are differentiated on the basis of the structures visualized: class I—soft palate, fauces, uvula, tonsillar pillars; class II—soft palate, fauces, uvula; class III—soft palate, base of the uvula; class IV—soft palate not visible. (From Mallampati SR. Recognition of the difficult airway. In: Benumof JL, ed. _Airway Management Principles and Practice_ . St Louis: Mosby; 1996, p. 132.)
+
+- Class III: Soft palate only is visualized.
+
+- Class IV: Hard palate only is visualized.
+
+As a stand- alone test, the modified Mallampati classification is insufficient for accurate prediction of difficult intubation; however, it may have clinical utility in combination with other difficult airway predictors.<sup>42</sup> Some studies support obtaining a Mallampati score with the head in full extension to improve the predictive value of the test.<sup>40,43</sup> A Mallampati _zero_ classification has been proposed when the epiglottis can be visualized during examination of the oropharynx; this finding is usually associated with easy laryngoscopy,<sup>44,45</sup> although difficulty with airway management attributable to a large, floppy epiglottis in patients with a Mallampati zero classification can occur.<sup>46,47</sup>
+
+An examination of dentition should be performed when the oropharyngeal anatomy is being evaluated.<sup>8</sup> Relatively long upper incisors can impair DL/VL. Poor dentition and loose teeth increase the risk of dental trauma and present a risk of tooth dislodgment with subsequent aspiration; very loose teeth should be removed before laryngoscopy. Dental work, such as veneers, caps, crowns, and bridges, are particularly susceptible to damage during airway management. Edentulousness is predictive of easy tracheal intubation but potentially difficult mask ventilation.<sup>48</sup>
+
+The ideal positioning for DL is achieved by cervical flexion and atlantooccipital extension and is most commonly referred to as the _sniffing position_<sup>49</sup> (see Direct Laryngoscopy: Preparation and Positioning, below). Assessment of a patient’s ability to assume this position should be included in the airway examination; an inability to extend the neck at the atlantooccipital joint is associated with difficult intubation.<sup>50</sup> Head and neck mobility can also be quantitatively assessed by measuring the sternomental distance between the sternal notch and the point of the chin with the head in full extension and the mouth closed. Distances less than 12.5 cm are associated with difficult intubation.<sup>51</sup> An assessment of overall neck range of motion can be performed by measuring the angle created by the forehead when the neck is fully flexed and then fully extended; a measurement of less than 80 degrees is predictive of difficult intubation.<sup>52</sup>
+
+During DL, the tongue is displaced into the submandibular space; glottic visualization may be inadequate if this space is diminished because of a small mandible. This
+
+<!-- PDF page 8 -->
+
+scenario is frequently referred to as an _anterior larynx_ . A thyromental distance of less than 6.5 cm (3 fingerbreadths), as measured from the thyroid notch to the lower border of the chin, is indicative of reduced mandibular space and may predict difficulty with intubation.<sup>38,51</sup> Compliance of this space should also be assessed; a lack of compliance or the presence of a mass is a nonreassuring finding.<sup>8</sup>
+
+Tests of the ability for mandibular protrusion (prognathism) have predictive value and should be included in the airway assessment. The inability to extend the lower incisors beyond the upper incisors may be indicative of difficult laryngoscopy.<sup>53</sup> A similar evaluation, the upper lip bite test (ULBT), has been shown to predict difficult laryngoscopy with higher specificity and less interobserver variability than the Mallampati classification; an inability of the lower incisors to bite the upper lip is associated with more difficult laryngoscopy.<sup>54,55</sup>
+
+Although individual airway tests are limited by low sensitivity and positive predictive value, some multivariable assessments have been shown to have higher predictive power. The Mallampati score has been shown to have improved predictive value when combined with thyromental, sternomental, and/or interincisor distances.<sup>51</sup> Models that use several risk factors, such as the Wilson risk sum score (weight, head and neck movement, jaw movement, receding mandible, and buck teeth) and the El- Ganzouri risk index (mouth opening, thyromental distance, Mallampati class, neck movement, prognathism, weight, and history of difficult intubation) have been developed in an attempt to improve the predictive value of airway assessment.<sup>52,56</sup> On the other hand, a large database study of an airway risk index that utilizes seven independent risk factors found that it does not improve prediction of difficult intubation.<sup>57</sup> A computer- assisted model that uses complex interactions among several risk factors (BMI, mouth opening, thyromental distance, Mallampati class, and receding mandible) predicted difficult intubation more accurately than other models based on simpler statistical analyses.<sup>58</sup>
+
+### NEW MODALITIES
+
+Owing to the poor sensitivity and specificity of traditional metrics for airway assessment, several new modalities are being studied. The use of point- of- care ultrasonography for the prediction of difficult laryngoscopy and intubation has shown some promise in small studies, but its overall value has yet to be established.<sup>59</sup> Computed tomographic images of the head and neck can be used to create threedimensional virtual endoscopic images that can be used for planning difficult airway management, particularly for patients with complex airway pathology.<sup>60</sup> Early studies of facial image analysis have also shown promise for predicting difficult intubation.<sup>61</sup>
+
+## Physiologic Concepts for Airway Management
+
+### PREOXYGENATION
+
+With the induction of anesthesia, hypoxemia can quickly develop as a result of hypoventilation or apnea in combination
+
+with decreases in functional residual capacity (FRC) attributable to the supine position, muscle paralysis, and the direct effects of the anesthetic agents. Preoxygenation, the process of replacing nitrogen in the lungs with oxygen, provides an increased length of time before oxyhemoglobin desaturation occurs in an apneic patient. This lengthened safe apnea time provides an improved margin of safety while the anesthesiologist secures the airway and resumes ventilation. Adequate preoxygenation is essential when mask ventilation after the induction of anesthesia is contraindicated or anticipated to be difficult, when intubation is anticipated to be difficult, and in patients with a smaller FRC (i.e., patients who are obese or pregnant).<sup>62</sup> Because difficulty with airway management can unexpectedly occur, routine preoxygenation before induction of general anesthesia is recommended.<sup>63</sup>
+
+Preoxygenation is typically performed via a face mask attached to an anesthesia circuit. To ensure adequate preoxygenation, 100% oxygen must be provided at a flow rate high enough to prevent rebreathing (10 to 12 L/min), and no leaks around the face mask must be present. An end- tidal concentration of oxygen greater than 90% is considered to maximize safe apnea time. With maximal preoxygenation, the time to oxyhemoglobin desaturation below 80% can vary from 9 minutes in a healthy, nonobese adult to 3 minutes or less in children or obese adults.<sup>64</sup>
+
+Two methods have been traditionally described to accomplish preoxygenation. The first method uses tidal volume ventilation through the face mask for 3 minutes, which allows the exchange of 95% of the gas in the lungs.<sup>62</sup> The second method uses vital capacity breaths to achieve adequate preoxygenation more rapidly. Four breaths over 30 seconds is not as effective as the tidal volume method but may be acceptable in certain clinical situations; eight breaths over 60 seconds has been shown to be more effective.<sup>62</sup> Another approach to preoxygenation is to continue tidal volume ventilation through the facemask until an end-tidal oxygen concentration of 90% is reached.<sup>65</sup>
+
+Transnasal humidified rapid- insufflation ventilatory exchange (THRIVE) at 60 L/min for 3 minutes is as effective as tidal volume preoxygenation by face mask (see Apneic Oxygenation, below).<sup>66</sup> Head- up positioning improves the quality of preoxygenation in both obese<sup>67</sup> and nonobese patients.<sup>68</sup> Noninvasive positive- pressure ventilation (PPV) for preoxygenation also prolongs apnea time.<sup>69,70</sup>
+
+### APNEIC OXYGENATION
+
+Apneic oxygenation is a physiologic phenomenon by which oxygen from the oropharynx or nasopharynx diffuses down into the alveoli as a result of the net negative alveolar gas exchange rate resulting from oxygen removal and carbon dioxide excretion during apnea. Assuming the airway is patent, and oxygen is insufflated through the nose and/or mouth, oxygenation occurs, prolonging safe apnea time beyond that of standard face mask preoxygenation.<sup>71</sup>
+
+Oxygen can be insufflated at up to 15 L/min with nasal cannulae (nasal oxygen during efforts securing a tube [NO DESAT])<sup>72</sup> or with a catheter placed through the nose or mouth with the tip in the pharynx (pharyngeal oxygen insufflation).<sup>73</sup> These techniques are effective in delaying oxyhemoglobin desaturation in morbidly obese patients<sup>74,75</sup> and during emergency tracheal intubation.<sup>76,77</sup>
+
+<!-- PDF page 9 -->
+
+THRIVE involves the administration of warmed, humidified oxygen, allowing higher oxygen flow rates than the previously described techniques – up to 70 L/min. These higher flows extend the safe apnea time even further and improve the clearance of carbon dioxide, preventing the potential development of severe respiratory acidosis. In 25 patients with a difficult airway at risk for rapid desaturation, THRIVE was used to achieve a median apnea time without arterial desaturation to &lt;90% of 14 minutes, with a range of 5 to 65 minutes, and an average rate of carbon dioxide rise of only 1.1 mm Hg per minute.<sup>66</sup>
+
+### PULMONARY ASPIRATION OF GASTRIC CONTENTS
+
+In 1946, Mendelson was the first to describe pneumonitis attributable to the pulmonary aspiration of acidic gastric secretions in pregnant women undergoing anesthesia.<sup>78</sup> This potentially fatal complication, occasionally referred to as Mendelson syndrome, has since been the intense focus of preventive efforts among the anesthesia community. Prevention of aspiration of gastric contents is primarily accomplished by adherence to established preoperative fasting guidelines, premedication with drugs that may decrease the risk of aspiration pneumonitis, and specialized induction techniques, which are discussed later in this chapter.
+
+Traditionally, patients who were scheduled for elective procedures requiring sedation, regional anesthesia, or general anesthesia were instructed to remain NPO (Latin for _nulla per os_ or _nothing by mouth_ ) after midnight to promote an empty stomach to decrease the risk of regurgitation. Based on evidence that allowing ingestion of clear liquids 2 to 4 hours before surgery resulted in lower gastric volumes and higher gastric pH, the ASA published _Practice Guidelines for Preoperative Fasting and the Use of Pharmacologic Agents to Reduce the Risk of Pulmonary Aspiration_ in 1999, liberalizing the traditional NPO policy and allowing clear liquids up to 2 hours before beginning elective procedures requiring anesthesia. The guidelines, most recently updated in 2017, recommend 4 hours of fasting from breast milk and 6 hours of fasting from solid foods, infant formula, and nonhuman milk.<sup>79</sup> Fried or fatty foods may require longer fasting times (e.g., 8 hours or more).<sup>79</sup> Although the ASA guidelines do not specifically address chewing gum, hard candies, or smoking, guidelines published by the European Society of Anaesthesiology on the topic do not recommend delaying the start of anesthesia if a patient has consumed any of these immediately before the induction of anesthesia.<sup>80</sup>
+
+The routine use of drugs as prophylaxis against aspiration pneumonitis is not recommended by the ASA guidelines<sup>79</sup> but may be beneficial in patients with specific risk factors for aspiration, such as a full stomach, symptomatic gastroesophageal reflux disease (GERD), hiatal hernia, presence of a nasogastric tube, morbid obesity, diabetic gastroparesis, or pregnancy.<sup>81,82</sup> The goal of aspiration prophylaxis is twofold: to decrease gastric volume and to increase gastric fluid pH. Commonly used agents include nonparticulate antacids (e.g., sodium citrate), promotility drugs (e.g., metoclopramide), and H2- receptor antagonists. These drugs may be used alone or in combination.<sup>83</sup>
+
+### AIRWAY REFLEXES AND THE PHYSIOLOGIC RESPONSE TO INTUBATION OF THE TRACHEA
+
+One of the most important teleologic functions of the larynx is that of airway protection, which is primarily provided by the glottic closure reflex. This reflex is triggered by sensory receptors in the glottic and subglottic mucosa and results in strong adduction of the vocal cords.<sup>84</sup> An exaggerated, maladaptive manifestation of this reflex, referred to as _laryngospasm_ , is a potential complication of airway management. Laryngospasm is usually provoked by glossopharyngeal or vagal stimulation attributable to airway instrumentation or vocal cord irritation (e.g., from blood or vomitus), but it can also be precipitated by other noxious stimuli and can persist well after the removal of the stimulus. Treatment of laryngospasm includes removal of airway irritants, deepening of the anesthetic, and the administration of a rapid- onset neuromuscular blocking drug (NMBD), such as succinylcholine.<sup>85</sup> Continuous positive airway pressure with 100% oxygen is commonly cited as a therapeutic maneuver, although the pressure may push the aryepiglottic folds closer together and may actually promote laryngospasm by acting as a mechanical stimulus.<sup>86,87</sup> Bilateral pressure at the _laryngospasm notch_ between the condyle of the mandible and the mastoid process can be effective at treating laryngospasm by causing an intense, painful stimulus, which may function to terminate laryngospasm by arousing a semiconscious patient or by activating autonomic pathways.<sup>85</sup>
+
+The tracheobronchial tree also possesses reflexes to protect the lungs from noxious substances. Irritation of the lower airway by a foreign substance activates a vagal reflex–mediated constriction of bronchial smooth muscle, resulting in bronchospasm. Untreated bronchospasm can result in an inability to ventilate because of an extremely elevated airway resistance. Treatment includes a deepening of anesthetic with propofol or a volatile agent and the administration of inhaled β2- agonist or anticholinergic medication. Administration of intravenous (IV) lidocaine has been studied, but the evidence does not support its use for treatment of bronchospasm.<sup>88</sup>
+
+Tracheal intubation, as well as laryngoscopy and other airway instrumentation, provides an intense noxious stimulus via vagal and glossopharyngeal afferents that results in a reflex autonomic activation, which is usually manifested as hypertension and tachycardia in adults and adolescents; in infants and small children, autonomic activation may result in bradycardia. Hypertension and tachycardia are usually of short duration; however, they may have consequences in patients with significant cardiac or cerebrovascular disease. Central nervous system activation due to airway management results in increases in electroencephalographic (EEG) activity, cerebral metabolic rate, and cerebral blood flow, which may result in an increase in intracranial pressure in patients with decreased intracranial compliance.<sup>88</sup>
+
+## Anesthesia for Airway Management
+
+To facilitate airway management, some form of anesthesia is usually required to provide comfort for the patient, to blunt
+
+<!-- PDF page 10 -->
+
+airway reflexes, and to blunt the hemodynamic response to airway instrumentation. Most commonly, airway management is performed after induction of general anesthesia. Alternatively, an _awake_ technique, which entails establishing an airway (including tracheal intubation) by using local anesthesia of the airway and/or sedation, can be used to meet these goals when clinically indicated. In emergency scenarios where the patient is obtunded or comatose, such as in the event of acute respiratory or cardiac arrest, anesthetic drugs may not be required.
+
+### AIRWAY MANAGEMENT AFTER THE INDUCTION OF GENERAL ANESTHESIA
+
+Airway management is usually performed after the induction of general anesthesia if the anesthesiologist determines that it is safe to do so. Several pharmacologic techniques are used for the induction of anesthesia, each with its own implications for airway management. The decision of which induction technique to use should be made with careful consideration of the specific clinical circumstances at hand.
+
+### Standard Intravenous Induction with Neuromuscular Blockade
+
+The most common technique for induction of general anesthesia is the standard IV induction, which entails the administration of a rapid- acting IV anesthetic, followed by an NMBD. Muscle relaxation achieved by the administration of NMBDs improves intubating conditions by facilitating laryngoscopy, preventing both reflex laryngeal closure and coughing after intubation.<sup>24,89</sup>
+
+Propofol is the most frequently used IV anesthetic drug; other options include etomidate, ketamine, thiopental, and midazolam. The choice of drug depends on a variety of factors including the patient’s hemodynamic status, comorbidities, and allergies, as well as drug pharmacokinetics, side effects, physician preference, and availability.<sup>90</sup> Whether the choice of an anesthetic drug has any effect on the quality of intubating conditions when NMBDs are also administered is not well established. Studies comparing propofol, etomidate, and thiopental in combination with NMBDs showed no difference in intubating conditions between the different anesthetics.<sup>91,92</sup> On the other hand, one study, during which patients received cisatracurium, showed that larger doses of propofol were associated with improved intubating conditions, as compared with smaller doses.<sup>93</sup>
+
+For many years, succinylcholine was the most frequently used NMBD for routine IV induction<sup>90</sup> ; however, nondepolarizing NMBDs have gained greater popularity attributable to the risk of adverse effects from succinylcholine administration, including bradycardia, myalgia, hyperkalemia, increased intracranial pressure, and increased intragastric pressure.<sup>94</sup> Succinylcholine, the only depolarizing NMBD in clinical use, has the benefit of a rapid onset combined with a short duration of action, and it is currently used most often when those properties are desired. Most notably, succinylcholine is still commonly used in the setting of a suspected difficult airway; its short duration of action theoretically allows for the resumption of spontaneous ventilation before severe hypoxia develops in a preoxygenated patient,
+
+although evidence suggests that this may not predictably occur.<sup>95</sup>
+
+Nondepolarizing NMBDs are the more frequently used relaxants for routine IV induction of anesthesia.<sup>94</sup> The most commonly used nondepolarizing NMBDs in current practice—rocuronium, vecuronium, and cisatracurium—are notable for having a favorable safety profile with relatively few side effects. The primary limitation of these drugs is a significantly longer duration of action; once administered, a functional airway must be established within minutes to avoid life- threatening hypoxia. Sugammadex is a selective relaxant- binding agent for rocuronium and vecuronium that can reverse profound neuromuscular blockade rapidly in a time comparable with spontaneous recovery from succinylcholine (also see Chapter 24).<sup>96</sup>
+
+Traditional teaching in the United States has advocated withholding NMBDs until the ability to mask ventilate has been established. If ventilation via a mask cannot be achieved, a preoxygenated patient can then theoretically resume spontaneous ventilation or be awakened before the onset of hypoxia.<sup>97</sup> This practice has been increasingly questioned in the literature, in part because of a number of studies demonstrating that ventilation via a mask is _not_ rendered more difficult by muscle relaxation<sup>98,99</sup> ; rather, mask ventilation is, in fact, facilitated by muscle relaxation.<sup>100</sup> One issue with the traditional paradigm is that the theoretical advantage of the practice—the ability to awaken the patient if mask ventilation fails—is rarely used.<sup>101</sup> The desire to preserve that ability may, in fact, result in giving an inadequate dose of anesthetic during induction, resulting in a difficult mask ventilation situation when one would not have otherwise occurred.<sup>101</sup> Delaying the administration of NMBDs can result in the onset of hypoxia before spontaneous recovery (with succinylcholine) or reversal (with sugammadex) is possible.
+
+The authors do not recommend withholding NMBDs in patients who are predicted to be easy to mask ventilate and/ or intubate. For patients in whom difficulty with both mask ventilation and intubation are predicted, awake intubation should be considered, and the administration of NMBDs is best withheld until the ability to ventilate is proven.
+
+### Rapid- Sequence Induction and Intubation
+
+Rapid- sequence induction and intubation (often simply referred to as _rapid-sequence induction_ [RSI] in the anesthesia literature) is a specialized method of IV induction commonly used when an increased risk of gastric regurgitation and pulmonary aspiration of gastric contents exists. After adequate preoxygenation and while cricoid pressure is applied, an induction dose of IV anesthetic is rapidly followed by 1 to 1.5 mg/kg of IV succinylcholine, and the trachea is intubated without attempts at PPV. The goal is to achieve optimal intubating conditions rapidly to minimize the length of time between the loss of consciousness (LOC) and securing of the airway with a cuffed endotracheal tube (ETT). Cricoid pressure, eponymously referred to as the Sellick maneuver after the physician who first described it, involves the application of pressure at the cricoid ring to occlude the upper esophagus, thereby preventing the regurgitation of gastric contents into the pharynx.<sup>102</sup> The recommended force to be applied is 10 newtons (N) while the patient is awake, increased to 30 N after LOC. These values are based
+
+<!-- PDF page 11 -->
+
+on esophageal manometry on patients undergoing induction of anesthesia and cadaver studies of safe amounts of pressure.<sup>103</sup> RSI is widely practiced and approaches a standard of care in patients with a full stomach (i.e., when NPO guidelines have not been observed) and in the setting of bowel obstruction.<sup>104,105</sup> RSI has historically been recommended for patients who are pregnant, starting in the second trimester,<sup>106</sup> but this dogma has been called into question.<sup>107,108</sup> Other clinical situations for which RSI may be considered due to a higher than normal risk for aspiration of gastric contents include poorly controlled GERD, presence of a nasogastric tube, morbid obesity, and diabetic gastroparesis. RSI is also a useful induction technique when mask ventilation is predicted to be difficult, but intubation is not, such as with an edentulous, bearded patient with an otherwise reassuring airway examination.
+
+Some common variations to RSI have developed from the technique first described in 1970.<sup>109</sup> When succinylcholine is contraindicated or its side effects are undesired, RSI can be accomplished using nondepolarizing NMBDs (rocuronium 1.0 to 1.2 mg/kg or vecuronium 0.3 mg/ kg); these doses provide adequate intubating conditions in less than 90 seconds.<sup>110,111</sup> The primary disadvantage with the nondepolarizing NMBDs used to be the prolonged duration of neuromuscular blockade; however, since the introduction of sugammadex these agents are increasingly employed in place of succinylcholine for RSI (see also Chapter 24). Although traditional RSI calls for induction with a fixed dose of thiopental, the use of other anesthetics such as propofol, etomidate, or ketamine is common. Some advocate for the titration of the chosen anesthetic agent to LOC rather than the delivery of a fixed, predetermined dose.<sup>104</sup>
+
+The application of cricoid pressure is the most controversial aspect of RSI.<sup>104</sup> Opponents point to studies demonstrating that cricoid pressure results in a decrease in lower esophageal sphincter tone, potentially increasing the risk for regurgitation,<sup>112</sup> and to magnetic resonance imaging (MRI) studies showing that cricoid pressure does not, in fact, result in compression of the esophagus, but rather a lateral displacement.<sup>113</sup> Cricoid pressure also worsens laryngeal visualization during DL, potentially lengthening the time to intubation and increasing the risk of pulmonary aspiration, and can result in occlusion of the subglottic airway, resulting in difficulty with tracheal intubation or mask ventilation.<sup>114</sup> On the other hand, advocates argue that properly applied cricoid pressure is effective in reducing the risk of aspiration and that reports of problems are due to incorrect application. The authors of an MRI study of cricoid pressure argue that the position of the esophagus is irrelevant because the effectiveness of cricoid pressure is due to occlusion of the hypopharynx.<sup>115</sup> In general, because of the relatively low risk of application of cricoid pressure, its use is encouraged for RSI unless glottic visualization proves difficult, in which case it can be easily released.
+
+The term _modified RSI_ is frequently used, but no standardized definition exists. A survey of anesthesia residents and attending anesthesiologists in the United States showed that the term was most commonly used to refer to the use of mask ventilation in conjunction with cricoid pressure.<sup>116</sup> Indications for this technique include patients at risk for rapid development of hypoxemia (e.g., patients who are obese, pregnant, or critically ill; pediatric patients) in
+
+emergent situations during which preoxygenation cannot be satisfactorily completed, or when a longer time to acceptable intubating conditions is required because of the use of standard doses of nondepolarizing NMBDs. Although the effect of PPV with cricoid pressure applied in terms of gastric insufflation of air is not definitively known, gentle PPV (inspiratory pressure &lt;20 cm water [H2O]) in conjunction with cricoid pressure may be acceptable in these clinical scenarios.<sup>117</sup>
+
+### Inhalational Induction of Anesthesia
+
+Another option for the induction of general anesthesia is inhalational induction with volatile anesthetic. This technique is commonly used in pediatric anesthesia to provide a painless, needle- free experience for the child. In adults, an inhalational induction of anesthesia is used when IV access is not available or when the specific advantages of the technique are desirable. Advantages of an inhalational induction of anesthesia are the maintenance of spontaneous ventilation and the potential for gradual changes in the depth of anesthesia and associated respiratory and cardiovascular effects.<sup>24</sup> Inhalational induction of anesthesia has also been used for RSI, with a rapid- onset NMBD administered at LOC<sup>118</sup> (also see Chapter 24).
+
+Sevoflurane is currently the most commonly used volatile anesthetic for inhalational induction because of its lack of pungency and low blood:gas solubility, allowing for a smooth induction of anesthesia that can provide suitable conditions for airway management with or without adjuvant drugs such as NMBDs or opioids.<sup>119</sup> The two principal techniques for sevoflurane induction of anesthesia are a _tidal volume induction_ , in which patients are instructed to breathe normally through the face mask, and a _vital capacity induction_ , in which patients are instructed to exhale to residual volume and then take a vital capacity breath from the face mask. High delivered concentrations of sevoflurane (8%) are used for vital capacity induction, whereas tidal volume inductions may start with lower sevoflurane concentrations before the concentration is increased. Nitrous oxide (N2O) can be used with either method to speed induction via the second- gas effect.<sup>120</sup> Both methods are effective and can be used for either SGA placement or tracheal intubation.<sup>119</sup> Deep levels of anesthesia are required to achieve satisfactory intubating conditions when using sevoflurane as a sole induction agent, increasing the risk of adverse effects, such as hypotension. The administration of propofol,<sup>121</sup> rapidonset opioids,<sup>122,123</sup> NMBDs,<sup>124</sup> and ketamine<sup>125</sup> have all been shown to improve intubating conditions and allow for lower end- tidal concentrations of sevoflurane.
+
+Halothane, which is still used in middle- and low- income nations, can also be used for inhalational induction of anesthesia.<sup>126</sup> One main disadvantage of halothane is its high blood:gas partition coefficient, which leads to relatively long induction times. It also can produce cardiac dysrhythmias, myocardial depression, and halothane- induced hepatitis. Because of the inability to achieve deep levels of anesthesia with halothane as a result of its side effects, the use of NMBDs, opioids, or both, is often required.<sup>119</sup> The use of desflurane for inhalational induction of anesthesia is limited by its tendency to cause airway irritation, although its use for induction in combination with opioids has been reported.<sup>127,128</sup>
+
+<!-- PDF page 12 -->
+
+### Intravenous Induction Without Neuromuscular Blocking Drugs
+
+IV induction of general anesthesia without NMBDs is commonly used for SGA placement but can be used to achieve satisfactory intubating conditions as well. This technique is useful when succinylcholine is contraindicated and the prolonged recovery time from nondepolarizing NMBDs is undesirable and their reversal not possible (e.g., when sugammadex is not available). Of the commonly available IV anesthetics, propofol is the best suited for induction without muscle relaxation because of its unique ability to suppress airway reflexes and to produce apnea.<sup>129,130</sup> Larger doses are required, however, when propofol is used as a sole anesthetic, increasing the risk of significant hypotension. Improvement of intubating conditions and smaller doses of propofol are possible when rapid- onset opioids (e.g., alfentanil, remifentanil) or IV magnesium are administered.<sup>131,132</sup> Remifentanil is more effective than comparable doses of alfentanil<sup>131</sup> ; in combination with propofol 2 mg/ kg, remifentanil 4 to 5 mcg/kg can reliably provide good- toexcellent intubating conditions.<sup>133</sup> When combined with cricoid pressure and an avoidance of mask ventilation, this induction technique can be used for RSI.<sup>134</sup>
+
+Disadvantages of this technique include a potentially more frequent incidence of difficult intubation,<sup>135</sup> pronounced hemodynamic side effects such as bradycardia and hypotension, and an increased risk for laryngeal morbidity.<sup>89,136</sup> This technique also introduces the risk of opioid- induced muscle rigidity resulting in difficulty with mask ventilation. Although this risk is commonly attributed to chest wall rigidity, studies in intubated patients and patients with tracheostomies have shown that decreases in pulmonary compliance due to chest wall rigidity are not sufficient to explain an inability to mask ventilate after a large dose of an opioid.<sup>137,138</sup> Examination of the vocal cords during induction with opioids has shown that vocal cord closure is the primary cause of difficult ventilation after opioid- induced anesthesia.<sup>139,140</sup> Treatment with small doses of NMBD or topical lidocaine (laryngotracheal anesthesia [LTA]) can be effective in relaxing the vocal cords to allow for mask ventilation and/or intubation.<sup>139</sup>
+
+### AIRWAY MANAGEMENT IN AN AWAKE (NON- ANESTHETIZED) PATIENT
+
+As noted in the ASA DAA, a consideration of whether the airway should be secured before or after induction of general anesthesia is one of the basic airway management choices.<sup>8</sup> The benefits of awake airway management include the preservation of pharyngeal muscle tone and patency of the upper airway, the maintenance of spontaneous ventilation, an ability to obtain a quick neurologic examination, and a safeguard against aspiration attributable to the preservation of protective airway reflexes.<sup>141</sup> In general, when difficult mask ventilation and difficult intubation are expected, the safest approach to airway management is to secure the airway while the patient remains awake.<sup>8</sup> Other indications for awake airway management include the risk of severe aspiration of gastric contents, facial or airway trauma, severe hemodynamic instability, and unstable cervical spine pathology.<sup>142</sup>
+
+Because of the nature of these indications, tracheal intubation is most often chosen as the goal of awake airway management; however, awake placement of an SGA for diagnostic bronchoscopy has been described. The most useful technique for awake intubation is the flexible scope intubation (FSI),<sup>141</sup> although other techniques have been successfully used, including VAL,<sup>143</sup> optical stylets,<sup>144</sup> lighted stylets,<sup>145</sup> intubating SGAs,<sup>146</sup> and retrograde intubation (RI).<sup>147</sup>
+
+Topical application of local anesthetic to the airway should, in most cases, be the primary anesthetic for awake airway management.<sup>141</sup> Lidocaine is the most commonly used local anesthetic for awake airway management because of its rapid onset, high therapeutic index, and availability in a wide variety of preparations and concentrations.<sup>148,149</sup> Benzocaine and Cetacaine (a topical application spray containing benzocaine, tetracaine, and butamben; Cetylite Inc., Pennsauken, NJ) provide excellent topical anesthesia of the airway, but their use is limited by the risk of methemoglobinemia, which can occur with as little as 1 to 2 seconds of spraying.<sup>150</sup> Topical cocaine is primarily used for anesthesia and vasoconstriction of the nasal mucosa during awake nasotracheal intubation.<sup>151</sup> A mixture of lidocaine 3% and phenylephrine 0.25%, which can be made by combining lidocaine 4% and phenylephrine 1% in a 3:1 ratio, has similar anesthetic and vasoconstrictive properties as topical cocaine and can be used as a substitute.<sup>152</sup>
+
+Topical application of local anesthetic should primarily be focused on the base of the tongue (pressure receptors here act as the afferent component of the gag reflex), the oropharynx, the hypopharynx, and the laryngeal structures; anesthesia of the oral cavity is unnecessary. If a nasotracheal intubation is planned, then the nasal cavity should also be topicalized. Before topical application of local anesthetic to the airway, administration of an anticholinergic agent should be considered to aid in the drying of secretions, which helps improve both the effectiveness of the topical local anesthetic and visualization during laryngoscopy. Glycopyrrolate is usually preferred because it has fewer vagolytic effects than atropine at doses that inhibit secretions and does not cross the blood–brain barrier. It should be administered as early as possible to maximize its effectiveness.
+
+Direct application of topical cocaine, lidocaine 4% with epinephrine, or lidocaine 3%/phenylephrine 0.25% solution via cotton swabs or pledgets is effective for anesthesia of the nasal mucosa. Oropharyngeal anesthesia can be achieved by the direct application of local anesthetic or by using an atomizer or nebulizer. Topical application of local anesthetic to the larynx can be achieved by directed atomization of a local anesthetic or by the _spray- as- you- go_ (SAYGO) method, which involves intermittently injecting local anesthetic through the suction port or working channel of a flexible intubation scope (FIS) or optical stylet as it is advanced toward the trachea.
+
+Topical application of local anesthetic to the airway mucosa using one or more of these methods is often sufficient. If supplemental anesthesia is required, then a variety of nerve blocks may be used. Three of the most useful are the glossopharyngeal nerve block, superior laryngeal nerve block, and translaryngeal block.
+
+<!-- PDF page 13 -->
+
+![](assets/chapter-40/40._Airway_Management_in_the_Adult.pdf-0013-02.png)
+
+
+Tongue<br>Gutter<br>
+
+**Fig. 40.9 Left glossopharyngeal nerve block.** (Reprinted from Artime CA, Sanchez A. Preparation of the patient for awake intubation. In: Hagberg CA, Artime CA, Aziz M, eds. _Hagberg and Benumof’s Airway Management_ . 4th ed. Philadelphia: Elsevier; 2018. From Difficult Airway Teaching Aids, Irvine, University of California, Department of Anesthesia.)
+
+The glossopharyngeal nerve supplies sensory innervation to the posterior third of the tongue, vallecula, the anterior surface of the epiglottis, and the posterior and lateral walls of the pharynx, and is the afferent pathway of the gag reflex. To block this nerve, the tongue is displaced medially, forming a gutter (glossogingival groove). A 25- gauge spinal needle is inserted at the base of the anterior tonsillar pillar, just lateral to the base of the tongue, to a depth of 0.5 cm (Fig. 40.9). After negative aspiration for blood or air, 2 mL of 2% lidocaine is injected. The process is then repeated on the contralateral side.<sup>141</sup> The same procedure can be performed noninvasively with cotton- tipped swabs soaked in 4% lidocaine; the swabs are held in place for 5 minutes (Video 40.1).
+
+The superior laryngeal nerve, a branch of the vagus nerve, provides sensory input from the lower pharynx and the upper part of the larynx, including the glottic surface of the epiglottis and the aryepiglottic folds. Blockade of this nerve may be achieved using one of three landmarks (Fig. 40.10). Using either the superior cornu of the hyoid or the superior cornu of the thyroid cartilage, a 25- gauge spinal needle is walked off the cornu anteriorly toward the thyrohyoid ligament. Resistance is felt as the needle is advanced through the ligament, usually at a depth of 1 to 2 cm. After negative aspiration for blood and air, 1.5 to 2 mL of 2% lidocaine is injected and then repeated on the opposite side.<sup>149</sup> The third landmark for the superior laryngeal nerve block is particularly useful in patients who are obese, in whom palpation of the hyoid or the superior cornu of the thyroid cartilage may be difficult or uncomfortable for the patient. In this approach, the needle is inserted 2 cm lateral to the superior notch of the thyroid cartilage and directed in a posterior and cephalad direction to 1 to 1.5 cm depth, where
+
+
+![](assets/chapter-40/40._Airway_Management_in_the_Adult.pdf-0013-06.png)
+
+
+Superior laryngeal nerve A<br>Cornu of hyoid bone<br>Fat<br>pad<br>Cornu of thyroid<br>B<br>C Thyrohyoid<br>membrane<br>
+
+**Fig. 40.10** Superior laryngeal nerve block, external approach using as a landmark the greater cornu of the hyoid bone (A), the superior cornu of the thyroid cartilage (B), or the thyroid notch (C). (Reprinted from Artime CA, Sanchez A. Preparation of the patient for awake intubation. In: Hagberg CA, Artime CA, Aziz M, eds. _Hagberg and Benumof’s Airway Management_ . 4th ed. Philadelphia: Elsevier; 2018. From Difficult Airway Teaching Aids, Irvine, University of California, Department of Anesthesia.)
+
+2 mL of 2% lidocaine is infiltrated and, again, repeated on the contralateral side.<sup>153</sup>
+
+Translaryngeal (or transtracheal) block provides anesthesia of the trachea and vocal cords. This block may be particularly useful in situations where a neurologic examination is needed after intubation; it makes the presence of the ETT in the trachea more comfortable. The CTM is identified, and a 20- to 22- gauge needle attached to a 5- mL syringe is directly advanced posteriorly and slightly caudally until air is aspirated, at which point 4 mL of either 2% or 4% lidocaine is quickly injected. This causes the patient to cough, anesthetizing the vocal cords and the trachea. To minimize the risk of trauma, a catheter may first be placed over the needle and the local anesthetic then injected through the catheter (Fig. 40.11 and Video 40.2).<sup>149</sup>
+
+These techniques may be used in various combinations as long as the maximum dose of local anesthetic is not exceeded. The maximum dose of lidocaine for application to the airway is not well established; different sources suggest total doses in the range of 4 to 9 mg/kg.<sup>149,154,155</sup> Monitoring for signs and symptoms of lidocaine toxicity, including tinnitus, perioral tingling, metallic taste, lightheadedness, dizziness, and sedation is important. Severe lidocaine overdose can cause hypertension, tachycardia, seizures, and cardiovascular collapse.<sup>156</sup>
+
+<!-- PDF page 14 -->
+
+![](assets/chapter-40/40._Airway_Management_in_the_Adult.pdf-0014-01.png)
+
+
+45°<br>A B<br>C D<br>
+
+**Fig. 40.11 Translaryngeal anesthesia, angiocatheter technique (midsagittal view of the head and neck).** (A) The angiocatheter is inserted at the cricothyroid membrane, aimed caudally. An aspiration test is performed to verify the position of the tip of the needle in the tracheal lumen. (B) The needle is removed from the angiocatheter. (C) The syringe containing local anesthetic is attached, and the aspiration test is repeated. (D) Local anesthetic is injected, resulting in coughing and nebulization of the local anesthetic _(shaded blue area)_ . (Reprinted from Artime CA, Sanchez A. Preparation of the patient for awake intubation. In: Hagberg CA, Artime CA, Aziz M, eds. _Hagberg and Benumof’s Airway Management_ . 4th ed. Philadelphia: Elsevier; 2018. From Difficult Airway Teaching Aids, Irvine, University of California, Department of Anesthesia.)
+
+**Table 40.1** Sedative Drugs for Awake Airway Management
+
+|**Drug**|**Class**|**Sedative Dose**|**Notes**|
+|---|---|---|---|
+|Midazolam|Benzodiazepine|1–2 mg IV, repeated prn (0.025–0.1 mg/kg)|Frequently used in combination with fentanyl.|
+|Fentanyl|Opioid|25–200 mcg IV (0.5–2 mcg/kg)|Usually used in combination with other agents (e.g.,<br>midazolam, propofol).|
+|Alfentanil|Opioid|500–1500 mcg IV (10–30 mcg/kg)|Has a faster onset, shorter duration than fentanyl.|
+|Remifentanil|Opioid|Bolus 0.5 mcg/kg IV, followed by an infusion<br>of 0.1 mcg/kg/min|Infusion can be subsequently titrated by 0.025–0.05 mcg/kg/<br>min in 5- minute intervals to achieve adequate sedation.|
+|Propofol|Hypnotic|0.25 mg/kg IV in intermittent boluses or<br>continuous IV infusion of 25–75 mcg/kg/<br>min, titrated to effect|Can also be used in combination with remifentanil (decrease<br>dose of both drugs).|
+|Ketamine|Hypnotic|0.2–0.8 mg/kg IV|Pretreat with an antisialagogue.<br>Consider administration of midazolam to attenuate<br>undesirable psychologic effects.|
+|Dexmedetomidine|α2- Agonist|Bolus 1 mcg/kg IV over 10 minutes, followed<br>by an infusion of 0.3–0.7 mcg/kg/h|Reduce dose in older adults and in patients with depressed<br>cardiac function.|
+
+
+_IV,_ intravenous; _prn,_ as needed; _pro re nata_ (Latin).
+
+Depending on the clinical circumstance, IV sedation may facilitate airway management in an awake patient by providing anxiolysis, amnesia, and analgesia. Benzodiazepines, opioids, IV hypnotics, α2- agonists, and neuroleptics can be used alone or in combination. A summary of common
+
+medications used for sedation can be found in Table 40.1. These drugs should be carefully titrated to effect; oversedation can render a patient uncooperative and make awake intubation more difficult. Spontaneous ventilation should always be maintained. Care should be taken in situations
+
+
+
+::: details 原始表格與符號（PDF 第 14 頁）
+
+![第 40 章，原始 PDF 第 14 頁](assets/chapter-40/source-page-0014.png)
+
+:::
+
+<!-- PDF page 15 -->
+
+with critical airway obstruction since awake muscle tone is sometimes necessary in these patients to maintain airway patency. Avoiding oversedation is also important in the patient at increased risk for aspiration of gastric contents, because an awake patient can protect their own airway if regurgitation should occur.<sup>83</sup>
+
+## Mask Ventilation
+
+Mask ventilation is a noninvasive technique for airway management that can be used as a primary mode of ventilation for an anesthetic of short duration or as a bridge to establish a more definitive airway. The use of a face mask is common for preoxygenation, inhalational induction of anesthesia, and to provide oxygen and anesthetic gases to both a spontaneous ventilating patient and an anesthetized, apneic patient via PPV. Mask ventilation is not only used to ventilate and oxygenate before conditions for tracheal intubation have been achieved but also it is a valuable rescue technique when tracheal intubation proves difficult. For this reason, mask ventilation is an important part of the ASA DAA and an essential skill for the anesthesia practitioner.<sup>8</sup>
+
+Mask ventilation is relatively contraindicated when the risk for regurgitation is increased; no protection from pulmonary aspiration of gastric contents exists. However, a recent randomized controlled trial (RCT) in critically ill patients that excluded those patients at high risk for regurgitation demonstrated that among critically ill patients requiring endotracheal intubation, the provision of mask ventilation after induction of anesthesia resulted in higher oxygen saturation periprocedure, without an increased risk of pulmonary aspiration.<sup>157</sup> Mask ventilation should also be performed with caution in patients with severe facial trauma and in patients in whom head and neck manipulation must be avoided (e.g., those with an unstable cervical spine fracture).
+
+Anesthesia face masks are designed to form a seal around the patient’s nose and mouth, allowing for PPV and the administration of anesthetic gases; they should not be confused with oxygen face masks, which are designed only to administer supplemental oxygen. Modern anesthesia face masks are disposable and made of clear plastic, which allows for visualization of cyanosis or the need for oral suctioning. Face masks are available in various styles and sizes but share a basic design: a main body, seal, and connector. The seal is the portion of the mask that comes in contact with the face, and in clear plastic masks is composed of a plastic, air- filled, high- volume, low- pressure cushion that conforms to the facial anatomy while minimizing the chance for pressure ischemia; some models have a valve on the cushion to allow changing the volume of the air within. The connector is a standard 22- mm female adapter that allows a connection to a standard anesthesia circuit or a bag- valve device; pediatric masks usually have a 15- mm male adapter that allows the same connections.
+
+The technique for mask ventilation is dependent on two key elements: (1) maintenance of a seal between the face mask and the patient’s face, and (2) an unobstructed upper airway.<sup>24</sup> The mask is usually held with one hand, with the thumb and index finger forming a “C” around the collar of
+
+
+![](assets/chapter-40/40._Airway_Management_in_the_Adult.pdf-0015-07.png)
+
+
+**Fig. 40.12 Standard one- handed face- mask ventilation technique.** The position of the fifth digit is at the angle of the jaw. (From Matioc AA. The adult ergonomic face mask: historical and theoretical perspectives. _J Clin Anesth_ . 2009;21:300–304.)
+
+the connector, the third and fourth digits on the ramus of the mandible, and the fifth digit on the angle of the mandible (Fig. 40.12). The thumb and index finger are used to produce downward pressure to ensure a tight mask seal, while the remaining digits provide upward displacement of the mandible (jaw thrust) to aid with airway patency. The other hand is free to provide manual ventilation. Ensuring that pressure from the digits is placed on the bony ridge of the mandible and not the soft tissue is important; compression of the submandibular space can cause obstruction of the airway and difficulty with mask ventilation. Many face masks have hooks around the collar for use with mask straps that can facilitate formation of a seal.
+
+The one- handed technique is occasionally ineffective, especially in patients who are obese or edentulous, attributable to the failure to maintain a seal and/or a patent upper airway. In these situations, a two- handed technique can be more successful. Two- handed techniques depend on either an assistant or the use of pressure- control ventilation (PCV) with the anesthesia machine to provide PPV. The use of PCV for mask ventilation results in lower peak airway pressures and reduced inspiratory flow rates when compared with manual ventilation, providing an additional measure of safety against gastric insufflation.<sup>158</sup> In one approach to the two- handed technique, one hand is positioned as in the one- handed technique and the other hand is placed on the other side of the mask in an identical conformation. A more effective approach involves using the second and third digits to perform a jaw thrust while the mask is held in place with the thumbs (Video 40.3). A study in anesthetized patients showed that this technique improved upper airway patency, compared with the traditional one- handed technique, as measured by greater tidal volumes during PCV.<sup>159</sup> Additional techniques to improve the mask seal in difficult scenarios include leaving dentures in place in edentulous patients and placing an adhesive plastic dressing over facial hair.
+
+<!-- PDF page 16 -->
+
+![](assets/chapter-40/40._Airway_Management_in_the_Adult.pdf-0016-01.png)
+
+
+![](assets/chapter-40/40._Airway_Management_in_the_Adult.pdf-0016-02.png)
+
+
+**Fig. 40.13 Oropharyngeal airway in place.** The airway follows the curvature of the tongue. It pulls the tongue and the epiglottis away from the posterior pharyngeal wall and provides a channel for the passage of air. (Modified from Dorsch JA, Dorsch SE. _Understanding Anesthesia Equipment_ . 4th ed. Baltimore: Williams & Wilkins; 1999.)
+
+Once a seal is established between the face mask and the patient’s face, ventilation is achieved by either spontaneous ventilation or PPV. The effectiveness of mask ventilation should be ascertained by observing for chest excursion, exhaled tidal volumes, pulse oximetry, and capnography. During controlled ventilation in patients with normal lungs and a patent airway, adequate tidal volumes should be achieved with peak inspiratory pressures less than 20 cm H2O; higher pressures should be avoided to prevent gastric insufflation.<sup>160</sup> If PPV is inadequate at acceptable inspiratory pressures, then airway patency and pulmonary compliance should be assessed.
+
+Because of a reduction in muscle tone as a result of general anesthesia, tissues fall backward under the influence of gravity in a supine patient and can obstruct the upper airway. Upper airway obstruction most commonly takes place at the level of the soft palate (velopharynx), epiglottis, and tongue.<sup>24,28</sup> To maximize airway patency, mask ventilation can be performed with maximal atlantooccipital extension in combination with the forward displacement of the mandible (jaw thrust) involved in the mask- holding techniques.<sup>161</sup> The addition of cervical flexion to head extension (i.e., placing the patient in the sniffing position) improves pharyngeal patency.<sup>162</sup> If the sniffing position and jaw thrust fail to relieve airway obstruction, then oropharyngeal or nasopharyngeal airways may be used to facilitate airway patency.
+
+Oropharyngeal airways are the most commonly used. They follow the curvature of the tongue, pulling it away from the posterior pharynx (Fig. 40.13). Because they place pressure on the base of the tongue and may come
+
+
+![](assets/chapter-40/40._Airway_Management_in_the_Adult.pdf-0016-07.png)
+
+
+![](assets/chapter-40/40._Airway_Management_in_the_Adult.pdf-0016-08.png)
+
+
+![](assets/chapter-40/40._Airway_Management_in_the_Adult.pdf-0016-09.png)
+
+
+**Fig. 40.14 Nasopharyngeal airway in place.** The airway passes through the nose and ends at a point just above the epiglottis. (Modified from Dorsch JA, Dorsch SE. _Understanding Anesthesia Equipment_ . 4th ed. Baltimore: Williams & Wilkins; 1999.)
+
+in contact with the epiglottis, oropharyngeal airways can precipitate coughing, retching, or laryngospasm if laryngeal and pharyngeal reflexes are not sufficiently blunted; therefore, they are not appropriate for use in conscious patients who have not had local anesthetic applied to the airway. The oropharyngeal airway is sized by measuring from the corner of a patient’s mouth to the angle of the jaw or the earlobe. Inappropriately sized oropharyngeal airways can worsen airway obstruction; therefore, correct size selection is important. Proper placement is accomplished by inserting the oropharyngeal airway with the curvature facing cranially and then rotating 180 degrees; alternatively, a tongue depressor can be used to displace the tongue as the oropharyngeal airway is inserted with the curvature facing caudally. Complications from oropharyngeal airways include lingual nerve palsy and damage to the teeth.<sup>163,164</sup> Nasopharyngeal airways are less stimulating than oropharyngeal airways once in place and thus are more appropriate for conscious patients (Fig. 40.14). They should be well lubricated before insertion and inserted perpendicularly to the longitudinal axis of the body with the bevel facing the nasal septum. To avoid epistaxis, force should never be used during insertion of a nasopharyngeal airway.
+
+Difficult mask ventilation occurs when ventilating via the face mask is not possible because of an inadequate mask seal, excessive gas leak, and/or excessive resistance to the ingress or egress of gas.<sup>8</sup> Predictors for difficult mask ventilation that can be identified during the preoperative airway assessment are listed in Box 40.2.
+
+<!-- PDF page 17 -->
+
+### Box 40.2 Predictors of Difficult Mask Ventilation
+
+- Obstructive sleep apnea or history of snoring
+
+- Age older than 55 years
+
+- Male gender
+
+- Body mass index of 30 kg/m<sup>2</sup> or greater
+
+- Mallampati classification III or IV
+
+- Presence of a beard
+
+- Edentulousness
+
+## Supraglottic Airway
+
+The term _supraglottic airway_ or _extraglottic airway_ refers to a diverse family of medical devices that are blindly inserted into the pharynx to provide a patent conduit for ventilation, oxygenation, and delivery of anesthetic gases without the need for tracheal intubation. SGAs have the advantage of being less invasive than tracheal intubation while providing a more definitive airway than a face mask and can be used for either spontaneous ventilation or PPV. One of the first SGAs, the laryngeal mask airway (LMA) was invented in 1983 by Dr. Archie Brain and introduced into clinical practice in 1988.<sup>165</sup> Since that time, the LMA has proved to be one of the single-most important developments in both routine and difficult airway management and is a pivotal component of the ASA DAA. Various designs of SGAs are now available and are widely used in current anesthesia practice as a primary airway management device, a rescue airway device, and a conduit for tracheal intubation. Here we provide a broad description of SGAs, as well as examples of specific devices.
+
+The specific advantages of SGAs include the ease and speed of placement, improved hemodynamic stability, reduced anesthetic requirements, lack of a need for muscle relaxation, and an avoidance of some of the risks of tracheal intubation (e.g., trauma to the teeth and airway structures, sore throat, coughing on emergence, or bronchospasm).<sup>166,167</sup> The primary disadvantages are that SGAs have comparatively lower seal pressures than ETTs, which can lead to ineffective ventilation when higher airway pressures are required, and they provide no protection from laryngospasm. First- generation SGAs also provide little protection from gastric regurgitation and aspiration, although newer devices have incorporated design elements to minimize this risk.
+
+SGAs have many applications. They are considered the first choice for airway management for diagnostic and minor surgical procedures.<sup>168</sup> No standardized classification system exists for the different designs of SGAs, although several have been proposed. This chapter uses the terminology described by Donald Miller: perilaryngeal sealers; cuffless, anatomically preshaped sealers; and cuffed pharyngeal sealers.<sup>169</sup> Second- generation SGAs are differentiated from first- generation SGAs in that they incorporate features designed to reduce the incidence of aspiration and allow higher seal pressures.<sup>170</sup>
+
+### FIRST- GENERATION PERILARYNGEAL SEALERS
+
+The LMA (LMA North America, San Diego, CA) is the archetype of the perilaryngeal sealer and the most widely used,
+
+
+![](assets/chapter-40/40._Airway_Management_in_the_Adult.pdf-0017-16.png)
+
+
+**Fig. 40.15 LMA Classic.** (Image provided courtesy LMA North America, San Diego, CA.)
+
+well- studied SGA. The original version, the LMA Classic (cLMA), consists of an oval- shaped, silicone mask with an inflatable cuff that sits in the hypopharynx and forms a seal around the periglottic tissues (Fig. 40.15). An airway tube attached to the mask exits the mouth and has a standard 15- mm connector for attachment to an anesthesia circuit or to a bag–valve device. The seal around the laryngeal inlet allows for the delivery of oxygen and inhaled anesthetics during spontaneous ventilation and permits PPV at pressures up to 20 cm H2O. The cLMA is reusable up to 40 times and is available in a variety of sizes from size 1 (neonate) to size 6 (large adult, >100 kg).
+
+Over the past 20 years, a multitude of manufacturers have produced SGAs that incorporate the basic perilaryngeal sealing design of the cLMA. Because the term LMA is a protected trademark, these devices are referred to as laryngeal masks (LMs). Each has its own unique characteristics that may afford it specific advantages over other designs. Although an exhaustive description of every available LM is outside the scope of this chapter, some unique features merit mentioning.
+
+Some design features address the issue of high cuff pressures, which can lead to oropharyngolaryngeal morbidity, nerve palsies, and improper device positioning. For example, the line of LMs manufactured by AES, Inc. (Black Diamond, WA) incorporates a cuff pilot valve (CPV) that allows constant cuff pressure monitoring. The air- Q SP (Cookgas LLC, St. Louis, MO; distributed by Mercury Medical, Clearwater, FL) has a self- pressurizing cuff that uses the positive pressure that ventilates the patient to also pressurize the
+
+<!-- PDF page 18 -->
+
+![](assets/chapter-40/40._Airway_Management_in_the_Adult.pdf-0018-01.png)
+
+
+A B<br>C D<br>
+
+**Fig. 40.16 Insertion of a laryngeal mask airway (LMA).** (A) The tip of the cuff is pressed upward against the hard palate by the index finger while the middle finger opens the mouth. (B) The LMA is pressed backward in a smooth movement. The nondominant hand is used to extend the head. (C) The LMA is advanced until definite resistance is felt. (D) Before the index finger is removed, the nondominant hand presses down on the LMA to prevent dislodgment during removal of the index finger. The cuff is subsequently inflated. (Courtesy LMA North America, San Diego, CA.)
+
+cuff, obviating the need for an inflation line and eliminating the possibility of cuff overinflation. On exhalation, the mask cuff deflates to the level of positive end- expiratory pressure (PEEP), decreasing the total mucosal pressure over the course of an anesthetic, thereby potentially reducing the possibility of cuff pressure–related complications. Other devices (for example the LMA Unique EVO or the air- Q) incorporate design features to facilitate tracheal intubation through the device. The LMA Flexible, available in reusable and single- use models, has a flexible, kink- resistant airway tube that can be positioned away from the surgical field for head and neck procedures.
+
+While some SGAs are reusable, disposable, single- use devices are popular because of lower cost and maintenance, as well as concerns over the perceived risk of crosscontamination and the transmission of infection with reusable medical devices.
+
+Manufacturers of different SGAs provide detailed instructions on the optimal use and insertion techniques for their devices. The first and arguably more comprehensive manual was provided by Dr. Brain for the LMA group of devices, and we describe some concepts that are broadly applicable to most SGAs below. The manufacturer’s instructions for the placement of the cLMA are summarized in Fig. 40.16.
+
+To achieve a proper fit, the manufacturer of the LMA recommends placing an appropriately sized LMA. An airtight seal is achieved more frequently with a size 5 LMA in the average adult man and a size 4 LMA in the average adult woman.<sup>171</sup> Using an undersized LMA can result in overinflation of the cuff to achieve a seal, which can predispose the patient to oropharyngolaryngeal morbidity and nerve damage.<sup>172</sup> Smaller LMA sizes have also been shown to be associated with placement failure.<sup>173</sup> Larger sizes, however,
+
+may be associated with a more frequent incidence of sore throat; therefore a smaller size may be appropriate when spontaneous ventilation through the LMA is planned.<sup>174</sup>
+
+Adequate depth of anesthesia is a cornerstone of SGA insertion success. It can be achieved with propofol or sevoflurane<sup>175</sup> ; short- acting opioids such as fentanyl, alfentanil, and remifentanil may be co- administered to facilitate placement and to decrease the incidence of coughing, gagging, and laryngospasm.<sup>176,177</sup> Before insertion, the cuff should be deflated, and the posterior aspect of the mask should be lubricated with a water- based lubricant. Once positioned (see Fig. 40.16), the cuff should be inflated with the minimum effective volume of air, with a target cuff pressure of 40 to 60 cm H2O.<sup>171</sup> To allow the SGA to position itself correctly, the device should not be secured or attached to the anesthesia circuit until the cuff has been inflated. Confirmation of proper placement is performed by attempting gentle PPV while checking capnography and auscultation and by quantifying the inspiratory pressure at which a leak is audible, which should be 18 to 20 cm H2O. Once proper positioning is confirmed, a roll of gauze may be inserted as a bite block for devices that do not have a built- in bite block, and the SGA is secured in place with tape. Several modifications to the recommended insertion technique have been described, including a _thumb insertion method_ by the manufacturer (Video 40.4).<sup>178,179</sup> Cuff pressure should be periodically monitored if N2O is being used; cuff pressures may increase above the recommended threshold of 60 cm H2O as a result of diffusion of N2O into the cuff.
+
+Initial difficulty with ventilation after the placement of an SGA may be due to a down- folded epiglottis. The _up–down maneuver_ described by Dr. Brain may help correct this problem; the SGA is withdrawn 2 to 4 cm and reinserted without
+
+<!-- PDF page 19 -->
+
+deflating the cuff. Head extension and SGA repositioning may also improve ineffective ventilation. If these actions do not correct the problem, then a different size may be needed. Insufficient depth of anesthesia, resulting in laryngospasm or bronchospasm, may make ventilation through an SGA impossible; the administration of topical, inhaled, or IV anesthesia can help to correct this. Although not necessary, DL can also facilitate proper SGA placement.
+
+Serious complications from SGA use are relatively rare. More commonly, minor oral, pharyngeal, or laryngeal injury occurs, expressed as complaints of a dry or sore throat.<sup>180</sup> The incidence of sore throat is approximately 10% to 20%,<sup>167,181</sup> and has been linked to higher cuff pressures and larger SGA sizes.<sup>174,182</sup> More serious cases of oropharyngolaryngeal injury have been described, such as trauma to the uvula and pharyngeal necrosis.<sup>183,184</sup> Injury to the lingual, hypoglossal, and recurrent laryngeal nerves has also been reported; these usually spontaneously resolve over a period of weeks to months.<sup>172</sup> Predisposing factors include high cuff pressures (often attributable to the use of N2O), using too small of an SGA, and nonsupine positions.<sup>172</sup>
+
+### SECOND- GENERATION PERILARYNGEAL SEALERS
+
+Second-generation SGAs were designed to incorporate features that decrease the risk of aspiration and allow higher seal pressures. The LMA ProSeal (PLMA, LMA North America, San Diego, CA) was the first such device. It is reusable and has an additional posterior cuff, which improves the perilaryngeal seal and allows for PPV at pressures up to 30 cm H2O. It also incorporates a gastric drainage tube that allows for gastric access with an orogastric tube and channels any regurgitated gastric contents away from the airway, effectively isolating the respiratory and gastrointestinal tracts.<sup>185</sup> Additional features include an incorporated bite block and a softer cuff.
+
+The insertion technique is similar to the cLMA but requires deeper anesthetic levels.<sup>185,186</sup> An optional introducer can be used to facilitate insertion. As with the cLMA, cuff pressure should not exceed 60 cm H2O. Once inserted, assessment of proper placement is accomplished by providing PPV; adequate tidal volumes should be accomplished with reasonable peak inspiratory pressures, leak pressure should be above 20 cm H2O, and the capnography waveform should appear normal.<sup>24</sup> An additional test to confirm proper placement and separation of the airway and gastrointestinal tract is performed by placing a small layer (&lt;5 mm) of water- based lubricant over the drainage tube orifice; suprasternal notch palpation should result in a small up–down movement of the gel meniscus, whereas PPV ventilation should occur without any movement of said meniscus. Easy passage of an orogastric tube through the gastric drainage tube also confirms proper positioning.
+
+The LMA Supreme (SLMA, LMA North America, San Diego, CA) is a single- use, second- generation SGA. Like the PLMA, the SLMA has an improved cuff design that produces higher airway leak pressures, a drainage tube that allows for gastric access, and an integrated bite block (Fig. 40.17). A fixation tab allows for determination of proper sizing (the tab should rest 1 to 2.5 cm above the upper lip)
+
+
+![](assets/chapter-40/40._Airway_Management_in_the_Adult.pdf-0019-08.png)
+
+
+Airway tube<br>Drain (15-mm connector)<br>tube<br>LMA Supreme<br>manifold<br>Fixation<br>tab<br>Integrated<br>bite block<br>Elliptical<br>airway tube<br>Modified cuff<br>Drain tube<br>opening<br>Pilot<br>balloon<br>
+
+**Fig. 40.17** The LMA Supreme has a modified cuff design, a drainage tube that allows for gastric access, and an integrated bite block. (From Verghese C, Mena G, Ferson DZ, Brain AIJ. Laryngeal mask airway. In: Hagberg CA, ed. _Benumof and Hagberg’s Airway Management_ . 3rd ed. Philadelphia: Saunders; 2013.)
+
+and provides an improved perilaryngeal seal when inward pressure is maintained by securing the mask into position by taping cheek to cheek across the fixation tab.
+
+Although not definitive, there is some evidence suggesting that second- generation SGAs, such as the PLMA and the SLMA, reduce the risk of aspiration of gastric contents. This property, along with the improved airway seal and higher leak pressures, have enabled SGA devices to be used in various applications where the cLMA is potentially unsuitable, such as in nonsupine positions (e.g., lateral, prone),<sup>187</sup> in laparoscopic surgery (e.g., cholecystectomy, gynecologic surgery),<sup>188,189</sup> and in patients who are obese.<sup>190</sup> The successful, routine use of the SLMA in fasted, nonobese patients for cesarean section has also been reported.<sup>191</sup>
+
+The LMA Protector (LMA North America, San Diego, CA) is an all- silicone second- generation SGA with integrated Cuff Pilot Technology, which allows constant cuff pressure monitoring. Color- coded indicator bands alert the clinician to changes in cuff pressure attributable to temperature, N2O, and movement within the airway, allowing the clinician to maintain the recommended cuff pressure of 40 to 60 cm H2O. The LMA Protector is designed to channel fluids away from the airway in the unlikely event of regurgitation and allows for gastric suctioning. The airway channel is wide enough to allow intubation with a standard-sized ETT (see Tracheal Intubation Through a Supraglottic Airway Device, below).
+
+The Ambu AuraGain (Ambu Inc, Columbia, MD) is a second- generation SGA designed to facilitate endotracheal intubation (see Tracheal Intubation Through a Supraglottic Airway Device, below).
+
+Considering the potentially higher safety profile provided by higher seal pressure and protection from aspiration, some authors suggest that second-generation SGAs should be the default first- line choice where an SGA is required.<sup>192</sup>
+
+### SPECIALLY DESIGNED PERILARYNGEAL SEALERS
+
+Some SGAs have been designed for a very specific use. For example, the LMA Gastro (LMA North America, San Diego,
+
+<!-- PDF page 20 -->
+
+CA) is a single- use silicone LMA designed for upper gastrointestinal endoscopy procedures, simultaneously protecting the airway and facilitating passage of an endoscope.
+
+### CUFFLESS ANATOMICALLY PRESHAPED SEALERS
+
+Cuffless anatomically preshaped sealers do not have a cuff; rather, they provide an airway seal by their anatomically preshaped design. Advantages include simplicity of insertion and positioning and the lack of a need to inflate a cuff. The first of these devices, the SLIPA (Curveair, London, UK), contains a hollow chamber that can trap regurgitated liquid and prevent aspiration. Other cuffless devices such as the i- gel (Intersurgical Inc., Wokingham, Berkshire, UK) and the Baska Mask (Strathfield, NSW, Australia) can also be included in this classification. The i- gel is considered a second- generation SGA considering the presence of a gastric drainage port and higher seal pressure.
+
+### CUFFED PHARYNGEAL SEALERS
+
+Cuffed pharyngeal sealers have an airway with a pharyngeal cuff that seals at the level of the base of the tongue and can be subclassified as to whether they also possess an esophageal sealing cuff.<sup>169</sup> SGAs with only a pharyngeal cuff include the Cobra Perilaryngeal Airway (CobraPLA; Engineered Medical Systems, Indianapolis, IN) and the Tulip Airway (Marshall Medical, Bath, UK); they are not detailed in this chapter. The following devices all have an esophageal sealing cuff.
+
+The esophageal–tracheal combitube (ETC) (Covidien, Mansfield, MA) is a uniquely designed SGA with both a pharyngeal and esophageal sealing cuff and two lumina. The ETC is primarily designed for emergency intubation and is mostly used in the prehospital setting, although it has occasionally been used during general anesthesia as both a primary airway and as a rescue airway device.<sup>193,194</sup> It is inserted blindly through the mouth in a curved, downward motion until the printed ring marks lie between the teeth. Both the proximal, oropharyngeal cuff and the distal esophageal–tracheal cuff are inflated. Greater than 90% of the time, esophageal placement of the device occurs, in which ventilation should be performed via the longer, blue, #1 (esophageal) lumen.<sup>195</sup> This lumen has a closed distal end with eight small perforations located between the two cuffs, which allow oxygenation and ventilation. When the device is placed into the trachea, ventilation should occur via the shorter, clear, #2 (tracheal) lumen, which is open at its distal end. When the ETC is placed in the esophagus, an orogastric tube may be passed through the tracheal lumen to empty the stomach. Use of the ETC as a primary airway is limited by a higher risk of complications, compared with the LMA or tracheal intubation, including hoarseness, dysphagia, and bleeding.<sup>196,197</sup> Because the oropharyngeal cuff of the ETC contains latex, this device should not be used in latex- sensitive individuals.
+
+The King LT series of SGAs (King Systems Corporation, Noblesville, IN) are similar in design to the ETC and EasyTube, with a ventilation port between the pharyngeal and esophageal cuffs. The King LT and the King LT- D (reusable and disposable, respectively) are single- lumen devices with
+
+a tapered distal tip that allows easy passage into the esophagus. The distal (esophageal) portion of the tube is occluded. The King LTS and the disposable King LTS- D, on the other hand, have an open distal tip with a secondary channel to allow suctioning of gastric contents. Although tracheal placement of a King LT device has not been reported, if it should occur, then the device should be removed and reinserted.
+
+## Tracheal Intubation
+
+Tracheal intubation is the gold standard for airway management. It establishes a definitive airway, provides maximal protection against the aspiration of gastric contents, and allows for PPV with higher airway pressures than with a face mask or an SGA. Tracheal intubation is usually facilitated by DL; however, a wide variety of alternative intubation devices and techniques have been developed to circumvent the problems encountered when conventional DL is difficult.
+
+In the fasted patient undergoing elective surgery with general anesthesia, an SGA is often suitable. Certain conditions or clinical situations, however, favor tracheal intubation, although the advent of second- generation SGAs has somewhat narrowed this list. Absolute indications for tracheal intubation include patients with a full stomach or who are otherwise at increased risk for aspiration of gastric secretions or blood, patients who are critically ill, patients with significant lung abnormalities (e.g., low lung compliance, high airway resistance, impaired oxygenation), patients requiring lung isolation, patients undergoing otorhinolaryngologic surgery during which an SGA would interfere with surgical access, patients who will likely need postoperative ventilatory support, and patients in whom SGA placement has failed. Other indications for intubation include a surgical requirement for NMBDs, patient positioning that would preclude rapid tracheal intubation (e.g., prone or turned away from the anesthesia provider), a predicted difficult airway, and prolonged procedures.<sup>24</sup>
+
+### ENDOTRACHEAL TUBES
+
+The modern, standard ETT is a disposable, single- use, cuffed, plastic tube that is designed to be inserted through the nose or mouth and sit with its distal end in the midtrachea, providing a patent airway to allow for ventilation of the lungs. A variety of different types of ETTs are available for use in specialized situations. Several features are commonplace among the different styles, however, including a universal 15- mm adapter that allows the attachment of the proximal end to different ventilating circuits and devices; a high- volume, low- pressure cuff; a beveled tip to facilitate passage through the vocal cords; and an additional distal opening in the side wall of the ETT known as a _Murphy eye_ , which serves to provide an additional portal for ventilation should the distal end of the lumen become obstructed by either soft tissue or secretions.
+
+Cuffed ETTs are routinely used for tracheal intubation in most patients; cuffless ETTs are used in neonates and infants. The high- volume, low- pressure cuff is inflated with air to provide a seal against the tracheal wall to protect
+
+<!-- PDF page 21 -->
+
+the lungs from pulmonary aspiration and to ensure that the tidal volume delivered ventilates the lungs rather than escapes into the upper airway.<sup>24</sup> A pilot balloon with a oneway valve allows for the inflation of the cuff and an assessment of the cuff pressure. The cuff should be inflated to the minimum volume at which no air leak is present with positive pressure inspiration; the cuff pressure should be less than 25 cm H2O.<sup>198</sup> Excessive cuff pressure may result in tracheal mucosal injury, vocal cord dysfunction from recurrent laryngeal nerve palsy, and sore throat. Monitoring the cuff pressure with a pressure gauge is recommended. When N2O is used as part of the anesthetic, cuff pressure should be periodically measured throughout the surgery; N2O diffusion into the cuff can result in increases in cuff pressure to potentially dangerous levels.
+
+ETT size is normally described in terms of its internal diameter (ID); the relationship of the ID to the external diameter varies between different designs and manufacturers. Selection of the ETT size depends on the reason for placement and patient- specific factors such as patient sex and airway pathologic conditions. Smaller ETTs result in increased airway resistance and work of breathing, and ETTs with a smaller ID may preclude therapeutic fiberoptic bronchoscopy. Larger ETTs are more likely to be associated with laryngeal or tracheal mucosal trauma and have a higher incidence of sore throat after general anesthesia. Generally, in patients intubated only for the purposes of a general anesthetic, a smaller ETT may be used than on the patient who will remain intubated in the medium to long term as a result of respiratory failure; typically a 7- mm ETT is used for females and a 7.5- or 8- mm ETT is used for males.
+
+A variety of specialized tracheal tubes are available for use in specific clinical situations. Preformed tubes, such as the nasal and oral Ring–Adair–Elwyn (RAE) tubes, have a specific contour to maintain a low profile and to avoid surgical interference. Armored (reinforced) tubes have an embedded coil that minimizes kinking of the tube when it is subjected to angulation. Microlaryngeal tubes, which have small IDs with a longer-length tube, are useful in laryngeal surgery or for specific applications, such as intubation through a cLMA. The VivaSight ETT (Ambu, Inc., Ballerup, Denmark) has an integrated video camera at the tip, useful during intubation and for confirming ETT position throughout the procedure. Other specialized tubes include laser- resistant tubes and both single- and double- lumen tubes that allow for one- lung ventilation.
+
+### ENDOTRACHEAL TUBE INTRODUCERS
+
+ETT introducers are long, slender devices used to assist in guiding an ETT through the glottis. They are particularly useful for performing a blind intubation when the glottic opening cannot be visualized during laryngoscopy.
+
+The original ETT guide was the Eschmann introducer, developed by Venn in 1973.<sup>199</sup> This device, also known as the _gum elastic bougie_ , is long enough to allow advancement of an ETT over its distal end after being placed through the vocal cords. It also possesses an anterior angulation at the distal end (coudé tip) to facilitate maneuvering underneath the epiglottis toward the glottic opening, even when the glottic structures are not visualized. A variety of similar introducers with different sizes and features are
+
+available; some are hollow to allow for ventilation if the need arises.
+
+Coudé- tip introducers are particularly useful when only a portion of the laryngeal structures, such as only the tip of the epiglottis, can be visualized. Proper placement of the stylet is indicated by the perception of _tracheal clicks_ as the coudé tip passes along the tracheal rings and by a _distal hold- up_ as it reaches the small bronchi. An ETT is subsequently advanced over the introducer into the correct position (Video 40.5).<sup>200</sup>
+
+### OROTRACHEAL VERSUS NASOTRACHEAL INTUBATION
+
+Tracheal intubation can proceed via the orotracheal or nasotracheal route. This decision should be made before deciding which airway management technique will be used. Nasotracheal intubation is generally indicated when the orotracheal route is not possible (e.g., when the mouth opening is severely limited) or when the need for surgical access precludes an orotracheal route. In addition, certain intubation techniques, such as blind intubation, awake intubation, and FSI, are significantly easier when performed through the nose.
+
+When the nasotracheal route is not specifically indicated, however, the orotracheal route is usually preferred for several reasons. The orotracheal route is potentially less traumatic and presents a lower risk of bleeding, usually allows for the placement of a larger ETT, and provides for more options in terms of airway management techniques. The major disadvantages include the potential for damage to the teeth and stimulation of the gag reflex during awake intubation, requiring denser airway anesthesia and potentially being less comfortable for the patient. Nasotracheal intubation, on the other hand, bypasses the gag reflex and is usually more easily tolerated by the awake patient. However, the risks of epistaxis, trauma to the nasal turbinates, and submucosal tunneling in the nasopharynx must be considered.<sup>141</sup> Nasotracheal intubation is relatively contraindicated in the setting of maxillary or skull base fractures.
+
+### DIRECT LARYNGOSCOPY
+
+The most commonly used technique for tracheal intubation is DL, which involves direct visualization of the glottis with the assistance of a laryngoscope. The ETT is inserted through the glottic opening into the trachea under continuous observation.
+
+### Preparation and Positioning
+
+Preparation for DL includes proper patient positioning, adequate preoxygenation, and ensuring the availability and proper functioning of all necessary equipment – laryngoscopes, tracheal tubes, tube stylets, an empty syringe for inflating the tracheal tube cuff, a suction apparatus, and the essential equipment for mask ventilation, including an oxygen source. A skilled assistant should be present to help with external laryngeal manipulation and stylet removal, among other tasks. Adequate preparation is of the utmost importance; as with any airway procedure, the first attempt should be the best attempt.
+
+<!-- PDF page 22 -->
+
+![](assets/chapter-40/40._Airway_Management_in_the_Adult.pdf-0022-01.png)
+
+
+Head and neck position and the axes of the head and neck upper airway<br>Head on bed, Head elevated on pad,<br>neutral position neutral position<br>OA<br>OA<br>PA<br>PA<br>LA<br>35°<br>LA Slight (35°) flexion<br>of neck on chest<br>A B<br>Head elevated on pad, Head on bed,<br>head extended on neck head extended on neck<br>(sniff position)<br>PA OA<br>LA OA<br>15°<br>80°<br>PA<br>Severe (80°) extension of LA<br>head on neck<br>C D<br>
+
+**Fig. 40.18** Schematic diagrams show the alignment of the oral axis _(OA)_ , pharyngeal axis (PA), and laryngeal axis (LA) in four different head positions. Each head position is accompanied by an inset that magnifies the upper airway (oral cavity, pharynx, and larynx) and superimposes ( _bold line_ ) the continuity of these three axes within the upper airway. (A) The head is in the neutral position with a marked degree of nonalignment of the LA, PA, and OA. (B) The head is resting on a large pad that flexes the neck on the chest and aligns the LA with the PA. (C) The head is resting on a pad (which flexes the neck on the chest). Concomitant extension of the head on the neck brings all three axes into alignment (sniffing position). (D) Extension of the head on the neck without concomitant elevation of the head on a pad, which results in nonalignment of the PA and LA with the OA. (From Baker PA, Timmermann A. Laryngoscopic tracheal intubation. In: Hagberg CA, Artime CA, Aziz M, eds. _Hagberg and Benumof’s Airway Management._ 4th ed. Philadelphia: Elsevier; 2018.)
+
+For DL to be successful, a line of sight from the mouth to the larynx must be achieved. The classical model used to describe the anatomic relationships necessary to achieve this was proposed in 1944 by Bannister and Macbeth and involves the alignment of three anatomic axes: oral, pharyngeal, and laryngeal.<sup>201</sup> Positioning the patient in the sniffing position approximates this alignment. Cervical flexion aligns the pharyngeal and laryngeal axes, and maximal head extension at the atlantooccipital joint brings the oral axis closer into alignment (Fig. 40.18). The accuracy of this model has been questioned,<sup>202</sup> and various alternative models to explain the anatomic advantage of the sniffing position have been proposed.<sup>203,204</sup> Regardless of the explanatory model, the evidence in the literature supports the assertion that the sniffing position is the optimal position for DL.<sup>49,205</sup>
+
+Proper positioning in the sniffing position involves approximately 35 degrees of cervical flexion, which is accomplished by a 7- to 9- cm elevation of the head on a firm cushion; patients with shorter necks may require less head elevation.<sup>49,206</sup> Patients who are obese often require elevation of the shoulders and upper back to achieve adequate cervical flexion, which can be accomplished by placing the patient in the _ramped_ position using either a
+
+specialized device, such as the Troop Elevation Pillow (Mercury Medical, Clearwater, FL), or folded blankets. Confirming horizontal alignment of the external auditory meatus with the sternal notch is useful for ensuring optimal head elevation in both obese and nonobese patients.<sup>207</sup> Adequate cervical flexion also facilitates maximal atlantooccipital extension, which provides optimal alignment of the oral and pharyngeal axes (the primary determinant for quality of laryngeal view) and enhanced mouth opening.<sup>208</sup>
+
+### Technique
+
+The laryngoscope is a handheld instrument consisting of a blade attached to a handle containing a light source. Most are reusable and made of steel, although disposable, plastic versions are available. The curved blade and the straight blade are the two basic types of laryngoscope blades available for DL; multiple variations of both styles exist. The Macintosh is the most commonly used curved blade, whereas the Miller is the most commonly used straight blade. Both are designed to be held in the left hand, and both have a flange on the left side that is used to retract the tongue laterally. Each type of blade has its benefits and drawbacks and is associated with its own technique for use.
+
+<!-- PDF page 23 -->
+
+![](assets/chapter-40/40._Airway_Management_in_the_Adult.pdf-0023-01.png)
+
+
+![](assets/chapter-40/40._Airway_Management_in_the_Adult.pdf-0023-02.png)
+
+
+Frontal view Lateral view<br>
+
+**Fig. 40.19 The scissors technique for mouth opening.** The thumb of the right hand is pressed on the right lower molars in a caudad direction while the index or third finger of the right hand presses on the right upper molars in a cephalad direction. (From Baker PA, Timmermann A. Laryngoscopic tracheal intubation. In: Hagberg CA, Artime CA, Aziz M, eds. _Hagberg and Benumof’s Airway Management_ . 4th ed. Philadelphia: Elsevier; 2018.)
+
+The technique for laryngoscopy consists of the opening of the mouth, inserting the laryngoscope blade, positioning of the laryngoscope blade tip, applying a lifting force exposing the glottis, and inserting a tracheal tube through the vocal cords into the trachea. Mouth opening is best achieved using the _scissors_ technique; the right thumb pushes caudally on the right lower molars while the index or third finger of the right hand pushes on the right upper molars in the opposite direction (Fig. 40.19).
+
+The decision of whether to use a Macintosh or a Miller blade is multifactorial; however, the personal preferences and experience of the laryngoscopist is a significant consideration. In general, the Macintosh is most commonly used for adults, whereas the straight blades are typically used in pediatric patients.<sup>209</sup> Curved blades provide greater room for passage of an ETT through the oropharynx, attributable to their larger flange, and are generally considered less likely to cause dental damage.<sup>210</sup> Straight blades are preferred in patients with a short thyromental distance or prominent incisors, and usually provide a better view of the glottis in patients with a long, floppy epiglottis. Often, when one style of laryngoscope does not provide an adequate view of the glottis, the other may be more effective. For most adults, a Macintosh size 3 or a Miller size 2 blade is usually the proper size; in larger patients or patients with a very long thyromental distance, a larger blade may be more appropriate.
+
+The Macintosh blade is inserted in the right side of the mouth, and the flange is used to sweep the tongue to the left. Once the laryngoscope has been inserted in the mouth, the right hand can be used to ensure that the upper lip is not impinged between the laryngoscope and the upper incisors. The blade is advanced along the base of the tongue until the epiglottis is visualized; the tip of the blade is then advanced further and positioned in the vallecula. A force oriented at a 45- degree angle up and away from the laryngoscopist indirectly lifts the epiglottis by placing tension on the hyoepiglottic ligament, exposing the glottic structures (Fig. 40.20). The tip of the blade should not be lifted by using the laryngoscope as a lever, rocking back on the upper incisors, which can damage the teeth and provides an inferior view of the glottis. A properly oriented vector of force is achieved by using the anterior deltoid and triceps,
+
+not by radial flexion of the wrist. Once a complete view of the glottis is achieved, the ETT is grasped like a pencil with the right hand and guided through the vocal cords into the trachea. Passage of the ETT may be facilitated by an anterior angulation of the tip, which can be accomplished by shaping the ETT with a malleable stylet into a hockey stick shape, with approximately a 60- degree angle formed 4 to 5 cm from the distal end, or by accentuating the natural anterior curvature of the ETT by inserting the tip into the 15- mm connector, forming a circle, for several minutes before performing DL.
+
+The Miller laryngoscope blade is inserted using the paraglossal technique described by Henderson.<sup>24</sup> This method provides maximal tongue control and avoids contact of the laryngoscope with the maxillary incisors. The laryngoscope is inserted lateral to the tongue and carefully advanced along the paraglossal gutter between the tongue and tonsil. Application of continued moderate lifting force to the laryngoscope handle helps maintain lateral displacement of the tongue and reduces contact with the maxillary teeth. As the laryngoscope is advanced, the epiglottis comes into view and the tip of the laryngoscope is passed posterior to the epiglottis. The optimal position of the tip of the straight laryngoscope is in the midline of the posterior surface of the epiglottis, close to the anterior commissure of the vocal cords (Fig. 40.21).<sup>24</sup> This position achieves good control of the epiglottis and facilitates the passage of the tracheal tube. The direction of force applied to the handle is the same as when using the Macintosh blade.
+
+The use of external laryngeal manipulation can improve the laryngeal view. Backward, upward, rightward pressure (the BURP maneuver) on the thyroid cartilage is most commonly used. Optimal external laryngeal manipulation (OELM) is achieved when the laryngoscopist uses their right hand to guide the position and pressure is exerted by an assistant’s hand on the larynx (Fig. 40.22).
+
+Difficulty with tracheal intubation by DL is primarily a function of an inadequate view of the glottis. Predictors for difficult laryngoscopy that can be identified during the preoperative airway assessment are listed in Box 40.3. Cormack and Lehane developed a grading scale in 1984 to describe laryngoscopic views.<sup>211</sup> The grades range from I to IV, beginning with grade I (the best view), in which the epiglottis and vocal cords are in complete view, and culminating with grade IV (the most difficult view), in which the epiglottis or larynx is not visualized (Fig. 40.23). A modified classification scheme with five different grades based on the Cormack– Lehane scoring system is described by Yentis, who proposed that grade II be differentiated into IIA (partial view of the glottis) and IIB (arytenoids or posterior vocal cords only are visible).<sup>212</sup> Intubation is rarely difficult when a grade I or IIA view is achieved; grades IIB and III are associated with a significantly higher incidence of failed intubation. A grade IV laryngoscopic view requires an alternate method of intubation. An alternate method of rating laryngoscopic view is the percentage of glottic opening (POGO) scale, which is determined by the percentage of the vocal cords from the anterior commissure to the arytenoid notch that can be visualized during laryngoscopy. This scale has been shown to have a higher interobserver reliability than the Cormack–Lehane scoring system and is potentially more useful for research studies in direct and indirect laryngoscopy.<sup>213</sup>
+
+<!-- PDF page 24 -->
+
+### Conventional Laryngoscopy with a Curved Blade
+
+
+![](assets/chapter-40/40._Airway_Management_in_the_Adult.pdf-0024-02.png)
+
+
+Insert the laryngoscope blade into the<br>A right side of the mouth<br>
+
+
+![](assets/chapter-40/40._Airway_Management_in_the_Adult.pdf-0024-03.png)
+
+
+Approach the base of the tongue and lift<br>C the blade forward at a 45-degree angle<br>
+
+
+![](assets/chapter-40/40._Airway_Management_in_the_Adult.pdf-0024-04.png)
+
+
+Advance the laryngoscope blade toward the<br>B midline of the base of the tongue by rotating the wrist<br>1<br>2<br>3<br>4<br>Engage the vallecula and continue to lift the blade<br>D forward at a 45-degree angle<br>
+
+**Fig. 40.20 Laryngoscopy technique with a Macintosh (curved) blade.** (A) The laryngoscope blade is inserted into the right side of the mouth, sweeping the tongue to the left of the flange. (B) The blade is advanced toward the midline of the base of the tongue by rotating the wrist so that the laryngoscope handle becomes more vertical ( _arrows_ ). (C) The laryngoscope is lifted at a 45- degree angle ( _arrow_ ) as the tip of the blade is placed in the vallecula. (D) Continued lifting of the laryngoscope handle at a 45- degree angle _(arrow)_ results in exposure of the laryngeal aperture. The epiglottis (1), vocal cords (2), cuneiform cartilage (3), and corniculate cartilage (4) are identified. (From Baker PA, Timmermann A. Laryngoscopic tracheal intubation. In: Hagberg CA, Artime CA, Aziz M, eds. _Hagberg and Benumof’s Airway Management_ . 4th ed. Philadelphia: Elsevier; 2018.)
+
+
+![](assets/chapter-40/40._Airway_Management_in_the_Adult.pdf-0024-06.png)
+
+
+![](assets/chapter-40/40._Airway_Management_in_the_Adult.pdf-0024-07.png)
+
+
+![](assets/chapter-40/40._Airway_Management_in_the_Adult.pdf-0024-08.png)
+
+
+**Fig. 40.21 Paraglossal laryngoscopy technique with a Miller (straight) blade.** The blade is at the right side of the tongue. The line of sight over the molars is achieved by rotating the head to the left and moving the heel of the laryngoscope to the right. The tip of the blade is placed beneath the epiglottis and a 45- degree lifting force applied to expose the glottic aperture. (From Baker PA, Timmermann A. Laryngoscopic tracheal intubation. In: Hagberg CA, Artime CA, Aziz M, eds. _Hagberg and Benumof’s Airway Management_ . 4th ed. Philadelphia: Elsevier; 2018.)
+
+
+![](assets/chapter-40/40._Airway_Management_in_the_Adult.pdf-0024-10.png)
+
+
+Right hand<br>of anesthesiologist<br>Right hand<br>of assistant<br>
+
+**Fig. 40.22 Optimal external laryngeal manipulation.** The laryngoscopist guides the position, and pressure is exerted by the assistant’s hand on the larynx to maximize the view of the vocal cords. The left hand of the laryngoscopist, which holds the laryngoscope handle, is omitted. (From Henderson J. Airway management. In: Miller RJ, ed. _Anesthesia_ . 7th ed. Philadelphia: Churchill Livingstone; 2009.)
+
+<!-- PDF page 25 -->
+
+### Box 40.3 Predictors of Difficult Laryngoscopy
+
+- Long upper incisors
+
+- Prominent overbite
+
+- Inability to protrude mandible
+
+- Small mouth opening
+
+- Mallampati classification III or IV
+
+- High, arched palate
+
+- Short thyromental distance
+
+- Short, thick neck
+
+- Limited cervical mobility
+
+Modified from Apfelbaum JL, Hagberg CA, Caplan RA, et al. Practice guidelines for management of the difficult airway: an updated report by the American Society of Anesthesiologists Task Force on Management of the Difficult Airway. _Anesthesiology._ 2013;118:251– 270.
+
+
+![](assets/chapter-40/40._Airway_Management_in_the_Adult.pdf-0025-12.png)
+
+
+From Cormack From Williams,<br>and Lehane Carli, and Cormack<br>Grade 1<br>Grade 2<br>Grade 3<br>Grade 4<br>
+
+**Fig. 40.23 The Cormack–Lehane grading system for laryngoscopic view.** Grade 1 is visualization of the entire laryngeal aperture; grade 2 is visualization of only the posterior portion of the laryngeal aperture; grade 3 is visualization of only the epiglottis; and grade 4 is no visualization of the epiglottis or larynx. (Modified from Cormack RS, Lehane J. Difficult tracheal intubation in obstetrics. _Anaesthesia._ 1984;39:1105; and Williams KN, Carli F, Cormack RS. Unexpected difficult laryngoscopy: a prospective survey in routine general surgery. _Br J Anaesth_ . 1991;66:38.)
+
+When the laryngeal view is inadequate, the laryngoscopist should verify that the patient is in an optimal position, that OELM is being provided, and that the laryngoscope has not been inserted too deeply. Whether a larger laryngoscope or an alternate style of blade would be beneficial should be considered. When the ETT cannot be passed into the trachea under direct visualization, the options
+
+include the following: (1) attempts at blind passage of the ETT, which risks laryngeal trauma, bleeding, and airway obstruction; (2) the use of an ETT introducer; and (3) alternative approaches to intubation as per the ASA DAA.
+
+When the glottic view is adequate, the ETT should be inserted into the right corner of the mouth and advanced such that it intercepts the long axis of the laryngoscope blade at the glottis, rather than inserted midline and parallel to the long axis of the laryngoscope blade, ensuring that the view of the glottis is not obscured. The tip of the ETT is passed through the glottic inlet and advanced until the proximal portion of the cuff is approximately 2 cm past the vocal cords. If a stylet is being used, then the stylet should be removed when the tip of the ETT is at the level of the vocal cords while the ETT is firmly held stationary; this technique helps limit trauma to the tracheal mucosa from the semirigid stylet.
+
+### Nasotracheal Intubation Technique
+
+Before nasotracheal intubation, the more patent nostril should be selected. This selection can be accomplished by separately occluding each nostril and having the patient inhale – the patient will usually be able to inhale more effectively through one of the nares. To reduce the risk of epistaxis, a nasal mucosal vasoconstrictor (e.g., cocaine, phenylephrine, oxymetazoline) should be administered. The nasal ETT should be prepared with a water- based lubricant.
+
+Standard DL is performed. If an adequate view of the glottis is achieved, the nasal ETT should be inserted into the naris with the bevel facing away from the midline, which decreases the risk of avulsion of a turbinate. Cephalad traction should be applied as the ETT is advanced through the nasal passage to ensure a trajectory along the floor of the nose, beneath the inferior turbinate. The ETT can be guided into the laryngeal inlet by repositioning the head as the ETT is advanced or with the aid of Magill forceps (Fig. 40.24). Care should be taken to grasp the ETT proximal to the cuff to prevent cuff damage. Other techniques for nasotracheal intubation include blind nasal intubation, VAL, and FSI.
+
+### Confirmation of Endotracheal Tube Placement
+
+Once the ETT is in place, the laryngoscope is removed from the mouth, the ETT cuff is appropriately inflated, and the patient is manually ventilated while the ETT is manually held in place. Immediate verification of endotracheal placement of the ETT is necessary; esophageal or endobronchial intubation is a significant source of avoidable anestheticrelated morbidity and mortality. Endotracheal placement can be determined by confirmation of chest rise, visible condensation in the ETT, equal breath sounds bilaterally over the chest wall, lack of breath sounds over the epigastrium, large exhaled tidal volumes, and appropriate compliance of the reservoir bag during manual ventilation.<sup>214</sup> The most important and objective indicator of tracheal intubation, however, is the presence of a normal capnogram (carbon dioxide [CO2] waveform) for the presence of at least three breaths. Severe bronchospasm or equipment malfunction may prevent the appearance of a capnogram tracing despite proper ETT placement. It is important to note that a capnograph tracing will be present even during cardiac arrest and will remain detectable for prolonged periods
+
+<!-- PDF page 26 -->
+
+![](assets/chapter-40/40._Airway_Management_in_the_Adult.pdf-0026-01.png)
+
+
+Rotate hand<br>(as in a backhand<br>hit of a ping-pong ball)<br>Lift laryngoscope<br>blade forward<br>at a 45-degree angle<br>
+
+**Fig. 40.24 Guiding a nasal endotracheal tube into the larynx with Magill forceps.** (From Berry JM, Harvey S. Laryngoscopic orotracheal and nasotracheal intubation. In: Hagberg CA, ed. _Benumof and Hagberg’s Airway Management_ . 3rd ed. Philadelphia: Saunders; 2013, p. 357.)
+
+after the onset of cardiac arrest.<sup>215,216</sup> The Royal College of Anaesthetists and the Difficult Airway Society recently launched the “No Trace = Wrong Place” campaign, a safety campaign aimed at all who manage patient airways and focused on the importance of capnography in confirming tracheal intubation in all clinical settings.<sup>217</sup> In the absence of a capnograph tracing, esophageal intubation needs to be ruled out. If doubt remains, then flexible bronchoscopy, although not routinely used, is very reliable at confirming ETT placement.
+
+Hypoxemia, increased airway pressures, asymmetric chest expansion, and the absence of breath sounds over one lung, generally the left, are indicative of endobronchial intubation; pneumothorax can also produce this picture. Flexible bronchoscopy or chest radiography can be used if the clinical picture is unclear.
+
+### Securing the Endotracheal Tube
+
+Once the proper depth of the ETT has been determined, the tube should be secured in place to prevent movement and inadvertent endobronchial intubation or extubation. The most common method is to tape the ETT to the skin of the face. Because it is less mobile, the skin of the maxilla is preferred. When tape cannot be used, such as in the case of a severe tape allergy, extensive facial burns, or epidermolysis bullosa, a surgical mask may be tied around the back of the head to secure the ETT. Other methods that may be used for intraoral or facial surgery include wire fixation to a tooth or suturing the ETT to the skin of the cheek.
+
+### INDIRECT LARYNGOSCOPY
+
+Conventional DL requires wide mouth opening, cervical flexion, and atlantooccipital extension to create a direct line of vision from the mouth to the larynx. In certain conditions, this positioning is impossible or contraindicated. Other times, attributable to anatomic variations in the airway (e.g., redundant soft tissue, protruding incisors, anterior larynx), DL cannot be achieved, despite optimal positioning and technique. Indirect laryngoscopy entails the indirect visualization of the glottis by way of optical aids, such as fiberoptic bundles, video cameras, mirrors, prisms, or lenses. Various devices that use indirect laryngoscopy are available, including FISs, video laryngoscopes (VLs), and intubating optical stylets. They are indispensable tools for the management of the known or predicted difficult airway. Because no direct line of sight is needed, visualization of the larynx can occur without tissue distortion; consequently, these techniques can be readily used with topical anesthesia in an awake patient.<sup>24</sup>
+
+### Flexible Intubation Scopes
+
+The FIS is the most widely used, versatile, indirect laryngoscopy device. Since the first use of fiberoptics for airway management in 1967, FISs, including the flexible fiberoptic bronchoscope (FOB), have become invaluable tools for tracheal intubation in both awake and anesthetized patients. There are various clinical scenarios within which FSI provides a superior technique for airway management, as compared with DL or alternative airway devices. FSI of the awake and cooperative, spontaneously ventilating patient is considered the gold standard for the management of the difficult airway.<sup>200</sup>
+
+The standard FOB (Fig. 40.25) consists of thousands of flexible glass fibers approximately 8 to 10 μm in diameter that can transmit reflected light along their length. Light is transmitted from an external light source to the distal end of the FOB; the light reflecting off the object to be viewed is transmitted back along the length of the FOB to an eyepiece or video camera at the proximal end of the scope. In recent years, FOBs have been replaced by modern FISs that use video chip and light- emitting diode (LED) technology instead of fiberoptics.
+
+Indications for FSI essentially include any indication for tracheal intubation. However, FSI may be the airway management technique of choice in any one of the following clinical scenarios<sup>200</sup> :
+
+- Known or anticipated difficult airway (i.e., cannot intubate or cannot ventilate [CICV]).
+
+- Contraindication to extension of the neck (e.g., unstable cervical fracture, severe cervical stenosis, vertebral artery insufficiency, Chiari malformation).
+
+- Increased risk of dental damage (e.g., poor dentition, fragile dental work).
+
+- Limited mouth opening (e.g., TMJ disease, mandibular– maxillary fixation, severe facial burns).
+
+No specific contraindications exist for FSI; however, in certain clinical situations, successful FSI is unlikely. Severe airway bleeding can obscure anatomic landmarks and soil the tip of the FIS with blood, making visualization of the larynx extremely difficult. Obstruction or severe stenosis of
+
+<!-- PDF page 27 -->
+
+![](assets/chapter-40/40._Airway_Management_in_the_Adult.pdf-0027-01.png)
+
+
+Working channel<br>Light bundles<br>Lens covering viewing bundle<br>Diopter ring<br>Tracheal tube Flexible insertion cord<br>Eyepiece<br>Control lever<br>Bending section<br>Light cable Venting connector<br>To light source<br>
+
+**Fig. 40.25 Flexible fiberoptic bronchoscope.** (From Henderson J. Airway management. In: Miller RJ, ed. _Anesthesia_ . 7th ed. Philadelphia: Churchill Livingstone; 2009.)
+
+the airway, resulting in the inability to pass an FIS, can also make FSI impossible.
+
+FSI provides several advantages over DL<sup>200</sup> :
+
+- Allows for a more complete visual examination of the airway before intubation.
+
+- Provides confirmation of tube placement, avoiding esophageal and endobronchial intubation.
+
+- Eliminates the need for three- axis alignment – therefore, FSI is among the techniques least likely to result in cervical spine movement.
+
+- Is well- tolerated in awake patients, which results in less tachycardia and hypertension.
+
+- Has less of a potential for airway and dental trauma.
+
+- Can be performed in multiple positions.
+
+FSI can be performed in the awake or anesthetized patient. Indications for an awake FSI are generally those situations in which ventilation via a mask is anticipated to be difficult, when a postintubation neurologic examination is needed, or when induction of general anesthesia could cause adverse hemodynamic or respiratory consequences. The major technical disadvantage to performing FSI under general anesthesia is the loss of pharyngeal muscle tone, which can lead to upper airway collapse and difficult fiberoptic laryngoscopy.<sup>200</sup>
+
+Before its use, the anesthesiologist or skilled assistant must ensure that the FIS, light source, and video monitor are in proper working condition and that all components have been fully prepared for use. This preparation includes focusing the image if using a FOB, ensuring proper view orientation if using a video camera, lubricating the distal third of the flexible insertion cord, applying antifogging solution to the tip of the scope, and connecting a suction line or oxygen source to the suction port. The ETT should be prepared by placing it in a warm water bath, which softens the plastic, easing passage into the trachea and minimizing airway trauma.
+
+FSI is usually performed in the supine or sitting (i.e., beach- chair) position, although emergency FSI in the lateral decubitus or even prone position has also been described.<sup>218</sup> When performing FSI in the supine position, the anesthesiologist stands at the head of the patient. Advantages to this position are that the laryngeal view through the FIS is in the same orientation as during DL, and the patient and physician are already in the optimal position to perform mask
+
+ventilation or other airway maneuvers, if necessary. When performing FSI with the patient in the sitting or beachchair position, the anesthesiologist should stand facing the patient at the patient’s side. This position may be the position of choice in awake FSI because of improved ventilation and greater patient comfort. In addition, the sitting position optimizes airway anatomy and prevents airway collapse in patients who are obese, in patients with obstructive sleep apnea, and in patients with anterior extrinsic airway obstruction.<sup>219</sup>
+
+Before FSI, unless contraindicated, an antisialagogue, such as glycopyrrolate 0.2–0.4 mg IV, may be administered to dry airway secretions. Both the orotracheal and nasotracheal routes can be used for FSI. While weighing the advantages and disadvantages, the clinician should determine which approach is best suited for the clinical situation. Whichever route is chosen, however, essentially two steps to FSI must be taken<sup>200</sup> :
+
+1.  Indirect laryngoscopy and endoscopy are performed, obtaining a view of the glottis with the FIS and maneuvering the FIS through the vocal cords into the trachea.
+
+2.  The ETT is advanced over the FIS into its proper position in the trachea, and the FIS is removed.
+
+When performing orotracheal FSI, navigating the FIS around the base of the tongue to achieve a satisfactory view of the larynx is one of the major challenges. The FIS tends to stray off the midline, and, frequently, little to no airspace is found between the tongue and the palate through which to navigate the FIS. To mitigate this issue, several devices or techniques can be used. Specialized intubating oral airways can be used to protect the FIS from damage by biting, to prevent the tongue from falling back into the pharynx and obstructing the airspace, and to keep the FIS midline while it is guided to the larynx. Several types of intubating oral airways are available, each with unique design differences, and include the Ovassapian, Berman, and Williams airways. A disadvantage of these devices is that they place pressure on the base of the tongue, potentially causing gagging in awake patients. In both awake patients and those under general anesthesia, gentle traction on the tongue anteriorly is helpful in preventing the tongue from falling back into the pharynx if an intubating airway is not used. This traction can be easily accomplished by hand with the help of gauze pads for traction or with Magill forceps. Care
+
+<!-- PDF page 28 -->
+
+should be taken to not injure the tongue on the bottom teeth. As previously described, LMAs and intubating LMAs (ILMAs) can also be used as conduits for oral FSI. Obtaining a laryngeal view during nasal FSI is often easier, as compared with the oral approach, as a result of the fact that the FIS stays midline and the tip of the FIS is usually directed at the glottis as it enters the oropharynx.
+
+Once the FIS has been successfully positioned in the oropharynx, the epiglottis and vocal cords can usually be visualized with a slight anterior deflection of the tip of the FIS. The FIS is aimed toward the anterior commissure of the vocal cords and posteriorly flexed to enter the trachea. The trachea is easily identifiable by the presence of the cartilaginous tracheal rings. The FIS is advanced distally until a point just above the carina, and the ETT is advanced over the FIS while continually visualizing the trachea through the FIS, providing confirmation that the FIS and ETT have not been accidently dislodged into the oropharynx or esophagus (Video 40.6). Frequently, especially with orotracheal intubation, resistance is met as the tip of ETT reaches the glottic inlet. Often, this resistance has been shown to be attributable to the bevel of the ETT impinging on the right arytenoid.<sup>220</sup> A slight withdrawal of the ETT and a counterclockwise 90- degree turn, orienting the bevel posteriorly, usually resolves this issue. For nasotracheal intubation, a clockwise 90- degree turn, ensuring that the bevel is oriented anteriorly, can prevent the tip of the ETT from impinging on the epiglottis. Alternatively, the Parker FlexTip ETT (Parker Medical, Englewood, CO), which has a bullnosed tip directed toward the center of the distal lumen, can be used. This ETT has been shown to have a high first- pass success rate when being advanced over an FIS.<sup>221</sup>
+
+After successful passage of the ETT, proper depth (2 to 3 cm from the carina) is confirmed during the withdrawal of the FIS. On rare occasions, the FIS may prove difficult to remove from the ETT, which may be attributable to the FIS having passed through the Murphy eye rather than the distal lumen or a result of inadequate lubrication of the FIS. In these situations, forceful removal may damage the device; therefore, the FIS and ETT should be removed as a unit and the procedure repeated.
+
+### Rigid Indirect Laryngoscopes
+
+The first indirect laryngoscopes for intubation were based on modifications of the standard direct laryngoscope and used mirrors or prisms to project an image at an angle from the horizontal, facilitating visualization of the larynx. Later advancements used optical lenses to project a refracted image of the glottis, although these devices have largely been supplanted by video technology.
+
+The Airtraq SP (Prodol Meditec S.A., Guecho, Spain) is a disposable, portable, anatomically shaped, optical laryngoscope that provides a magnified view of the glottis without alignment of the oral, pharyngeal, and laryngeal axes. It includes a guiding channel to hold the ETT and direct it toward the vocal cords. It can be used for a variety of applications, including the known or predicted difficult airway, as well as for awake intubation. The Airtraq laryngoscope has been shown to result in more rapid tracheal intubation, with a reduced incidence of esophageal intubation when compared to DL, especially when used by novices.<sup>222</sup> It is available in two adult and two pediatric sizes, as well as in
+
+specific designs for nasotracheal intubation and doublelumen tube placement. The Airtraq Avant is a newer model that features a reusable optic piece that is used in combination with disposable blades.
+
+### Lighted Optical Stylets
+
+Lighted optical stylets are rigid or semirigid fiberoptic devices that incorporate the optical and light- transmitting components into a tubular, stainless steel sheath over which the ETT is loaded. A substantial body of evidence supports the use of these optical stylets in patients with limited neck mobility,<sup>223</sup> small mouth opening,<sup>224</sup> abnormal airway anatomy,<sup>225</sup> or anticipated difficult laryngoscopy.
+
+The Bonfils Retromolar Intubation Fiberscope (Karl Storz Endoscopy, Tuttlingen, Germany) is a 40- cm long, rigid optical stylet with a fixed anterior tip curvature of 40 degrees (Video 40.7).<sup>226</sup> The proximal eyepiece can be used with the naked eye or connected to a video monitor. It is available with a working channel that can be used for suction, SAYGO local anesthesia,<sup>227</sup> or oxygen insufflation (oxygen flow rates should be limited to 3 L/min to avoid barotrauma).<sup>228</sup> The Shikani optical stylet (Clarus Medical, Minneapolis, MN) is a similar device to the Bonfils fiberscope but with a malleable shaft. The Levitan stylet (Clarus Medical, Minneapolis, MN) is a shorter version of the Shikani stylet intended for use in combination with DL, although useable on its own.<sup>229</sup> The Clarus Video System (Clarus Medical, Minneapolis, MN) is a newer version of the Shikani stylet that incorporates a liquid crystal display (LCD) screen (Video 40.8).
+
+These optical stylets can be used on their own or in combination with DL or VAL.<sup>230</sup> The ETT is mounted on the optical stylet and advanced under direct vision via a midline or right paraglossal route until it passes under the tongue. After indirect visualization of the tip of the stylet passing through the vocal cords (via the eyepiece or video monitor), the ETT is advanced over the stylet into the trachea. When these are not used in conjunction with DL or VAL, the left hand of the operator should lift the patient’s jaw by gently grasping the mandible and displacing it anteriorly. This maneuver helps create more airspace in the oropharynx and lifts the epiglottis. Optical stylets can be used for awake intubation and have also been used for the transillumination technique (see Lighted Stylets, below).<sup>226,231</sup>
+
+The SensaScope (Acutronic, Hirzel, Switzerland) is a hybrid rigid optical stylet that uses video chip technology. It has an S- shaped curvature and a 3- cm long steerable tip.<sup>232</sup> Visualization is achieved by a connection to a video monitor. The SensaScope is designed to be used in combination with DL and has been successfully used for awake intubation in patients with a predicted difficult airway.<sup>233</sup>
+
+### Video Laryngoscopes
+
+As with flexible bronchoscopes, video chip technology has begun to largely replace fiberoptic technology in rigid indirect laryngoscopes because of the advantages of a higher-quality image, increased durability, and reduced maintenance costs. Over the past 15 years, VLs have revolutionized the practice of airway management, and their use may become standard not only for difficult airways, but also for routine airways. In fact, VAL is now included in the ASA DAA as an alternative approach to intubation and
+
+<!-- PDF page 29 -->
+
+should be considered for patients with a known or predicted difficult airway.<sup>8</sup> A VL is also listed as a suggested piece of equipment on a portable difficult airway cart.<sup>8</sup>
+
+VAL has been shown to result in improved glottic visualization, compared with DL, in both routine airway management and in the predicted difficult airway.<sup>8,234</sup> Although this improved visualization may not necessarily translate into increased success with intubation (particularly in the normal airway), studies have shown improved intubation success with VAL in patients with predicted difficult airways.<sup>235,236</sup> VLs are also useful in the unexpected difficult airway; intubation success rates of 94% and 99% have been reported for VAL as a rescue modality after failed DL.<sup>237,238</sup> These devices have also been successfully used for awake intubation.<sup>239,240</sup> A 2022 Cochrane systematic review and meta- analysis included 222 studies (219 RCTs, three quasi- RCTs) with 26,149 participants undergoing endotracheal intubation, and found that VLs increase first attempt intubation success rate, and result in reduced rates of failed intubation.<sup>241</sup> Some recent guidelines have recommended the utilization of VLs as a first-line device, where available.<sup>10</sup>
+
+Various VLs have been introduced, each with its own design and specific features. Generally, VLs can be divided into three groups: (1) those whose design is based on the Macintosh blade, (2) those that incorporate highly curved or distally angulated blades (hyperangulated VLs), and (3) those that incorporate an ETT- guiding channel.<sup>242</sup> Although no single design has been shown to be superior, there are certain clinical circumstances where one style may be preferable to another. The above- mentioned Cochrane systematic review and meta- analysis revealed that channeled VLs and Macintosh style VLs may reduce the rate of peri- intubation hypoxemia, and that hyperangulated VLs may decrease the incidence of esophageal intubation.<sup>241</sup> Other features that vary among different VLs include the degree of portability and the size of the video monitor. Many VLs are available in both reusable and single- use models.
+
+VLs based on the Macintosh blade design include the C- MAC laryngoscope (Karl Storz, Tuttlingen, Germany), the McGrath MAC laryngoscope (Aircraft Medical, Edinburgh, UK), and the GlideScope Titanium MAC (Verathon, Bothell, WA). These devices can be used for both DL and VAL, making them particularly useful for teaching the DL technique. The C- MAC laryngoscope is the most extensively studied of these and is associated with shorter intubation times and greater ease of use compared with other VLs,<sup>243,244</sup> which is possibly due to the familiarity of a Macintosh- style blade (Fig. 40.26). The technique for using the C- MAC laryngoscope is identical to that of DL with a Macintosh blade; alternatively, the tip of the VL can be used to lift the epiglottis directly.<sup>245</sup> In contrast to other VLs, most intubations with the C- MAC laryngoscope can be performed without the use of a stylet<sup>246,247</sup> ; the use of an oral RAE ETT can facilitate tracheal intubation.<sup>248</sup>
+
+VLs with a distally angulated or highly curved blade permit a “look around the corner,” providing an improved laryngoscopic view without requiring manipulation of the cervical spine. These devices are therefore particularly useful in patients with cervical immobilization, micrognathia, or limited mouth opening.<sup>242</sup> The GlideScope Titanium LoPro (Verathon, Bothell, WA) is the updated version of the archetype for this subset of devices. It possesses a 60- degree
+
+
+![](assets/chapter-40/40._Airway_Management_in_the_Adult.pdf-0029-06.png)
+
+
+**Fig. 40.26 The Storz C- MAC videolaryngoscope.** (From Aziz M, Brambrink A. Video- assisted laryngoscopy. In: Hagberg CA, Artime CA, Aziz M, eds. _Hagberg and Benumof’s Airway Management_ . 4th ed. Philadelphia: Elsevier; 2018.)
+
+blade angulation, an antifogging mechanism, a 6.4- inch video monitor, and is available in reusable and single- use models (Fig. 40.27). The X- Blade is a hyperangulated blade for the McGrath MAC, while the D- Blade (Karl Storz, Tuttlingen, Germany) is a highly curved VL blade for use with the C- MAC system. These devices are typically inserted in the mouth midline, without sweeping the tongue from right to left as in DL. Because of the high degree of angulation of the blade, an ETT stylet is almost always necessary; malleable stylets with a 60- to 90- degree bend, articulating stylets, and the GlideRite stylet (a rigid stylet with a 90- degree curve specifically designed for use with the GlideScope) have all been successfully used with these VLs.<sup>249,250</sup> The VL and the styletted ETT should be inserted into the oral cavity under direct vision to avoid oropharyngeal trauma (Video 40.9).<sup>251</sup>
+
+Some VLs with highly curved blades have integrated tube- guiding channels to facilitate intubation without the use of a stylet, similar to the Airtraq. The King Vision (King Systems, Noblesville, IN) and the Pentax Airway Scope (AWS; Pentax Medical, distributed by Ambu Inc., Ballerup, Denmark) fall into this category. This type of VL has been shown to be useful in patients with cervical immobilization and has been successfully used for awake intubation.<sup>252,253</sup> The VividTrac (Vivid Medical, Palo Alto, CA) is a single- use, channeled VL with a Universal Serial Bus (USB) interface that works with any monitor.
+
+### Lighted Stylets
+
+Lighted stylets make use of the transillumination technique to blindly intubate the trachea and have been described in the literature as an alternative or aid to DL, particularly in the predicted difficult airway. Lighted stylets may be particularly helpful when the presence of blood or heavy secretions limits visualization of the airway. However, because lighted stylet insertion is a blind technique, it is contraindicated in certain clinical situations, such as neoplasm of the airway or airway trauma. Because increased soft tissue leads to difficulty with transillumination, this technique is less useful in the patient who is morbidly obese.<sup>254</sup>
+
+<!-- PDF page 30 -->
+
+![](assets/chapter-40/40._Airway_Management_in_the_Adult.pdf-0030-01.png)
+
+
+**Fig. 40.27 The GlideScope AVL videolaryngoscope system with titanium blades.** (From Aziz M, Brambrink A. Video- assisted laryngoscopy. In: Hagberg CA, Artime CA, Aziz M, eds. _Hagberg and Benumof’s Airway Management_ . 4th ed. Philadelphia: Elsevier; 2018.)
+
+
+![](assets/chapter-40/40._Airway_Management_in_the_Adult.pdf-0030-03.png)
+
+
+**Fig. 40.28** When the tip of a lighted stylet is placed at the glottic opening, a well- circumscribed glow can be seen in the anterior neck just below the thyroid prominence.
+
+To perform the transillumination technique, an ETT is preloaded onto the stylet. The left hand of the operator lifts the supine patient’s jaw by gently grasping the mandible and displacing it anteriorly to facilitate the insertion of the stylet under the tongue. The stylet should be inserted using a retromolar approach. Once inserted, the stylet should be kept midline and advanced under the tongue. A wellcircumscribed _glow_ (approximately the size of a quarter) should appear in the midline of the patient’s neck at the level of the cricoid cartilage (Fig. 40.28), indicating correct positioning of the stylet within the trachea. Subsequently, the ETT can be advanced over the stylet into proper position (Video 40.10).<sup>254</sup>
+
+### RETROGRADE INTUBATION
+
+RI is a well- described technique for orotracheal or nasotracheal intubation that involves guiding an ETT into the trachea with a narrow, flexible guide that has been percutaneously placed through the CTM into the trachea and
+
+passed retrograde through the larynx and pharynx, exiting the mouth or nose. The guide is typically a steel guidewire, although an epidural catheter can be used. This technique has several modifications, each with its own benefits and disadvantages, and can be successfully used in awake, sedated, obtunded, or apneic patients who have either an anticipated or unanticipated difficult airway.<sup>255</sup> Indications include failure of DL; obstruction of the view of the vocal cords by blood, secretions, or anatomic derangement; and difficult intubation scenarios such as unstable cervical spine, ankylosing spondylitis, maxillofacial trauma, or trismus. RI is also an alternative to FSI in developing countries where the availability of FISs is limited.<sup>255</sup>
+
+The ASA DAA describes RI as an alternative approach to difficult intubation in the nonemergent pathway, when intubation is unsuccessful but mask ventilation is adequate. It is suggested that equipment for RI be included in a portable storage unit for difficult airway management. RI can take several minutes to accomplish; therefore, this technique is contraindicated in an emergent CICV scenario.<sup>255</sup> Other contraindications are generally relative and include anatomic abnormalities (e.g., malignancy, goiter) that preclude access to the CTM, tracheal stenosis at the level of the CTM, coagulopathy, and local infection.
+
+The ideal position for RI is supine, with the neck in extension, allowing easy palpation of the cricoid cartilage and surrounding structures. If this position is not possible, then RI can also be performed with the patient in the sitting position or with the neck in a neutral position. If landmarks are difficult to identify, then ultrasound guidance may be used. The anterior neck should be cleansed before puncture, and aseptic technique should be used. The translaryngeal puncture site can be performed superior or inferior to the cricoid cartilage. The CTM (superior to the cricoid cartilage) has the advantage of being relatively avascular; however, a puncture at this site allows only 1 cm of space below the level of the vocal cords for the tip of the ETT. A puncture site inferior to the cricoid cartilage, at the cricotracheal ligament, allows the ETT to travel in a straight path with a long
+
+<!-- PDF page 31 -->
+
+length of the ETT below the vocal cords; however, this site is associated with a greater potential for bleeding.<sup>255</sup>
+
+The classic technique for RI involves using a Tuohy needle to puncture the CTM and an epidural catheter as the guide. More commonly, an IV catheter and a steel guidewire are used. The diameter of the guidewire should be small enough to fit through the IV catheter and should be at least twice as long as the ETT to be used; a guidewire with a 0.038- inch diameter (which passes through an 18- gauge IV catheter) and a length of 110 cm is commonly used. Commercial kits are available that include all necessary equipment. Performing a RI with a J- tip, steel guidewire rather than an epidural catheter provides the following advantages: the J- tip of a guidewire is less traumatic to airway, the guidewire has a lower tendency to coil or kink, retrieval of the guidewire from the oral or nasal cavity is easier, and the technique is quicker.<sup>255</sup>
+
+Once the patient has been positioned, the operator’s nondominant hand stabilizes the trachea by placing the thumb and third digit on either side of the cricoid cartilage. The index finger is used to identify the midline of the CTM and the upper border of the cricoid cartilage. A syringe half- filled with saline is attached to an 18- gauge angiocatheter and advanced at a 90- degree angle to the CTM with the bevel facing cephalad, aspirating for air bubbles to confirm the position inside the trachea. The angle of insertion is slightly lowered, and the needle is removed. At this stage, reconfirmation of a position within the trachea and instillation of a local anesthetic can be performed with a second syringe filled with 2 to 4 mL of 2% or 4% lidocaine. This transtracheal block can provide additional comfort to a patient who is awake or sedated and undergoing RI, or it can reduce the incidence of sympathetic stimulation and laryngospasm in a patient under general anesthesia.
+
+The guidewire is then advanced through the angiocatheter until it exits the mouth or nose. DL can be used to facilitate the wire exiting the mouth, if necessary. The guidewire is clamped with a hemostat at the level of the skin of the neck to prevent migration. Although the ETT can then be directly advanced over the guidewire, a tapered guide catheter (e.g., Arndt airway exchange catheter) is useful to reduce the discrepancy in diameter between the guidewire and the ETT, which can predispose the ETT to catch on the arytenoids or vocal cords rather than smoothly slide into the trachea. The guide catheter is placed over the portion of the wire exiting the mouth or nose and advanced until it contacts the CTM. The wire is then removed, and an ETT is advanced over the guide catheter (Fig. 40.29 and Video 40.11). Potential complications include bleeding (usually minimal), subcutaneous emphysema, pneumomediastinum, pneumothorax, and injury to the posterior trachea or esophagus.<sup>255</sup>
+
+### DOUBLE- LUMEN TUBES AND BRONCHIAL BLOCKERS
+
+Single- lung ventilation is required for certain clinical circumstances, including protective lung isolation from infection or hemorrhage, attaining adequate exposure for surgical procedures (e.g., video- assisted thoracoscopy), and for controlling the distribution of ventilation in the setting of major bronchial surgery, trauma, or fistula. Double- lumen
+
+
+![](assets/chapter-40/40._Airway_Management_in_the_Adult.pdf-0031-08.png)
+
+
+Positioning<br>mark<br>Positioning<br>mark<br>A<br>Positioning<br>mark<br>B<br>C<br>
+
+**Fig. 40.29 The guidewire technique for retrograde intubation.** (A) After the placement of an 18- gauge angiocatheter through the cricothyroid membrane, the J- tip of the guidewire is inserted in a cephalad direction until it exits the mouth or nose. (B) The guide catheter is threaded over the guidewire until it contacts the laryngeal access site. The guidewire is then removed from above. (C) After advancing the guide catheter 2 to 3 cm, the endotracheal tube is advanced into the trachea. (Courtesy Cook Critical Care, Bloomington, IN.)
+
+tubes (DLTs) and bronchial blockers are two options that allow for ventilation of only one lung (also see Chapter 49).
+
+DLTs have a bronchial lumen and a tracheal lumen. They are designated as left- sided or right- sided, depending on whether the bronchial lumen goes to the left or right main bronchus. Most commonly, a left- sided DLT is used to avoid blockage of the right upper lobe bronchus. DLTs are placed in a similar fashion to the standard ETT, although placement is usually more difficult because of their size
+
+<!-- PDF page 32 -->
+
+![](assets/chapter-40/40._Airway_Management_in_the_Adult.pdf-0032-01.png)
+
+
+Valve Inflation Handle Endotracheal<br>indicator balloon tube<br>ETT depth<br>marker<br>Airway<br>Cricoid tube<br>cartilage Cuff Epiglottic Soft<br>elevation bar; palate<br>A epiglottis B<br>
+
+**Fig. 40.30 The Chandy maneuver consists of two steps.** (A) The first step is important for establishing optimal ventilation. The intubating laryngeal mask airway (ILMA) is slightly rotated in the sagittal plane using the handle until the least resistance to bag ventilation is achieved. (B) The second step is performed just before blind intubation. The handle is used to lift (but not tilt) the ILMA slightly away from the posterior pharyngeal wall, which facilitates the smooth passage of the endotracheal tube (ETT) into the trachea. (From Lindsay HA, Cook TM, Russo SG, Hagberg CA. Supraglottic airway techniques: laryngeal mask airways. In: Hagberg CA, Artime CA, Aziz M, eds. _Hagberg and Benumof’s Airway Management_ . 4th ed. Philadelphia: Elsevier; 2018.)
+
+and stiffness. Video laryngoscopy can facilitate DLT placement.<sup>256</sup> After placing the DLT into the trachea, verification of the location of the bronchial port with an FIS should be determined. The blue bronchial cuff should be positioned just below the carina in the appropriate bronchus. Inflation of the blue bronchial balloon under direct visualization helps verify proper placement. Care should be taken to ensure that the bronchial cuff does not herniate over the carina. The VivaSight- DL (Ambu Inc., Ballerup, Denmark) is a single- use left- sided DLT with an integrated camera located at the tip of the tracheal lumen and allows for accurate positioning of the DLT without the use of an FIS. Once a DLT is properly placed, isolating a lung is possible by inflating the bronchial cuff and clamping either the tracheal or bronchial connector.
+
+Bronchial blockers are essentially hollow, balloon- tipped catheters that are endobronchially placed to isolate and deflate one lung. In some clinical situations, lung isolation is required, but the use of a DLT is not practical because of a difficult airway, decreased size of the tracheal lumen, or the need for postoperative mechanical ventilation. In these instances, the use of a modified single- lumen tube with an integrated bronchial blocker (e.g., the Univent [Fuji Systems, Tokyo, Japan]) or the use of a bronchial blocker in conjunction with a standard ETT is appropriate.
+
+### COMBINATION TECHNIQUES
+
+### Tracheal Intubation Through a Supraglottic Airway Device
+
+The intubating LMA (ILMA), known as the LMA Fastrach (LMA North America, San Diego, CA), was invented by Dr. Archie Brain in 1997; it became available for commercial use in the United States shortly thereafter. The ILMA was designed as a conduit for tracheal intubation to facilitate ventilation between attempts at tracheal intubation. The
+
+rigid handle and airway tube enable a rapid and precise control of mask position. An epiglottic elevating bar is designed to elevate the epiglottis as the tube is advanced into the bowl. A disposable, single- use version is available in addition to the original reusable model. Specialized reusable or single- use tracheal tubes are designed to facilitate atraumatic blind intubation through the ILMA. The tubes are straight, wire- reinforced, and have a soft molded tip designed to prevent impingement on laryngeal structures.
+
+The technique of inserting the ILMA differs in many respects from the insertion of the cLMA, and the learning curve is significant. A neutral head position (nonextended head on a support) is recommended. The ILMA handle is used to rotate the mask into the pharynx. Oxygenation, ventilation, and anesthesia are stabilized after insertion. If resistance to ventilation is encountered, then the position of the ILMA is adjusted. The _Chandy maneuver_ consists of two separate maneuvers: (1) the ILMA is rotated in the sagittal plane until resistance to bag ventilation is minimal; and then (2) the ILMA is gently lifted from the posterior pharyngeal wall just before passage of the tracheal tube (Fig. 40.30). The original, reusable ILMA should be removed soon after tracheal intubation has been verified because its rigidity results in high pressure on adjacent tissues. Although the blind technique has a high rate of success, intubation under vision with an FIS through the ILMA achieves higher firstattempt and overall success rates.
+
+Other SGAs can be used to facilitate tracheal intubation. The cLMA, although not designed for intubation, can be an effective conduit if used in conjunction with an FIS. Because of the long and narrow airway shaft, a microlaryngeal tube must be used. Alternatively, a cLMA can be exchanged for an ETT by using an FIS in conjunction with the Aintree intubation catheter (Cook Critical Care, Bloomington, IN), which is a hollow airway exchange catheter designed to fit over a standard FIS (Fig. 40.31 and Video 40.12).
+
+<!-- PDF page 33 -->
+
+![](assets/chapter-40/40._Airway_Management_in_the_Adult.pdf-0033-01.png)
+
+
+Aintree catheter<br>Flexible intubation<br>scope<br>
+
+**Fig. 40.31** Aintree intubating catheter within a flexible intubation scope, inserted through a laryngeal mask airway. (From Henderson J. Airway management. In: Miller RJ, ed. _Anesthesia._ 7th ed. Philadelphia: Churchill Livingstone; 2009.)
+
+Most newer SGAs have airway shafts that are wide enough to allow intubation through the device with a standardsized ETT (Video 40.13).
+
+### Combined Direct Laryngoscopy Techniques
+
+DL can be used to expand the space available in the oral cavity to manipulate an FIS by displacing pharyngeal tissue, and the epiglottis can be elevated allowing the scope to be more easily directed underneath the epiglottis toward the glottic opening. This may be especially helpful in the morbidly obese patient or patients with soiled airways (e.g., with blood, secretions, or vomitus).<sup>257</sup>
+
+When a Cormack–Lehane grade III view is encountered during DL, the coudé tip of an ETT introducer can be passed underneath the epiglottis, and tracheal positioning confirmed by the sensation of clicks as the bougie tip passes the tracheal rings.
+
+While using an optical stylet as an adjunct to DL, the tip of the stylet can be guided just beneath the tip of the epiglottis under direct vision. While holding the ETT/fiberoptic stylet securely, the anesthesiologist transfers their vision to the eyepiece or monitor where the glottic opening can be visualized, and the ETT can be advanced through the vocal cords and into the trachea.<sup>257</sup>
+
+### Combined Video- Assisted Laryngoscopy Techniques
+
+Just as the bougie has been demonstrated to be an invaluable adjunct to DL, it may be used in combination with VAL
+
+in order to improve the success of tracheal intubation and may offer additional advantages. In a trial featuring a simulated airway with vomitus, the use of a bougie improved intubation success rate and decreased the time to intubation with the Pentax- AWS and the McGrath MAC compared to DL.<sup>258</sup> A bougie may also facilitate advancement of the ETT into the trachea when an adequate view is obtained with VAL, but difficulty is encountered with intubation (Video 40.14).<sup>259</sup>
+
+Optical stylets can also be used in combination with VAL. A study examining the use of the C- MAC VL and the Bonfils Intubation Scope in patients with a history of difficult intubation found that the combination of the two devices was superior in terms of glottic view than either device by itself.<sup>260</sup> Certain circumstances may arise in which a combination of VAL and FSI may be beneficial. A patient with severely limited mouth opening and/or unstable cervical spine injury may preclude the use of DL to assist in FSI; using VAL in this situation may provide the ability to view the glottic opening and better guide the FIS into position. VAL can also diagnose difficulties with the passage of the ETT over the FIS into the glottis (Video 40.15).<sup>257</sup>
+
+### Combined Retrograde Intubation Techniques
+
+To improve the success of retrograde intubation, it can be combined with DL or an FIS. DL can be used as an adjunct to improve success during retrograde-guided intubation. During the classic technique of retrograde intubation, after a catheter is placed in the inferior cricothyroid membrane, the J- tip of a guidewire is directed upward until it can be retrieved from the mouth or nares. If orotracheal intubation is desired, DL can aid the clinician in opening the oropharynx and visualizing the wire so that it may be retrieved more easily through the mouth prior to entering the nasopharynx. In addition, after the guiding catheter is advanced anterograde over the wire until tenting is noted at the cricothyroid access point, DL may be used to lift the epiglottis and pharyngeal tissue, facilitating the passage of an ETT through the vocal cords.<sup>257</sup>
+
+Alternatively, an FIS can be used to facilitate retrograde intubation. After the guidewire is retrieved from the mouth or naris, it is passed through the working channel of the FIS from distal to proximal. The FIS is then passed over the guidewire and into the glottis until resistance is met at the cricothyroid membrane. The hemostat that held the guidewire in place internally may now be released and the guidewire removed. The FIS may then be advanced until the carina is visualized and the ETT is passed into the trachea. In this fashion, the FOB reduces the likelihood that the ETT will become dislodged, and the airway can be visualized throughout the procedure. There are several advantages to passing a FOB antegrade over a retrograde-placed wire<sup>257</sup> :
+
+- The outer diameter of the guidewire and the internal diameter of the fiberoptic suction port form a tight fit that allows the FOB to follow a straight path through vocal cords without impinging on anatomic structures.
+
+- The FIS acts as a large antegrade guide catheter and allows easy passage of the ETT.
+
+- It allows placement of the ETT under direct visualization.
+
+- The FIS may be advanced to the carina freely (past the puncture site), which eliminates the problem of distance between vocal cords and puncture site.
+
+<!-- PDF page 34 -->
+
+## Emergency Invasive Airway Access
+
+Emergency invasive airway access refers to rescue techniques used in a CICV situation when attempts at establishing a noninvasive airway have failed. These techniques may also be used as a primary airway in some difficult airway situations when attempts at securing a noninvasive airway are likely to fail, such as a patient with a laryngeal neoplasm and critical airway obstruction. Options for invasive airway access include transtracheal jet ventilation (TTJV), cricothyrotomy, and tracheostomy. Whereas tracheostomy is usually performed by a surgeon, the anesthesiologist should become proficient with the techniques for TTJV and cricothyrotomy; the situation will inevitably arise in which an invasive airway will become necessary. An emergent situation is not the time to become familiar with a new technique.
+
+### TRANSTRACHEAL JET VENTILATION
+
+Percutaneous TTJV is a relatively quick and effective but invasive method of oxygenation and ventilation in the CICV scenario when more conservative measures fail. The ASA DAA lists TTJV as an emergent invasive technique to be used in patients who cannot be conventionally ventilated or intubated.<sup>8</sup> TTJV is widely regarded as a life- saving procedure that can provide adequate, temporary oxygenation and ventilation with less training and complications than a surgical airway, the last resort for obtaining an airway in the algorithm.<sup>261</sup> Nonetheless, TTJV is an invasive technique, and its primary use is as an emergency airway. Occasionally, it is used on an elective basis for laryngeal surgery.
+
+Inspiration during TTJV is achieved by insufflation of pressurized oxygen through a cannula placed by needle cricothyrotomy. Expiration is passive as a result of the elastic recoil of the lungs and the chest wall. Allowing sufficient time for passive expiration to avoid barotrauma from breath stacking is essential. Expiration occurs through the glottis and depends on a nonobstructed upper airway, which is imperative to avoid barotrauma and resulting pneumothorax. The egress of air through the glottic aperture can also provide bubbles to facilitate the placement of an ETT. In fact, several case reports have demonstrated that after the initiation of TTJV in an airway with little or no visualization of the glottis, successful intubation occurred because of the opening of the glottis and guidance from the bubbles with jet ventilation.
+
+TTJV should not be performed in patients who have sustained direct damage to the cricoid cartilage or larynx or in patients with complete upper airway obstruction. Other relative contraindications to TTJV include coagulopathy, obstructive pulmonary disease, and distorted anatomy in which catheter placement might be difficult.
+
+Typically, a 12- to 16- gauge kink- resistant catheter is used for TTJV. A coil- reinforced 6 Fr catheter (Cook Critical Care, Bloomington, IN) is specifically designed for TTJV to prevent kinking, and its Teflon coating facilitates its passage through the CTM into the trachea. The technique for placement is similar to the technique for RI, with the exception that the needle is inserted with the bevel facing
+
+caudally. Confirmation of proper intratracheal placement of the catheter by testing for aspiration of air is imperative before initiating jet ventilation.
+
+The minimum pressure required to drive a jet ventilator is 15 psi. The pipeline pressure for oxygen in hospitals in the United States is approximately 55 psi. Commercially available jet ventilators generally contain pressure regulators to lower the pipeline pressure to provide successful jet ventilation while avoiding higher pressures that might result in barotrauma. In most instances in the operating room, adequate pressure for jet ventilation can be achieved by connecting straight to the pipeline supply. Difficulty usually arises in locations outside of the surgical unit where TTJV may be needed but adequate driving pressure is not available.<sup>261</sup>
+
+A major complication of TTJV is barotrauma with resulting pneumothorax from the use of high- pressure oxygen. To prevent this complication, ensuring that a path for air egress exists and that adequate time for passive expiration is available is an absolute necessity. The lowest possible pressure that will provide adequate oxygenation and ventilation should be used. Other complications associated with TTJV include subcutaneous or mediastinal emphysema, hemorrhage, aspiration, and perforation of the posterior wall of the trachea or esophagus.<sup>261</sup>
+
+The Ventrain is a single- use, manually operated oxygen insufflation device designed to decrease the risk of barotrauma when compared to TTJV through a small- bore percutaneous catheter.<sup>262</sup> It uses the Bernoulli principle to provide expiratory ventilation assistance, meaning that negative pressure is generated that facilitates the egress of gas, and therefore can even be used when the upper airway is obstructed.<sup>263</sup> It is driven by oxygen from a high- pressure source with a controllable flow (e.g., a wall- mounted flowmeter or an oxygen cylinder with a flow regulator).
+
+### CRICOTHYROTOMY
+
+Cricothyrotomy is an invasive technique that provides access to the airway in situations when either noninvasive maneuvers have failed or when it is clinically indicated as a primary plan to secure the airway.<sup>264</sup> Cricothyrotomy is included in the ASA DAA as an emergent invasive technique after other rescue maneuvers have failed or are not feasible. Cricothyrotomy equipment should be included in all emergency airway storage units and be readily available. Cricothyrotomy is not considered a permanent airway, and, after placement, plans should be made for either the removal of the cricothyrotomy catheter or conversion to a formal tracheostomy.<sup>264</sup>
+
+In children younger than 6 years of age (also see Chapter 72), the cricoid cartilage is the narrowest portion of the airway and the isthmus of the thyroid gland typically reaches the level of the CTM; therefore cricothyrotomy is contraindicated. Needle cricothyrotomy with TTJV is indicated in this pediatric population. Other contraindications to cricothyrotomy include laryngeal fractures, laryngeal neoplasm, subglottic stenosis, coagulopathy, and distorted or unidentifiable neck anatomy.
+
+The two most common techniques for performing a cricothyrotomy are the percutaneous dilational cricothyrotomy and the surgical cricothyrotomy. For the anesthesiologist,
+
+<!-- PDF page 35 -->
+
+### Box 40.4 Surgical Cricothyrotomy
+
+### Equipment
+
+- No. 10 scalpel
+
+- Bougie with a coudé (angled) tip
+
+- Cuffed endotracheal tube (ETT) with a 6- mm internal diameter
+
+### Technique
+
+1.  Stand on the patient’s left- hand side if you are right- handed (reverse if left- handed).
+
+2.  Stabilize the larynx using the left hand.
+
+3.  Use the left index finger to identify the cricothyroid membrane (CTM). If the CTM is not palpable, make an 8- to 10- cm vertical incision in the midline and use blunt dissection with the fingers of both hands to separate tissues and identify and stabilize the larynx with the left hand.
+
+4.  Holding the scalpel in your right hand, make a transverse stab incision through the skin and cricothyroid membrane with the cutting edge of the blade facing toward you.
+
+5.  Keep the scalpel perpendicular to the skin and turn it through 90 degrees so that the sharp edge points caudally (toward the feet).
+
+6.  Swap hands; hold the scalpel with your left hand.
+
+7.  Maintain gentle traction, pulling the scalpel toward you (laterally) with the left hand, keeping the scalpel handle vertical to the skin (not slanted).
+
+8.  Pick the bougie up with your right hand.
+
+9.  Holding the bougie at a right angle to the trachea, slide the coudé tip of the bougie down the side of the scalpel blade furthest from you into the trachea.
+
+10.  Rotate and align the bougie with the patient’s trachea and advance gently up to 10–15 cm.
+
+11.  Remove the scalpel.
+
+guidance may be used. A 1- to 1.5- cm vertical incision is made through the skin overlying the CTM. An 18- gauge needle catheter attached to a fluid- filled syringe is passed through the incision at a 45- degree angle in the caudal direction with continuous aspiration. Because of the location of the cricothyroid artery and the proximity of the CTM to the vocal folds, puncture of the CTM should be made in the lower third of the membrane and directed inferiorly (Fig. 40.33).<sup>264</sup> Aspiration of free air confirms passage through the CTM. The catheter is advanced over the needle into the trachea. The needle is removed, and the catheter is left in place. The guidewire is inserted caudally to a depth of approximately 2 to 3 cm. The catheter is removed, and the curved dilator with the airway cannula is threaded over the guidewire. The dilator and cannula unit is advanced through the CTM while maintaining control of the guidewire. The dilator and guidewire are removed together while the cannula remains in place. The cuff is inflated, and ventilation is attempted. Proper placement is confirmed by capnography, and the airway cannula is secured in place (Video 40.16).<sup>264</sup>
+
+Complications include hemorrhage, injury to the posterior tracheal wall or esophagus, vocal cord injury, laceration of the thyroid gland, and improper insertion of the cannula. Placement of the airway cannula in the subcutaneous tissue can result in subcutaneous or mediastinal emphysema. Late complications from cricothyrotomy include swallowing dysfunction, infection, voice changes, and tracheal stenosis. Tracheal stenosis has an incidence of approximately 2% to 8% in adults and is more likely if preexisting trauma or infection is present.
+
+12.  Stabilize trachea and tension skin with left hand.
+
+13.  Railroad a lubricated size 6.0-mm cuffed tracheal tube over the bougie.
+
+14.  Rotate the tube over the bougie as it is advanced. Avoid excessive advancement and endobronchial intubation.
+
+15.  Remove the bougie.
+
+16.  Inflate the cuff and confirm ventilation with capnography.
+
+Modified from Frerk C, Mitchell VS, McNarry AF, et al. Difficult Airway Society 2015 guidelines for management of unanticipated difficult intubation in adults. _Br J Anaesth._ 2015;115(6):827–848.
+
+the percutaneous technique has historically been preferred because of the familiarity of using the Seldinger technique for other procedures (e.g., central venous catheterization). Recently, however, surgical cricothyrotomy has been advocated as the preferred technique due to its faster speed and higher reliability.<sup>9</sup>
+
+Several surgical methods for cricothyrotomy have been described; however, the scalpel- bougie technique is the preferred technique in the Difficult Airway Society guidelines for management of the difficult airway and the Canadian Airway Focus Group recommendations.<sup>10</sup> The process is outlined in Box 40.4 and Fig. 40.32. It is recommended that all anesthesiologists learn this technique and receive regular training to avoid fading of skill.<sup>9</sup>
+
+Many commercially available cricothyrotomy kits use the percutaneous dilational technique. The basis for this procedure is the insertion of an airway catheter over a dilator that has been inserted over a guidewire. The patient’s neck is extended, and the cricothyroid groove is identified. If landmarks are difficult to identify, then ultrasound
+
+## Extubation of the Trachea
+
+A critical component of airway management is the process of extubation. Although considerable emphasis is placed on the problems that can arise during induction and intubation, the risk of complications can potentially be higher during extubation of the trachea.<sup>265</sup> Analysis of the ASA Closed Claims database has shown that although the number of claims for death and brain damage during intubation have decreased since the adoption of the ASA _Practice Guidelines for Management of the Difficult Airway_ , the number of claims arising from injury at extubation and during recovery have not decreased<sup>1</sup> and continue to be associated with brain damage or death.<sup>2</sup> In response to these trends and in the absence of any well- established strategies for the management of tracheal extubation, the DAS established a set of guidelines in 2012 to “discuss the problems arising during extubation and recovery” and to “promote a strategic, stepwise approach to extubation.”<sup>266</sup>
+
+Several complications can arise during extubation (Box 40.5); although some of these complications are minor with no long- term sequelae, others can lead to a failed extubation. Failed extubation can result from the failure of oxygenation, failure of ventilation, inadequate clearance of pulmonary secretions, or loss of airway patency.<sup>87</sup> If an airway is not quickly reestablished, then serious complications, including death, may result. As such, the anesthesiologist needs to stratify extubation risk preemptively and establish an extubation plan before attempting
+
+<!-- PDF page 36 -->
+
+![](assets/chapter-40/40._Airway_Management_in_the_Adult.pdf-0036-01.png)
+
+
+90°<br>A B C<br>D E<br>
+
+**Fig. 40.32 Scalpel- bougie technique: “stab, twist, bougie, tube.”** (A) Identify the cricothyroid membrane (CTM). (B) Make a transverse stab incision through the CTM. (C) Rotate the scalpel so that the sharp edge points caudally. (D) Pulling the scalpel toward you to open the incision, slide the coudé tip of the bougie down the scalpel blade into the trachea. (E) Advance the endotracheal tube into trachea. (From Frerk C, Mitchell VS, McNarry AF, et al. Difficult Airway Society 2015 guidelines for management of unanticipated difficult intubation in adults. _Br J Anaesth_ . 2015;115(6):827–848.)
+
+
+![](assets/chapter-40/40._Airway_Management_in_the_Adult.pdf-0036-03.png)
+
+
+T hyroid cartilage<br>Access site<br>Cricoid cartilage<br>Posterior Anterior<br>Lateral view<br>
+
+**Fig. 40.33 Midsagittal anatomy of the larynx and trachea.** The access point for percutaneous cricothyrotomy is in the lower third of the cricothyroid membrane. (Courtesy Cook Critical Care; Bloomington, IN.)
+
+### Box 40.5 Complications Associated with Extubation
+
+- Laryngospasm and bronchospasm
+
+- Upper airway obstruction ᑏ Hypoventilation
+
+- Hemodynamic changes (hypertension, tachycardia)
+
+- Coughing and straining, leading to surgical wound dehiscence
+
+- Laryngeal or airway edema
+
+- Negative- pressure pulmonary edema
+
+- Paradoxical vocal cord motion
+
+- Arytenoid dislocation ᑏ Aspiration
+
+extubation. Per the DAS guidelines, risk stratification can be accomplished by considering the following: (1) whether the airway was normal and uncomplicated at induction; (2) whether the airway has become difficult to manage because of surgical changes, trauma, or nonsurgical factors; and (3) whether the patient has general risk factors for an unsuccessful extubation.<sup>266</sup>
+
+<!-- PDF page 37 -->
+
+### GENERAL CONSIDERATIONS FOR EXTUBATION OF THE TRACHEA
+
+For both routine and difficult extubation scenarios, an extubation plan must be preemptively formulated, including a plan for reintubation that can be implemented should the patient be unable to maintain an adequate airway after extubation.<sup>7</sup> The decision of whether to extubate the trachea when the patient is fully awake versus a deep extubation before the return of consciousness should be made based on the risks and benefits of each technique. The awake patient can more easily maintain a patent airway, attributable to the recovery of awake pharyngeal muscle tone and airway reflexes. Deep extubation avoids coughing and adverse hemodynamic effects but risks upper airway obstruction and hypoventilation. An alternative extubation technique, known as the Bailey maneuver, involves exchanging an ETT for an SGA while the patient is under deep anesthesia.<sup>267</sup> Extubation during a light plane of anesthesia (stage II) can increase the risk for laryngospasm and other airway complications and should be avoided.
+
+General preparations for extubation should include ensuring adequate reversal or recovery from neuromuscular blockade, hemodynamic stability, normothermia, and adequate analgesia. Patients should be preoxygenated with a 100% fraction of inspired oxygen concentration (Fio2), and alveolar recruitment maneuvers should be considered if appropriate. Suctioning of the pharynx (and the trachea, if indicated), the removal of throat packs, and the placement of a bite block should be performed while the patient is under deep anesthesia.<sup>24</sup> Bite blocks are recommended for an awake extubation to prevent biting of the tube during emergence, which can result in airway obstruction and the development of negative- pressure pulmonary edema. Oropharyngeal airways are not recommended for use as a bite block because they can result in dental damage; rather, taped, rolled gauze securely inserted between the molars should be used.<sup>268</sup>
+
+Gastric insufflation with air can increase the risk of pulmonary aspiration after extubation and can impede ventilation. Patients in whom mask ventilation with high pressures is necessary should have an orogastric tube placed and suctioned before extubation.
+
+The sniffing position is the standard position for extubation; its major advantage is that the patient is optimally positioned for airway management, if necessary. Patients who are morbidly obese and other patients at risk for hypoventilation and airway obstruction can benefit from extubation in the head- up position. The lateral decubitus position may be the preferred option when the risk for pulmonary aspiration is high.<sup>24</sup>
+
+Application of positive pressure immediately before cuff deflation may help expel secretions that have collected above the ETT cuff. Inspection of the pilot balloon to ensure complete cuff deflation before extubation is essential; extubation with an inflated cuff can cause vocal cord injury or arytenoid dislocation.
+
+### EXTUBATION AND REINTUBATION OF THE DIFFICULT AIRWAY
+
+Many surgical and anesthetic factors can increase extubation risk. A summary of the most pertinent factors is listed
+
+### Box 40.6 Factors Associated with Increased Extubation Risk
+
+### Airway Risk Factors
+
+- Known difficult airway
+
+- Airway deterioration (bleeding, edema, trauma)
+
+- Restricted airway access
+
+- Obesity and obstructive sleep apnea
+
+- Aspiration risk
+
+### General Risk Factors
+
+- Cardiovascular disease
+
+- Respiratory disease
+
+- Neuromuscular disease
+
+- Metabolic derangements
+
+- Special surgical requirements
+
+- Modified from Popat M, Mitchell V, Dravid R, et al. Difficult Airway Society guidelines for the management of tracheal extubation. _Anaesthesia._ 2012;67:318–340.
+
+in Box 40.6. Although several techniques can be used to manage extubation of the difficult airway, including the Bailey maneuver and remifentanil infusion,<sup>266</sup> the use of an airway exchange catheter (AEC) is most common and recommended by the ASA’s Task Force on Management of the Difficult Airway. This hollow reintubation guide is passed through the ETT before extubation and kept _in situ_ until the possible need for reintubation has passed. AECs have the additional capability of monitoring respiration by connection to a capnograph. Although AECs allow oxygen insufflation or even jet ventilation through their hollow cavity, these approaches carry a significant risk of barotrauma, and some have recommended against routine oxygen administration via AECs.<sup>10</sup> If necessary in an emergency, oxygen insufflation should be limited to 2 L/min and only utilized as a temporizing measure.<sup>11</sup> Smaller AECs (11 Fr) are generally well- tolerated by awake patients, who can breathe, talk, and cough around them. They should be secured with tape in place to prevent accidental dislodgement and labeled to distinguish them from traditional feeding tubes, which can have a similar appearance. Reintubation over an AEC, if necessary, should be facilitated by gentle DL, or preferably VL, where available, to retract the tongue and oropharyngeal soft tissue.<sup>269</sup>
+
+## Dissemination of Critical Airway Information
+
+As stated earlier, one of the most predictive factors for difficult intubation is a history of previous difficulty with intubation. Therefore, it is crucial that critical airway information be documented and disseminated in such a way that clinicians who subsequently care for a patient with a difficult airway be alerted to the history and obtain the necessary information to safely manage the patient’s airway. The ASA _Practice Guidelines for Management of the Difficult Airway_ recommend that clinicians document the difficulty with airway management and inform the patient or responsible person of the difficulty encountered.<sup>8</sup> Consideration of notification systems, such as a written report or letter to the patient, a written report in the medical chart,
+
+<!-- PDF page 38 -->
+
+communication with the patient’s surgeon or primary caregiver, a notification bracelet or equivalent identification device, and/or chart flags is recommended. In 1992, the MedicAlert Foundation National Difficult Airway/Intubation Registry was created to standardize the documentation and dissemination of critical airway information. By 2010, more than 11,000 patients were included in the registry.<sup>270</sup> Patients with a difficult airway should be directed to the MedicAlert website.
+
+24.  Henderson J. In: Miller RD, ed. _Miller’s Anesthesia_ . 7th ed. Churchill Livingstone/Elsevier; 2010:1573.
+
+25.  Srirompotong S. _Eur Arch Oto- Rhino- Laryngol_ . 2003;260(7):401.
+
+26.  Krebs MJ, et al. _J Clin Anesth_ . 2008;20(3):218.
+
+27.  Hirshoren N, et al. _J Trauma_ . 2009;67(4):891.
+
+28.  Hillman DR, et al. _Br J Anaesth_ . 2003;91(1):31.
+
+29.  Kuna ST. _Respir Physiol_ . 2000;119(2–3):155.
+
+30.  Reber A, et al. _Anesthesiology_ . 1999;90(6):1617.
+
+31.  Leder SB, et al. _Ann Otol Rhinol Laryngol_ . 2010;119(12):795.
+
+32.  Coleman L, et al. In: Hagberg CA, et al., ed. _Hagberg and Benumof’s Airway Management_ . 2nd ed. Philadelphia, PA: Elsevier; 2018:2.
+
+33.  Lundstrom LH, et al. _Anaesthesia_ . 2009;64(10):1081.
+
+34.  Kheterpal S, et al. _Anesthesiology_ . 2006;105(5):885.
+
+## Summary
+
+35.  Yildiz TS, et al. _J Anesth_ . 2005;19(1):7.
+
+36.  Gonzalez H, et al. _Anesth Analg_ . 2008;106(4):1132.
+
+37.  Brodsky JB, et al. _Anesth Analg_ . 2002;94(3):732.
+
+Airway management is at the core of safe anesthetic practice. The anesthesiologist must have a fundamental knowledge of airway anatomy, physiology, and pharmacology, and well- developed skills in the use of a wide variety of airway devices. Although most airways are straightforward, management of the difficult airway remains one of the most relevant and challenging tasks for anesthesia care providers. Prediction and anticipation of the difficult airway and the formulation of an airway management plan are essential. Many airway problems can be solved with relatively simple devices and techniques; however, experience and good clinical judgment are necessary for their successful application. Newer airway devices with the potential to improve patient outcomes are continually being developed. Anesthesiologists must concurrently develop their skills and learn new techniques to be prepared when difficulty presents itself. Competency- based training with routine assessment of clinical ability with airway techniques is likely in the future for all practitioners involved in airway management. Expertise comes from dedicated practice and a commitment from the practitioner for career- long learning.
+
+38.  Shiga T, et al. _Anesthesiology_ . 2005;103(2):429.
+
+39.  Mallampati SR. _Can Anaesth Soc J_ . 1983;30(3 Pt 1):316.
+
+40.  Mashour GA, et al. _Anesth Analg_ . 2008;107(6):1919.
+
+41.  Samsoon GL, et al. _Anaesthesia_ . 1987;42(5):487.
+
+42.  Lundstrom LH, et al. _Br J Anaesth_ . 2011;107(5):659.
+
+43.  Mashour GA, et al. _Anesth Analg_ . 2006;103(5):1256.
+
+44.  Hegde HV, et al. _Eur J Anaesthesiol_ . 2012;29(7):338.
+
+45.  Ezri T, et al. _Anesth Analg_ . 2001;93(4):1073.
+
+46.  Fang B, et al. _Anesth Analg_ . 2004;98(3):870.
+
+47.  Grover VK, et al. _Anesth Analg_ . 2003;96(3):911.
+
+48.  Racine SX, et al. _Anesthesiology_ . 2010;112(5):1190.
+
+49.  El- Orbany M, et al. _Anesth Analg_ . 2011;113(1):103.
+
+50.  Karkouti K, et al. _Can J Anaesth_ . 2000;47(8):730.
+
+51.  Iohom G, et al. _Eur J Anaesthesiol_ . 2003;20(1):31.
+
+52.  Wilson ME, et al. _Br J Anaesth_ . 1988;61(2):211.
+
+53.  Calder I, et al. _Anaesthesia_ . 1995;50(9):756.
+
+54.  Khan ZH, et al. _Anesth Analg_ . 2003;96(2):595.
+
+55.  Eberhart LH, et al. _Anesth Analg_ . 2005;101(1):284.
+
+56.  el- Ganzouri AR, et al. _Anesth Analg_ . 1996;82(6):1197.
+
+57.  Norskov AK, et al. _Br J Anaesth_ . 2016;116(5):680.
+
+58.  Langeron O, et al. _Anesthesiology_ . 2000;92(5):1229.
+
+59.  Kristensen MS, et al. In: Hagberg CA, et al., ed. _Hagberg and Benumof’s Airway Management_ . 4th ed. Elsevier; 2018:74.
+
+60.  Ahmad I, et al. _J Clin Anesth_ . 2015;27(6):508.
+
+61.  Cuendet GL, et al. _IEEE Trans Biomed Eng_ . 2016;63(2):328.
+
+62.  Tanoubi I, et al. _Can J Anaesth_ . 2009;56(6):449.
+
+63.  Benumof JL. _Anesthesiology_ . 1999;91(3):603.
+
+64.  Benumof JL, et al. _Anesthesiology_ . 1997;87(4):979.
+
+### Complete references available online at expertconsult.com.
+
+65.  Nimmagadda U, et al. _Anesth Analg_ . 2017;124(2):507.
+
+66.  Patel A, et al. _Anaesthesia_ . 2015;70(3):323.
+
+67.  Dixon BJ, et al. _Anesthesiology_ . 2005;102(6):1110.
+
+68.  Ramkumar V, et al. _J Anesth_ . 2011;25(2):189.
+
+### References
+
+1.  Peterson GN, et al. _Anesthesiology_ . 2005;103(1):33.
+
+2.  Joffe AM, et al. _Anesthesiology_ . 2019;131(4):818.
+
+3.  Metzner J, et al. _Best Pract Res Clin Anaesthesiol_ . 2011;25(2):263.
+
+4.  Cook TM, et al. _Br J Anaesth_ . 2011;106(5):617.
+
+5.  Cook TM, et al. _Br J Anaesth_ . 2012;109(suppl 1):i68.
+
+6.  Behringer EC. _Anesthesiol Clin N America_ . 2002;20(4):813 (vi).
+
+7. _Anesthesiology_ . 1993;78(3):597.
+
+8.  Apfelbaum JL, et al. _Anesthesiology_ . 2022;136(1):31.
+
+9.  Frerk C, et al. _Br J Anaesth_ . 2015;115(6):827.
+
+10.  Law JA, et al. _Can J Anaesth_ . 2021;68(9):1373.
+
+11.  Law JA, et al. _Can J Anaesth_ . 2021;68(9):1405.
+
+12.  Langeron O, et al. _Ann Fr Anesth Reanim_ . 2008;27(1):41.
+
+13.  Piepho T, et al. _Anaesthesist_ . 2015;64(suppl 1):27.
+
+14.  Petrini F, et al. _Minerva Anestesiol_ . 2005;71(11):617.
+
+15.  Japanese Society of Anesthesiologists. _J Anesth_ . 2014;28(4):482.
+
+16.  Myatra SN, et al. _Indian J Anaesth_ . 2016;60(12):885.
+
+17.  Artime CA, et al. In: Berkow LC, Sakles JC, eds. _Cases in Emergency Airway Management_ . Cambridge University Press; 2015:10.
+
+18.  Kovacs G, et al. In: Kovacs G, Law JA, eds. _Airway Management in Emergencies_ . aimeairway.ca; 2018.
+
+19.  Chrimes N. _Br J Anaesth_ . 2016;117(suppl 1):i20.
+
+20.  Reitzen SD, et al. _Ear Nose Throat J_ . 2011;90(3):112.
+
+21.  Ahmed- Nusrath A, et al. _Br J Anaesth_ . 2008;100(2):269.
+
+22.  Cavusoglu T, et al. _J Craniofac Surg_ . 2009;20(2):566.
+
+23.  Zwank M. _Am J Emerg Med_ . 2009;27(4):513.e513.
+
+69.  Futier E, et al. _Anesthesiology_ . 2011;114(6):1354.
+
+70.  Herriger A, et al. _Anaesthesia_ . 2004;59(3):243.
+
+71.  Levitan RM, et al. In: Hagberg CA, et al., ed. _Hagberg and Benumof’s Airway Management_ . 4th ed. Elsevier; 2018:249.
+
+72.  Levitan RM. _Emergency Physicians Monthly_ . 2010.
+
+73.  Teller LE, et al. _Anesthesiology_ . 1988;69(6):980.
+
+74.  Baraka AS, et al. _Anaesthesia_ . 2007;62(8):769.
+
+75.  Ramachandran SK, et al. _J Clin Anesth_ . 2010;22(3):164.
+
+76.  Binks MJ, et al. _Am J Emerg Med_ . 2017;35(10):1542.
+
+77.  Pavlov I, et al. _Am J Emerg Med_ . 2017;35(8):1184.
+
+78.  Mendelson CL. _Am J Obstet Gynecol_ . 1946;52:191.
+
+79. _Anesthesiology_ . 2017;126(3):376.
+
+80.  Smith I, et al. _Eur J Anaesthesiol_ . 2011;28(8):556.
+
+81.  Mahajan V, et al. _J Clin Anesth_ . 2015;27(5):396.
+
+82.  Paranjothy S, et al. _Cochrane Database Syst Rev_ . 2014;(2):CD004943.
+
+83.  Artime CA, et al. In: Hagberg CA, et al., ed. _Hagberg and Benumof’s Airway Management_ . 4th ed. Elsevier; 2018:216.
+
+84.  Kim YH, et al. _Yonsei Med J_ . 2009;50(3):380.
+
+85.  Al- alami AA, et al. _Curr Opin Anaesthesiol_ . 2009;22(3):388.
+
+86.  Silva DA, et al. _Ann Otol Rhinol Laryngol_ . 1992;101(11):893.
+
+87.  Cooper RM. In: Hagberg CA, et al., ed. _Hagberg and Benumof’s Airway Management_ . 4th ed. Elsevier; 2018:844.
+
+88.  Dorsey DP, et al. In: Hagberg CA, et al., ed. _Hagberg and Benumof’s Airway Management_ . 4th ed. Elsevier; 2018:163.
+
+89.  Combes X, et al. _Br J Anaesth_ . 2007;99(2):276.
+
+90.  Gal TJ. In: Miller RD, ed. _Miller’s Anesthesia_ . 6th ed. Philadelphia, PA: Churchill Livingstone/Elsevier; 2005:1617.
+
+<!-- PDF page 39 -->
+
+91.  El- Orbany MI, et al. _Br J Anaesth_ . 2005;95(5):710.
+
+92.  El- Orbany MI, et al. _J Clin Anesth_ . 2003;15(1):9.
+
+93.  Lieutaud T, et al. _Can J Anaesth_ . 2003;50(2):121.
+
+94.  Naguib M, et al. _Anesth Analg_ . 2010;111(1):110.
+
+95.  Heier T, et al. _Anesthesiology_ . 2001;94(5):754.
+
+96.  Lee C, et al. _Anesthesiology_ . 2009;110(5):1020.
+
+97.  Broomhead RH, et al. _Br J Anaesth_ . 2010;104(3):313.
+
+98.  Goodwin MW, et al. _Anaesthesia_ . 2003;58(1):60.
+
+99.  Ikeda A, et al. _Anesthesiology_ . 2012;117(3):487.
+
+100.  Warters RD, et al. _Anaesthesia_ . 2011;66(3):163.
+
+101.  Calder I, et al. _Anaesthesia_ . 2008;63(2):113.
+
+102.  Sellick BA. _Lancet_ . 1961;2(7199):404.
+
+103.  Vanner RG, et al. _Anaesthesia_ . 1999;54(1):1.
+
+104.  El- Orbany M, et al. _Anesth Analg_ . 2010;110(5):1318.
+
+105.  Koerber JP, et al. _Anaesthesia_ . 2009;64(1):54.
+
+106.  Rosen MA. _Anesthesiology_ . 1999;91(4):1159.
+
+107.  de Souza DG, et al. _Anesth Analg_ . 2010;110(5):1503.
+
+108.  Paech MJ. _Anaesth Intensive Care_ . 2010;38(6):989.
+
+109.  Stept WJ, et al. _Anesth Analg_ . 1970;49(4):633.
+
+110.  Deepika K, et al. _J Clin Anesth_ . 1992;4(2):106.
+
+111.  Williamson RM, et al. _Acta Anaesthesiol Scand_ . 2011;55(6):694. 112.  Thorn K, et al. _Anesth Analg_ . 2005;100(4):1200.
+
+113.  Smith KJ, et al. _Anesthesiology_ . 2003;99(1):60.
+
+114.  Palmer JHMG, et al. _Anaesthesia_ . 2000;55(3):263.
+
+115.  Rice MJ, et al. _Anesth Analg_ . 2009;109(5):1546.
+
+116.  Ehrenfeld JM, et al. _Anesth Analg_ . 2012;115(1):95.
+
+117.  Clements P, et al. _Br J Hosp Med (Lond)_ . 2009;70(7):424.
+
+118.  El- Orbany MI, et al. _J Clin Anesth_ . 2002;14(2):115.
+
+119.  Wappler F, et al. _Eur J Anaesthesiol_ . 2003;20(7):548.
+
+120.  Lee SY, et al. _Br J Anaesth_ . 2013;110(1):81.
+
+121.  Kim SH, et al. _Anaesth Intensive Care_ . 2011;39(5):899.
+
+122.  Kim JY, et al. _Acta Anaesthesiol Scand_ . 2008;52(1):106.
+
+123.  Wei LX, et al. _Acta Acad Med Sin_ . 2008;30(6):723.
+
+124.  Hung CT, et al. _Chang Gung Med J_ . 2005;28(3):174.
+
+125.  Kim KS, et al. _J Anesth_ . 2011;25(2):195.
+
+126.  Mahboobi N, et al. _East Mediterr Health J_ . 2012:159.
+
+127.  Kong CF, et al. _Br J Anaesth_ . 2000;85(3):364.
+
+128.  Lee J, et al. _Korean J Anesthesiol_ . 2011;60(1):12.
+
+129.  Erhan E, et al. _Can J Anaesth_ . 2003;50(2):108.
+
+130.  Gore MS, et al. _J Anaesthesiol Clin Pharmacol_ . 2011;27(1):27.
+
+131.  Erhan E, et al. _Eur J Anaesthesiol_ . 2003;20(1):37.
+
+132.  Aissaoui Y, et al. _Eur J Anaesthesiol_ . 2012;29(8):391.
+
+133.  Bouvet L, et al. _Anaesthesia_ . 2009;64(7):719.
+
+134.  Politis GD, et al. _Paediatr Anaesth_ . 2007;17(3):285.
+
+135.  Lundstrom LH, et al. _Br J Anaesth_ . 2009;103(2):283.
+
+136.  Mencke T, et al. _Anesthesiology_ . 2003;98(5):1049.
+
+137.  Abrams JT, et al. _Anesth Analg_ . 1996;83(3):629.
+
+138.  Scamman FL. _Anesth Analg_ . 1983;62(3):332.
+
+139.  Bennett JA, et al. _Anesthesiology_ . 1997;87(5):1070.
+
+140.  Kohno T, et al. _Masui_ . 2008;57(10):1213.
+
+141.  Benumof JL. _Anesthesiology_ . 1991;75(6):1087.
+
+142.  Thomas JL. _Anaesthesia_ . 1969;24(1):28.
+
+143.  Rosenstock CV, et al. _Anesthesiology_ . 2012;116(6):1210.
+
+144.  Xue FS, et al. _Eur J Anaesthesiol_ . 2012;29(4):209.
+
+145.  Xue FS, et al. _Chin Med J_ . 2009;122(4):408.
+
+146.  Sarma J. _J Clin Anesth_ . 2007;19(4):322.
+
+147.  Raval C, et al. _Saudi J Anaesth_ . 2010;4(1):38.
+
+148.  Bekhit MH. In: Sinatra RS, et al., ed. _The Essence of Analgesia and Analgesics_ . Cambridge University Press; 2011:279.
+
+149.  Simmons ST, et al. _Reg Anesth Pain Med_ . 2002;27(2):180.
+
+150.  Novaro GM, et al. _J Am Soc Echocardiogr_ . 2003;16(2):170.
+
+151.  Cara DM, et al. _Anaesthesia_ . 2003;58(8):777.
+
+152.  Gross JB, et al. _Anesth Analg_ . 1984;63(10):915.
+
+153.  Walsh ME, et al. _Yale J Biol Med_ . 1998;71(6):537.
+
+154.  British Thoracic Society. _Thorax_ . 2001;56(suppl 1):i1.
+
+155.  Williams KA, et al. _Br J Anaesth_ . 2005;95(4):549.
+
+156.  Reed AP. _Chest_ . 1992;101(1):244.
+
+157.  Casey JD, et al. _N Engl J Med_ . 2019;380(9):811.
+
+158.  von Goedecke A, et al. _Anesth Analg_ . 2004;98(1):260.
+
+159.  Joffe AM, et al. _Anesthesiology_ . 2010;113(4):873.
+
+160.  Weiler N, et al. _Prehosp Disaster Med_ . 1995;10(2):101.
+
+161.  Safar P, et al. _J Appl Physiol_ . 1959;14:760.
+
+162.  Isono S, et al. _Anesthesiology_ . 2005;103(3):489.
+
+163.  Kok PH, et al. _Singapore Med J_ . 2001;42(7):322.
+
+164.  Wang KC, et al. _Acta Anaesthesiol Taiwan_ . 2006;44(2):119.
+
+165.  Brain AI. _Br J Anaesth_ . 1983;55(8):801.
+
+166.  Brimacombe J. _Can J Anaesth_ . 1995;42(11):1017.
+
+167.  Yu SH, et al. _J Oral Maxillofac Surg_ . 2010;68(10):2359.
+
+168.  Lindsay HA, et al. In: Hagberg CA, et al., ed. _Hagberg and Benumof’s Airway Management_ . 4th ed. Elsevier; 2018:328.
+
+169.  Miller DM. _Anesth Analg_ . 2004;99(5):1553.
+
+170.  Vaida S, et al. In: Hagberg CA, et al., ed. _Hagberg and Benumof’s Airway Management_ . 4th ed. Elsevier; 2018:349.
+
+171.  Asai T, et al. _Anaesthesia_ . 2000;55(12):1179.
+
+172.  Brimacombe J, et al. _Br J Anaesth_ . 2005;95(3):420.
+
+173.  Vannucci A, et al. _Anesth Analg_ . 2018;126(6):1959.
+
+174.  Grady DM, et al. _Anesthesiology_ . 2001;94(5):760.
+
+175.  Siddik- Sayyid SM, et al. _Anesth Analg_ . 2005;100(4):1204.
+
+176.  Hui JK, et al. _Can J Anaesth_ . 2002;49(5):508.
+
+177.  Bouvet L, et al. _Can J Anaesth_ . 2010;57(3):222.
+
+178.  Jaffe RA, et al. _J Clin Anesth_ . 2002;14(6):462.
+
+179.  Nakayama S, et al. _Paediatr Anaesth_ . 2002;12(5):416.
+
+180.  Weber S. _Anesthesiol Clin N Am_ . 2002;20(3):503.
+
+181.  Dingley J, et al. _Anaesthesia_ . 1994;49(3):251.
+
+182.  Burgard G, et al. _J Clin Anesth_ . 1996;8(3):198.
+
+183.  Brimacombe J, et al. _Eur J Anaesthesiol_ . 2003;20(6):502. 184.  Emmett SR, et al. _Br J Anaesth_ . 2012;109(3):468. 185.  Cook TM, et al. _Can J Anaesth_ . 2005;52(7):739. 186.  Handa- Tsutsui F, et al. _J Clin Anesth_ . 2005;17(5):344. 187.  Sharma V, et al. _Br J Anaesth_ . 2010;105(2):228. 188.  Abdi W, et al. _Acta Anaesthesiol Scand_ . 2010;54(2):141. 189.  Maltby JR, et al. _Can J Anaesth_ . 2002;49(8):857.
+
+190.  Abdi W, et al. _Obes Surg_ . 2009;19(12):1624.
+
+191.  Yao T, et al. _Zhonghua Yixue Zazhi_ . 2010;90(29):2048.
+
+192.  Frerk C, et al. _Br J Anaesth_ . 2015;115(6):827.
+
+193.  Gaitini LA, et al. _Anesthesiology_ . 2001;94(1):79.
+
+194.  Mort TC. _Anesth Analg_ . 2006;103(5):1264.
+
+195.  Ochs M, et al. _Prehosp Emerg Care_ . 2000;4(4):333.
+
+196.  Oczenski W, et al. _Anaesthesia_ . 1999;54(12):1161.
+
+197.  Gaitini LA, et al. _J Clin Anesth_ . 2011;23(6):475.
+
+198.  Sultan P, et al. _J Perioper Pract_ . 2011;21(11):379.
+
+199.  Sparrow KA, et al. In: Hagberg CA, et al., ed. _Hagberg and Benumof’s Airway Management_ . 4th ed. Elsevier; 2018:402.
+
+200.  Artime C. In: Hagberg CA, et al., ed. _The Difficult Airway: A Practical Guide_ . Oxford University Press; 2013:97.
+
+201.  Bannister FB, et al. _Lancet_ . 1944;2:651.
+
+202.  Adnet F, et al. _Anesthesiology_ . 2001;94(1):83.
+
+203.  Chou HC, et al. _Acta Anaesthesiol Scand_ . 2001;45(2):261.
+
+204.  Greenland KB, et al. _Br J Anaesth_ . 2010;105(5):683.
+
+205.  Isono S. _Anesthesiology_ . 2001;95(4):825.
+
+206.  Park SH, et al. _J Anesth_ . 2010;24(4):526.
+
+207.  Greenland KB, et al. _Br J Anaesth_ . 2010;104(2):268.
+
+208.  Takenaka I, et al. _Can J Anaesth_ . 2007;54(2):129.
+
+209.  Jain RR, et al. In: Hagberg CA, et al., ed. _Hagberg and Benumof’s Airway Management_ . 4th ed. Elsevier; 2018:608.
+
+210.  Baker PA, et al. In: Hagberg CA, et al., ed. _Hagberg and Benumof’s Airway Management_ . 4th ed. Elsevier; 2018:371.
+
+211.  Cormack RS, et al. _Anaesthesia_ . 1984;39(11):1105.
+
+212.  Yentis SM, et al. _Anaesthesia_ . 1998;53(11):1041.
+
+213.  Ochroch EA, et al. _Can J Anaesth_ . 1999;46(10):987.
+
+214.  Straker T, et al. In: Hagberg CA, et al., ed. _Hagberg and Benumof’s Airway Management_ . 4th ed. Elsevier; 2018:540.
+
+215.  Cook TM, et al. _Anaesthesia_ . 2011;66(12):1183.
+
+216.  Deakin CD, et al. _Resuscitation_ . 2010;81(suppl 1):e93.
+
+217.  Cook TM, et al. _Br J Anaesth_ . 2019;122(4):e68.
+
+218.  Hung MH, et al. _Anesth Analg_ . 2008;107(5):1704.
+
+219.  Cattano D, et al. _Anesthesiology News_ . 2011;37:17.
+
+220.  Asai T, et al. _Br J Anaesth_ . 2004;92(6):870. 221.  Kristensen MS. _Anesthesiology_ . 2003;98(2):354. 222.  Lu Y, et al. _Anaesthesia_ . 2011;66(12):1160.
+
+223.  Rudolph C, et al. _Anaesthesia_ . 2005;60(7):668. 224.  Shollik NA, et al. _Case Rep Anesthesiol_ . 2012;2012:297306. 225.  Mazeres JE, et al. _Eur J Anaesthesiol_ . 2011;28(9):646.
+
+226.  Abramson SI, et al. _Anesth Analg_ . 2008;106(4):1215.
+
+227.  Xue FS, et al. _J Clin Anesth_ . 2009;21(2):154.
+
+228.  Sorbello M, et al. _Anesth Analg_ . 2009;108(1):386.
+
+229.  Aziz M, et al. _Anaesthesia_ . 2011;66(7):579.
+
+230.  Van Zundert AA, et al. _Br J Anaesth_ . 2012;108(2):327. 231.  Xue FS, et al. _Eur J Anaesthesiol_ . 2009;26(3):261. 232.  Biro P, et al. _Br J Anaesth_ . 2006;97(2):255.
+
+<!-- PDF page 40 -->
+
+233.  Greif R, et al. _Anaesthesia_ . 2010;65(5):525. 234.  Kaplan MB, et al. _J Clin Anesth_ . 2006;18(5):357. 235.  Aziz MF, et al. _Anesthesiology_ . 2012;116(3):629.
+
+236.  Jungbauer A, et al. _Br J Anaesth_ . 2009;102(4):546.
+
+237.  Asai T, et al. _Anesthesiology_ . 2009;110(4):898.
+
+238.  Aziz MF, et al. _Anesthesiology_ . 2011;114(1):34.
+
+239.  Moore AR, et al. _Anaesthesia_ . 2012;67(3):232.
+
+240.  Xue FS, et al. _Anesthesiology_ . 2013;118(2):462.
+
+241.  Hansel J, et al. _Cochrane Database Syst Rev_ . 2022;4(4):CD011136.
+
+242.  Aziz M, et al. In: Hagberg CA, et al., ed. _Hagberg and Benumof’s Airway Management_ . 4th ed. Elsevier; 2018:417.
+
+243.  McElwain J, et al. _Anaesthesia_ . 2010;65(5):483.
+
+244.  Ng I, et al. _Br J Anaesth_ . 2012;109(3):439.
+
+245.  Cavus E, et al. _Anesth Analg_ . 2010;110(2):473.
+
+246.  Maassen R, et al. _Anesth Analg_ . 2009;109(5):1560.
+
+247.  van Zundert A, et al. _Anesth Analg_ . 2009;109(3):825.
+
+248.  Meininger D, et al. _Anaesthesist_ . 2010;59(9):806.
+
+249.  Jones PM, et al. _Can J Anaesth_ . 2011;58(3):256.
+
+250.  Cattano D, et al. _Intern Emerg Med_ . 2012;7(1):59.
+
+251.  Dupanovic M. _J Clin Anesth_ . 2010;22(2):152.
+
+252.  Komasawa N, et al. _J Anesth_ . 2011;25(6):898.
+
+   255.  Normand KC, et al. In: Hagberg CA, et al., ed. _The Difficult Airway: A Practical Guide_ . Oxford University Press; 2013:109.
+
+   256.  Hsu HT, et al. _Anaesthesia_ . 2012;67(4):411.
+
+   257.  Pinsky JR, et al. In: Hagberg CA, et al., ed. _The Difficult Airway: A Practical Guide_ . Oxford University Press; 2013:143.
+
+   258.  Ohchi F, et al. _Am J Emerg Med_ . 2017;35(4):584.
+
+   259.  Budde AO, et al. _J Clin Anesth_ . 2008;20(7):560.
+
+   260.  Pieters BM, et al. _Anesth Analg_ . 2018;126(3):988.
+
+   261.  Normand KC. In: Hagberg CA, et al., ed. _The Difficult Airway: A Practical Guide_ . Oxford University Press; 2013:117.
+
+   262.  Hamaekers AE, et al. _Br J Anaesth_ . 2012;108(6):1017.
+
+   263.  Fearnley RA, et al. _J Clin Anesth_ . 2016;33:233.
+
+   264.  Normand KC. In: Hagberg CA, et al., ed. _The Difficult Airway: A Practical Guide_ . Oxford University Press; 2013:125.
+
+   265.  Asai T, et al. _Br J Anaesth_ . 1998;80(6):767.
+
+   266.  Popat M, et al. _Anaesthesia_ . 2012;67(3):318.
+
+   267.  Nair I, et al. _Anaesthesia_ . 1995;50(2):174.
+
+   268.  Falzon D, et al. _Anaesthesia_ . 2012;67(8):919.
+
+   269.  Mort TC, et al. _Anesth Analg_ . 2015;121(2):440.
+
+   270.  Foley L, et al. In: Hagberg CA, et al., ed. _Hagberg and Benumof’s Airway Management_ . 4th ed. PA: Elsevier; 2018:905.
+
+253.  Komasawa N, et al. _Masui_ . 2011;60(1):84.
+
+254.  Ferrario L. In: Hagberg CA, et al., ed. _The Difficult Airway: A Practical Guide_ . Oxford University Press; 2013:83.
+
+<!-- PDF page 41 -->
+
+### References
+
+1.  Peterson GN, Domino KB, Caplan RA, et al. Management of the difficult airway: a closed claims analysis. _Anesthesiology_ . 2005;103(1):33–39.
+
+2.  Joffe AM, Aziz MF, Posner KL, et al. Management of difficult tracheal intubation: a closed claims analysis. _Anesthesiology_ . 2019;131(4):818–829.
+
+3.  Metzner J, Posner KL, Lam MS, Domino KB. Closed claims’ analysis. _Best Pract Res Clin Anaesthesiol_ . 2011;25(2):263–276.
+
+4.  Cook TM, Woodall N, Frerk C. Major complications of airway management in the UK: results of the fourth national audit project of the Royal College of Anaesthetists and the Difficult Airway Society. Part 1: anaesthesia. _Br J Anaesth_ . 2011;106(5):617–631.
+
+5.  Cook TM, MacDougall- Davis SR. Complications and failure of airway management. _Br J Anaesth_ . 2012;109(suppl 1):i68–i85.
+
+6.  Behringer EC. Approaches to managing the upper airway. _Anesthesiol Clin_ . 2002;20(4):813–832 (vi).
+
+7.  Practice guidelines for management of the difficult airway. A report by the American Society of Anesthesiologists Task Force on Management of the Difficult Airway. _Anesthesiology_ . 1993;78(3):597–602.
+
+8.  Apfelbaum JL, Hagberg CA, Connis RT, et al. 2022 American Society of Anesthesiologists practice guidelines for management of the difficult airway. _Anesthesiology_ . 2022;136(1):31–81.
+
+9.  Frerk C, Mitchell VS, McNarry AF, et al. Difficult Airway Society 2015 guidelines for management of unanticipated difficult intubation in adults. _Br J Anaesth_ . 2015;115(6):827–848.
+
+10.  Law JA, Duggan LV, Asselin M, et al. Canadian Airway Focus Group updated consensus- based recommendations for management of the difficult airway: part 1. Difficult airway management encountered in an unconscious patient. Mise à jour des lignes directrices consensuelles pour la prise en charge des voies aériennes difficiles du Canadian Airway Focus Group: 1ère partie. Prise en charge de voies aériennes difficiles chez un patient inconscient. _Can J Anaesth_ . 2021;68(9):1373–1404.
+
+11.  Law JA, Duggan LV, Asselin M, et al. Canadian Airway Focus Group updated consensus- based recommendations for management of the difficult airway: part 2. Planning and implementing safe management of the patient with an anticipated difficult airway. Mise à jour des Lignes directrices consensuelles pour la prise en charge des voies aériennes difficiles du Canadian Airway Focus Group : 2ème partie. Planification et mise en œuvre d’une prise en charge sécuritaire du patient présentant des voies respiratoires difficiles anticipées. _Can J Anaesth_ . 2021;68(9):1405–1436.
+
+12.  Langeron O, Bourgain JL, Laccoureye O, et al. Difficult airway algorithms and management: question 5. Societe Francaise d’Anesthesie et de Reanimation. _Ann Fr Anesth Reanim_ . 2008;27(1):41–45.
+
+13.  Piepho T, Cavus E, Noppens R, et al. S1 guidelines on airway management: guideline of the German Society of Anesthesiology and Intensive Care Medicine. _Anaesthesist_ . 2015;64(suppl 1):27–40.
+
+14.  Petrini F, Accorsi A, Adrario E, et al. Recommendations for airway control and difficult airway management. _Minerva Anestesiol_ . 2005;71(11):617–657.
+
+15.  Japanese Society of Anesthesiologists. JSA airway management guideline 2014: to improve the safety of induction of anesthesia. _J Anesth_ . 2014;28(4):482–493.
+
+16.  Myatra SN, Shah A, Kundra P, et al. All India Difficult Airway Association 2016 guidelines for the management of unanticipated difficult tracheal intubation in adults. _Indian J Anaesth_ . 2016;60(12):885–898.
+
+17.  Artime CA, Hagberg CA. Airway algorithms and guidelines. In: Berkow LC, Sakles JC, eds. _Cases in Emergency Airway Management_ . Cambridge, UK: Cambridge University Press; 2015:10–18.
+
+18.  Kovacs G, Lauria M, Croskerry P, Law JA. Human factors in airway management. In: Kovacs G, Law JA, eds. _Airway Management in Emergencies_ . aimeairway.ca; 2018.
+
+19.  Chrimes N. The Vortex: a universal ‘high- acuity implementation tool’ for emergency airway management. _Br J Anaesth_ . 2016;117(suppl 1):i20–i27.
+
+20.  Reitzen SD, Chung W, Shah AR. Nasal septal deviation in the pediatric and adult populations. _Ear Nose Throat J_ . 2011;90(3):112–115.
+
+21.  Ahmed- Nusrath A, Tong JL, Smith JE. Pathways through the nose for nasal intubation: a comparison of three endotracheal tubes. _Br J Anaesth_ . 2008;100(2):269–274.
+
+22.  Cavusoglu T, Yazici I, Demirtas Y, et al. A rare complication of nasotracheal intubation: accidental middle turbinectomy. _J Craniofac Surg_ . 2009;20(2):566–568.
+
+23.  Zwank M. Middle turbinectomy as a complication of nasopharyngeal airway placement. _Am J Emerg Med_ . 2009;27(4):513. e513–514.
+
+24.  Henderson J. Airway management. In: Miller RD, ed. _Miller’s Anesthesia_ . 7th ed. Philadelphia, PA: Churchill Livingstone/Elsevier; 2010:1573–1610.
+
+25.  Srirompotong S. Art- Smart T. Ludwig’s angina: a clinical review. _Eur Arch Oto- Rhino- Laryngol_ . 2003;260(7):401–403.
+
+26.  Krebs MJ, Sakai T. Retropharyngeal dissection during nasotracheal intubation: a rare complication and its management. _J Clin Anesth_ . 2008;20(3):218–221.
+
+27.  Hirshoren N, Gross M, Weinberger JM, Eliashar R. Retropharyngeal infected hematoma: a unique complication of nasogastric tube insertion. _J Trauma_ . 2009;67(4):891.
+
+28.  Hillman DR, Platt PR, Eastwood PR. The upper airway during anaesthesia. _Br J Anaesth_ . 2003;91(1):31–39.
+
+29.  Kuna ST. Respiratory- related activation and mechanical effects of the pharyngeal constrictor muscles. _Respir Physiol_ . 2000;119(2– 3):155–161.
+
+30.  Reber A, Wetzel SG, Schnabel K, et al. Effect of combined mouth closure and chin lift on upper airway dimensions during routine magnetic resonance imaging in pediatric patients sedated with propofol. _Anesthesiology_ . 1999;90(6):1617–1623.
+
+31.  Leder SB, Burrell MI, Van Daele DJ. Epiglottis is not essential for successful swallowing in humans. _Ann Otol Rhinol Laryngol_ . 2010;119(12):795–798.
+
+32.  Coleman L, Gold J, Zawkowski M. Functional anatomy of the airway. In: Hagberg CA, Artime C, Aziz M, eds. _Hagberg and Benumof’s Airway Management_ . 2nd ed. Philadelphia, PA: Elsevier; 2018:2–18.
+
+33.  Lundstrom LH, Moller AM, Rosenstock C, et al. A documented previous difficult tracheal intubation as a prognostic test for a subsequent difficult tracheal intubation in adults. _Anaesthesia_ . 2009;64(10):1081–1088.
+
+34.  Kheterpal S, Han R, Tremper KK, et al. Incidence and predictors of difficult and impossible mask ventilation. _Anesthesiology_ . 2006;105(5):885–891.
+
+35.  Yildiz TS, Solak M, Toker K. The incidence and risk factors of difficult mask ventilation. _J Anesth_ . 2005;19(1):7–11.
+
+36.  Gonzalez H, Minville V, Delanoue K, et al. The importance of increased neck circumference to intubation difficulties in obese patients. _Anesth Analg_ . 2008;106(4):1132–1136.
+
+37.  Brodsky JB, Lemmens HJ, Brock- Utne JG, et al. Morbid obesity and tracheal intubation. _Anesth Analg_ . 2002;94(3):732–736.
+
+38.  Shiga T, Wajima Z, Inoue T, Sakamoto A. Predicting difficult intubation in apparently normal patients: a meta- analysis of bedside screening test performance. _Anesthesiology_ . 2005;103(2):429– 437.
+
+39.  Mallampati SR. Clinical sign to predict difficult tracheal intubation (hypothesis). _Can Anaesth Soc J_ . 1983;30(3 Pt 1):316–317.
+
+40.  Mashour GA, Kheterpal S, Vanaharam V, et al. The extended Mallampati score and a diagnosis of diabetes mellitus are predictors of difficult laryngoscopy in the morbidly obese. _Anesth Analg_ . 2008;107(6):1919–1923.
+
+41.  Samsoon GL, Young JR. Difficult tracheal intubation: a retrospective study. _Anaesthesia_ . 1987;42(5):487–490.
+
+42.  Lundstrom LH, Vester- Andersen M, Moller AM, et al. Poor prognostic value of the modified Mallampati score: a meta- analysis involving 177,088 patients. _Br J Anaesth_ . 2011;107(5):659–667.
+
+43.  Mashour GA, Sandberg WS. Craniocervical extension improves the specificity and predictive value of the Mallampati airway evaluation. _Anesth Analg_ . 2006;103(5):1256–1259.
+
+44.  Hegde HV, Prasad KC, Bhat MT, et al. Airway difficulty in Mallampati ‘class zero’ patients: a prospective double- blind observational study. _Eur J Anaesthesiol_ . 2012;29(7):338–342.
+
+45.  Ezri T, Warters RD, Szmuk P, et al. The incidence of class “zero” airway and the impact of Mallampati score, age, sex, and body mass index on prediction of laryngoscopy grade. _Anesth Analg_ . 2001;93(4):1073–1075.
+
+46.  Fang B, Norris J. Class zero airway and laryngoscopy. _Anesth Analg_ . 2004;98(3):870. Author reply 870–871.
+
+47.  Grover VK, Mahajan R, Tomar M. Class zero airway and laryngoscopy. _Anesth Analg_ . 2003;96(3):911.
+
+48.  Racine SX, Solis A, Hamou NA, et al. Face mask ventilation in edentulous patients: a comparison of mandibular groove and lower lip placement. _Anesthesiology_ . 2010;112(5):1190–1193.
+
+49.  El- Orbany M, Woehlck H, Salem MR. Head and neck position for direct laryngoscopy. _Anesth Analg_ . 2011;113(1):103–109.
+
+<!-- PDF page 42 -->
+
+50.  Karkouti K, Rose DK, Wigglesworth D, Cohen MM. Predicting difficult intubation: a multivariable analysis. _Can J Anaesth_ . 2000;47(8):730–739.
+
+51.  Iohom G, Ronayne M, Cunningham AJ. Prediction of difficult tracheal intubation. _Eur J Anaesthesiol_ . 2003;20(1):31–36.
+
+52.  Wilson ME, Spiegelhalter D, Robertson JA, Lesser P. Predicting difficult intubation. _Br J Anaesth_ . 1988;61(2):211–216.
+
+53.  Calder I, Calder J, Crockard HA. Difficult direct laryngoscopy in patients with cervical spine disease. _Anaesthesia_ . 1995;50(9):756–763.
+
+54.  Khan ZH, Kashfi A, Ebrahimkhani E. A comparison of the upper lip bite test (a simple new technique) with modified Mallampati classification in predicting difficulty in endotracheal intubation: a prospective blinded study. _Anesth Analg_ . 2003;96(2):595–599.
+
+55.  Eberhart LH, Arndt C, Cierpka T, et al. The reliability and validity of the upper lip bite test compared with the Mallampati classification to predict difficult laryngoscopy: an external prospective evaluation. _Anesth Analg_ . 2005;101(1):284–289.
+
+56.  el- Ganzouri AR, McCarthy RJ, Tuman KJ, et al. Preoperative airway assessment: predictive value of a multivariate risk index. _Anesth Analg_ . 1996;82(6):1197–1204.
+
+57.  Norskov AK, Wetterslev J, Rosenstock CV, et al. Effects of using the simplified airway risk index vs usual airway assessment on unanticipated difficult tracheal intubation—a cluster randomized trial with 64,273 participants. _Br J Anaesth_ . 2016;116(5):680–689.
+
+58.  Langeron O, Masso E, Huraux C, et al. Prediction of difficult mask ventilation. _Anesthesiology_ . 2000;92(5):1229–1236.
+
+59.  Kristensen MS, Teoh WH. Ultrasonography in airway management. In: Hagberg CA, Artime CA, Aziz MF, eds. _Hagberg and Benumof’s Airway Management_ . 4th ed. Philadelphia, PA: Elsevier; 2018:74–91.
+
+60.  Ahmad I, Millhoff B, John M, et al. Virtual endoscopy—a new assessment tool in difficult airway management. _J Clin Anesth_ . 2015;27(6):508–513.
+
+61.  Cuendet GL, Schoettker P, Yuce A, et al. Facial image analysis for fully automatic prediction of difficult endotracheal intubation. _IEEE Trans Biomed Eng_ . 2016;63(2):328–339.
+
+62.  Tanoubi I, Drolet P, Donati F. Optimizing preoxygenation in adults. _Can J Anaesth_ . 2009;56(6):449–466.
+
+63.  Benumof JL. Preoxygenation: best method for both efficacy and efficiency. _Anesthesiology_ . 1999;91(3):603–605.
+
+64.  Benumof JL, Dagg R, Benumof R. Critical hemoglobin desaturation will occur before return to an unparalyzed state following 1 mg/kg intravenous succinylcholine. _Anesthesiology_ . 1997;87(4):979–982.
+
+65.  Nimmagadda U, Salem MR, Crystal GJ. Preoxygenation: physiologic basis, benefits, and potential risks. _Anesth Analg_ . 2017;124(2):507– 517.
+
+66.  Patel A, Nouraei SA. Transnasal Humidified Rapid- Insufflation Ventilatory Exchange (THRIVE): a physiological method of increasing apnoea time in patients with difficult airways. _Anaesthesia_ . 2015;70(3):323–329.
+
+67.  Dixon BJ, Dixon JB, Carden JR, et al. Preoxygenation is more effective in the 25 degrees head- up position than in the supine position in severely obese patients: a randomized controlled study. _Anesthesiology_ . 2005;102(6):1110–1115. Discussion 1115A.
+
+68.  Ramkumar V, Umesh G, Philip FA. Preoxygenation with 20 masculine head- up tilt provides longer duration of non- hypoxic apnea than conventional preoxygenation in non- obese healthy adults. _J Anesth_ . 2011;25(2):189–194.
+
+69.  Futier E, Constantin JM, Pelosi P, et al. Noninvasive ventilation and alveolar recruitment maneuver improve respiratory function during and after intubation of morbidly obese patients: a randomized controlled study. _Anesthesiology_ . 2011;114(6):1354–1363.
+
+70.  Herriger A, Frascarolo P, Spahn DR, Magnusson L. The effect of positive airway pressure during pre- oxygenation and induction of anaesthesia upon duration of non- hypoxic apnoea. _Anaesthesia_ . 2004;59(3):243–247.
+
+71.  Levitan RM, Behringer EC, Patel A. Preoxygenation. In: Hagberg CA, Artime CA, Aziz MF, eds. _Hagberg and Benumof’s Airway Management_ . 4th ed. Philadelphia, PA: Elsevier; 2018:249–264.
+
+72.  Levitan RM. NO DESAT! (Nasal oxygen during efforts securing a tube). _Emergency Physicians Monthly; 2010_ .
+
+73.  Teller LE, Alexander CM, Frumin MJ, Gross JB. Pharyngeal insufflation of oxygen prevents arterial desaturation during apnea. _Anesthesiology_ . 1988;69(6):980–982.
+
+74.  Baraka AS, Taha SK, Siddik- Sayyid SM, et al. Supplementation of pre- oxygenation in morbidly obese patients using nasopharyngeal oxygen insufflation. _Anaesthesia_ . 2007;62(8):769–773.
+
+75.  Ramachandran SK, Cosnowski A, Shanks A, Turner CR. Apneic oxygenation during prolonged laryngoscopy in obese patients: a randomized, controlled trial of nasal oxygen administration. _J Clin Anesth_ . 2010;22(3):164–168.
+
+76.  Binks MJ, Holyoak RS, Melhuish TM, et al. Apneic oxygenation during intubation in the emergency department and during retrieval: a systematic review and meta- analysis. _Am J Emerg Med_ . 2017;35(10):1542–1546.
+
+77.  Pavlov I, Medrano S, Weingart S. Apneic oxygenation reduces the incidence of hypoxemia during emergency intubation: a systematic review and meta- analysis. _Am J Emerg Med_ . 2017;35(8):1184– 1189.
+
+78.  Mendelson CL. The aspiration of stomach contents into the lungs during obstetric anesthesia. _Am J Obstet Gynecol_ . 1946;52:191–205.
+
+79.  Practice Guidelines for Preoperative Fasting and the Use of Pharmacologic Agents to reduce the risk of pulmonary aspiration: application to healthy patients undergoing elective procedures: an updated report by the American Society of Anesthesiologists Task Force on Preoperative Fasting and the Use of Pharmacologic Agents to Reduce the Risk of Pulmonary Aspiration. _Anesthesiology_ . 2017;126(3):376–393.
+
+80.  Smith I, Kranke P, Murat I, et al. Perioperative fasting in adults and children: guidelines from the European Society of Anaesthesiology. _Eur J Anaesthesiol_ . 2011;28(8):556–569.
+
+81.  Mahajan V, Hashmi J, Singh R, et al. Comparative evaluation of gastric pH and volume in morbidly obese and lean patients undergoing elective surgery and effect of aspiration prophylaxis. _J Clin Anesth_ . 2015;27(5):396–400.
+
+82.  Paranjothy S, Griffiths JD, Broughton HK, et al. Interventions at caesarean section for reducing the risk of aspiration pneumonitis. _Cochrane Database Syst Rev_ . 2014;2:CD004943.
+
+83.  Artime CA, Sanchez A. Preparation of the patient for awake intubation. In: Hagberg CA, Artime C, Aziz M, eds. _Hagberg and Benumof’s Airway Management_ . 4th ed. Philadelphia, PA: Elsevier; 2018:216– 234.
+
+84.  Kim YH, Kang JW, Kim KM. Characteristics of glottic closure reflex in a canine model. _Yonsei Med J_ . 2009;50(3):380–384.
+
+85.  Al- alami AA, Zestos MM, Baraka AS. Pediatric laryngospasm: prevention and treatment. _Curr Opin Anaesthesiol_ . 2009;22(3):388– 395.
+
+86.  Silva DA, Sanders I. Continuous positive airway pressure as a promoter of laryngospasm during halothane anesthesia. _Ann Otol Rhinol Laryngol_ . 1992;101(11):893–896.
+
+87.  Cooper RM. Extubation and reintubation of the difficult airway. In: Hagberg CA, Artime C, Aziz M, eds. _Hagberg and Benumof’s Airway Management_ . 4th ed. Philadelphia, PA: Elsevier; 2018:844–867.
+
+88.  Dorsey DP, Joffe AM. Physiologic and pathophysiologic responses to intubation. In: Hagberg CA, Artime C, Aziz M, eds. _Hagberg and Benumof’s Airway Management_ . 4th ed. Philadelphia, PA: Elsevier; 2018:163–177.
+
+89.  Combes X, Andriamifidy L, Dufresne E, et al. Comparison of two induction regimens using or not using muscle relaxant: impact on postoperative upper airway discomfort. _Br J Anaesth_ . 2007;99(2):276–281.
+
+90.  Gal TJ. Airway management. In: Miller RD, ed. _Miller’s Anesthesia_ . 6th ed. Philadelphia, PA: Churchill Livingstone/Elsevier; 2005:1617–1652.
+
+91.  El- Orbany MI, Joseph NJ, Salem MR. Tracheal intubating conditions and apnoea time after small- dose succinylcholine are not modified by the choice of induction agent. _Br J Anaesth_ . 2005;95(5):710– 714.
+
+92.  El- Orbany MI, Wafai Y, Joseph NJ, Salem MR. Does the choice of intravenous induction drug affect intubation conditions after a fastonset neuromuscular blocker? _J Clin Anesth_ . 2003;15(1):9–14.
+
+93.  Lieutaud T, Billard V, Khalaf H, Debaene B. Muscle relaxation and increasing doses of propofol improve intubating conditions. _Can J Anaesth_ . 2003;50(2):121–126.
+
+94.  Naguib M, Kopman AF, Lien CA, et al. A survey of current management of neuromuscular block in the United States and Europe. _Anesth Analg_ . 2010;111(1):110–119.
+
+95.  Heier T, Feiner JR, Lin J, et al. Hemoglobin desaturation after succinylcholine- induced apnea: a study of the recovery of spontaneous ventilation in healthy volunteers. _Anesthesiology_ . 2001;94(5):754–759.
+
+96.  Lee C, Jahr JS, Candiotti KA, et al. Reversal of profound neuromuscular block by sugammadex administered three minutes after
+
+<!-- PDF page 43 -->
+
+rocuronium: a comparison with spontaneous recovery from succinylcholine. _Anesthesiology_ . 2009;110(5):1020–1025.
+
+97.  Broomhead RH, Marks RJ, Ayton P. Confirmation of the ability to ventilate by facemask before administration of neuromuscular blocker: a non- instrumental piece of information? _Br J Anaesth_ . 2010;104(3):313–317.
+
+98.  Goodwin MW, Pandit JJ, Hames K, et al. The effect of neuromuscular blockade on the efficiency of mask ventilation of the lungs. _Anaesthesia_ . 2003;58(1):60–63.
+
+99.  Ikeda A, Isono S, Sato Y, et al. Effects of muscle relaxants on mask ventilation in anesthetized persons with normal upper airway anatomy. _Anesthesiology_ . 2012;117(3):487–493.
+
+100.  Warters RD, Szabo TA, Spinale FG, et al. The effect of neuromuscular blockade on mask ventilation. _Anaesthesia_ . 2011;66(3):163–167.
+
+101.  Calder I, Yentis SM. Could ‘safe practice’ be compromising safe practice? Should anaesthetists have to demonstrate that face mask ventilation is possible before giving a neuromuscular blocker? _Anaesthesia_ . 2008;63(2):113–115.
+
+102.  Sellick BA. Cricoid pressure to control regurgitation of stomach contents during induction of anaesthesia. _Lancet_ . 1961;2(7199):404– 406.
+
+103.  Vanner RG, Asai T. Safe use of cricoid pressure. _Anaesthesia_ . 1999;54(1):1–3.
+
+104.  El- Orbany M, Connolly LA. Rapid sequence induction and intubation: current controversy. _Anesth Analg_ . 2010;110(5):1318–1325.
+
+105.  Koerber JP, Roberts GE, Whitaker R, Thorpe CM. Variation in rapid sequence induction techniques: current practice in Wales. _Anaesthesia_ . 2009;64(1):54–59.
+
+106.  Rosen MA. Management of anesthesia for the pregnant surgical patient. _Anesthesiology_ . 1999;91(4):1159–1163.
+
+107.  de Souza DG, Doar LH, Mehta SH, Tiouririne M. Aspiration prophylaxis and rapid sequence induction for elective cesarean delivery: time to reassess old dogma? _Anesth Analg_ . 2010;110(5):1503–1505.
+
+108.  Paech MJ. Pregnant women having caesarean delivery under general anaesthesia should have a rapid sequence induction with cricoid pressure and be intubated. Can this ‘holy cow’ be sent packing? _Anaesth Intensive Care_ . 2010;38(6):989–991.
+
+109.  Stept WJ, Safar P. Rapid induction- intubation for prevention of gastric- content aspiration. _Anesth Analg_ . 1970;49(4):633–636.
+
+110.  Deepika K, Bikhazi GB, Mikati HM, et al. Facilitation of rapidsequence intubation with large- dose vecuronium with or without priming. _J Clin Anesth_ . 1992;4(2):106–110.
+
+111.  Williamson RM, Mallaiah S, Barclay P. Rocuronium and sugammadex for rapid sequence induction of obstetric general anaesthesia. _Acta Anaesthesiol Scand_ . 2011;55(6):694–699.
+
+112.  Thorn K, Thorn SE, Wattwil M. The effects of cricoid pressure, remifentanil, and propofol on esophageal motility and the lower esophageal sphincter. _Anesth Analg_ . 2005;100(4):1200–1203.
+
+113.  Smith KJ, Dobranowski J, Yip G, et al. Cricoid pressure displaces the esophagus: an observational study using magnetic resonance imaging. _Anesthesiology_ . 2003;99(1):60–64.
+
+114.  Palmer JHMG, Ball DR. The effect of cricoid pressure on the cricoid cartilage and vocal cords: an endoscopic study in anaesthetised patients. _Anaesthesia_ . 2000;55(3):263–268.
+
+115.  Rice MJ, Mancuso AA, Gibbs C, et al. Cricoid pressure results in compression of the postcricoid hypopharynx: the esophageal position is irrelevant. _Anesth Analg_ . 2009;109(5):1546–1552.
+
+116.  Ehrenfeld JM, Cassedy EA, Forbes VE, et al. Modified rapid sequence induction and intubation: a survey of United States current practice. _Anesth Analg_ . 2012;115(1):95–101.
+
+117.  Clements P, Washington SJ, McCluskey A. Should patients be manually ventilated during rapid sequence induction of anaesthesia? _Br J Hosp Med (Lond)_ . 2009;70(7):424.
+
+118.  El- Orbany MI, Wafai Y, Joseph NJ, Salem MR. Tracheal intubation conditions and cardiovascular effects after modified rapid- sequence induction with sevoflurane- rapacuronium versus propofolrapacuronium. _J Clin Anesth_ . 2002;14(2):115–120.
+
+119.  Wappler F, Frings DP, Scholz J, et al. Inhalational induction of anaesthesia with 8% sevoflurane in children: conditions for endotracheal intubation and side- effects. _Eur J Anaesthesiol_ . 2003;20(7):548–554.
+
+120.  Lee SY, Cheng SL, Ng SB, Lim SL. Single- breath vital capacity high concentration sevoflurane induction in children: with or without nitrous oxide? _Br J Anaesth_ . 2013;110(1):81–86.
+
+121.  Kim SH, Hong JY, Suk EH, et al. Optimum bolus dose of propofol for tracheal intubation during sevoflurane induction
+
+without neuromuscular blockade in children. _Anaesth Intensive Care_ . 2011;39(5):899–903.
+
+122.  Kim JY, Kwak YL, Lee KC, et al. The optimal bolus dose of alfentanil for tracheal intubation during sevoflurane induction without neuromuscular blockade in day- case anaesthesia. _Acta Anaesthesiol Scand_ . 2008;52(1):106–110.
+
+123.  Wei LX, Deng XM, Liu JH, et al. [Inductions and intubating conditions with sevoflurane and different doses of remifentanil without muscle relaxant in children]. Zhongguo yi xue ke xue yuan xue bao. _Acta Acad Med Sin_ . 2008;30(6):723–727.
+
+124.  Hung CT, Shih MH, Shih CJ, et al. Intubation conditions with low dose rocuronium under sevoflurane induction for children. _Chang Gung Med J_ . 2005;28(3):174–179.
+
+125.  Kim KS, Kwak HJ, Min SK, et al. The effect of ketamine on tracheal intubating conditions without neuromuscular blockade during sevoflurane induction in children. _J Anesth_ . 2011;25(2):195–199.
+
+126.  Mahboobi N, Esmaeili S, Safari S, et al. Halothane: how should it be used in a developing country? _East Mediterr Health J_ . 2012:159– 164.
+
+127.  Kong CF, Chew ST, Ip- Yam PC. Intravenous opioids reduce airway irritation during induction of anaesthesia with desflurane in adults. _Br J Anaesth_ . 2000;85(3):364–367.
+
+128.  Lee J, Jung CW. The target concentration of remifentanil to suppress the hemodynamic response to endotracheal intubation during inhalational induction with desflurane. _Korean J Anesthesiol_ . 2011;60(1):12–18.
+
+129.  Erhan E, Ugur G, Gunusen I, et al. Propofol—not thiopental or etomidate—with remifentanil provides adequate intubating conditions in the absence of neuromuscular blockade. _Can J Anaesth_ . 2003;50(2):108–115.
+
+130.  Gore MS, Harnagale KD. Evaluation of intubating conditions with varying doses of propofol without muscle relaxants. _J Anaesthesiol Clin Pharmacol_ . 2011;27(1):27–30.
+
+131.  Erhan E, Ugur G, Alper I, et al. Tracheal intubation without muscle relaxants: remifentanil or alfentanil in combination with propofol. _Eur J Anaesthesiol_ . 2003;20(1):37–43.
+
+132.  Aissaoui Y, Qamous Y, Serghini I, et al. Magnesium sulphate: an adjuvant to tracheal intubation without muscle relaxation—a randomised study. _Eur J Anaesthesiol_ . 2012;29(8):391–397.
+
+133.  Bouvet L, Stoian A, Rimmele T, et al. Optimal remifentanil dosage for providing excellent intubating conditions when coadministered with a single standard dose of propofol. _Anaesthesia_ . 2009;64(7):719–726.
+
+134.  Politis GD, Tobias JD. Rapid sequence intubation without a neuromuscular blocking agent in a 14- year- old female patient with myasthenia gravis. _Paediatr Anaesth_ . 2007;17(3):285–288.
+
+135.  Lundstrom LH, Moller AM, Rosenstock C, et al. Avoidance of neuromuscular blocking agents may increase the risk of difficult tracheal intubation: a cohort study of 103,812 consecutive adult patients recorded in the Danish Anaesthesia Database. _Br J Anaesth_ . 2009;103(2):283–290.
+
+136.  Mencke T, Echternach M, Kleinschmidt S, et al. Laryngeal morbidity and quality of tracheal intubation: a randomized controlled trial. _Anesthesiology_ . 2003;98(5):1049–1056.
+
+137.  Abrams JT, Horrow JC, Bennett JA, et al. Upper airway closure: a primary source of difficult ventilation with sufentanil induction of anesthesia. _Anesth Analg_ . 1996;83(3):629–632.
+
+138.  Scamman FL. Fentanyl- O2- N2O rigidity and pulmonary compliance. _Anesth Analg_ . 1983;62(3):332–334.
+
+139.  Bennett JA, Abrams JT, Van Riper DF, Horrow JC. Difficult or impossible ventilation after sufentanil- induced anesthesia is caused primarily by vocal cord closure. _Anesthesiology_ . 1997;87(5):1070–1074.
+
+140.  Kohno T, Ikoma M. Sudden vocal cord closure during general anesthesia using remifentanil. _Masui_ . 2008;57(10):1213–1217.
+
+141.  Benumof JL. Management of the difficult adult airway. With special emphasis on awake tracheal intubation. _Anesthesiology_ . 1991;75(6):1087–1110.
+
+142.  Thomas JL. Awake intubation. Indications, techniques and a review of 25 patients. _Anaesthesia_ . 1969;24(1):28–35.
+
+143.  Rosenstock CV, Thogersen B, Afshari A, et al. Awake fiberoptic or awake video laryngoscopic tracheal intubation in patients with anticipated difficult airway management: a randomized clinical trial. _Anesthesiology_ . 2012;116(6):1210–1216.
+
+144.  Xue FS, Liu HP, Liao X, et al. Awake intubation performed with the Bonfils intubating fibrescope in patients with a difficult airway. _Eur J Anaesthesiol_ . 2012;29(4):209–210. Author reply 210–211.
+
+<!-- PDF page 44 -->
+
+145.  Xue FS, He N, Liao X, et al. Clinical assessment of awake endotracheal intubation using the lightwand technique alone in patients with difficult airways. _Chin Med J_ . 2009;122(4):408–415.
+
+146.  Sarma J. Awake intubation with the Fastrach laryngeal mask airway. _J Clin Anesth_ . 2007;19(4):322.
+
+147.  Raval C, Patel H, Patel P, Kharod U. Retrograde intubation in a case of ankylosing spondylitis posted for correction of deformity of spine. _Saudi J Anaesth_ . 2010;4(1):38–41.
+
+148.  Bekhit MH. Lidocaine for neural blockade. In: Sinatra RS, Jahr JS, Watkins- Pitchford JM, eds. _The Essence of Analgesia and Analgesics_ . Cambridge; Cambridge University Press; 2011:279–283.
+
+149.  Simmons ST, Schleich AR. Airway regional anesthesia for awake fiberoptic intubation. _Reg Anesth Pain Med_ . 2002;27(2):180–192.
+
+150.  Novaro GM, Aronow HD, Militello MA, et al. Benzocaine- induced methemoglobinemia: experience from a high- volume transesophageal echocardiography laboratory. _J Am Soc Echocardiogr_ . 2003;16(2):170–175.
+
+151.  Cara DM, Norris AM, Neale LJ. Pain during awake nasal intubation after topical cocaine or phenylephrine/lidocaine spray. _Anaesthesia_ . 2003;58(8):777–780.
+
+152.  Gross JB, Hartigan ML, Schaffer DW. A suitable substitute for 4% cocaine before blind nasotracheal intubation: 3% lidocaine- 0.25% phenylephrine nasal spray. _Anesth Analg_ . 1984;63(10):915–918.
+
+153.  Walsh ME, Shorten GD. Preparing to perform an awake fiberoptic intubation. _Yale J Biol Med_ . 1998;71(6):537–549.
+
+154.  British Thoracic Society guidelines on diagnostic flexible bronchoscopy. _Thorax_ . 2001;56(suppl 1):i1–i21.
+
+155.  Williams KA, Barker GL, Harwood RJ, Woodall NM. Combined nebulization and spray- as- you- go topical local anaesthesia of the airway. _Br J Anaesth_ . 2005;95(4):549–553.
+
+156.  Reed AP. Preparation of the patient for awake flexible fiberoptic bronchoscopy. _Chest_ . 1992;101(1):244–253.
+
+157.  Casey JD, Janz DR, Russell DW, et al. Bag- mask ventilation during tracheal intubation of critically ill adults. _N Engl J Med_ . 2019;380(9):811–821.
+
+158.  von Goedecke A, Voelckel WG, Wenzel V, et al. Mechanical versus manual ventilation via a face mask during the induction of anesthesia: a prospective, randomized, crossover study. _Anesth Analg_ . 2004;98(1):260–263.
+
+159.  Joffe AM, Hetzel S, Liew EC. A two- handed jaw- thrust technique is superior to the one- handed “EC- clamp” technique for mask ventilation in the apneic unconscious person. _Anesthesiology_ . 2010;113(4):873–879.
+
+160.  Weiler N, Heinrichs W, Dick W. Assessment of pulmonary mechanics and gastric inflation pressure during mask ventilation. _Prehosp Disaster Med_ . 1995;10(2):101–105.
+
+161.  Safar P, Escarraga LA, Chang F. Upper airway obstruction in the unconscious patient. _J Appl Physiol_ . 1959;14:760–764.
+
+162.  Isono S, Tanaka A, Ishikawa T, et al. Sniffing position improves pharyngeal airway patency in anesthetized patients with obstructive sleep apnea. _Anesthesiology_ . 2005;103(3):489–494.
+
+163.  Kok PH, Kwan KM, Koay CK. A case report of a fractured healthytooth during use of Guedel oropharyngeal airway. _Singapore Med J_ . 2001;42(7):322–324.
+
+164.  Wang KC, Chan WS, Tsai CT, et al. Lingual nerve injury following the use of an oropharyngeal airway under endotracheal general anesthesia. _Acta Anaesthesiol Taiwan_ . 2006;44(2):119–122.
+
+165.  Brain AI. The laryngeal mask—a new concept in airway management. _Br J Anaesth_ . 1983;55(8):801–805.
+
+166.  Brimacombe J. The advantages of the LMA over the tracheal tube or facemask: a meta- analysis. _Can J Anaesth_ . 1995;42(11):1017– 1023.
+
+167.  Yu SH, Beirne OR. Laryngeal mask airways have a lower risk of airway complications compared with endotracheal intubation: a systematic review. _J Oral Maxillofac Surg_ . 2010;68(10):2359–2376.
+
+168.  Lindsay HA, Cook TM, Russo SG, Hagberg CA. Supraglottic airway techniques: laryngeal mask airways. In: Hagberg CA, Artime CA, Aziz MF, eds. _Hagberg and Benumof’s Airway Management_ . 4th ed. Philadelphia, PA: Elsevier; 2018:328–348.
+
+169.  Miller DM. A proposed classification and scoring system for supraglottic sealing airways: a brief review. _Anesth Analg_ . 2004;99(5):1553– 1559.
+
+170.  Vaida S, Gatini L, Frass M. Supraglottic airway techniques: nonlaryngeal mask airways. In: Hagberg CA, Artime CA, Aziz MF, eds. _Hagberg and Benumof’s Airway Management_ . 4th ed. Philadelphia, PA: Elsevier; 2018:349–370.
+
+171.  Asai T, Brimacombe J. Review article: cuff volume and size selection with the laryngeal mask. _Anaesthesia_ . 2000;55(12):1179–1184.
+
+172.  Brimacombe J, Clarke G, Keller C. Lingual nerve injury associated with the ProSeal laryngeal mask airway: a case report and review of the literature. _Br J Anaesth_ . 2005;95(3):420–423.
+
+173.  Vannucci A, Rossi IT, Prifti K, et al. Modifiable and nonmodifiable factors associated with perioperative failure of extraglottic airway devices. _Anesth Analg_ . 2018;126(6):1959–1967.
+
+174.  Grady DM, McHardy F, Wong J, et al. Pharyngolaryngeal morbidity with the laryngeal mask airway in spontaneously breathing patients: does size matter? _Anesthesiology_ . 2001;94(5):760–766.
+
+175.  Siddik- Sayyid SM, Aouad MT, Taha SK, et al. A comparison of sevoflurane- propofol versus sevoflurane or propofol for laryngeal mask airway insertion in adults. _Anesth Analg_ . 2005;100(4):1204– 1209.
+
+176.  Hui JK, Critchley LA, Karmakar MK, Lam PK. Co- administration of alfentanil- propofol improves laryngeal mask airway insertion compared to fentanyl- propofol. _Can J Anaesth_ . 2002;49(5):508–512.
+
+177.  Bouvet L, Da- Col X, Rimmele T, et al. Optimal remifentanil dose for laryngeal mask airway insertion when co- administered with a single standard dose of propofol. _Can J Anaesth_ . 2010;57(3):222–229.
+
+178.  Jaffe RA, Brock- Utne JG. A modification of the Yodfat laryngeal mask airway insertion technique. _J Clin Anesth_ . 2002;14(6):462–463.
+
+179.  Nakayama S, Osaka Y, Yamashita M. The rotational technique with a partially inflated laryngeal mask airway improves the ease of insertion in children. _Paediatr Anaesth_ . 2002;12(5):416–419.
+
+180.  Weber S. Traumatic complications of airway management. _Anesthesiol Clin_ . 2002;20(3):503–512.
+
+181.  Dingley J, Whitehead MJ, Wareham K. A comparative study of the incidence of sore throat with the laryngeal mask airway. _Anaesthesia_ . 1994;49(3):251–254.
+
+182.  Burgard G, Mollhoff T, Prien T. The effect of laryngeal mask cuff pressure on postoperative sore throat incidence. _J Clin Anesth_ . 1996;8(3):198–201.
+
+183.  Brimacombe J, Costa e Silva L. Pharyngeal necrosis with the laryngeal mask airway. _Eur J Anaesthesiol_ . 2003;20(6):502–503.
+
+184.  Emmett SR, Lloyd SD, Johnston MN. Uvular trauma from a laryngeal mask. _Br J Anaesth_ . 2012;109(3):468–469.
+
+185.  Cook TM, Lee G, Nolan JP. The ProSeal laryngeal mask airway: a review of the literature. _Can J Anaesth_ . 2005;52(7):739–760.
+
+186.  Handa- Tsutsui F, Kodaka M. Propofol concentration requirement for laryngeal mask airway insertion was highest with the ProSeal, next highest with the Fastrach, and lowest with the Classic type, with target- controlled infusion. _J Clin Anesth_ . 2005;17(5):344–347.
+
+187.  Sharma V, Verghese C, McKenna PJ. Prospective audit on the use of the LMA- Supreme for airway management of adult patients undergoing elective orthopaedic surgery in prone position. _Br J Anaesth_ . 2010;105(2):228–232.
+
+188.  Abdi W, Amathieu R, Adhoum A, et al. Sparing the larynx during gynecological laparoscopy: a randomized trial comparing the LMA Supreme and the ETT. _Acta Anaesthesiol Scand_ . 2010;54(2):141– 146.
+
+189.  Maltby JR, Beriault MT, Watson NC, et al. The LMA- ProSeal is an effective alternative to tracheal intubation for laparoscopic cholecystectomy. _Can J Anaesth_ . 2002;49(8):857–862.
+
+190.  Abdi W, Dhonneur G, Amathieu R, et al. LMA Supreme versus facemask ventilation performed by novices: a comparative study in morbidly obese patients showing difficult ventilation predictors. _Obes Surg_ . 2009;19(12):1624–1630.
+
+191.  Yao T, Yang XL, Zhang F, et al. The feasibility of Supreme laryngeal mask airway in gynecological laparoscopy surgery. _Zhonghua Yixue Zazhi_ . 2010;90(29):2048–2051.
+
+192.  Frerk C, Mitchell VS, McNarry AF, et al. Difficult Airway Society 2015 guidelines for management of unanticipated difficult intubation in adults. _Br J Anaesth_ . 2015;115(6):827–848.
+
+193.  Gaitini LA, Vaida SJ, Mostafa S, et al. The Combitube in elective surgery: a report of 200 cases. _Anesthesiology_ . 2001;94(1):79–82.
+
+194.  Mort TC. Laryngeal mask airway and bougie intubation failures: the Combitube as a secondary rescue device for in- hospital emergency airway management. _Anesth Analg_ . 2006;103(5):1264–1266.
+
+195.  Ochs M, Vilke GM, Chan TC, et al. Successful prehospital airway management by EMT- Ds using the Combitube. _Prehosp Emerg Care_ . 2000;4(4):333–337.
+
+196.  Oczenski W, Krenn H, Dahaba AA, et al. Complications following the use of the Combitube, tracheal tube and laryngeal mask airway. _Anaesthesia_ . 1999;54(12):1161–1165.
+
+<!-- PDF page 45 -->
+
+197.  Gaitini LA, Yanovsky B, Somri M, et al. Prospective randomized comparison of the EasyTube and the esophageal- tracheal Combitube airway devices during general anesthesia with mechanical ventilation. _J Clin Anesth_ . 2011;23(6):475–481.
+
+198.  Sultan P, Carvalho B, Rose BO, Cregg R. Endotracheal tube cuff pressure monitoring: a review of the evidence. _J Perioper Pract_ . 2011;21(11):379–386.
+
+199.  Sparrow KA, Asselin M, Hung OR. Intubating introducers and lighted and optical stylets. In: Hagberg CA, Artime CA, Aziz MF, eds. _Hagberg and Benumof’s Airway Management_ . 4th ed. Philadelphia, PA: Elsevier; 2018:402–416.
+
+200.  Artime C. Flexible fiberoptic intubation. In: Hagberg CA, Artime CA, Daily WH, eds. _The Difficult Airway: A Practical Guide_ . Oxford: Oxford University Press; 2013:97–108.
+
+201.  Bannister FB, Macbeth RG. Direct laryngoscopy and tracheal intubation. _Lancet_ . 1944;2:651–654.
+
+202.  Adnet F, Borron SW, Dumas JL, et al. Study of the “sniffing position” by magnetic resonance imaging. _Anesthesiology_ . 2001;94(1):83– 86.
+
+203.  Chou HC, Wu TL. Rethinking the three axes alignment theory for direct laryngoscopy. _Acta Anaesthesiol Scand_ . 2001;45(2):261–262.
+
+204.  Greenland KB, Edwards MJ, Hutton NJ, et al. Changes in airway configuration with different head and neck positions using magnetic resonance imaging of normal airways: a new concept with possible clinical applications. _Br J Anaesth_ . 2010;105(5):683–690.
+
+205.  Isono S. Common practice and concepts in anesthesia: time for reassessment: is the sniffing position a “gold standard” for laryngoscopy? _Anesthesiology_ . 2001;95(4):825–827.
+
+206.  Park SH, Park HP, Jeon YT, et al. A comparison of direct laryngoscopic views depending on pillow height. _J Anesth_ . 2010;24(4):526– 530.
+
+207.  Greenland KB, Edwards MJ, Hutton NJ. External auditory meatussternal notch relationship in adults in the sniffing position: a magnetic resonance imaging study. _Br J Anaesth_ . 2010;104(2):268–269.
+
+208.  Takenaka I, Aoyama K, Iwagaki T, et al. The sniffing position provides greater occipito- atlanto- axial angulation than simple head extension: a radiological study. _Can J Anaesth_ . 2007;54(2):129–133.
+
+209.  Jain RR, Cameron SD. Airway management in pediatric patients. In: Hagberg CA, Artime CA, Aziz MF, eds. _Hagberg and Benumof’s Airway Management_ . 4th ed. Philadelphia, PA: Elsevier; 2018:608–639.
+
+210.  Baker PA, Timmermann A. Laryngoscopic tracheal intubation. In: Hagberg CA, Artime CA, Aziz M, eds. _Hagberg and Benumof’s Airway Management_ . 4th ed. Philadelphia, PA: Elsevier; 2018:371–390.
+
+211.  Cormack RS, Lehane J. Difficult tracheal intubation in obstetrics. _Anaesthesia_ . 1984;39(11):1105–1111.
+
+212.  Yentis SM, Lee DJ. Evaluation of an improved scoring system for the grading of direct laryngoscopy. _Anaesthesia_ . 1998;53(11):1041– 1044.
+
+213.  Ochroch EA, Hollander JE, Kush S, et al. Assessment of laryngeal view: percentage of glottic opening score vs Cormack and Lehane grading. _Can J Anaesth_ . 1999;46(10):987–990.
+
+214.  Straker T, Urdaneta F. Confirmation of tracheal intubation. In: Hagberg CA, Artime CA, Aziz MF, eds. _Hagberg and Benumof’s Airway Management_ . 4th ed. Philadelphia, PA: Elsevier; 2018:540–551.
+
+215.  Cook TM, Nolan JP. Use of capnography to confirm correct tracheal intubation during cardiac arrest. _Anaesthesia_ . 2011;66(12):1183– 1184.
+
+216.  Deakin CD, Morrison LJ, Morley PT, et al. Part 8: advanced life support: 2010 International consensus on cardiopulmonary resuscitation and emergency cardiovascular care science with treatment recommendations. _Resuscitation_ . 2010;81(suppl 1):e93–e174.
+
+217.  Cook TM, Harrop- Griffiths AW, Whitaker DK, et al. The ‘No Trace=Wrong place’ campaign. _Br J Anaesth_ . 2019;122(4):e68– e69.
+
+218.  Hung MH, Fan SZ, Lin CP, et al. Emergency airway management with fiberoptic intubation in the prone position with a fixed flexed neck. _Anesth Analg_ . 2008;107(5):1704–1706.
+
+219.  Cattano D, Cavallone L. Airway management and patient positioning: a clinical perspective. _Anesthesiology News_ . 2011;37:17– 23.
+
+220.  Asai T, Shingu K. Difficulty in advancing a tracheal tube over a fibreoptic bronchoscope: incidence, causes and solutions. _Br J Anaesth_ . 2004;92(6):870–881.
+
+221.  Kristensen MS. The Parker Flex- Tip tube versus a standard tube for fiberoptic orotracheal intubation: a randomized double- blind study. _Anesthesiology_ . 2003;98(2):354–358.
+
+222.  Lu Y, Jiang H, Zhu YS. Airtraq laryngoscope versus conventional Macintosh laryngoscope: a systematic review and meta- analysis. _Anaesthesia_ . 2011;66(12):1160–1167.
+
+223.  Rudolph C, Schneider JP, Wallenborn J, Schaffranietz L. Movement of the upper cervical spine during laryngoscopy: a comparison of the Bonfils intubation fibrescope and the Macintosh laryngoscope. _Anaesthesia_ . 2005;60(7):668–672.
+
+224.  Shollik NA, Ibrahim SM, Ismael A, et al. Use of the Bonfils intubation fiberscope in patients with limited mouth opening. _Case Rep Anesthesiol_ . 2012;2012:297306.
+
+225.  Mazeres JE, Lefranc A, Cropet C, et al. Evaluation of the Bonfils intubating fibrescope for predicted difficult intubation in awake patients with ear, nose and throat cancer. _Eur J Anaesthesiol_ . 2011;28(9):646–650.
+
+226.  Abramson SI, Holmes AA, Hagberg CA. Awake insertion of the Bonfils retromolar intubation fiberscope in five patients with anticipated difficult airways. _Anesth Analg_ . 2008;106(4):1215–1217.
+
+227.  Xue FS, Luo MP, Liao X, He N. Airway topical anesthesia using the Bonfils fiberscope. _J Clin Anesth_ . 2009;21(2):154–155.
+
+228.  Sorbello M, Paratore A, Morello G, et al. Bonfils fiberscope: better preoxygenate rather than oxygenate. _Anesth Analg_ . 2009;108(1):386.
+
+229.  Aziz M, Metz S. Clinical evaluation of the Levitan optical stylet. _Anaesthesia_ . 2011;66(7):579–581.
+
+230.  Van Zundert AA, Pieters BM. Combined technique using videolaryngoscopy and Bonfils for a difficult airway intubation. _Br J Anaesth_ . 2012;108(2):327–328.
+
+231.  Xue FS, Liu HP, Guo XL. Transillumination- assisted endotracheal intubation with the Bonfils fiberscope. _Eur J Anaesthesiol_ . 2009;26(3):261–262.
+
+232.  Biro P, Battig U, Henderson J, Seifert B. First clinical experience of tracheal intubation with the SensaScope, a novel steerable semirigid video stylet. _Br J Anaesth_ . 2006;97(2):255–261.
+
+233.  Greif R, Kleine- Brueggeney M, Theiler L. Awake tracheal intubation using the Sensascope in 13 patients with an anticipated difficult airway. _Anaesthesia_ . 2010;65(5):525–528.
+
+234.  Kaplan MB, Hagberg CA, Ward DS, et al. Comparison of direct and video- assisted views of the larynx during routine intubation. _J Clin Anesth_ . 2006;18(5):357–362.
+
+235.  Aziz MF, Dillman D, Fu R, Brambrink AM. Comparative effectiveness of the C- MAC video laryngoscope versus direct laryngoscopy in the setting of the predicted difficult airway. _Anesthesiology_ . 2012;116(3):629–636.
+
+236.  Jungbauer A, Schumann M, Brunkhorst V, et al. Expected difficult tracheal intubation: a prospective comparison of direct laryngoscopy and video laryngoscopy in 200 patients. _Br J Anaesth_ . 2009;102(4):546–550.
+
+237.  Asai T, Liu EH, Matsumoto S, et al. Use of the Pentax- AWS in 293 patients with difficult airways. _Anesthesiology_ . 2009;110(4):898– 904.
+
+238.  Aziz MF, Healy D, Kheterpal S, et al. Routine clinical practice effectiveness of the Glidescope in difficult airway management: an analysis of 2,004 Glidescope intubations, complications, and failures from two institutions. _Anesthesiology_ . 2011;114(1):34–41.
+
+239.  Moore AR, Schricker T, Court O. Awake videolaryngoscopyassisted tracheal intubation of the morbidly obese. _Anaesthesia_ . 2012;67(3):232–235.
+
+240.  Xue FS, Cheng Y, Li RP. Awake intubation with video laryngoscope and fiberoptic bronchoscope in difficult airway patients. _Anesthesiology_ . 2013;118(2):462–463.
+
+241.  Hansel J, Rogers AM, Lewis SR, et al. Videolaryngoscopy versus direct laryngoscopy for adults undergoing tracheal intubation. _Cochrane Database Syst Rev_ . 2022;4(4):CD011136.
+
+242.  Aziz M, Brambrink A. Video- assisted laryngoscopy. In: Hagberg CA, Artime CA, Aziz MF, eds. _Hagberg and Benumof’s Airway Management_ . 4th ed. Philadelphia, PA: Elsevier; 2018:417–427.
+
+243.  McElwain J, Malik MA, Harte BH, et al. Comparison of the C- MAC videolaryngoscope with the Macintosh, Glidescope, and Airtraq laryngoscopes in easy and difficult laryngoscopy scenarios in manikins. _Anaesthesia_ . 2010;65(5):483–489.
+
+244.  Ng I, Hill AL, Williams DL, et al. Randomized controlled trial comparing the McGrath videolaryngoscope with the C- MAC videolaryngoscope in intubating adult patients with potential difficult airways. _Br J Anaesth_ . 2012;109(3):439–443.
+
+245.  Cavus E, Kieckhaefer J, Doerges V, et al. The C- MAC videolaryngoscope: first experiences with a new device for videolaryngoscopyguided intubation. _Anesth Analg_ . 2010;110(2):473–477.
+
+<!-- PDF page 46 -->
+
+246.  Maassen R, Lee R, Hermans B, et al. A comparison of three videolaryngoscopes: the Macintosh laryngoscope blade reduces, but does not replace, routine stylet use for intubation in morbidly obese patients. _Anesth Analg_ . 2009;109(5):1560–1565.
+
+247.  van Zundert A, Maassen R, Lee R, et al. A Macintosh laryngoscope blade for videolaryngoscopy reduces stylet use in patients with normal airways. _Anesth Analg_ . 2009;109(3):825–831.
+
+248.  Meininger D, Strouhal U, Weber CF, et al. Direct laryngoscopy or C- MAC video laryngoscopy? Routine tracheal intubation in patients undergoing ENT surgery. _Anaesthesist_ . 2010;59(9):806–811.
+
+249.  Jones PM, Loh FL, Youssef HN, Turkstra TP. A randomized comparison of the GlideRite((R)) Rigid Stylet to a malleable stylet for orotracheal intubation by novices using the GlideScope((R)). _Can J Anaesth_ . 2011;58(3):256–261.
+
+250.  Cattano D, Artime C, Maddukuri V, et al. Endotrol- tracheal tube assisted endotracheal intubation during video laryngoscopy. _Intern Emerg Med_ . 2012;7(1):59–63.
+
+251.  Dupanovic M. Maneuvers to prevent oropharyngeal injury during orotracheal intubation with the GlideScope video laryngoscope. _J Clin Anesth_ . 2010;22(2):152–154.
+
+252.  Komasawa N, Ueki R, Kohama H, et al. Comparison of PentaxAWS Airwayscope video laryngoscope, Airtraq optic laryngoscope, and Macintosh laryngoscope during cardiopulmonary resuscitation under cervical stabilization: a manikin study. _J Anesth_ . 2011;25(6):898–903.
+
+253.  Komasawa N, Ueki R, Tomita Y, et al. Case of awake intubation in semi- sitting position for a patient with myasthenia gravis combined with cervical disc hernia utilizing Pentax- AWS Airwayscope. _Masui_ . 2011;60(1):84–87.
+
+254.  Ferrario L. Intubation stylets. In: Hagberg CA, Artime CA, Daily WH, eds. _The Difficult Airway: A Practical Guide_ . Oxford: Oxford University Press; 2013:83–96.
+
+255.  Normand KC, Aucoin AP. Retrograde intubation. In: Hagberg CA, Artime CA, Daily WH, eds. _The Difficult Airway: A Practical Guide_ . Oxford: Oxford University Press; 2013:109–115.
+
+256.  Hsu HT, Chou SH, Wu PJ, et al. Comparison of the GlideScope(R) videolaryngoscope and the Macintosh laryngoscope for double- lumen tube intubation. _Anaesthesia_ . 2012;67(4):411–415.
+
+257.  Pinsky JR, Hagberg CA. Combination techniques. In: Hagberg CA, Artime CA, Daily WH, eds. _The Difficult Airway: A Practical Guide_ . Oxford: Oxford University Press; 2013:143–154.
+
+258.  Ohchi F, Komasawa N, Mihara R, et al. Evaluation of gum- elastic bougie combined with direct and indirect laryngoscopes in vomitus setting: a randomized simulation trial. _Am J Emerg Med_ . 2017;35(4):584–588.
+
+259.  Budde AO, Pott LM. Endotracheal tube as a guide for an Eschmann gum elastic bougie to aid tracheal intubation using the McGrath or GlideScope videolaryngoscopes. _J Clin Anesth_ . 2008;20(7):560.
+
+260.  Pieters BM, Theunissen M, van Zundert AA. Macintosh blade videolaryngoscopy combined with rigid Bonfils intubation endoscope offers a suitable alternative for patients with difficult airways. _Anesth Analg_ . 2018;126(3):988–994.
+
+261.  Normand KC. Percutaneous transtracheal jet ventilation. In: Hagberg CA, Artime CA, Daily WH, eds. _The Difficult Airway: A Practical Guide_ . Oxford: Oxford University Press; 2013:117–124.
+
+262.  Hamaekers AE, Borg PA, Enk D. Ventrain: an ejector ventilator for emergency use. _Br J Anaesth_ . 2012;108(6):1017–1021.
+
+263.  Fearnley RA, Badiger S, Oakley RJ, Ahmad I. Elective use of the Ventrain for upper airway obstruction during high- frequency jet ventilation. _J Clin Anesth_ . 2016;33:233–235.
+
+264.  Normand KC. Cricothyrotomy. In: Hagberg CA, Artime CA, Daily WH, eds. _The Difficult Airway: A Practical Guide_ . Oxford: Oxford University Press; 2013:125–134.
+
+265.  Asai T, Koga K, Vaughan RS. Respiratory complications associated with tracheal intubation and extubation. _Br J Anaesth_ . 1998;80(6):767–775.
+
+266.  Popat M, Mitchell V, et al. Difficult Airway Society guidelines for the management of tracheal extubation. _Anaesthesia_ . 2012;67(3):318– 340.
+
+267.  Nair I, Bailey PM. Use of the laryngeal mask for airway maintenance following tracheal extubation. _Anaesthesia_ . 1995;50(2):174–175.
+
+268.  Falzon D, Foye R, Jefferson P, Ball DR. Extubation guidelines: Guedel oropharyngeal airways should not be used as bite blocks. _Anaesthesia_ . 2012;67(8):919. Author reply 921–922.
+
+269.  Mort TC, Braffett BH. Conventional versus video laryngoscopy for tracheal tube exchange: glottic visualization, success rates, complications, and rescue alternatives in the high- risk difficult airway patient. _Anesth Analg_ . 2015;121(2):440–448.
+
+270.  Foley L, Feinleib JL, Mark L. Dissemination of critical airway information. In: Hagberg CA, Artime CA, Aziz MF, eds. _Hagberg and Benumof’s Airway Management_ . 4th ed. Philadelphia, PA: Elsevier; 2018:905–910.
+
+<!-- PDF page 47 -->
+
+**Video 40.1 Noninvasive glossopharyngeal nerve block.** (From Artime CA, Sanchez A. Preparation of the patient for awake intubation. In: Hagberg CA, Artime CA, Aziz M, eds. _Hagberg and Benumof’s Airway Management_ . 4th ed. Philadelphia: Elsevier; 2018.)
+
+**Video 40.2 Transtracheal anesthesia.** (From Hagberg CA, Artime CA, Daily WH, eds. _The Difficult Airway: A Practical Guide_ . Oxford: Oxford University Press; 2013.)
+
+**Video 40.3 Mask ventilation techniques.** (From Hagberg CA, Artime CA, Daily WH, eds. _The Difficult Airway: A Practical Guide_ . Oxford: Oxford University Press; 2013.)
+
+**Video 40.4 LMA insertion techniques.** (From Hagberg CA, Artime CA, Daily WH, eds. _The Difficult Airway: A Practical Guide_ . Oxford: Oxford University Press; 2013.)
+
+**Video 40.5 Tracheal intubation using direct laryngoscopy and an intubating stylet.** (From Hagberg CA, Artime CA, Daily WH, eds. _The Difficult Airway: A Practical Guide_ . Oxford: Oxford University Press; 2013.)
+
+**Video 40.6 Transoral flexible scope intubation.** (Modified from Hagberg CA, Artime CA, Daily WH, eds. _The Difficult Airway: A Practical Guide_ . Oxford: Oxford University Press; 2013.)
+
+**Video 40.7 Tracheal intubation with the Bonfils retromolar intubation fiberscope.** (From Hagberg CA, Artime CA, Daily WH, eds. _The Difficult Airway: A Practical Guide_ . Oxford: Oxford University Press; 2013.)
+
+**Video 40.8 Tracheal intubation with the Clarus Video System.** (From Hagberg CA, Artime CA, Daily WH, eds. _The Difficult Airway: A Practical Guide_ . Oxford: Oxford University Press; 2013.)
+
+**Video 40.9 Tracheal intubation using the GlideScope.** (From Hagberg CA, Artime CA, Daily WH, eds. _The Difficult Airway: A Practical Guide_ . Oxford: Oxford University Press; 2013.)
+
+**Video 40.10 Tracheal intubation with a lighted stylet.** (From Hagberg CA, Artime CA, Daily WH, eds. _The Difficult Airway: A Practical Guide_ . Oxford: Oxford University Press; 2013.)
+
+**Video 40.11 Guidewire- assisted retrograde intubation.** (From Hagberg CA, Artime CA, Daily WH, eds. _The Difficult Airway: A Practical Guide_ . Oxford: Oxford University Press; 2013.)
+
+**Video 40.12 Combination techniques: LMA/Aintree/flexible scope intubation.** (From Hagberg CA, Artime CA, Daily WH, eds. _The Difficult Airway: A Practical Guide_ . Oxford: Oxford University Press; 2013.)
+
+**Video 40.13 Combination techniques: supraglottic airway device/ flexible scope intubation.** (From Hagberg CA, Artime CA, Daily WH, eds. _The Difficult Airway: A Practical Guide_ . Oxford: Oxford University Press; 2013.)
+
+**Video 40.14 Combination techniques: videolaryngoscopy/intubation stylet.** (From Hagberg CA, Artime CA, Daily WH, eds. _The Difficult Airway: A Practical Guide_ . Oxford: Oxford University Press; 2013.)
+
+**Video 40.15 Combination techniques: videolaryngoscopy/flexible intubating scope.** (From Hagberg CA, Artime CA, Daily WH, eds. _The Difficult Airway: A Practical Guide_ . Oxford: Oxford University Press; 2013.)
+
+**Video 40.16 Percutaneous dilational cricothyrotomy (Seldinger technique).** (From Hagberg CA, Artime CA, Daily WH, eds. _The Difficult Airway: A Practical Guide_ . Oxford: Oxford University Press; 2013.)
